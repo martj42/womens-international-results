@@ -13,16 +13,16 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1975-08-31,Thailand,Malaysia,3,0,AFC Championship,Hong Kong,Hong Kong,TRUE
 1975-09-02,Australia,Malaysia,5,0,AFC Championship,Hong Kong,Hong Kong,TRUE
 1975-09-02,New Zealand,Thailand,3,1,AFC Championship,Hong Kong,Hong Kong,TRUE
-1977-02-19,Chinese Taipei,Indonesia,5,0,AFC Championship,Taipei,Chinese Taipei,FALSE
-1977-03-19,Thailand,Singapore,2,0,AFC Championship,Taipei,Chinese Taipei,TRUE
-1977-05-19,Indonesia,Japan,1,0,AFC Championship,Taipei,Chinese Taipei,TRUE
-1977-05-19,Thailand,Hong Kong,5,0,AFC Championship,Taipei,Chinese Taipei,TRUE
-1977-07-19,Chinese Taipei,Japan,7,0,AFC Championship,Taipei,Chinese Taipei,FALSE
-1977-07-19,Singapore,Hong Kong,1,0,AFC Championship,Taipei,Chinese Taipei,TRUE
-1977-09-19,Chinese Taipei,Singapore,3,0,AFC Championship,Taipei,Chinese Taipei,FALSE
-1977-09-19,Thailand,Indonesia,2,1,AFC Championship,Taipei,Chinese Taipei,TRUE
-1977-11-19,Singapore,Indonesia,2,0,AFC Championship,Taipei,Chinese Taipei,TRUE
-1977-11-19,Chinese Taipei,Thailand,1,0,AFC Championship,Taipei,Chinese Taipei,FALSE
+1977-08-02,Chinese Taipei,Indonesia,5,0,AFC Championship,Taipei,Chinese Taipei,FALSE
+1977-08-03,Thailand,Singapore,2,0,AFC Championship,Taipei,Chinese Taipei,TRUE
+1977-08-05,Indonesia,Japan,1,0,AFC Championship,Taipei,Chinese Taipei,TRUE
+1977-08-05,Thailand,Hong Kong,5,0,AFC Championship,Taipei,Chinese Taipei,TRUE
+1977-08-07,Chinese Taipei,Japan,7,0,AFC Championship,Taipei,Chinese Taipei,FALSE
+1977-08-07,Singapore,Hong Kong,1,0,AFC Championship,Taipei,Chinese Taipei,TRUE
+1977-08-09,Chinese Taipei,Singapore,3,0,AFC Championship,Taipei,Chinese Taipei,FALSE
+1977-08-09,Thailand,Indonesia,2,1,AFC Championship,Taipei,Chinese Taipei,TRUE
+1977-08-11,Singapore,Indonesia,2,0,AFC Championship,Taipei,Chinese Taipei,TRUE
+1977-08-11,Chinese Taipei,Thailand,1,0,AFC Championship,Taipei,Chinese Taipei,FALSE
 1979-07-18,Italy,Northern Ireland,4,0,Euro,Naples,Italy,FALSE
 1979-07-18,Denmark,France,3,1,Euro,Naples,Italy,TRUE
 1979-07-19,England,Finland,3,1,Euro,Sorrento,Italy,TRUE
@@ -39,6 +39,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1979-07-25,Denmark,Sweden,1,0,Euro,Rimini,Italy,TRUE
 1979-07-27,Sweden,England,0,0,Euro,Naples,Italy,TRUE
 1979-07-28,Italy,Denmark,0,2,Euro,Naples,Italy,FALSE
+1980-01-11,India S,Western Australia,2,0,AFC Championship,Calicut,India,FALSE
+1980-01-12,India N,Chinese Taipei,0,5,AFC Championship,Calicut,India,FALSE
+1980-01-12,India S,Hong Kong,2,0,AFC Championship,Calicut,India,FALSE
 1980-01-13,Chinese Taipei,Malaysia,2,0,AFC Championship,Calicut,India,TRUE
 1980-01-13,India N,Western Australia,0,3,AFC Championship,Calicut,India,FALSE
 1980-01-14,Western Australia,Malaysia,1,0,AFC Championship,Calicut,India,TRUE
@@ -54,43 +57,41 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1980-01-19,Chinese Taipei,Western Australia,5,0,AFC Championship,Calicut,India,TRUE
 1980-01-19,India S,Hong Kong,3,1,AFC Championship,Calicut,India,FALSE
 1980-01-20,India S,Chinese Taipei,0,2,AFC Championship,Calicut,India,FALSE
-1980-11-19,India S,Western Australia,2,0,AFC Championship,Calicut,India,FALSE
-1980-12-19,India N,Chinese Taipei,0,5,AFC Championship,Calicut,India,FALSE
-1980-12-19,India S,Hong Kong,2,0,AFC Championship,Calicut,India,FALSE
+1981-06-07,Hong Kong,Philippines,2,0,AFC Championship,Hong Kong,Hong Kong,FALSE
+1981-06-07,Chinese Taipei,Japan,1,0,AFC Championship,Hong Kong,Hong Kong,TRUE
+1981-06-08,India,Singapore,5,0,AFC Championship,Hong Kong,Hong Kong,TRUE
+1981-06-08,Thailand,Indonesia,3,0,AFC Championship,Hong Kong,Hong Kong,TRUE
+1981-06-10,Hong Kong,Singapore,1,0,AFC Championship,Hong Kong,Hong Kong,FALSE
+1981-06-10,India,Philippines,8,0,AFC Championship,Hong Kong,Hong Kong,TRUE
+1981-06-11,Chinese Taipei,Indonesia,10,0,AFC Championship,Hong Kong,Hong Kong,TRUE
+1981-06-11,Thailand,Japan,2,0,AFC Championship,Hong Kong,Hong Kong,TRUE
+1981-06-12,Hong Kong,India,0,0,AFC Championship,Hong Kong,Hong Kong,FALSE
+1981-06-12,Singapore,Philippines,4,1,AFC Championship,Hong Kong,Hong Kong,TRUE
 1981-06-13,Chinese Taipei,Thailand,3,0,AFC Championship,Hong Kong,Hong Kong,TRUE
 1981-06-13,Japan,Indonesia,1,0,AFC Championship,Hong Kong,Hong Kong,TRUE
 1981-06-15,Thailand,India,1,0,AFC Championship,Hong Kong,Hong Kong,TRUE
 1981-06-15,Hong Kong,Chinese Taipei,0,1,AFC Championship,Hong Kong,Hong Kong,FALSE
 1981-06-17,Hong Kong,India,0,2,AFC Championship,Hong Kong,Hong Kong,FALSE
 1981-06-17,Thailand,Chinese Taipei,0,5,AFC Championship,Hong Kong,Hong Kong,TRUE
-1981-07-19,Hong Kong,Philippines,2,0,AFC Championship,Hong Kong,Hong Kong,FALSE
-1981-07-19,Chinese Taipei,Japan,1,0,AFC Championship,Hong Kong,Hong Kong,TRUE
-1981-08-19,India,Singapore,5,0,AFC Championship,Hong Kong,Hong Kong,TRUE
-1981-08-19,Thailand,Indonesia,3,0,AFC Championship,Hong Kong,Hong Kong,TRUE
-1981-10-19,Hong Kong,Singapore,1,0,AFC Championship,Hong Kong,Hong Kong,FALSE
-1981-10-19,India,Philippines,8,0,AFC Championship,Hong Kong,Hong Kong,TRUE
-1981-11-19,Chinese Taipei,Indonesia,10,0,AFC Championship,Hong Kong,Hong Kong,TRUE
-1981-11-19,Thailand,Japan,2,0,AFC Championship,Hong Kong,Hong Kong,TRUE
-1981-12-19,Hong Kong,India,0,0,AFC Championship,Hong Kong,Hong Kong,FALSE
-1981-12-19,Singapore,Philippines,4,1,AFC Championship,Hong Kong,Hong Kong,TRUE
-1982-02-19,Northern Ireland,Republic of Ireland,1,2,UEFA Euro qualification,Bangor,Northern Ireland,FALSE
 1982-08-18,Finland,Sweden,0,6,UEFA Euro qualification,Vammala,Finland,FALSE
 1982-08-28,Norway,Iceland,2,2,UEFA Euro qualification,Tønsberg,Norway,FALSE
 1982-09-04,Northern Ireland,Scotland,1,2,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+1982-09-09,Iceland,Sweden,0,6,UEFA Euro qualification,Kópavogur,Iceland,FALSE
 1982-09-15,Finland,Norway,0,3,UEFA Euro qualification,Kotka,Finland,FALSE
-1982-09-19,Iceland,Sweden,0,6,UEFA Euro qualification,Kópavogur,Iceland,FALSE
 1982-09-19,England,Northern Ireland,7,1,UEFA Euro qualification,Crewe,England,FALSE
 1982-09-19,Scotland,Republic of Ireland,3,0,UEFA Euro qualification,Dunfermline,Scotland,FALSE
 1982-09-25,Belgium,Netherlands,3,2,UEFA Euro qualification,Brussels,Belgium,FALSE
 1982-09-29,Sweden,Norway,2,0,UEFA Euro qualification,Tyresö,Sweden,FALSE
+1982-10-02,Northern Ireland,Republic of Ireland,1,2,UEFA Euro qualification,Bangor,Northern Ireland,FALSE
 1982-10-03,Scotland,England,0,4,UEFA Euro qualification,Dumbarton,Scotland,FALSE
+1982-10-10,Switzerland,Portugal,2,0,UEFA Euro qualification,Solothurn,Switzerland,FALSE
 1982-10-13,Netherlands,Denmark,2,1,UEFA Euro qualification,Groningen,Netherlands,FALSE
-1982-10-19,Switzerland,Portugal,2,0,UEFA Euro qualification,Solothurn,Switzerland,FALSE
 1982-10-30,France,Italy,1,0,UEFA Euro qualification,Valence,France,FALSE
 1982-11-06,Denmark,Belgium,1,0,UEFA Euro qualification,Tårnby,Denmark,FALSE
 1982-11-07,Republic of Ireland,England,0,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
 1982-11-14,Italy,Portugal,3,0,UEFA Euro qualification,Genoa,Italy,FALSE
 1982-12-04,Portugal,France,0,0,UEFA Euro qualification,Lisbon,Portugal,FALSE
+1983-02-12,France,Portugal,2,0,UEFA Euro qualification,Pauillac,France,FALSE
 1983-03-05,Germany,Belgium,1,1,UEFA Euro qualification,Bergisch Gladbach,Germany,FALSE
 1983-03-18,Republic of Ireland,Scotland,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
 1983-03-19,Netherlands,Germany,2,2,UEFA Euro qualification,Venray,Netherlands,FALSE
@@ -125,18 +126,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1983-07-30,Iceland,Norway,0,1,UEFA Euro qualification,Kópavogur,Iceland,FALSE
 1983-08-18,Norway,Finland,3,0,UEFA Euro qualification,Lillestrøm,Norway,FALSE
 1983-08-19,Belgium,Denmark,2,2,UEFA Euro qualification,Brussels,Belgium,FALSE
-1983-08-19,Germany,Netherlands,1,1,UEFA Euro qualification,Siegen,Germany,FALSE
 1983-08-21,Iceland,Finland,0,2,UEFA Euro qualification,Kópavogur,Iceland,FALSE
 1983-08-24,Sweden,Iceland,5,0,UEFA Euro qualification,Ronneby,Sweden,FALSE
 1983-08-27,Finland,Iceland,3,0,UEFA Euro qualification,Porvoo,Finland,FALSE
+1983-09-11,England,Republic of Ireland,6,0,UEFA Euro qualification,Reading,England,FALSE
 1983-09-17,Italy,Switzerland,2,0,UEFA Euro qualification,Rome,Italy,FALSE
 1983-09-24,Norway,Sweden,1,2,UEFA Euro qualification,Elverum,Norway,FALSE
 1983-09-24,Denmark,Germany,1,0,UEFA Euro qualification,Sønderborg,Denmark,FALSE
+1983-10-08,Germany,Netherlands,1,1,UEFA Euro qualification,Siegen,Germany,FALSE
 1983-10-22,Belgium,Germany,1,1,UEFA Euro qualification,Brussels,Belgium,FALSE
 1983-10-23,Republic of Ireland,Northern Ireland,3,2,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
 1983-10-29,Switzerland,France,0,0,UEFA Euro qualification,Burgdorf,Switzerland,FALSE
 1983-10-29,Denmark,Netherlands,2,0,UEFA Euro qualification,Sønderborg,Denmark,FALSE
-1983-11-19,England,Republic of Ireland,6,0,UEFA Euro qualification,Reading,England,FALSE
 1983-11-28,New Caledonia,Fiji,2,0,OFC Championship,Nouméa,New Caledonia,FALSE
 1983-11-28,New Zealand,Australia,0,0,OFC Championship,Nouméa,New Caledonia,TRUE
 1983-11-30,New Caledonia,Australia,0,5,OFC Championship,Nouméa,New Caledonia,FALSE
@@ -144,8 +145,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1983-12-02,Australia,Fiji,13,0,OFC Championship,Nouméa,New Caledonia,TRUE
 1983-12-02,New Caledonia,New Zealand,0,6,OFC Championship,Nouméa,New Caledonia,FALSE
 1983-12-04,New Zealand,Australia,3,2,OFC Championship,Nouméa,New Caledonia,TRUE
-1983-12-19,France,Portugal,2,0,UEFA Euro qualification,Pauillac,France,FALSE
-1984-03-19,Germany,Finland,1,0,UEFA Euro qualification,Lüdenscheid,Germany,FALSE
 1984-04-08,England,Denmark,2,1,UEFA Euro,Crewe,England,FALSE
 1984-04-08,Italy,Sweden,2,3,UEFA Euro,Rome,Italy,FALSE
 1984-04-28,Denmark,England,0,1,UEFA Euro,Hjørring,Denmark,FALSE
@@ -153,56 +152,57 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1984-05-12,Sweden,England,1,0,UEFA Euro,Gothenburg,Sweden,FALSE
 1984-05-27,England,Sweden,1,0,UEFA Euro,Luton,England,FALSE
 1984-09-26,Finland,Norway,0,0,UEFA Euro qualification,Tuusula,Finland,FALSE
+1984-10-03,Germany,Finland,1,0,UEFA Euro qualification,Lüdenscheid,Germany,FALSE
 1984-10-24,Denmark,Finland,1,1,UEFA Euro qualification,Odense,Denmark,FALSE
-1985-01-19,Denmark,Germany,3,0,UEFA Euro qualification,Sønderborg,Denmark,FALSE
-1985-02-19,Norway,Denmark,2,2,UEFA Euro qualification,Oslo,Norway,FALSE
-1985-02-19,Scotland,Republic of Ireland,2,1,UEFA Euro qualification,Scotland,Scotland,FALSE
 1985-03-16,Netherlands,France,1,0,UEFA Euro qualification,Leeuwarden,Netherlands,FALSE
 1985-03-17,England,Scotland,4,0,UEFA Euro qualification,England,England,FALSE
-1985-04-19,Belgium,France,3,1,UEFA Euro qualification,Zaventem,Belgium,FALSE
 1985-04-27,Hungary,Spain,1,0,UEFA Euro qualification,Hungary,Hungary,FALSE
-1985-05-19,Finland,Germany,1,0,UEFA Euro qualification,Turku,Finland,FALSE
-1985-05-19,Republic of Ireland,Northern Ireland,1,0,UEFA Euro qualification,Republic of Ireland,Republic of Ireland,FALSE
+1985-05-01,Denmark,Germany,3,0,UEFA Euro qualification,Sønderborg,Denmark,FALSE
+1985-05-04,Belgium,France,3,1,UEFA Euro qualification,Zaventem,Belgium,FALSE
+1985-05-05,Republic of Ireland,Northern Ireland,1,0,UEFA Euro qualification,Republic of Ireland,Republic of Ireland,FALSE
+1985-05-11,Finland,Denmark,0,2,UEFA Euro qualification,Kotka,Finland,FALSE
 1985-05-25,Northern Ireland,England,1,7,UEFA Euro qualification,Northern Ireland,Northern Ireland,FALSE
 1985-05-25,France,Sweden,0,4,UEFA Euro qualification,Pauillac,France,FALSE
 1985-05-25,Hungary,Italy,2,3,UEFA Euro qualification,Gyöngyös,Hungary,FALSE
+1985-06-02,Scotland,Republic of Ireland,2,1,UEFA Euro qualification,Scotland,Scotland,FALSE
+1985-06-11,Sweden,Netherlands,2,0,UEFA Euro qualification,Helsingborg,Sweden,FALSE
 1985-06-25,Spain,Switzerland,0,2,UEFA Euro qualification,Cuenca,Spain,FALSE
-1985-07-19,Germany,Norway,2,3,UEFA Euro qualification,Lüneburg,Germany,FALSE
+1985-09-07,Germany,Norway,2,3,UEFA Euro qualification,Lüneburg,Germany,FALSE
 1985-09-14,Italy,Switzerland,3,0,UEFA Euro qualification,Padova,Italy,FALSE
-1985-09-19,Sweden,Belgium,5,0,UEFA Euro qualification,Jönköping,Sweden,FALSE
 1985-09-22,Republic of Ireland,England,0,6,UEFA Euro qualification,Cork,Republic of Ireland,FALSE
 1985-09-28,Belgium,Netherlands,1,3,UEFA Euro qualification,Zaventem,Belgium,FALSE
+1985-10-02,Norway,Denmark,2,2,UEFA Euro qualification,Oslo,Norway,FALSE
+1985-10-05,Finland,Germany,1,0,UEFA Euro qualification,Turku,Finland,FALSE
+1985-10-09,Sweden,Belgium,5,0,UEFA Euro qualification,Jönköping,Sweden,FALSE
+1985-10-12,Switzerland,Hungary,1,2,UEFA Euro qualification,Renens,Switzerland,FALSE
 1985-10-26,France,Netherlands,3,5,UEFA Euro qualification,Cambrai,France,FALSE
 1985-11-03,Spain,Italy,2,3,UEFA Euro qualification,Palma,Spain,FALSE
-1985-11-19,Finland,Denmark,0,2,UEFA Euro qualification,Kotka,Finland,FALSE
-1985-11-19,Sweden,Netherlands,2,0,UEFA Euro qualification,Helsingborg,Sweden,FALSE
 1985-11-23,Northern Ireland,Scotland,1,9,UEFA Euro qualification,Northern Ireland,Northern Ireland,FALSE
-1985-12-19,Switzerland,Hungary,1,2,UEFA Euro qualification,Renens,Switzerland,FALSE
-1986-01-19,Belgium,Sweden,1,2,UEFA Euro qualification,Aalst,Belgium,FALSE
 1986-03-15,France,Belgium,3,1,UEFA Euro qualification,Niederbronn,France,FALSE
 1986-03-16,England,Northern Ireland,10,0,UEFA Euro qualification,England,England,FALSE
-1986-03-19,Italy,Hungary,1,0,UEFA Euro qualification,Potenza,Italy,FALSE
 1986-03-29,New Zealand,Australia,0,1,OFC Championship,Christchurch,New Zealand,FALSE
 1986-03-31,Chinese Taipei,Australia,1,0,OFC Championship,Christchurch,New Zealand,TRUE
 1986-04-02,New Zealand,Chinese Taipei,1,2,OFC Championship,Christchurch,New Zealand,FALSE
 1986-04-04,Chinese Taipei,Australia,4,1,OFC Championship,Christchurch,New Zealand,TRUE
 1986-04-05,Spain,Hungary,1,2,UEFA Euro qualification,Spain,Spain,FALSE
-1986-04-19,Germany,Denmark,2,0,UEFA Euro qualification,Bergisch Gladbach,Germany,FALSE
-1986-04-19,Norway,Finland,2,0,UEFA Euro qualification,Oslo,Norway,FALSE
 1986-04-27,England,Republic of Ireland,4,0,UEFA Euro qualification,Reading,England,FALSE
+1986-05-03,Italy,Hungary,1,0,UEFA Euro qualification,Potenza,Italy,FALSE
 1986-05-17,Sweden,France,1,0,UEFA Euro qualification,Karlskoga,Sweden,FALSE
 1986-05-19,Norway,Germany,0,0,UEFA Euro qualification,Oslo,Norway,FALSE
 1986-05-25,Scotland,Northern Ireland,7,0,UEFA Euro qualification,Scotland,Scotland,FALSE
+1986-06-10,Switzerland,Spain,0,3,UEFA Euro qualification,Solothurn,Switzerland,FALSE
 1986-08-30,Northern Ireland,Republic of Ireland,0,1,UEFA Euro qualification,Northern Ireland,Northern Ireland,FALSE
+1986-09-10,Denmark,Norway,2,5,UEFA Euro qualification,Vejle,Denmark,FALSE
 1986-09-20,Netherlands,Belgium,3,0,UEFA Euro qualification,Oosterhout,Netherlands,FALSE
 1986-09-28,Republic of Ireland,Scotland,1,5,UEFA Euro qualification,Republic of Ireland,Republic of Ireland,FALSE
+1986-10-01,Belgium,Sweden,1,2,UEFA Euro qualification,Aalst,Belgium,FALSE
+1986-10-04,Germany,Denmark,2,0,UEFA Euro qualification,Bergisch Gladbach,Germany,FALSE
+1986-10-04,Norway,Finland,2,0,UEFA Euro qualification,Oslo,Norway,FALSE
+1986-10-11,Hungary,Switzerland,1,1,UEFA Euro qualification,Eger,Hungary,FALSE
+1986-10-11,Italy,Spain,1,1,UEFA Euro qualification,Modena,Italy,FALSE
 1986-10-12,Scotland,England,1,3,UEFA Euro qualification,Scotland,Scotland,FALSE
 1986-10-18,Netherlands,Sweden,2,0,UEFA Euro qualification,Hoogeveen,Netherlands,FALSE
-1986-10-19,Denmark,Norway,2,5,UEFA Euro qualification,Vejle,Denmark,FALSE
-1986-10-19,Switzerland,Spain,0,3,UEFA Euro qualification,Solothurn,Switzerland,FALSE
 1986-11-01,Switzerland,Italy,1,2,UEFA Euro qualification,Basel,Switzerland,FALSE
-1986-11-19,Hungary,Switzerland,1,1,UEFA Euro qualification,Eger,Hungary,FALSE
-1986-11-19,Italy,Spain,1,1,UEFA Euro qualification,Modena,Italy,FALSE
 1986-12-14,China PR,Japan,2,0,AFC Championship,Hong Kong,Hong Kong,TRUE
 1986-12-14,Hong Kong,Nepal,1,0,AFC Championship,Hong Kong,Hong Kong,FALSE
 1986-12-15,Thailand,Indonesia,4,0,AFC Championship,Hong Kong,Hong Kong,TRUE
@@ -220,11 +220,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1987-06-11,Sweden,England,3,2,UEFA Euro,Moss,Norway,TRUE
 1987-06-13,Italy,England,2,1,UEFA Euro,Drammen,Norway,TRUE
 1987-06-14,Norway,Sweden,2,1,UEFA Euro,Oslo,Norway,FALSE
-1987-07-19,Norway,Denmark,0,1,UEFA Euro qualification,Oslo,Norway,FALSE
-1987-07-19,Hungary,Germany,0,1,UEFA Euro qualification,Budapest,Hungary,FALSE
+1987-09-10,Finland,Norway,3,3,UEFA Euro qualification,Kerava,Finland,FALSE
 1987-09-30,Sweden,Netherlands,0,0,UEFA Euro qualification,Linköping,Sweden,FALSE
+1987-10-07,Norway,Denmark,0,1,UEFA Euro qualification,Oslo,Norway,FALSE
+1987-10-07,Hungary,Germany,0,1,UEFA Euro qualification,Budapest,Hungary,FALSE
+1987-10-11,Bulgaria,Spain,1,1,UEFA Euro qualification,Sofia,Bulgaria,FALSE
 1987-10-18,Belgium,Czechoslovakia,1,1,UEFA Euro qualification,Aalst,Belgium,FALSE
-1987-10-19,Finland,Norway,3,3,UEFA Euro qualification,Kerava,Finland,FALSE
 1987-10-24,Belgium,France,0,2,UEFA Euro qualification,Mouscron,Belgium,FALSE
 1987-10-25,Finland,England,1,2,UEFA Euro qualification,Finland,Finland,FALSE
 1987-11-07,Netherlands,Scotland,4,0,UEFA Euro qualification,Nuth,Netherlands,FALSE
@@ -232,18 +233,16 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1987-11-08,Czechoslovakia,Spain,1,0,UEFA Euro qualification,Czechoslovakia,Czechoslovakia,FALSE
 1987-11-14,Hungary,Switzerland,7,1,UEFA Euro qualification,Szolnok,Hungary,FALSE
 1987-11-15,Germany,Italy,3,0,UEFA Euro qualification,Burghausen,Germany,FALSE
-1987-11-19,Bulgaria,Spain,1,1,UEFA Euro qualification,Sofia,Bulgaria,FALSE
 1987-11-21,France,Bulgaria,5,0,UEFA Euro qualification,Lucé,France,FALSE
 1987-11-29,Republic of Ireland,Netherlands,0,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
 1987-12-19,Spain,Belgium,1,0,UEFA Euro qualification,Aranjuez,Spain,FALSE
-1988-01-19,Netherlands,Sweden,1,0,UEFA Euro qualification,Valkenswaard,Netherlands,FALSE
-1988-01-19,Belgium,Bulgaria,5,0,UEFA Euro qualification,Tienen,Belgium,FALSE
+1988-03-06,Spain,France,1,3,UEFA Euro qualification,Palma del Río,Spain,FALSE
+1988-03-12,Netherlands,Republic of Ireland,2,0,UEFA Euro qualification,Delft,Netherlands,FALSE
 1988-03-20,Spain,Bulgaria,1,0,UEFA Euro qualification,Torrent,Spain,FALSE
 1988-04-02,Italy,Germany,0,0,UEFA Euro qualification,Andria,Italy,FALSE
 1988-04-02,Czechoslovakia,Belgium,0,0,UEFA Euro qualification,Hodonín,Czechoslovakia,FALSE
 1988-04-03,Republic of Ireland,Scotland,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
 1988-04-09,Bulgaria,Belgium,0,0,UEFA Euro qualification,Sofia,Bulgaria,FALSE
-1988-04-19,Denmark,Norway,3,2,UEFA Euro qualification,Aalborg,Denmark,FALSE
 1988-04-24,France,Spain,0,0,UEFA Euro qualification,Castelsarrasin,France,FALSE
 1988-04-24,Bulgaria,Czechoslovakia,0,1,UEFA Euro qualification,Stanke Dimitrov,Bulgaria,FALSE
 1988-04-30,Italy,Hungary,5,1,UEFA Euro qualification,San Benedetto del Tronto,Italy,FALSE
@@ -255,16 +254,19 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1988-05-22,France,Belgium,0,0,UEFA Euro qualification,Loison-sous-Lens,France,FALSE
 1988-05-26,Norway,Finland,0,2,UEFA Euro qualification,Nesbyen,Norway,FALSE
 1988-05-28,Denmark,Finland,3,1,UEFA Euro qualification,Copenhagen,Denmark,FALSE
+1988-06-11,Switzerland,Hungary,3,0,UEFA Euro qualification,Zürich,Switzerland,FALSE
 1988-06-18,Italy,Switzerland,5,0,UEFA Euro qualification,Levanto,Italy,FALSE
-1988-06-19,Spain,France,1,3,UEFA Euro qualification,Palma del Río,Spain,FALSE
-1988-08-19,Hungary,Italy,0,0,UEFA Euro qualification,Baja,Hungary,FALSE
-1988-08-19,Czechoslovakia,France,0,0,UEFA Euro qualification,Frýdek-Místek,Czechoslovakia,FALSE
 1988-08-21,Norway,England,2,0,UEFA Euro qualification,Klepp,Norway,FALSE
 1988-08-24,Finland,Denmark,1,2,UEFA Euro qualification,Vantaa,Finland,FALSE
 1988-09-04,England,Finland,1,1,UEFA Euro qualification,England,England,FALSE
+1988-09-04,Denmark,Norway,3,2,UEFA Euro qualification,Aalborg,Denmark,FALSE
 1988-09-17,Switzerland,Germany,0,10,UEFA Euro qualification,Binningen,Switzerland,FALSE
 1988-09-18,England,Norway,1,3,UEFA Euro qualification,Blackburn,England,FALSE
 1988-09-18,Sweden,Republic of Ireland,4,0,UEFA Euro qualification,Mariestad,Sweden,FALSE
+1988-10-01,Netherlands,Sweden,1,0,UEFA Euro qualification,Valkenswaard,Netherlands,FALSE
+1988-10-01,Belgium,Bulgaria,5,0,UEFA Euro qualification,Tienen,Belgium,FALSE
+1988-10-08,Hungary,Italy,0,0,UEFA Euro qualification,Baja,Hungary,FALSE
+1988-10-08,Czechoslovakia,France,0,0,UEFA Euro qualification,Frýdek-Místek,Czechoslovakia,FALSE
 1988-10-15,Denmark,Sweden,1,5,UEFA Euro qualification,Odense,Denmark,FALSE
 1988-10-22,Norway,Netherlands,2,1,UEFA Euro qualification,Horten,Norway,FALSE
 1988-10-23,Czechoslovakia,Bulgaria,3,0,UEFA Euro qualification,Czechoslovakia,Czechoslovakia,FALSE
@@ -274,12 +276,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1988-10-30,Germany,Hungary,4,0,UEFA Euro qualification,Passau,Germany,FALSE
 1988-11-05,Netherlands,Norway,0,3,UEFA Euro qualification,Rijsoord,Netherlands,FALSE
 1988-11-06,Bulgaria,France,0,2,UEFA Euro qualification,Sofia,Bulgaria,FALSE
-1988-11-19,Switzerland,Hungary,3,0,UEFA Euro qualification,Zürich,Switzerland,FALSE
-1988-11-19,France,Italy,1,2,UEFA Euro qualification,Vallauris,France,FALSE
 1988-11-26,Czechoslovakia,Germany,1,1,UEFA Euro qualification,Bratislava,Czechoslovakia,FALSE
 1988-11-27,Italy,France,2,0,UEFA Euro qualification,Reggio Emilia,Italy,FALSE
+1988-12-11,France,Italy,1,2,UEFA Euro qualification,Vallauris,France,FALSE
 1988-12-17,Germany,Czechoslovakia,2,0,UEFA Euro qualification,Kaiserslautern,Germany,FALSE
-1988-12-19,Netherlands,Republic of Ireland,2,0,UEFA Euro qualification,Delft,Netherlands,FALSE
 1989-03-26,Australia,New Zealand,0,2,OFC Championship,Brisbane,Australia,FALSE
 1989-03-27,Chinese Taipei,Papua New Guinea,6,1,OFC Championship,Brisbane,Australia,TRUE
 1989-03-28,New Zealand,Chinese Taipei,1,0,OFC Championship,Brisbane,Australia,TRUE
@@ -322,21 +322,25 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1989-12-26,Japan,Chinese Taipei,0,1,AFC Championship,Hong Kong,Hong Kong,TRUE
 1989-12-29,Hong Kong,Japan,0,9,AFC Championship,Hong Kong,Hong Kong,FALSE
 1989-12-29,China PR,Chinese Taipei,1,0,AFC Championship,Hong Kong,Hong Kong,TRUE
-1990-02-19,Switzerland,Spain,2,1,UEFA Euro qualification,Binningen,Switzerland,FALSE
+1990-02-10,Italy,Spain,3,1,UEFA Euro qualification,Portici,Italy,FALSE
 1990-03-17,Belgium,England,0,3,UEFA Euro qualification,Ypres,Belgium,FALSE
 1990-03-19,Northern Ireland,Netherlands,0,6,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+1990-04-07,England,Belgium,1,0,UEFA Euro qualification,Sheffield,England,FALSE
+1990-04-07,Switzerland,Italy,0,4,UEFA Euro qualification,Lugano,Switzerland,FALSE
+1990-04-11,Bulgaria,Germany,1,4,UEFA Euro qualification,Sofia,Bulgaria,FALSE
 1990-04-28,Denmark,Italy,1,0,UEFA Euro qualification,Vejle,Denmark,FALSE
 1990-04-29,Republic of Ireland,Netherlands,0,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
 1990-04-29,Czechoslovakia,Germany,0,1,UEFA Euro qualification,Frýdek-Místek,Czechoslovakia,FALSE
+1990-05-02,Switzerland,Spain,2,1,UEFA Euro qualification,Binningen,Switzerland,FALSE
+1990-05-12,Finland,Belgium,3,0,UEFA Euro qualification,Espoo,Finland,FALSE
 1990-05-13,France,Sweden,0,2,UEFA Euro qualification,Melun,France,FALSE
 1990-05-23,Denmark,Switzerland,4,0,UEFA Euro qualification,Vejle,Denmark,FALSE
 1990-05-26,Hungary,Czechoslovakia,2,0,UEFA Euro qualification,Hungary,Hungary,FALSE
 1990-05-27,Norway,England,2,0,UEFA Euro qualification,Klepp,Norway,FALSE
 1990-06-09,Hungary,Bulgaria,2,0,UEFA Euro qualification,Hungary,Hungary,FALSE
+1990-06-10,Poland,Sweden,0,2,UEFA Euro qualification,Gorzów,Poland,FALSE
 1990-06-13,Norway,Finland,4,0,UEFA Euro qualification,Porsgrunn,Norway,FALSE
 1990-06-13,Denmark,Spain,5,0,UEFA Euro qualification,Vejle,Denmark,FALSE
-1990-07-19,England,Belgium,1,0,UEFA Euro qualification,Sheffield,England,FALSE
-1990-07-19,Switzerland,Italy,0,4,UEFA Euro qualification,Lugano,Switzerland,FALSE
 1990-09-02,England,Norway,0,0,UEFA Euro qualification,Manchester,England,FALSE
 1990-09-22,Netherlands,Northern Ireland,9,0,UEFA Euro qualification,Kaatsheuvel,Netherlands,FALSE
 1990-09-26,Germany,Bulgaria,4,0,UEFA Euro qualification,Düsseldorf,Germany,FALSE
@@ -350,19 +354,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1990-10-14,Sweden,France,4,1,UEFA Euro qualification,Mariestad,Sweden,FALSE
 1990-10-14,Hungary,Germany,0,4,UEFA Euro qualification,Sopron,Hungary,FALSE
 1990-10-14,Bulgaria,Czechoslovakia,2,3,UEFA Euro qualification,Bulgaria,Bulgaria,FALSE
-1990-10-19,Poland,Sweden,0,2,UEFA Euro qualification,Gorzów,Poland,FALSE
-1990-10-19,Italy,Spain,3,1,UEFA Euro qualification,Portici,Italy,FALSE
 1990-10-21,Spain,Italy,0,0,UEFA Euro qualification,Cartagena,Spain,FALSE
 1990-11-14,Norway,Hungary,2,1,UEFA Euro qualification,Kristiansand,Norway,FALSE
 1990-11-18,Sweden,Italy,1,1,UEFA Euro qualification,Malmö,Sweden,FALSE
-1990-11-19,Bulgaria,Germany,1,4,UEFA Euro qualification,Sofia,Bulgaria,FALSE
 1990-11-24,Denmark,Netherlands,0,0,UEFA Euro qualification,Vejle,Denmark,FALSE
 1990-11-25,England,Germany,1,4,UEFA Euro qualification,Wycombe,England,FALSE
 1990-11-25,Hungary,Norway,0,2,UEFA Euro qualification,Budapest,Hungary,FALSE
 1990-12-08,Italy,Sweden,0,0,UEFA Euro qualification,Castellammare di Stabia,Italy,FALSE
 1990-12-08,Netherlands,Denmark,0,1,UEFA Euro qualification,Denekamp,Netherlands,FALSE
 1990-12-16,Germany,England,2,0,UEFA Euro qualification,Bochum,Germany,FALSE
-1990-12-19,Finland,Belgium,3,0,UEFA Euro qualification,Espoo,Finland,FALSE
 1991-02-16,Nigeria,Ghana,5,1,African Championship,Lagos,Nigeria,FALSE
 1991-03-03,Ghana,Nigeria,1,2,African Championship,Accra,Ghana,FALSE
 1991-04-16,Canada,Costa Rica,6,0,CONCACAF Championship,Port-au-Prince,Haiti,TRUE
@@ -423,10 +423,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1991-09-29,Poland,Czechoslovakia,1,2,UEFA Euro qualification,Poland,Poland,FALSE
 1991-10-06,Russia,Hungary,2,1,UEFA Euro qualification,USSR,Russia,FALSE
 1991-10-16,Denmark,France,4,1,UEFA Euro qualification,Aalborg,Denmark,FALSE
-1991-10-19,Greece,Romania,0,0,UEFA Euro qualification,Greece,Greece,FALSE
 1991-10-19,Italy,Poland,3,1,UEFA Euro qualification,Sulmona,Italy,FALSE
 1991-10-23,Spain,Sweden,0,4,UEFA Euro qualification,Palencia,Spain,FALSE
 1991-10-27,Bulgaria,Hungary,0,1,UEFA Euro qualification,Bulgaria,Bulgaria,FALSE
+1991-11-10,Greece,Romania,0,0,UEFA Euro qualification,Greece,Greece,FALSE
 1991-11-16,Belgium,Switzerland,0,0,UEFA Euro qualification,Geel,Belgium,FALSE
 1991-11-16,China PR,Norway,4,0,FIFA World Cup,Guangzhou,China PR,FALSE
 1991-11-17,Denmark,New Zealand,3,0,FIFA World Cup,Guangzhou,China PR,TRUE
@@ -455,11 +455,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1991-11-29,Sweden,Germany,4,0,FIFA World Cup,Guangzhou,China PR,TRUE
 1991-11-30,Norway,United States,1,2,FIFA World Cup,Guangzhou,China PR,TRUE
 1991-12-08,Spain,Republic of Ireland,0,1,UEFA Euro qualification,Lucena,Spain,FALSE
-1992-02-19,France,Denmark,0,4,UEFA Euro qualification,Quimper,France,FALSE
 1992-03-08,Greece,Netherlands,0,3,UEFA Euro qualification,Komotini,Greece,FALSE
 1992-03-22,Republic of Ireland,Spain,0,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1992-04-04,Netherlands,Greece,2,0,UEFA Euro qualification,Valkenswaard,Netherlands,FALSE
+1992-04-11,Switzerland,Belgium,0,1,UEFA Euro qualification,Switzerland,Switzerland,FALSE
 1992-04-18,England,Scotland,1,0,UEFA Euro qualification,England,England,FALSE
-1992-04-19,Netherlands,Greece,2,0,UEFA Euro qualification,Valkenswaard,Netherlands,FALSE
+1992-05-02,France,Denmark,0,4,UEFA Euro qualification,Quimper,France,FALSE
+1992-05-09,Finland,France,1,1,UEFA Euro qualification,Turku,Finland,FALSE
+1992-05-12,Belgium,Norway,0,0,UEFA Euro qualification,Aalst,Belgium,FALSE
 1992-05-17,Denmark,Finland,5,0,UEFA Euro qualification,Hjørring,Denmark,FALSE
 1992-05-17,England,Iceland,4,0,UEFA Euro qualification,Yeovil,England,FALSE
 1992-05-17,Sweden,Spain,1,1,UEFA Euro qualification,Borås,Sweden,FALSE
@@ -476,40 +479,26 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1992-06-28,Czechoslovakia,Poland,3,0,UEFA Euro qualification,Czechoslovakia,Czechoslovakia,FALSE
 1992-06-30,Russia,Bulgaria,3,0,UEFA Euro qualification,Russia,Russia,FALSE
 1992-07-19,Iceland,England,1,2,UEFA Euro qualification,Kópavogur,Iceland,FALSE
-1992-07-19,England,Italy,0,3,UEFA Euro qualification,Rotherham,England,FALSE
-1992-07-19,Denmark,Sweden,1,1,UEFA Euro qualification,Hjørring,Denmark,FALSE
-1992-07-19,Netherlands,Norway,0,3,UEFA Euro qualification,Raalte,Netherlands,FALSE
 1992-08-23,Scotland,England,0,2,UEFA Euro qualification,Scotland,Scotland,FALSE
-1992-09-19,Finland,France,1,1,UEFA Euro qualification,Turku,Finland,FALSE
+1992-09-12,Italy,Czechoslovakia,2,2,UEFA Euro qualification,Jesolo,Italy,FALSE
 1992-09-20,Sweden,Republic of Ireland,10,0,UEFA Euro qualification,Borås,Sweden,FALSE
 1992-09-23,Romania,Netherlands,0,0,UEFA Euro qualification,Brașov,Romania,FALSE
 1992-09-26,Norway,Belgium,8,0,UEFA Euro qualification,Kolbotn,Norway,FALSE
 1992-09-27,France,Finland,5,1,UEFA Euro qualification,Albi,France,FALSE
 1992-09-27,Poland,Italy,1,4,UEFA Euro qualification,Kraków,Poland,FALSE
 1992-09-27,Bulgaria,Russia,1,2,UEFA Euro qualification,Bulgaria,Bulgaria,FALSE
+1992-10-10,Norway,Netherlands,3,0,UEFA Euro qualification,Oslo,Norway,FALSE
+1992-10-11,Russia,Germany,0,7,UEFA Euro qualification,Moscow,Russia,FALSE
 1992-10-13,Sweden,Denmark,1,2,UEFA Euro qualification,Borås,Sweden,FALSE
 1992-10-17,Italy,England,3,2,UEFA Euro qualification,Solofra,Italy,FALSE
-1992-10-19,Norway,Netherlands,3,0,UEFA Euro qualification,Oslo,Norway,FALSE
+1992-11-07,England,Italy,0,3,UEFA Euro qualification,Rotherham,England,FALSE
+1992-11-07,Denmark,Sweden,1,1,UEFA Euro qualification,Hjørring,Denmark,FALSE
+1992-11-07,Netherlands,Norway,0,3,UEFA Euro qualification,Raalte,Netherlands,FALSE
 1992-11-14,Germany,Russia,0,0,UEFA Euro qualification,Rheine,Germany,FALSE
-1992-11-19,Switzerland,Belgium,0,1,UEFA Euro qualification,Switzerland,Switzerland,FALSE
-1992-11-19,Russia,Germany,0,7,UEFA Euro qualification,Moscow,Russia,FALSE
-1992-12-19,Belgium,Norway,0,0,UEFA Euro qualification,Aalst,Belgium,FALSE
-1992-12-19,Italy,Czechoslovakia,2,2,UEFA Euro qualification,Jesolo,Italy,FALSE
-1993-03-19,Malaysia,South Korea,0,4,AFC Championship,Kuching,Malaysia,FALSE
-1993-03-19,China PR,North Korea,1,1,AFC Championship,Kuching,Malaysia,TRUE
-1993-04-19,Norway,Czech Republic,6,1,UEFA Euro qualification,Gvarv,Norway,FALSE
-1993-04-19,Hong Kong,Philippines,5,0,AFC Championship,Kuching,Malaysia,TRUE
-1993-04-19,Japan,Chinese Taipei,6,1,AFC Championship,Kuching,Malaysia,TRUE
-1993-05-19,China PR,South Korea,6,0,AFC Championship,Kuching,Malaysia,TRUE
-1993-05-19,Malaysia,North Korea,0,12,AFC Championship,Kuching,Malaysia,FALSE
-1993-06-19,Belgium,England,0,3,UEFA Euro qualification,Koksijde,Belgium,FALSE
-1993-06-19,Japan,Philippines,15,0,AFC Championship,Kuching,Malaysia,TRUE
-1993-06-19,Chinese Taipei,Hong Kong,2,0,AFC Championship,Kuching,Malaysia,TRUE
 1993-06-29,Norway,Denmark,1,0,UEFA Euro,Santa Sofia,Italy,TRUE
 1993-06-30,Italy,Germany,1,1,UEFA Euro,Rimini,Italy,FALSE
 1993-07-03,Germany,Denmark,1,3,UEFA Euro,Cesenatico,Italy,TRUE
 1993-07-04,Italy,Norway,0,1,UEFA Euro,Cesena,Italy,FALSE
-1993-07-19,Malaysia,China PR,0,7,AFC Championship,Kuching,Malaysia,FALSE
 1993-08-04,Canada,Trinidad and Tobago,4,0,CONCACAF Invitational Tournament,New Hyde Park,United States,TRUE
 1993-08-04,United States,New Zealand,3,0,CONCACAF Invitational Tournament,New Hyde Park,United States,FALSE
 1993-08-06,Canada,New Zealand,0,0,CONCACAF Invitational Tournament,New Hyde Park,United States,TRUE
@@ -518,10 +507,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1993-08-08,United States,Canada,1,0,CONCACAF Invitational Tournament,New Hyde Park,United States,FALSE
 1993-08-15,Lithuania,Denmark,0,11,UEFA Euro qualification,Kaunas,Lithuania,FALSE
 1993-08-18,Sweden,Latvia,9,0,UEFA Euro qualification,Nynäshamn,Sweden,FALSE
-1993-08-19,North Korea,South Korea,3,0,AFC Championship,Kuching,Malaysia,TRUE
-1993-08-19,Japan,Hong Kong,4,0,AFC Championship,Kuching,Malaysia,TRUE
-1993-08-19,Chinese Taipei,Philippines,12,0,AFC Championship,Kuching,Malaysia,TRUE
 1993-08-29,Ukraine,Russia,0,2,UEFA Euro qualification,Kiev,Ukraine,FALSE
+1993-09-04,Norway,Czech Republic,6,1,UEFA Euro qualification,Gvarv,Norway,FALSE
+1993-09-10,Lithuania,Bulgaria,0,1,UEFA Euro qualification,Kaunas,Lithuania,FALSE
 1993-09-18,Ukraine,Romania,2,2,UEFA Euro qualification,Ukraine,Ukraine,FALSE
 1993-09-19,Wales,Switzerland,2,3,UEFA Euro qualification,Wales,Wales,FALSE
 1993-09-22,Latvia,Slovakia,0,1,UEFA Euro qualification,Latvia,Latvia,FALSE
@@ -536,19 +524,30 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1993-10-16,Norway,Hungary,8,0,UEFA Euro qualification,Bergen,Norway,FALSE
 1993-10-16,Romania,Russia,2,2,UEFA Euro qualification,Câmpina,Romania,FALSE
 1993-10-16,Italy,Scotland,4,0,UEFA Euro qualification,Senigallia,Italy,FALSE
-1993-10-19,Lithuania,Bulgaria,0,1,UEFA Euro qualification,Kaunas,Lithuania,FALSE
-1993-10-19,Switzerland,Croatia,1,2,UEFA Euro qualification,Winterthur,Switzerland,FALSE
-1993-10-19,North Korea,Chinese Taipei,2,0,AFC Championship,Kuching,Malaysia,TRUE
-1993-10-19,China PR,Japan,3,1,AFC Championship,Kuching,Malaysia,TRUE
 1993-10-24,Switzerland,Germany,0,5,UEFA Euro qualification,Wohlen,Switzerland,FALSE
 1993-10-30,Belgium,Spain,0,0,UEFA Euro qualification,Brussels,Belgium,FALSE
+1993-11-06,Belgium,England,0,3,UEFA Euro qualification,Koksijde,Belgium,FALSE
 1993-11-07,Poland,Romania,0,4,UEFA Euro qualification,Poland,Poland,FALSE
-1993-11-19,Portugal,France,0,1,UEFA Euro qualification,Faro,Portugal,FALSE
+1993-11-10,Switzerland,Croatia,1,2,UEFA Euro qualification,Winterthur,Switzerland,FALSE
 1993-11-20,Italy,France,2,0,UEFA Euro qualification,Cosenza,Italy,FALSE
-1993-12-19,Spain,England,0,0,UEFA Euro qualification,Osuna,Spain,FALSE
-1993-12-19,Chinese Taipei,Japan,0,3,AFC Championship,Kuching,Malaysia,TRUE
-1993-12-19,North Korea,China PR,0,3,AFC Championship,Kuching,Malaysia,TRUE
-1994-02-19,Croatia,Germany,0,7,UEFA Euro qualification,Zagreb,Croatia,FALSE
+1993-12-03,Malaysia,South Korea,0,4,AFC Championship,Kuching,Malaysia,FALSE
+1993-12-03,China PR,North Korea,1,1,AFC Championship,Kuching,Malaysia,TRUE
+1993-12-04,Hong Kong,Philippines,5,0,AFC Championship,Kuching,Malaysia,TRUE
+1993-12-04,Japan,Chinese Taipei,6,1,AFC Championship,Kuching,Malaysia,TRUE
+1993-12-05,China PR,South Korea,6,0,AFC Championship,Kuching,Malaysia,TRUE
+1993-12-05,Malaysia,North Korea,0,12,AFC Championship,Kuching,Malaysia,FALSE
+1993-12-06,Japan,Philippines,15,0,AFC Championship,Kuching,Malaysia,TRUE
+1993-12-06,Chinese Taipei,Hong Kong,2,0,AFC Championship,Kuching,Malaysia,TRUE
+1993-12-07,Malaysia,China PR,0,7,AFC Championship,Kuching,Malaysia,FALSE
+1993-12-08,North Korea,South Korea,3,0,AFC Championship,Kuching,Malaysia,TRUE
+1993-12-08,Japan,Hong Kong,4,0,AFC Championship,Kuching,Malaysia,TRUE
+1993-12-08,Chinese Taipei,Philippines,12,0,AFC Championship,Kuching,Malaysia,TRUE
+1993-12-10,North Korea,Chinese Taipei,2,0,AFC Championship,Kuching,Malaysia,TRUE
+1993-12-10,China PR,Japan,3,1,AFC Championship,Kuching,Malaysia,TRUE
+1993-12-11,Portugal,France,0,1,UEFA Euro qualification,Faro,Portugal,FALSE
+1993-12-12,Spain,England,0,0,UEFA Euro qualification,Osuna,Spain,FALSE
+1993-12-12,Chinese Taipei,Japan,0,3,AFC Championship,Kuching,Malaysia,TRUE
+1993-12-12,North Korea,China PR,0,3,AFC Championship,Kuching,Malaysia,TRUE
 1994-02-20,England,Spain,0,0,UEFA Euro qualification,Bradford,England,FALSE
 1994-02-26,France,Scotland,1,0,UEFA Euro qualification,Ozoir-la-Ferrière,France,FALSE
 1994-03-05,Portugal,Italy,1,3,UEFA Euro qualification,Fiães,Portugal,FALSE
@@ -572,7 +571,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1994-04-16,Greece,Netherlands,0,4,UEFA Euro qualification,Xanthi,Greece,FALSE
 1994-04-17,England,Slovenia,10,0,UEFA Euro qualification,England,England,FALSE
 1994-04-19,Hungary,Norway,0,4,UEFA Euro qualification,Budapest,Hungary,FALSE
-1994-04-19,Norway,Finland,4,0,UEFA Euro qualification,Oslo,Norway,FALSE
 1994-04-23,Czech Republic,Finland,0,0,UEFA Euro qualification,Roudnice nad Labem,Czech Republic,FALSE
 1994-04-24,Scotland,Portugal,1,2,UEFA Euro qualification,Stirling,Scotland,FALSE
 1994-04-24,Spain,Belgium,4,0,UEFA Euro qualification,Tortosa,Spain,FALSE
@@ -589,6 +587,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1994-05-29,Portugal,Scotland,8,2,UEFA Euro qualification,Barreiro,Portugal,FALSE
 1994-05-29,Slovenia,Spain,0,8,UEFA Euro qualification,Slovenia,Slovenia,FALSE
 1994-05-29,Iceland,Greece,3,0,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+1994-06-02,Croatia,Germany,0,7,UEFA Euro qualification,Zagreb,Croatia,FALSE
+1994-06-04,Norway,Finland,4,0,UEFA Euro qualification,Oslo,Norway,FALSE
+1994-06-11,Italy,Portugal,1,2,UEFA Euro qualification,Carrara,Italy,FALSE
 1994-06-14,Russia,Romania,1,0,UEFA Euro qualification,Selyatino,Russia,FALSE
 1994-06-15,Denmark,Lithuania,11,0,UEFA Euro qualification,Idestrup,Denmark,FALSE
 1994-06-15,Sweden,Slovakia,6,0,UEFA Euro qualification,Gävle,Sweden,FALSE
@@ -605,6 +606,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1994-08-21,Canada,United States,0,6,CONCACAF Championship,Montreal,Canada,FALSE
 1994-08-21,Ukraine,Poland,3,0,UEFA Euro qualification,Ukraine,Ukraine,FALSE
 1994-09-03,Romania,Poland,3,0,UEFA Euro qualification,Romania,Romania,FALSE
+1994-09-10,Hungary,Czech Republic,4,4,UEFA Euro qualification,Kecskemét,Hungary,FALSE
 1994-09-18,Russia,Ukraine,2,1,UEFA Euro qualification,Voronezh,Russia,FALSE
 1994-09-21,Slovakia,Latvia,3,1,UEFA Euro qualification,Slovakia,Slovakia,FALSE
 1994-09-21,Germany,Croatia,8,0,UEFA Euro qualification,Sindelfingen,Germany,FALSE
@@ -625,7 +627,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1994-10-16,Papua New Guinea,Australia,0,7,OFC Championship,Port Moresby,Papua New Guinea,FALSE
 1994-10-18,Australia,New Zealand,1,0,OFC Championship,Port Moresby,Papua New Guinea,TRUE
 1994-10-19,Papua New Guinea,Australia,0,4,OFC Championship,Port Moresby,Papua New Guinea,FALSE
-1994-10-19,Hungary,Czech Republic,4,4,UEFA Euro qualification,Kecskemét,Hungary,FALSE
 1994-10-20,Papua New Guinea,New Zealand,0,6,OFC Championship,Port Moresby,Papua New Guinea,FALSE
 1994-10-27,Germany,Russia,4,0,UEFA Euro qualification,Osnabrück,Germany,FALSE
 1994-10-29,Norway,Italy,4,2,UEFA Euro qualification,Oslo,Norway,FALSE
@@ -633,7 +634,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1994-10-30,England,Iceland,2,1,UEFA Euro qualification,Brighton,England,FALSE
 1994-11-05,South Africa,Zambia,5,3,African Championship,South Africa,South Africa,FALSE
 1994-11-06,Nigeria,Sierra Leone,9,0,African Championship,Lagos,Nigeria,FALSE
-1994-11-19,Italy,Portugal,1,2,UEFA Euro qualification,Carrara,Italy,FALSE
 1994-11-20,Sierra Leone,Nigeria,0,2,African Championship,Freetown,Sierra Leone,FALSE
 1994-11-20,Zambia,South Africa,2,6,African Championship,Zambia,Zambia,FALSE
 1994-12-11,England,Germany,1,4,UEFA Euro,Watford,England,FALSE
@@ -785,6 +785,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1996-03-31,Spain,Romania,5,1,UEFA Euro qualification,Castelló de la Plana,Spain,FALSE
 1996-03-31,Republic of Ireland,Belgium,0,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
 1996-04-06,Greece,Austria,0,0,UEFA Euro qualification,Greece,Greece,FALSE
+1996-04-06,Netherlands,France,1,2,UEFA Euro qualification,Sassenheim,Netherlands,FALSE
+1996-04-07,Italy,Portugal,4,1,UEFA Euro qualification,Mestre,Italy,FALSE
+1996-04-07,Scotland,Republic of Ireland,2,4,UEFA Euro qualification,Stirling,Scotland,FALSE
+1996-04-11,Germany,Slovakia,2,0,UEFA Euro qualification,Unterhaching,Germany,FALSE
 1996-04-13,Wales,Belgium,0,0,UEFA Euro qualification,Barry,Wales,FALSE
 1996-04-14,Ukraine,Turkey,3,0,UEFA Euro qualification,Donetsk,Ukraine,FALSE
 1996-04-14,Bulgaria,Hungary,3,2,UEFA Euro qualification,Bulgaria,Bulgaria,FALSE
@@ -824,13 +828,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1996-06-16,Switzerland,FR Yugoslavia,1,1,UEFA Euro qualification,Switzerland,Switzerland,FALSE
 1996-06-16,Ukraine,Hungary,2,0,UEFA Euro qualification,Ukraine,Ukraine,FALSE
 1996-06-16,Bulgaria,Turkey,3,0,UEFA Euro qualification,Bulgaria,Bulgaria,FALSE
-1996-06-19,Netherlands,France,1,2,UEFA Euro qualification,Sassenheim,Netherlands,FALSE
 1996-06-26,Romania,Sweden,0,5,UEFA Euro qualification,Câmpina,Romania,FALSE
 1996-06-29,Czech Republic,Belarus,5,2,UEFA Euro qualification,Čelákovice,Czech Republic,FALSE
 1996-07-06,Norway,Finland,7,0,UEFA Euro qualification,Kolbotn,Norway,FALSE
 1996-07-14,Belarus,Estonia,4,0,UEFA Euro qualification,Bobruisk,Belarus,FALSE
-1996-07-19,Italy,Portugal,4,1,UEFA Euro qualification,Mestre,Italy,FALSE
-1996-07-19,Scotland,Republic of Ireland,2,4,UEFA Euro qualification,Stirling,Scotland,FALSE
 1996-07-21,United States,Denmark,3,0,Olympic Games,Orlando,United States,FALSE
 1996-07-21,Sweden,China PR,0,2,Olympic Games,Miami,United States,TRUE
 1996-07-21,Germany,Japan,3,2,Olympic Games,Birmingham,United States,TRUE
@@ -870,7 +871,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1996-09-28,Romania,Ukraine,1,4,UEFA Euro qualification,Romania,Romania,FALSE
 1996-09-29,Germany,Iceland,4,0,UEFA Euro qualification,Koblenz,Germany,FALSE
 1996-09-29,England,Spain,1,1,UEFA Euro qualification,England,England,FALSE
-1996-11-19,Germany,Slovakia,2,0,UEFA Euro qualification,Unterhaching,Germany,FALSE
 1997-03-10,Denmark,Iceland,4,1,Algarve Cup,Silves,Portugal,TRUE
 1997-03-10,Norway,Finland,5,1,Algarve Cup,Silves,Portugal,TRUE
 1997-03-10,Portugal,China PR,0,3,Algarve Cup,Faro,Portugal,FALSE
@@ -887,11 +887,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1997-03-16,Netherlands,Finland,1,0,Algarve Cup,Faro,Portugal,TRUE
 1997-03-16,Sweden,Denmark,0,0,Algarve Cup,Loulé,Portugal,TRUE
 1997-03-16,Norway,China PR,1,0,Algarve Cup,Loulé,Portugal,TRUE
-1997-05-19,India,Hong Kong,3,0,AFC Championship,Guangdong,China PR,TRUE
-1997-05-19,Japan,Guam,21,0,AFC Championship,Guangdong,China PR,TRUE
-1997-05-19,China PR,North Korea,3,1,AFC Championship,Guangdong,China PR,FALSE
-1997-05-19,Uzbekistan,Philippines,2,1,AFC Championship,Guangdong,China PR,TRUE
-1997-05-19,Chinese Taipei,South Korea,1,0,AFC Championship,Guangdong,China PR,TRUE
 1997-06-29,France,Spain,1,1,UEFA Euro,Karlskoga,Sweden,TRUE
 1997-06-29,Sweden,Russia,2,1,UEFA Euro,Karlstad,Sweden,FALSE
 1997-06-30,Germany,Italy,1,1,UEFA Euro,Moss,Norway,TRUE
@@ -907,20 +902,25 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1997-07-09,Sweden,Germany,0,1,UEFA Euro,Karlstad,Sweden,FALSE
 1997-07-09,Italy,Spain,2,1,UEFA Euro,Lillestrøm,Norway,TRUE
 1997-07-12,Italy,Germany,0,2,UEFA Euro,Oslo,Norway,TRUE
-1997-07-19,Hong Kong,Guam,1,0,AFC Championship,Guangdong,China PR,TRUE
-1997-07-19,Japan,India,1,0,AFC Championship,Guangdong,China PR,TRUE
-1997-07-19,China PR,Uzbekistan,8,0,AFC Championship,Guangdong,China PR,FALSE
-1997-07-19,North Korea,Philippines,14,1,AFC Championship,Guangdong,China PR,TRUE
-1997-07-19,South Korea,Kazakhstan,11,0,AFC Championship,Guangdong,China PR,TRUE
-1997-09-19,Japan,Hong Kong,9,0,AFC Championship,Guangdong,China PR,TRUE
-1997-09-19,India,Guam,10,0,AFC Championship,Guangdong,China PR,TRUE
-1997-09-19,China PR,Philippines,16,0,AFC Championship,Guangdong,China PR,FALSE
-1997-09-19,North Korea,Uzbekistan,8,0,AFC Championship,Guangdong,China PR,TRUE
-1997-09-19,Chinese Taipei,Kazakhstan,6,0,AFC Championship,Guangdong,China PR,TRUE
+1997-12-05,India,Hong Kong,3,0,AFC Championship,Guangdong,China PR,TRUE
+1997-12-05,Japan,Guam,21,0,AFC Championship,Guangdong,China PR,TRUE
+1997-12-05,China PR,North Korea,3,1,AFC Championship,Guangdong,China PR,FALSE
+1997-12-05,Uzbekistan,Philippines,2,1,AFC Championship,Guangdong,China PR,TRUE
+1997-12-05,Chinese Taipei,South Korea,1,0,AFC Championship,Guangdong,China PR,TRUE
+1997-12-07,Hong Kong,Guam,1,0,AFC Championship,Guangdong,China PR,TRUE
+1997-12-07,Japan,India,1,0,AFC Championship,Guangdong,China PR,TRUE
+1997-12-07,China PR,Uzbekistan,8,0,AFC Championship,Guangdong,China PR,FALSE
+1997-12-07,North Korea,Philippines,14,1,AFC Championship,Guangdong,China PR,TRUE
+1997-12-07,South Korea,Kazakhstan,11,0,AFC Championship,Guangdong,China PR,TRUE
+1997-12-09,Japan,Hong Kong,9,0,AFC Championship,Guangdong,China PR,TRUE
+1997-12-09,India,Guam,10,0,AFC Championship,Guangdong,China PR,TRUE
+1997-12-09,China PR,Philippines,16,0,AFC Championship,Guangdong,China PR,FALSE
+1997-12-09,North Korea,Uzbekistan,8,0,AFC Championship,Guangdong,China PR,TRUE
+1997-12-09,Chinese Taipei,Kazakhstan,6,0,AFC Championship,Guangdong,China PR,TRUE
+1997-12-12,North Korea,Japan,1,0,AFC Championship,Guangdong,China PR,TRUE
+1997-12-12,China PR,Chinese Taipei,10,0,AFC Championship,Guangdong,China PR,FALSE
 1997-12-14,Japan,Chinese Taipei,2,0,AFC Championship,Guangdong,China PR,TRUE
 1997-12-14,China PR,North Korea,2,0,AFC Championship,Guangdong,China PR,FALSE
-1997-12-19,North Korea,Japan,1,0,AFC Championship,Guangdong,China PR,TRUE
-1997-12-19,China PR,Chinese Taipei,10,0,AFC Championship,Guangdong,China PR,FALSE
 1998-01-18,United States,Sweden,3,0,Four Nations Tournament,Guangzhou,China PR,TRUE
 1998-01-18,China PR,Norway,1,2,Four Nations Tournament,Guangzhou,China PR,FALSE
 1998-01-21,Norway,Sweden,2,1,Four Nations Tournament,Guangzhou,China PR,TRUE
@@ -971,6 +971,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-03-29,South Africa,Eswatini,9,0,African Championship qualification,Johannesburg,South Africa,FALSE
 1998-03-29,Egypt,Uganda,1,1,African Championship qualification,Cairo,Egypt,FALSE
 1998-03-29,Ghana,Guinea,11,0,African Championship qualification,Accra,Ghana,FALSE
+1998-04-10,Uganda,Egypt,0,1,African Championship qualification,Kampala,Uganda,FALSE
+1998-04-11,Eswatini,South Africa,0,6,African Championship qualification,Somhlolo,Eswatini,FALSE
+1998-04-12,Lesotho,Mozambique,2,4,African Championship qualification,Maseru,Lesotho,FALSE
+1998-04-12,Guinea,Ghana,0,8,African Championship qualification,Conakry,Guinea,FALSE
 1998-07-19,Guatemala,Costa Rica,0,17,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,FALSE
 1998-07-19,Guatemala,Honduras,11,0,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,FALSE
 1998-07-21,Haiti,Costa Rica,2,0,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,TRUE
@@ -997,8 +1001,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-09-04,Canada,Costa Rica,2,0,CONCACAF Championship,Toronto,Canada,FALSE
 1998-09-06,Costa Rica,Guatemala,4,0,CONCACAF Championship,Toronto,Canada,TRUE
 1998-09-06,Canada,Mexico,1,0,CONCACAF Championship,Toronto,Canada,FALSE
-1998-09-19,New Zealand,Samoa,21,0,OFC Championship,Auckland,New Zealand,FALSE
-1998-09-19,Australia,American Samoa,21,0,OFC Championship,Auckland,New Zealand,TRUE
 1998-10-13,Fiji,Samoa,5,0,OFC Championship,Auckland,New Zealand,TRUE
 1998-10-13,Papua New Guinea,American Samoa,9,0,OFC Championship,Auckland,New Zealand,TRUE
 1998-10-15,New Zealand,Papua New Guinea,5,0,OFC Championship,Auckland,New Zealand,FALSE
@@ -1008,7 +1010,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-10-17,Papua New Guinea,Fiji,7,1,OFC Championship,Auckland,New Zealand,TRUE
 1998-10-17,New Zealand,Australia,1,3,OFC Championship,Auckland,New Zealand,FALSE
 1998-10-18,Ghana,South Africa,4,0,African Championship,Ijebu Ode,Nigeria,TRUE
-1998-10-19,Uganda,Egypt,0,1,African Championship qualification,Kampala,Uganda,FALSE
 1998-10-20,Morocco,Egypt,4,1,African Championship,Kaduna,Nigeria,TRUE
 1998-10-20,Nigeria,DR Congo,6,0,African Championship,Kaduna,Nigeria,FALSE
 1998-10-21,Cameroon,South Africa,3,2,African Championship,Ijebu Ode,Nigeria,TRUE
@@ -1019,12 +1020,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-10-27,Ghana,DR Congo,4,1,African Championship,Kaduna,Nigeria,TRUE
 1998-10-30,DR Congo,Cameroon,3,3,African Championship,Ijebu Ode,Nigeria,TRUE
 1998-10-31,Nigeria,Ghana,2,0,African Championship,Ijebu Ode,Nigeria,FALSE
-1998-11-19,Eswatini,South Africa,0,6,African Championship qualification,Somhlolo,Eswatini,FALSE
-1998-11-19,New Zealand,Fiji,14,0,OFC Championship,Auckland,New Zealand,FALSE
-1998-11-19,Australia,Papua New Guinea,8,0,OFC Championship,Auckland,New Zealand,TRUE
-1998-12-19,Lesotho,Mozambique,2,4,African Championship qualification,Maseru,Lesotho,FALSE
-1998-12-19,Guinea,Ghana,0,8,African Championship qualification,Conakry,Guinea,FALSE
-1999-01-19,Wales,Belgium,0,2,UEFA Euro qualification,Llanelli,Wales,FALSE
+1998-12-09,New Zealand,Samoa,21,0,OFC Championship,Auckland,New Zealand,FALSE
+1998-12-09,Australia,American Samoa,21,0,OFC Championship,Auckland,New Zealand,TRUE
+1998-12-11,New Zealand,Fiji,14,0,OFC Championship,Auckland,New Zealand,FALSE
+1998-12-11,Australia,Papua New Guinea,8,0,OFC Championship,Auckland,New Zealand,TRUE
 1999-03-14,United States,Sweden,1,1,Algarve Cup,Silves,Portugal,TRUE
 1999-03-14,Norway,Finland,1,0,Algarve Cup,Silves,Portugal,TRUE
 1999-03-14,Denmark,Australia,1,1,Algarve Cup,Faro,Portugal,TRUE
@@ -1037,12 +1036,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-03-18,Sweden,Finland,0,0,Algarve Cup,Albufeira,Portugal,TRUE
 1999-03-18,Portugal,Denmark,0,5,Algarve Cup,Montechoro,Portugal,FALSE
 1999-03-18,Australia,China PR,0,2,Algarve Cup,Montechoro,Portugal,TRUE
-1999-03-19,Turkey,Hungary,2,8,UEFA Euro qualification,İzmir,Turkey,FALSE
 1999-03-20,Portugal,Finland,2,1,Algarve Cup,Montechoro,Portugal,FALSE
 1999-03-20,Australia,Sweden,1,1,Algarve Cup,Loulé,Portugal,TRUE
 1999-03-20,Norway,Denmark,2,2,Algarve Cup,Loulé,Portugal,TRUE
 1999-03-20,China PR,United States,2,1,Algarve Cup,Loulé,Portugal,TRUE
-1999-04-19,Estonia,Slovakia,0,4,UEFA Euro qualification,Kuressaare,Estonia,FALSE
 1999-06-06,Costa Rica,Nicaragua,8,1,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,TRUE
 1999-06-06,Guatemala,Honduras,6,0,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,FALSE
 1999-06-08,Honduras,Nicaragua,2,3,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,TRUE
@@ -1051,7 +1048,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-06-10,Guatemala,Nicaragua,6,0,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,FALSE
 1999-06-12,Nicaragua,Honduras,5,4,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,TRUE
 1999-06-12,Guatemala,Costa Rica,2,0,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,FALSE
-1999-06-19,Belgium,Poland,4,1,UEFA Euro qualification,Wavre,Belgium,FALSE
 1999-06-19,United States,Denmark,3,0,FIFA World Cup,East Rutherford,United States,FALSE
 1999-06-19,Brazil,Mexico,7,1,FIFA World Cup,East Rutherford,United States,TRUE
 1999-06-19,Japan,Canada,1,1,FIFA World Cup,San Jose,United States,TRUE
@@ -1084,25 +1080,17 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-07-04,Norway,China PR,0,5,FIFA World Cup,Foxborough,United States,TRUE
 1999-07-10,Brazil,Norway,0,0,FIFA World Cup,Pasadena,United States,TRUE
 1999-07-10,United States,China PR,0,0,FIFA World Cup,Pasadena,United States,FALSE
-1999-07-19,Spain,Sweden,2,5,UEFA Euro qualification,Plasencia,Spain,FALSE
-1999-07-19,North Korea,India,7,0,AFC Championship,Philippines,Philippines,TRUE
-1999-07-19,Chinese Taipei,Malaysia,16,0,AFC Championship,Philippines,Philippines,TRUE
-1999-07-19,China PR,South Korea,5,2,AFC Championship,Philippines,Philippines,TRUE
-1999-07-19,Hong Kong,Kazakhstan,0,8,AFC Championship,Philippines,Philippines,TRUE
 1999-07-24,Bosnia and Herzegovina,Turkey,2,6,UEFA Euro qualification,Velika Kladuša,Bosnia and Herzegovina,FALSE
-1999-08-19,Japan,Thailand,9,0,AFC Championship,Iloilo City,Philippines,TRUE
-1999-08-19,Philippines,Nepal,5,0,AFC Championship,Iloilo City,Philippines,FALSE
+1999-08-11,Belarus,Estonia,4,1,UEFA Euro qualification,Bobruisk,Belarus,FALSE
 1999-08-21,Finland,Russia,0,2,UEFA Euro qualification,Kauniainen,Finland,FALSE
 1999-08-22,Ukraine,Iceland,2,2,UEFA Euro qualification,Donetsk,Ukraine,FALSE
 1999-09-04,Hungary,Bosnia and Herzegovina,13,0,UEFA Euro qualification,Hungary,Hungary,FALSE
+1999-09-04,Estonia,Slovakia,0,4,UEFA Euro qualification,Kuressaare,Estonia,FALSE
+1999-09-11,Norway,Switzerland,4,0,UEFA Euro qualification,Strusshamn,Norway,FALSE
 1999-09-16,Estonia,Romania,2,6,UEFA Euro qualification,Valga,Estonia,FALSE
 1999-09-17,Israel,Belarus,0,5,UEFA Euro qualification,Israel,Israel,FALSE
 1999-09-18,FR Yugoslavia,Finland,2,0,UEFA Euro qualification,Yugoslavia,FR Yugoslavia,FALSE
 1999-09-18,Poland,Austria,4,1,UEFA Euro qualification,Poland,Poland,FALSE
-1999-09-19,North Korea,Vietnam,12,1,AFC Championship,Philippines,Philippines,TRUE
-1999-09-19,India,Malaysia,3,0,AFC Championship,Philippines,Philippines,TRUE
-1999-09-19,China PR,Guam,15,0,AFC Championship,Philippines,Philippines,TRUE
-1999-09-19,South Korea,Kazakhstan,6,0,AFC Championship,Philippines,Philippines,TRUE
 1999-09-22,Iceland,Italy,0,0,UEFA Euro qualification,Reykjavík,Iceland,FALSE
 1999-09-23,Germany,Ukraine,3,0,UEFA Euro qualification,Fürth,Germany,FALSE
 1999-09-29,Sweden,France,2,2,UEFA Euro qualification,Umeå,Sweden,FALSE
@@ -1118,10 +1106,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-10-16,Belgium,Austria,3,1,UEFA Euro qualification,Machelen,Belgium,FALSE
 1999-10-16,Bosnia and Herzegovina,Greece,1,3,UEFA Euro qualification,Bosnia and Herzegovina,Bosnia and Herzegovina,FALSE
 1999-10-17,Czech Republic,Republic of Ireland,1,1,UEFA Euro qualification,Blšany,Czech Republic,FALSE
-1999-10-19,Denmark,FR Yugoslavia,6,0,UEFA Euro qualification,Odense,Denmark,FALSE
 1999-10-19,Israel,Estonia,2,1,UEFA Euro qualification,Herzliya,Israel,FALSE
-1999-10-19,Uzbekistan,Japan,1,5,AFC Championship,Iloilo City,Philippines,TRUE
-1999-10-19,Thailand,Nepal,5,0,AFC Championship,Iloilo City,Philippines,TRUE
 1999-10-23,Portugal,Norway,0,4,UEFA Euro qualification,Sesimbra,Portugal,FALSE
 1999-10-23,Croatia,Scotland,4,3,UEFA Euro qualification,Poreč,Croatia,FALSE
 1999-10-24,Austria,Wales,1,1,UEFA Euro qualification,Austria,Austria,FALSE
@@ -1129,6 +1114,31 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-10-30,Netherlands,France,1,1,UEFA Euro qualification,Eindhoven,Netherlands,FALSE
 1999-10-30,Republic of Ireland,Croatia,2,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
 1999-10-31,Israel,Romania,0,4,UEFA Euro qualification,Israel,Israel,FALSE
+1999-11-03,Turkey,Hungary,2,8,UEFA Euro qualification,İzmir,Turkey,FALSE
+1999-11-06,Belgium,Poland,4,1,UEFA Euro qualification,Wavre,Belgium,FALSE
+1999-11-07,Spain,Sweden,2,5,UEFA Euro qualification,Plasencia,Spain,FALSE
+1999-11-07,North Korea,India,7,0,AFC Championship,Philippines,Philippines,TRUE
+1999-11-07,Chinese Taipei,Malaysia,16,0,AFC Championship,Philippines,Philippines,TRUE
+1999-11-07,China PR,South Korea,5,2,AFC Championship,Philippines,Philippines,TRUE
+1999-11-07,Hong Kong,Kazakhstan,0,8,AFC Championship,Philippines,Philippines,TRUE
+1999-11-08,Japan,Thailand,9,0,AFC Championship,Iloilo City,Philippines,TRUE
+1999-11-08,Philippines,Nepal,5,0,AFC Championship,Iloilo City,Philippines,FALSE
+1999-11-09,North Korea,Vietnam,12,1,AFC Championship,Philippines,Philippines,TRUE
+1999-11-09,India,Malaysia,3,0,AFC Championship,Philippines,Philippines,TRUE
+1999-11-09,China PR,Guam,15,0,AFC Championship,Philippines,Philippines,TRUE
+1999-11-09,South Korea,Kazakhstan,6,0,AFC Championship,Philippines,Philippines,TRUE
+1999-11-10,Denmark,FR Yugoslavia,6,0,UEFA Euro qualification,Odense,Denmark,FALSE
+1999-11-10,Uzbekistan,Japan,1,5,AFC Championship,Iloilo City,Philippines,TRUE
+1999-11-10,Thailand,Nepal,5,0,AFC Championship,Iloilo City,Philippines,TRUE
+1999-11-11,Italy,Germany,4,4,UEFA Euro qualification,Isernia,Italy,FALSE
+1999-11-11,Malaysia,North Korea,1,5,AFC Championship,Philippines,Philippines,TRUE
+1999-11-11,Chinese Taipei,Vietnam,4,1,AFC Championship,Philippines,Philippines,TRUE
+1999-11-11,Kazakhstan,China PR,0,9,AFC Championship,Bacolod,Philippines,TRUE
+1999-11-11,Hong Kong,Guam,0,2,AFC Championship,Philippines,Philippines,TRUE
+1999-11-11,North Korea,China PR,0,3,AFC Championship,Bacolod,Philippines,TRUE
+1999-11-11,Japan,Chinese Taipei,0,2,AFC Championship,Bacolod,Philippines,TRUE
+1999-11-12,Japan,Nepal,14,0,AFC Championship,Barotac Nuevo,Philippines,TRUE
+1999-11-12,Philippines,Uzbekistan,0,1,AFC Championship,Iloilo City,Philippines,FALSE
 1999-11-13,Chinese Taipei,North Korea,1,1,AFC Championship,Philippines,Philippines,TRUE
 1999-11-13,India,Vietnam,0,3,AFC Championship,Philippines,Philippines,TRUE
 1999-11-13,China PR,Hong Kong,12,0,AFC Championship,Philippines,Philippines,TRUE
@@ -1143,23 +1153,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-11-16,Israel,Slovakia,0,5,UEFA Euro qualification,Israel,Israel,FALSE
 1999-11-16,Uzbekistan,Nepal,6,1,AFC Championship,Barotac Nuevo,Philippines,TRUE
 1999-11-16,Philippines,Thailand,0,1,AFC Championship,Iloilo City,Philippines,FALSE
-1999-11-19,Norway,Switzerland,4,0,UEFA Euro qualification,Strusshamn,Norway,FALSE
-1999-11-19,Italy,Germany,4,4,UEFA Euro qualification,Isernia,Italy,FALSE
-1999-11-19,Belarus,Estonia,4,1,UEFA Euro qualification,Bobruisk,Belarus,FALSE
-1999-11-19,Malaysia,North Korea,1,5,AFC Championship,Philippines,Philippines,TRUE
-1999-11-19,Chinese Taipei,Vietnam,4,1,AFC Championship,Philippines,Philippines,TRUE
-1999-11-19,Kazakhstan,China PR,0,9,AFC Championship,Bacolod,Philippines,TRUE
-1999-11-19,Hong Kong,Guam,0,2,AFC Championship,Philippines,Philippines,TRUE
-1999-11-19,North Korea,China PR,0,3,AFC Championship,Bacolod,Philippines,TRUE
-1999-11-19,Japan,Chinese Taipei,0,2,AFC Championship,Bacolod,Philippines,TRUE
 1999-11-21,North Korea,Japan,3,2,AFC Championship,Bacolod,Philippines,TRUE
 1999-11-21,China PR,Chinese Taipei,3,0,AFC Championship,Bacolod,Philippines,TRUE
 1999-11-27,France,Spain,1,0,UEFA Euro qualification,Martigues,France,FALSE
 1999-11-27,Portugal,Switzerland,0,1,UEFA Euro qualification,Leiria,Portugal,FALSE
+1999-12-01,Wales,Belgium,0,2,UEFA Euro qualification,Llanelli,Wales,FALSE
+1999-12-12,Spain,Netherlands,1,1,UEFA Euro qualification,Córdoba,Spain,FALSE
 1999-12-18,Greece,Turkey,0,0,UEFA Euro qualification,Karditsa,Greece,FALSE
-1999-12-19,Spain,Netherlands,1,1,UEFA Euro qualification,Córdoba,Spain,FALSE
-1999-12-19,Japan,Nepal,14,0,AFC Championship,Barotac Nuevo,Philippines,TRUE
-1999-12-19,Philippines,Uzbekistan,0,1,AFC Championship,Iloilo City,Philippines,FALSE
 2000-02-16,Turkey,Bosnia and Herzegovina,3,1,UEFA Euro qualification,Istanbul,Turkey,FALSE
 2000-02-20,England,Portugal,2,0,UEFA Euro qualification,Barnsley,England,FALSE
 2000-03-04,Greece,Bosnia and Herzegovina,4,0,UEFA Euro qualification,Greece,Greece,FALSE
@@ -1250,6 +1250,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-07-30,Morocco,Algeria,3,0,African Championship qualification,Casablanca,Morocco,FALSE
 2000-07-30,Zimbabwe,Lesotho,4,0,African Championship qualification,Harare,Zimbabwe,FALSE
 2000-08-05,Slovakia,Belarus,6,1,UEFA Euro qualification,Slovakia,Slovakia,FALSE
+2000-08-11,Egypt,Réunion,1,1,African Championship qualification,Alexandria,Egypt,FALSE
+2000-08-12,Algeria,Morocco,1,3,African Championship qualification,Algiers,Algeria,FALSE
 2000-08-13,Lesotho,Zimbabwe,0,4,African Championship qualification,Maseru,Lesotho,FALSE
 2000-08-17,Iceland,Germany,0,6,UEFA Euro qualification,Kópavogur,Iceland,FALSE
 2000-08-22,Iceland,Ukraine,2,3,UEFA Euro qualification,Reykjavík,Iceland,FALSE
@@ -1281,6 +1283,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-10-18,Italy,Portugal,3,0,UEFA Euro qualification,Palermo,Italy,FALSE
 2000-10-22,Spain,Denmark,1,6,UEFA Euro qualification,Burgos,Spain,FALSE
 2000-10-30,Ukraine,England,1,2,UEFA Euro qualification,Borispol,Ukraine,FALSE
+2000-11-11,South Africa,Réunion,3,0,African Championship,South Africa,South Africa,FALSE
+2000-11-11,Zimbabwe,Uganda,2,2,African Championship,South Africa,South Africa,TRUE
+2000-11-12,Nigeria,Ghana,2,2,African Championship,South Africa,South Africa,TRUE
+2000-11-12,Cameroon,Morocco,4,1,African Championship,South Africa,South Africa,TRUE
 2000-11-14,Zimbabwe,Réunion,2,1,African Championship,South Africa,South Africa,TRUE
 2000-11-14,South Africa,Uganda,3,0,African Championship,South Africa,South Africa,FALSE
 2000-11-15,Ghana,Cameroon,2,0,African Championship,South Africa,South Africa,TRUE
@@ -1292,9 +1298,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-11-18,Switzerland,Belgium,0,0,UEFA Euro qualification,Sierre,Switzerland,FALSE
 2000-11-18,Netherlands,Hungary,2,0,UEFA Euro qualification,Almelo,Netherlands,FALSE
 2000-11-19,FR Yugoslavia,Czech Republic,2,3,UEFA Euro qualification,Niš,FR Yugoslavia,FALSE
-2000-11-20,Egypt,Réunion,1,1,African Championship qualification,Alexandria,Egypt,FALSE
-2000-11-20,South Africa,Réunion,3,0,African Championship,South Africa,South Africa,FALSE
-2000-11-20,Zimbabwe,Uganda,2,2,African Championship,South Africa,South Africa,TRUE
 2000-11-21,South Africa,Ghana,1,0,African Championship,South Africa,South Africa,FALSE
 2000-11-21,Nigeria,Zimbabwe,6,0,African Championship,South Africa,South Africa,TRUE
 2000-11-21,Denmark,Spain,4,2,UEFA Euro qualification,Odense,Denmark,FALSE
@@ -1302,9 +1305,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-11-24,Ghana,Zimbabwe,6,3,African Championship,South Africa,South Africa,TRUE
 2000-11-25,South Africa,Nigeria,0,2,African Championship,South Africa,South Africa,FALSE
 2000-11-28,England,Ukraine,2,0,UEFA Euro qualification,London,England,FALSE
-2000-12-20,Algeria,Morocco,1,3,African Championship qualification,Algiers,Algeria,FALSE
-2000-12-20,Nigeria,Ghana,2,2,African Championship,South Africa,South Africa,TRUE
-2000-12-20,Cameroon,Morocco,4,1,African Championship,South Africa,South Africa,TRUE
 2001-03-11,Canada,United States,3,0,Algarve Cup,Lagos,Portugal,TRUE
 2001-03-11,Portugal,Sweden,1,4,Algarve Cup,Lagos,Portugal,FALSE
 2001-03-11,Denmark,China PR,2,1,Algarve Cup,Montechoro,Portugal,TRUE
@@ -1321,16 +1321,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2001-03-17,Norway,United States,4,3,Algarve Cup,Quarteira,Portugal,TRUE
 2001-03-17,China PR,Canada,5,1,Algarve Cup,Loulé,Portugal,TRUE
 2001-03-17,Sweden,Denmark,3,0,Algarve Cup,Loulé,Portugal,TRUE
-2001-04-20,Chinese Taipei,Malaysia,14,0,AFC Championship,New Taipei City,Chinese Taipei,FALSE
-2001-04-20,India,South Korea,0,7,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-04-20,Japan,Singapore,14,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-04-20,North Korea,Guam,19,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-05-20,China PR,Hong Kong,10,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-05-20,Uzbekistan,Philippines,5,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-06-20,Malaysia,Thailand,0,4,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-06-20,Chinese Taipei,India,5,0,AFC Championship,New Taipei City,Chinese Taipei,FALSE
-2001-06-20,Vietnam,Guam,2,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-06-20,North Korea,Singapore,24,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
 2001-06-23,Germany,Sweden,3,1,UEFA Euro,Erfurt,Germany,FALSE
 2001-06-24,Russia,England,1,1,UEFA Euro,Jena,Germany,TRUE
 2001-06-25,Italy,Denmark,2,1,UEFA Euro,Aalen,Germany,TRUE
@@ -1346,26 +1336,36 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2001-07-04,Germany,Norway,1,0,UEFA Euro,Ulm,Germany,FALSE
 2001-07-04,Denmark,Sweden,0,1,UEFA Euro,Ulm,Germany,TRUE
 2001-07-07,Germany,Sweden,1,0,UEFA Euro,Ulm,Germany,FALSE
-2001-07-20,Hong Kong,Philippines,2,1,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-07-20,China PR,Uzbekistan,11,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-08-20,Malaysia,South Korea,0,3,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-08-20,Chinese Taipei,Thailand,5,0,AFC Championship,New Taipei City,Chinese Taipei,FALSE
-2001-08-20,Japan,Guam,11,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-08-20,North Korea,Vietnam,4,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-09-20,Uzbekistan,Hong Kong,4,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-09-20,China PR,Philippines,10,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-10-20,India,Thailand,0,1,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-10-20,Chinese Taipei,South Korea,0,1,AFC Championship,New Taipei City,Chinese Taipei,FALSE
-2001-10-20,Vietnam,Singapore,8,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-10-20,Japan,North Korea,0,1,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-04,Chinese Taipei,Malaysia,14,0,AFC Championship,New Taipei City,Chinese Taipei,FALSE
+2001-12-04,India,South Korea,0,7,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-04,Japan,Singapore,14,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-04,North Korea,Guam,19,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-05,China PR,Hong Kong,10,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-05,Uzbekistan,Philippines,5,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-06,Malaysia,Thailand,0,4,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-06,Chinese Taipei,India,5,0,AFC Championship,New Taipei City,Chinese Taipei,FALSE
+2001-12-06,Vietnam,Guam,2,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-06,North Korea,Singapore,24,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-07,Hong Kong,Philippines,2,1,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-07,China PR,Uzbekistan,11,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-08,Malaysia,South Korea,0,3,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-08,Chinese Taipei,Thailand,5,0,AFC Championship,New Taipei City,Chinese Taipei,FALSE
+2001-12-08,Japan,Guam,11,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-08,North Korea,Vietnam,4,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-09,Uzbekistan,Hong Kong,4,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-09,China PR,Philippines,10,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-10,India,Thailand,0,1,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-10,Chinese Taipei,South Korea,0,1,AFC Championship,New Taipei City,Chinese Taipei,FALSE
+2001-12-10,Vietnam,Singapore,8,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-10,Japan,North Korea,0,1,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-12,South Korea,Thailand,4,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-12,India,Malaysia,3,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-12,Japan,Vietnam,3,1,AFC Championship,New Taipei City,Chinese Taipei,TRUE
+2001-12-12,Guam,Singapore,1,2,AFC Championship,New Taipei City,Chinese Taipei,TRUE
 2001-12-14,South Korea,Japan,1,2,AFC Championship,New Taipei City,Chinese Taipei,TRUE
 2001-12-14,North Korea,China PR,3,1,AFC Championship,New Taipei City,Chinese Taipei,TRUE
 2001-12-14,South Korea,China PR,0,8,AFC Championship,New Taipei City,Chinese Taipei,TRUE
 2001-12-16,North Korea,Japan,2,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-12-20,South Korea,Thailand,4,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-12-20,India,Malaysia,3,0,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-12-20,Japan,Vietnam,3,1,AFC Championship,New Taipei City,Chinese Taipei,TRUE
-2001-12-20,Guam,Singapore,1,2,AFC Championship,New Taipei City,Chinese Taipei,TRUE
 2002-01-23,Norway,United States,1,0,Four Nations Tournament,Guangzhou,China PR,TRUE
 2002-01-23,China PR,Germany,2,1,Four Nations Tournament,Guangzhou,China PR,FALSE
 2002-01-25,Germany,United States,0,0,Four Nations Tournament,Guangzhou,China PR,TRUE
@@ -1405,8 +1405,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2002-07-13,Jamaica,Puerto Rico,8,0,CONCACAF Gold Cup qualification,Jamaica,Jamaica,FALSE
 2002-07-14,Saint Lucia,Bahamas,7,1,CONCACAF Gold Cup qualification,Haiti,Haiti,TRUE
 2002-07-14,Haiti,Dominican Republic,2,0,CONCACAF Gold Cup qualification,Haiti,Haiti,FALSE
-2002-07-20,Nigeria,Ethiopia,3,0,African Championship,Warri,Nigeria,FALSE
-2002-07-20,Mali,Ghana,0,2,African Championship,Warri,Nigeria,TRUE
 2002-07-21,Puerto Rico,Jamaica,0,3,CONCACAF Gold Cup qualification,Puerto Rico,Puerto Rico,FALSE
 2002-07-29,Panama,Guatemala,2,1,CONCACAF Gold Cup qualification,El Salvador,El Salvador,TRUE
 2002-07-29,Costa Rica,Honduras,5,2,CONCACAF Gold Cup qualification,El Salvador,El Salvador,TRUE
@@ -1424,8 +1422,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2002-08-13,Suriname,Trinidad and Tobago,1,3,CONCACAF Gold Cup qualification,Suriname,Suriname,FALSE
 2002-08-15,Suriname,Trinidad and Tobago,1,2,CONCACAF Gold Cup qualification,Suriname,Suriname,FALSE
 2002-08-18,Haiti,Jamaica,0,0,CONCACAF Gold Cup qualification,Haiti,Haiti,FALSE
-2002-08-20,South Africa,Cameroon,2,1,African Championship,Oghara,Nigeria,TRUE
-2002-08-20,Angola,Zimbabwe,1,1,African Championship,Oghara,Nigeria,TRUE
 2002-08-24,Tanzania,Eritrea,2,2,African Championship qualification,Dar es Salaam,Tanzania,FALSE
 2002-08-24,Equatorial Guinea,Angola,1,3,African Championship qualification,Malabo,Equatorial Guinea,FALSE
 2002-08-24,Gabon,São Tomé and Príncipe,6,0,African Championship qualification,Libreville,Gabon,FALSE
@@ -1441,11 +1437,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2002-09-22,Mali,Morocco,0,0,African Championship qualification,Bamako,Mali,FALSE
 2002-10-13,Uganda,Ethiopia,2,2,African Championship qualification,Kampala,Uganda,FALSE
 2002-10-13,Zimbabwe,Tanzania,5,0,African Championship qualification,Harare,Zimbabwe,FALSE
-2002-10-20,Ethiopia,Mali,2,2,African Championship,Warri,Nigeria,TRUE
-2002-10-20,Nigeria,Ghana,0,1,African Championship,Warri,Nigeria,FALSE
-2002-10-20,Eritrea,Tanzania,2,3,African Championship qualification,Asmara,Eritrea,FALSE
-2002-10-20,São Tomé and Príncipe,Gabon,0,2,African Championship qualification,São Tomé,São Tomé and Príncipe,FALSE
-2002-10-20,Ivory Coast,Mali,3,3,African Championship qualification,Abidjan,Ivory Coast,FALSE
 2002-10-27,Trinidad and Tobago,Panama,2,4,CONCACAF Gold Cup,Pasadena,United States,TRUE
 2002-10-27,United States,Mexico,3,0,CONCACAF Gold Cup,Pasadena,United States,FALSE
 2002-10-29,United States,Trinidad and Tobago,3,0,CONCACAF Gold Cup,Fullerton,United States,FALSE
@@ -1462,22 +1453,31 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2002-11-06,United States,Costa Rica,7,0,CONCACAF Gold Cup,Seattle,United States,FALSE
 2002-11-09,Mexico,Costa Rica,4,1,CONCACAF Gold Cup,Pasadena,United States,TRUE
 2002-11-09,United States,Canada,2,1,CONCACAF Gold Cup,Pasadena,United States,FALSE
-2002-11-20,Cameroon,Zimbabwe,0,0,African Championship,Oghara,Nigeria,TRUE
-2002-11-20,South Africa,Angola,1,1,African Championship,Oghara,Nigeria,TRUE
-2002-11-20,Angola,Equatorial Guinea,3,0,African Championship qualification,Luanda,Angola,FALSE
-2002-11-20,DR Congo,Angola,1,0,African Championship qualification,Kinshasa,DR Congo,FALSE
-2002-11-20,Morocco,Mali,0,0,African Championship qualification,Rabat,Morocco,FALSE
+2002-12-07,Nigeria,Ethiopia,3,0,African Championship,Warri,Nigeria,FALSE
+2002-12-07,Mali,Ghana,0,2,African Championship,Warri,Nigeria,TRUE
+2002-12-08,South Africa,Cameroon,2,1,African Championship,Oghara,Nigeria,TRUE
+2002-12-08,Angola,Zimbabwe,1,1,African Championship,Oghara,Nigeria,TRUE
+2002-12-10,Ethiopia,Mali,2,2,African Championship,Warri,Nigeria,TRUE
+2002-12-10,Nigeria,Ghana,0,1,African Championship,Warri,Nigeria,FALSE
+2002-12-10,Eritrea,Tanzania,2,3,African Championship qualification,Asmara,Eritrea,FALSE
+2002-12-10,São Tomé and Príncipe,Gabon,0,2,African Championship qualification,São Tomé,São Tomé and Príncipe,FALSE
+2002-12-10,Ivory Coast,Mali,3,3,African Championship qualification,Abidjan,Ivory Coast,FALSE
+2002-12-11,Cameroon,Zimbabwe,0,0,African Championship,Oghara,Nigeria,TRUE
+2002-12-11,South Africa,Angola,1,1,African Championship,Oghara,Nigeria,TRUE
+2002-12-11,Angola,Equatorial Guinea,3,0,African Championship qualification,Luanda,Angola,FALSE
+2002-12-11,DR Congo,Angola,1,0,African Championship qualification,Kinshasa,DR Congo,FALSE
+2002-12-11,Morocco,Mali,0,0,African Championship qualification,Rabat,Morocco,FALSE
+2002-12-12,Cameroon,South Africa,3,0,African Championship,Warri,Nigeria,TRUE
+2002-12-12,Nigeria,Ghana,2,0,African Championship,Warri,Nigeria,FALSE
+2002-12-12,South Africa,Zambia,4,0,African Championship qualification,Bloemfontein,South Africa,FALSE
+2002-12-12,Cameroon,Gabon,4,0,African Championship qualification,Douala,Cameroon,FALSE
+2002-12-12,Ghana,Senegal,3,1,African Championship qualification,Kumasi,Ghana,FALSE
 2002-12-13,Nigeria,Mali,5,1,African Championship,Warri,Nigeria,FALSE
 2002-12-13,Ghana,Ethiopia,3,0,African Championship,Oghara,Nigeria,TRUE
 2002-12-14,Cameroon,Angola,1,0,African Championship,Oghara,Nigeria,TRUE
 2002-12-14,South Africa,Zimbabwe,3,1,African Championship,Warri,Nigeria,TRUE
 2002-12-17,Ghana,Cameroon,3,2,African Championship,Warri,Nigeria,TRUE
 2002-12-18,Nigeria,South Africa,5,0,African Championship,Warri,Nigeria,FALSE
-2002-12-20,Cameroon,South Africa,3,0,African Championship,Warri,Nigeria,TRUE
-2002-12-20,Nigeria,Ghana,2,0,African Championship,Warri,Nigeria,FALSE
-2002-12-20,South Africa,Zambia,4,0,African Championship qualification,Bloemfontein,South Africa,FALSE
-2002-12-20,Cameroon,Gabon,4,0,African Championship qualification,Douala,Cameroon,FALSE
-2002-12-20,Ghana,Senegal,3,1,African Championship qualification,Kumasi,Ghana,FALSE
 2003-01-23,China PR,Germany,0,0,Four Nations Tournament,Yiwu,China PR,FALSE
 2003-01-23,Norway,United States,1,3,Four Nations Tournament,Yiwu,China PR,TRUE
 2003-01-26,Germany,Norway,2,2,Four Nations Tournament,Wuhan,China PR,TRUE
@@ -1511,12 +1511,20 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2003-03-26,Netherlands,Spain,0,1,UEFA Euro qualification,Zwolle,Netherlands,FALSE
 2003-03-27,Germany,Scotland,5,0,UEFA Euro qualification,Germany,Germany,FALSE
 2003-03-30,Italy,Serbia and Montenegro,8,0,UEFA Euro qualification,Trento,Italy,FALSE
+2003-04-05,Cook Islands,Papua New Guinea,1,5,OFC Championship,Canberra,Australia,TRUE
+2003-04-05,Australia,Samoa,19,0,OFC Championship,Canberra,Australia,FALSE
+2003-04-07,Australia,Cook Islands,11,0,OFC Championship,Canberra,Australia,FALSE
+2003-04-07,Samoa,New Zealand,0,15,OFC Championship,Canberra,Australia,TRUE
 2003-04-09,Peru,Bolivia,3,1,Copa América,Lima,Peru,FALSE
 2003-04-09,Ecuador,Venezuela,2,0,Copa América,Loja,Ecuador,FALSE
 2003-04-09,Argentina,Paraguay,3,0,Copa América,Salta,Argentina,FALSE
+2003-04-09,Cook Islands,New Zealand,0,9,OFC Championship,Canberra,Australia,TRUE
+2003-04-09,Australia,Papua New Guinea,13,0,OFC Championship,Canberra,Australia,FALSE
 2003-04-11,Bolivia,Chile,7,1,Copa América,Lima,Peru,TRUE
 2003-04-11,Colombia,Venezuela,8,0,Copa América,Loja,Ecuador,TRUE
 2003-04-11,Uruguay,Paraguay,1,3,Copa América,Salta,Argentina,TRUE
+2003-04-11,Papua New Guinea,New Zealand,0,5,OFC Championship,Canberra,Australia,TRUE
+2003-04-11,Cook Islands,Samoa,0,1,OFC Championship,Canberra,Australia,TRUE
 2003-04-13,Papua New Guinea,Samoa,5,2,OFC Championship,Canberra,Australia,TRUE
 2003-04-13,Australia,New Zealand,2,0,OFC Championship,Canberra,Australia,FALSE
 2003-04-13,Peru,Chile,2,1,Copa América,Lima,Peru,FALSE
@@ -1542,12 +1550,24 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2003-05-18,Russia,Poland,6,0,UEFA Euro qualification,Russia,Russia,FALSE
 2003-05-18,Scotland,Ukraine,5,1,UEFA Euro qualification,Scotland,Scotland,FALSE
 2003-05-18,Republic of Ireland,Bosnia and Herzegovina,6,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
-2003-05-20,Cook Islands,Papua New Guinea,1,5,OFC Championship,Canberra,Australia,TRUE
-2003-05-20,Australia,Samoa,19,0,OFC Championship,Canberra,Australia,FALSE
 2003-05-25,Croatia,Republic of Ireland,0,0,UEFA Euro qualification,Velika Gorica,Croatia,FALSE
 2003-06-01,Finland,Switzerland,1,1,UEFA Euro qualification,Espoo,Finland,FALSE
 2003-06-07,Portugal,Scotland,1,8,UEFA Euro qualification,Nelas,Portugal,FALSE
 2003-06-08,Ukraine,Czech Republic,1,1,UEFA Euro qualification,Ukraine,Ukraine,FALSE
+2003-06-08,Thailand,Singapore,3,0,AFC Championship,Bangkok,Thailand,FALSE
+2003-06-08,South Korea,Hong Kong,8,0,AFC Championship,Bangkok,Thailand,TRUE
+2003-06-09,Japan,Philippines,15,0,AFC Championship,Bangkok,Thailand,TRUE
+2003-06-09,Guam,Chinese Taipei,1,2,AFC Championship,Bangkok,Thailand,TRUE
+2003-06-09,China PR,Vietnam,6,0,AFC Championship,Nakhon Sawan,Thailand,TRUE
+2003-06-09,India,Uzbekistan,6,0,AFC Championship,Nakhon Sawan,Thailand,TRUE
+2003-06-10,Thailand,South Korea,0,6,AFC Championship,Bangkok,Thailand,FALSE
+2003-06-10,North Korea,Hong Kong,13,0,AFC Championship,Bangkok,Thailand,TRUE
+2003-06-11,Philippines,Myanmar,0,6,AFC Championship,Bangkok,Thailand,TRUE
+2003-06-11,Japan,Guam,7,0,AFC Championship,Bangkok,Thailand,TRUE
+2003-06-11,Vietnam,Uzbekistan,4,2,AFC Championship,Nakhon Sawan,Thailand,TRUE
+2003-06-11,China PR,India,12,0,AFC Championship,Nakhon Sawan,Thailand,TRUE
+2003-06-12,South Korea,Singapore,4,0,AFC Championship,Bangkok,Thailand,TRUE
+2003-06-12,Thailand,North Korea,0,14,AFC Championship,Bangkok,Thailand,FALSE
 2003-06-13,Philippines,Chinese Taipei,0,4,AFC Championship,Bangkok,Thailand,TRUE
 2003-06-13,Japan,Myanmar,7,0,AFC Championship,Bangkok,Thailand,TRUE
 2003-06-13,Vietnam,India,2,1,AFC Championship,Nakhon Sawan,Thailand,TRUE
@@ -1567,15 +1587,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2003-06-21,North Korea,China PR,2,1,AFC Championship,Bangkok,Thailand,TRUE
 2003-06-28,Republic of Ireland,Romania,2,2,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
 2003-07-19,Finland,Italy,1,1,UEFA Euro qualification,Vaasa,Finland,FALSE
-2003-07-20,Australia,Cook Islands,11,0,OFC Championship,Canberra,Australia,FALSE
-2003-07-20,Samoa,New Zealand,0,15,OFC Championship,Canberra,Australia,TRUE
 2003-08-09,Sweden,Finland,2,1,UEFA Euro qualification,Eskilstuna,Sweden,FALSE
 2003-08-09,Russia,Iceland,1,1,UEFA Euro qualification,Russia,Russia,FALSE
 2003-08-09,Ukraine,Germany,1,3,UEFA Euro qualification,Ukraine,Ukraine,FALSE
 2003-08-10,Romania,Malta,3,0,UEFA Euro qualification,Romania,Romania,FALSE
 2003-08-10,Estonia,Israel,1,4,UEFA Euro qualification,Estonia,Estonia,FALSE
-2003-08-20,Thailand,Singapore,3,0,AFC Championship,Bangkok,Thailand,FALSE
-2003-08-20,South Korea,Hong Kong,8,0,AFC Championship,Bangkok,Thailand,TRUE
 2003-08-24,Estonia,Kazakhstan,3,2,UEFA Euro qualification,Estonia,Estonia,FALSE
 2003-08-28,Germany,Czech Republic,4,0,UEFA Euro qualification,Germany,Germany,FALSE
 2003-09-08,France,Iceland,2,0,UEFA Euro qualification,France,France,FALSE
@@ -1585,16 +1601,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2003-09-12,Armenia,Slovakia,0,10,UEFA Euro qualification,Armenia,Armenia,FALSE
 2003-09-13,Iceland,Poland,10,0,UEFA Euro qualification,Iceland,Iceland,FALSE
 2003-09-14,Kazakhstan,Israel,0,0,UEFA Euro qualification,Kazakhstan,Kazakhstan,FALSE
-2003-09-20,Cook Islands,New Zealand,0,9,OFC Championship,Canberra,Australia,TRUE
-2003-09-20,Australia,Papua New Guinea,13,0,OFC Championship,Canberra,Australia,FALSE
 2003-09-20,Nigeria,North Korea,0,3,FIFA World Cup,Philadelphia,United States,TRUE
 2003-09-20,Norway,France,2,0,FIFA World Cup,Philadelphia,United States,TRUE
 2003-09-20,Germany,Canada,4,1,FIFA World Cup,Columbus,United States,TRUE
 2003-09-20,Japan,Argentina,6,0,FIFA World Cup,Columbus,United States,TRUE
-2003-09-20,Japan,Philippines,15,0,AFC Championship,Bangkok,Thailand,TRUE
-2003-09-20,Guam,Chinese Taipei,1,2,AFC Championship,Bangkok,Thailand,TRUE
-2003-09-20,China PR,Vietnam,6,0,AFC Championship,Nakhon Sawan,Thailand,TRUE
-2003-09-20,India,Uzbekistan,6,0,AFC Championship,Nakhon Sawan,Thailand,TRUE
 2003-09-21,United States,Sweden,3,1,FIFA World Cup,"Washington, D.C.",United States,FALSE
 2003-09-21,Brazil,South Korea,3,0,FIFA World Cup,"Washington, D.C.",United States,TRUE
 2003-09-21,Australia,Russia,1,2,FIFA World Cup,Carson,United States,TRUE
@@ -1634,8 +1644,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2003-10-18,Croatia,Romania,2,3,UEFA Euro qualification,Croatia,Croatia,FALSE
 2003-10-18,Belarus,Israel,1,1,UEFA Euro qualification,Mogilev,Belarus,FALSE
 2003-10-19,Czech Republic,Scotland,2,0,UEFA Euro qualification,Czech Republic,Czech Republic,FALSE
-2003-10-20,Thailand,South Korea,0,6,AFC Championship,Bangkok,Thailand,FALSE
-2003-10-20,North Korea,Hong Kong,13,0,AFC Championship,Bangkok,Thailand,TRUE
 2003-10-22,Malta,Republic of Ireland,0,9,UEFA Euro qualification,Ta' Qali,Malta,FALSE
 2003-10-25,Greece,Armenia,7,0,UEFA Euro qualification,Greece,Greece,FALSE
 2003-10-28,Armenia,Greece,0,9,UEFA Euro qualification,Armenia,Armenia,FALSE
@@ -1645,18 +1653,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2003-11-15,Greece,Slovakia,3,1,UEFA Euro qualification,Greece,Greece,FALSE
 2003-11-16,Spain,Norway,0,2,UEFA Euro qualification,Las Rozas de Madrid,Spain,FALSE
 2003-11-16,Malta,Croatia,1,4,UEFA Euro qualification,Gozo,Malta,FALSE
-2003-11-20,Papua New Guinea,New Zealand,0,5,OFC Championship,Canberra,Australia,TRUE
-2003-11-20,Cook Islands,Samoa,0,1,OFC Championship,Canberra,Australia,TRUE
 2003-11-20,Norway,Belgium,6,0,UEFA Euro qualification,Kristiansand,Norway,FALSE
-2003-11-20,Philippines,Myanmar,0,6,AFC Championship,Bangkok,Thailand,TRUE
-2003-11-20,Japan,Guam,7,0,AFC Championship,Bangkok,Thailand,TRUE
-2003-11-20,Vietnam,Uzbekistan,4,2,AFC Championship,Nakhon Sawan,Thailand,TRUE
-2003-11-20,China PR,India,12,0,AFC Championship,Nakhon Sawan,Thailand,TRUE
 2003-11-22,Netherlands,Belgium,3,0,UEFA Euro qualification,Eindhoven,Netherlands,FALSE
 2003-11-29,Greece,Austria,0,2,UEFA Euro qualification,Greece,Greece,FALSE
 2003-12-06,Portugal,Czech Republic,0,1,UEFA Euro qualification,Pombal,Portugal,FALSE
-2003-12-20,South Korea,Singapore,4,0,AFC Championship,Bangkok,Thailand,TRUE
-2003-12-20,Thailand,North Korea,0,14,AFC Championship,Bangkok,Thailand,FALSE
 2004-01-30,Sweden,United States,0,3,Four Nations Tournament,Shenzhen,China PR,TRUE
 2004-01-30,China PR,Canada,2,1,Four Nations Tournament,Shenzhen,China PR,FALSE
 2004-02-01,Sweden,Canada,3,1,Four Nations Tournament,Shenzhen,China PR,TRUE
@@ -1712,6 +1712,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-05-09,Czech Republic,Portugal,5,1,UEFA Euro qualification,Uherské Hradiště,Czech Republic,FALSE
 2004-05-09,Bosnia and Herzegovina,Republic of Ireland,1,4,UEFA Euro qualification,Vogošća,Bosnia and Herzegovina,FALSE
 2004-05-09,Israel,Estonia,12,1,UEFA Euro qualification,Israel,Israel,FALSE
+2004-05-12,Eritrea,Tanzania,1,1,African Championship qualification,Asmara,Eritrea,FALSE
 2004-05-15,Finland,Serbia and Montenegro,4,0,UEFA Euro qualification,Helsinki,Finland,FALSE
 2004-05-15,Croatia,Bosnia and Herzegovina,6,0,UEFA Euro qualification,Croatia,Croatia,FALSE
 2004-05-16,Russia,France,0,3,UEFA Euro qualification,Russia,Russia,FALSE
@@ -1727,8 +1728,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-05-30,Israel,Kazakhstan,3,1,UEFA Euro qualification,Israel,Israel,FALSE
 2004-06-02,Iceland,France,0,3,UEFA Euro qualification,Iceland,Iceland,FALSE
 2004-06-05,Czech Republic,Ukraine,4,1,UEFA Euro qualification,Czech Republic,Czech Republic,FALSE
+2004-06-12,Congo,Equatorial Guinea,2,0,African Championship qualification,Brazzaville,Congo,FALSE
 2004-06-25,Republic of Ireland,Malta,5,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
 2004-06-26,Italy,Sweden,2,1,UEFA Euro qualification,Benevento,Italy,FALSE
+2004-07-10,Senegal,Nigeria,2,8,African Championship qualification,Dakar,Senegal,FALSE
+2004-07-11,Congo,Cameroon,0,2,African Championship qualification,Brazzaville,Congo,FALSE
+2004-07-11,Malawi,Ethiopia,0,4,African Championship qualification,Blantyre,Malawi,FALSE
+2004-07-11,Tanzania,Zimbabwe,0,3,African Championship qualification,Dar es Salaam,Tanzania,FALSE
+2004-07-11,Mali,Algeria,2,2,African Championship qualification,Bamako,Mali,FALSE
+2004-07-11,Guinea,Ghana,0,13,African Championship qualification,Conakry,Guinea,FALSE
 2004-07-23,Algeria,Mali,1,0,African Championship qualification,Blida,Algeria,FALSE
 2004-07-24,Ghana,Guinea,9,0,African Championship qualification,Accra,Ghana,FALSE
 2004-07-24,Nigeria,Senegal,4,11,African Championship qualification,Warri,Nigeria,FALSE
@@ -1793,19 +1801,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-10-03,Russia,Hungary,4,0,UEFA Euro qualification,Russia,Russia,FALSE
 2004-10-03,Poland,France,1,5,UEFA Euro qualification,Poland,Poland,FALSE
 2004-10-16,Finland,Russia,1,0,UEFA Euro qualification,Jakobstad,Finland,FALSE
-2004-10-20,Senegal,Nigeria,2,8,African Championship qualification,Dakar,Senegal,FALSE
 2004-10-20,Russia,Finland,1,3,UEFA Euro qualification,Moscow,Russia,FALSE
 2004-11-10,Iceland,Norway,2,7,UEFA Euro qualification,Reykjavík,Iceland,FALSE
 2004-11-13,Italy,Czech Republic,2,1,UEFA Euro qualification,Crotone,Italy,FALSE
 2004-11-13,Norway,Iceland,2,1,UEFA Euro qualification,Oslo,Norway,FALSE
-2004-11-20,Congo,Cameroon,0,2,African Championship qualification,Brazzaville,Congo,FALSE
-2004-11-20,Malawi,Ethiopia,0,4,African Championship qualification,Blantyre,Malawi,FALSE
-2004-11-20,Tanzania,Zimbabwe,0,3,African Championship qualification,Dar es Salaam,Tanzania,FALSE
-2004-11-20,Mali,Algeria,2,2,African Championship qualification,Bamako,Mali,FALSE
-2004-11-20,Guinea,Ghana,0,13,African Championship qualification,Conakry,Guinea,FALSE
 2004-11-27,Czech Republic,Italy,0,3,UEFA Euro qualification,Čáslav,Czech Republic,FALSE
-2004-12-20,Congo,Equatorial Guinea,2,0,African Championship qualification,Brazzaville,Congo,FALSE
-2004-12-20,Eritrea,Tanzania,1,1,African Championship qualification,Asmara,Eritrea,FALSE
 2004-12-20,Sweden,Serbia and Montenegro,5,1,UEFA Euro qualification,Växjö,Sweden,FALSE
 2005-01-28,Germany,Australia,0,1,Four Nations Tournament,Guangzhou,China PR,TRUE
 2005-01-28,China PR,Russia,3,1,Four Nations Tournament,Guangzhou,China PR,FALSE
@@ -1813,6 +1813,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2005-01-30,Germany,Russia,1,0,Four Nations Tournament,Guangzhou,China PR,TRUE
 2005-02-01,Russia,Australia,0,5,Four Nations Tournament,Guangzhou,China PR,TRUE
 2005-02-01,China PR,Germany,0,2,Four Nations Tournament,Guangzhou,China PR,FALSE
+2005-03-09,Norway,China PR,2,1,Algarve Cup,Lagos,Portugal,TRUE
+2005-03-09,Sweden,Germany,1,2,Algarve Cup,Lagos,Portugal,TRUE
+2005-03-09,Denmark,Finland,4,1,Algarve Cup,Ferreiras,Portugal,TRUE
+2005-03-09,France,United States,0,1,Algarve Cup,Ferreiras,Portugal,TRUE
+2005-03-09,England,Northern Ireland,4,0,Algarve Cup,Paderne,Portugal,TRUE
+2005-03-09,Portugal,Mexico,1,2,Algarve Cup,Paderne,Portugal,FALSE
+2005-03-11,China PR,Sweden,0,2,Algarve Cup,Silves,Portugal,TRUE
+2005-03-11,Germany,Norway,4,0,Algarve Cup,Silves,Portugal,TRUE
+2005-03-11,United States,Finland,3,0,Algarve Cup,Guia,Portugal,TRUE
+2005-03-11,Denmark,France,1,2,Algarve Cup,Guia,Portugal,TRUE
+2005-03-11,Portugal,England,0,4,Algarve Cup,Faro,Portugal,FALSE
+2005-03-11,Mexico,Northern Ireland,2,0,Algarve Cup,Faro,Portugal,TRUE
 2005-03-13,China PR,Germany,0,2,Algarve Cup,Alvor,Portugal,TRUE
 2005-03-13,Sweden,Norway,1,1,Algarve Cup,Loulé,Portugal,TRUE
 2005-03-13,United States,Denmark,4,0,Algarve Cup,Vila Real de San Antonio,Portugal,TRUE
@@ -1825,6 +1837,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2005-03-15,Norway,Denmark,2,1,Algarve Cup,Algarve,Portugal,TRUE
 2005-03-15,Sweden,France,2,3,Algarve Cup,Algarve,Portugal,TRUE
 2005-03-15,Germany,United States,0,1,Algarve Cup,Faro-Loulé,Portugal,TRUE
+2005-05-06,Uzbekistan,Myanmar,1,2,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
+2005-05-06,Thailand,India,3,2,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
 2005-06-05,Sweden,Denmark,1,1,UEFA Euro,Blackpool,England,TRUE
 2005-06-05,England,Finland,3,2,UEFA Euro,Manchester,England,FALSE
 2005-06-06,Germany,Norway,1,0,UEFA Euro,Warrington,England,TRUE
@@ -1837,6 +1851,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2005-06-11,Finland,Denmark,2,1,UEFA Euro,Blackpool,England,TRUE
 2005-06-12,France,Germany,0,3,UEFA Euro,Warrington,England,TRUE
 2005-06-12,Norway,Italy,5,3,UEFA Euro,Preston,England,TRUE
+2005-06-12,Vietnam,Philippines,6,1,AFC Asian Cup qualification,Hanoi,Vietnam,FALSE
+2005-06-12,India,Guam,10,0,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
 2005-06-13,Uzbekistan,Maldives,6,0,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
 2005-06-13,Indonesia,Singapore,0,0,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
 2005-06-14,Myanmar,Philippines,4,1,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
@@ -1852,22 +1868,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2005-06-19,Germany,Norway,3,1,UEFA Euro,Blackburn,England,TRUE
 2005-06-19,Vietnam,Hong Kong,4,1,AFC Asian Cup qualification,Hanoi,Vietnam,FALSE
 2005-06-19,Chinese Taipei,Singapore,3,0,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
-2005-06-20,Uzbekistan,Myanmar,1,2,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
-2005-06-20,Thailand,India,3,2,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
-2005-09-20,Norway,China PR,2,1,Algarve Cup,Lagos,Portugal,TRUE
-2005-09-20,Sweden,Germany,1,2,Algarve Cup,Lagos,Portugal,TRUE
-2005-09-20,Denmark,Finland,4,1,Algarve Cup,Ferreiras,Portugal,TRUE
-2005-09-20,France,United States,0,1,Algarve Cup,Ferreiras,Portugal,TRUE
-2005-09-20,England,Northern Ireland,4,0,Algarve Cup,Paderne,Portugal,TRUE
-2005-09-20,Portugal,Mexico,1,2,Algarve Cup,Paderne,Portugal,FALSE
-2005-11-20,China PR,Sweden,0,2,Algarve Cup,Silves,Portugal,TRUE
-2005-11-20,Germany,Norway,4,0,Algarve Cup,Silves,Portugal,TRUE
-2005-11-20,United States,Finland,3,0,Algarve Cup,Guia,Portugal,TRUE
-2005-11-20,Denmark,France,1,2,Algarve Cup,Guia,Portugal,TRUE
-2005-11-20,Portugal,England,0,4,Algarve Cup,Faro,Portugal,FALSE
-2005-11-20,Mexico,Northern Ireland,2,0,Algarve Cup,Faro,Portugal,TRUE
-2005-12-20,Vietnam,Philippines,6,1,AFC Asian Cup qualification,Hanoi,Vietnam,FALSE
-2005-12-20,India,Guam,10,0,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
 2006-01-18,Norway,United States,1,3,Four Nations Tournament,Guangzhou,China PR,TRUE
 2006-01-18,China PR,France,1,1,Four Nations Tournament,Guangzhou,China PR,FALSE
 2006-01-20,United States,France,0,0,Four Nations Tournament,Guangzhou,China PR,TRUE
@@ -1880,7 +1880,24 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-02-19,Senegal,Central African Republic,4,0,African Championship qualification,Senegal,Senegal,FALSE
 2006-02-26,Malawi,Benin,0,0,African Championship qualification,Malawi,Malawi,FALSE
 2006-02-26,Togo,São Tomé and Príncipe,6,0,African Championship qualification,Togo,Togo,FALSE
+2006-03-09,Germany,Finland,5,0,Algarve Cup,Estádio Algarve,Portugal,TRUE
+2006-03-09,Norway,Sweden,0,0,Algarve Cup,Loulé,Portugal,TRUE
+2006-03-09,China PR,United States,0,0,Algarve Cup,Faro,Portugal,TRUE
+2006-03-09,Denmark,France,2,2,Algarve Cup,Faro,Portugal,TRUE
+2006-03-09,Portugal,Republic of Ireland,0,1,Algarve Cup,Alvor,Portugal,FALSE
+2006-03-11,Morocco,Mali,0,2,African Championship qualification,Rabat,Morocco,FALSE
+2006-03-11,South Africa,Mozambique,6,2,African Championship qualification,South Africa,South Africa,FALSE
+2006-03-11,DR Congo,Zambia,3,0,African Championship qualification,Lubumbashi,DR Congo,FALSE
+2006-03-11,Sweden,Germany,0,3,Algarve Cup,Loulé,Portugal,TRUE
+2006-03-11,Finland,Norway,0,0,Algarve Cup,Alvor,Portugal,TRUE
+2006-03-11,France,China PR,1,0,Algarve Cup,Faro,Portugal,TRUE
+2006-03-11,Denmark,United States,0,5,Algarve Cup,Faro,Portugal,TRUE
+2006-03-11,Republic of Ireland,Mexico,0,0,Algarve Cup,Vila Real de Santo Antonio,Portugal,TRUE
 2006-03-12,Barbados,Antigua and Barbuda,0,1,CONCACAF Gold Cup,Barbados,Barbados,FALSE
+2006-03-12,Benin,Ivory Coast,1,1,African Championship qualification,Benin,Benin,FALSE
+2006-03-12,Angola,Equatorial Guinea,3,2,African Championship qualification,Luanda,Angola,FALSE
+2006-03-12,Congo,Togo,9,0,African Championship qualification,Brazzaville,Congo,FALSE
+2006-03-12,Senegal,Guinea,7,0,African Championship qualification,Dakar,Senegal,FALSE
 2006-03-13,Sweden,Finland,4,1,Algarve Cup,Lagos,Portugal,TRUE
 2006-03-13,Germany,Norway,1,0,Algarve Cup,Estádio Algarve,Portugal,TRUE
 2006-03-13,United States,France,4,1,Algarve Cup,Faro-Loulé,Portugal,TRUE
@@ -1917,8 +1934,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-05-08,Jamaica,Saint Lucia,5,0,CONCACAF Gold Cup,Jamaica,Jamaica,FALSE
 2006-05-10,Saint Lucia,Saint Kitts and Nevis,3,2,CONCACAF Gold Cup,Jamaica,Jamaica,TRUE
 2006-05-10,Jamaica,Antigua and Barbuda,10,0,CONCACAF Gold Cup,Jamaica,Jamaica,FALSE
+2006-05-10,Mexico,Nicaragua,9,0,CONCACAF Gold Cup,Mexico,Mexico,FALSE
 2006-05-12,Antigua and Barbuda,Saint Lucia,1,2,CONCACAF Gold Cup,Jamaica,Jamaica,TRUE
 2006-05-12,Jamaica,Saint Kitts and Nevis,11,0,CONCACAF Gold Cup,Jamaica,Jamaica,FALSE
+2006-05-12,Nicaragua,El Salvador,2,1,CONCACAF Gold Cup,Mexico,Mexico,TRUE
 2006-05-14,Mexico,El Salvador,8,0,CONCACAF Gold Cup,Mexico,Mexico,FALSE
 2006-05-19,Saint Vincent and the Grenadines,Dominica,2,0,CONCACAF Gold Cup,Arima,Trinidad and Tobago,TRUE
 2006-05-19,Trinidad and Tobago,Grenada,10,0,CONCACAF Gold Cup,Arima,Trinidad and Tobago,FALSE
@@ -1966,12 +1985,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-09-08,Bermuda,Haiti,0,5,CONCACAF Gold Cup,Port of Spain,Trinidad and Tobago,TRUE
 2006-09-10,Trinidad and Tobago,Dominican Republic,7,0,CONCACAF Gold Cup,Arima,Trinidad and Tobago,FALSE
 2006-09-10,Haiti,Jamaica,0,3,CONCACAF Gold Cup,Arima,Trinidad and Tobago,TRUE
-2006-09-20,Germany,Finland,5,0,Algarve Cup,Estádio Algarve,Portugal,TRUE
-2006-09-20,Norway,Sweden,0,0,Algarve Cup,Loulé,Portugal,TRUE
-2006-09-20,China PR,United States,0,0,Algarve Cup,Faro,Portugal,TRUE
-2006-09-20,Denmark,France,2,2,Algarve Cup,Faro,Portugal,TRUE
-2006-09-20,Portugal,Republic of Ireland,0,1,Algarve Cup,Alvor,Portugal,FALSE
-2006-10-20,Mexico,Nicaragua,9,0,CONCACAF Gold Cup,Mexico,Mexico,FALSE
 2006-10-28,South Africa,Algeria,4,0,African Championship,Warri,Nigeria,TRUE
 2006-10-28,Nigeria,Equatorial Guinea,4,2,African Championship,Delta,Nigeria,FALSE
 2006-10-29,Mali,Ghana,0,1,African Championship,Oghara,Nigeria,TRUE
@@ -2020,9 +2033,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-11-19,Brazil,Venezuela,6,0,Copa América,Mar del Plata,Argentina,TRUE
 2006-11-19,Jamaica,Panama,2,0,CONCACAF Gold Cup,Miami,United States,TRUE
 2006-11-19,Mexico,Trinidad and Tobago,3,0,CONCACAF Gold Cup,Miami,United States,TRUE
-2006-11-20,Morocco,Mali,0,2,African Championship qualification,Rabat,Morocco,FALSE
-2006-11-20,South Africa,Mozambique,6,2,African Championship qualification,South Africa,South Africa,FALSE
-2006-11-20,DR Congo,Zambia,3,0,African Championship qualification,Lubumbashi,DR Congo,FALSE
 2006-11-20,Turkey,Croatia,1,2,UEFA Euro qualification,Tarsus,Turkey,FALSE
 2006-11-20,Georgia,Northern Ireland,0,4,UEFA Euro qualification,Adana,Turkey,TRUE
 2006-11-20,Israel,Armenia,1,0,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,TRUE
@@ -2033,11 +2043,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-11-20,Romania,Bulgaria,1,0,UEFA Euro qualification,Chiajna,Romania,FALSE
 2006-11-20,Macedonia,Wales,0,6,UEFA Euro qualification,Strumica,Macedonia,FALSE
 2006-11-20,Faroe Islands,Kazakhstan,0,1,UEFA Euro qualification,Strumica,Macedonia,TRUE
-2006-11-20,Sweden,Germany,0,3,Algarve Cup,Loulé,Portugal,TRUE
-2006-11-20,Finland,Norway,0,0,Algarve Cup,Alvor,Portugal,TRUE
-2006-11-20,France,China PR,1,0,Algarve Cup,Faro,Portugal,TRUE
-2006-11-20,Denmark,United States,0,5,Algarve Cup,Faro,Portugal,TRUE
-2006-11-20,Republic of Ireland,Mexico,0,0,Algarve Cup,Vila Real de Santo Antonio,Portugal,TRUE
 2006-11-22,Argentina,Paraguay,0,0,Copa América,Mar del Plata,Argentina,FALSE
 2006-11-22,Brazil,Uruguay,6,0,Copa América,Mar del Plata,Argentina,TRUE
 2006-11-22,Canada,Jamaica,4,0,CONCACAF Gold Cup,Carson,United States,TRUE
@@ -2058,17 +2063,30 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-11-26,Argentina,Brazil,2,0,Copa América,Mar del Plata,Argentina,FALSE
 2006-11-26,Jamaica,Mexico,0,3,CONCACAF Gold Cup,Carson,United States,TRUE
 2006-11-26,United States,Canada,2,1,CONCACAF Gold Cup,Carson,United States,FALSE
-2006-12-20,Benin,Ivory Coast,1,1,African Championship qualification,Benin,Benin,FALSE
-2006-12-20,Angola,Equatorial Guinea,3,2,African Championship qualification,Luanda,Angola,FALSE
-2006-12-20,Congo,Togo,9,0,African Championship qualification,Brazzaville,Congo,FALSE
-2006-12-20,Senegal,Guinea,7,0,African Championship qualification,Dakar,Senegal,FALSE
-2006-12-20,Nicaragua,El Salvador,2,1,CONCACAF Gold Cup,Mexico,Mexico,TRUE
 2007-01-26,China PR,England,2,0,Four Nations Tournament,Guangzhou,China PR,FALSE
 2007-01-26,United States,Germany,0,0,Four Nations Tournament,Guangzhou,China PR,TRUE
 2007-01-28,China PR,Germany,0,0,Four Nations Tournament,Guangzhou,China PR,FALSE
 2007-01-28,United States,England,1,1,Four Nations Tournament,Guangzhou,China PR,TRUE
 2007-01-30,China PR,United States,0,2,Four Nations Tournament,Guangzhou,China PR,FALSE
 2007-01-30,England,Germany,0,0,Four Nations Tournament,Guangzhou,China PR,TRUE
+2007-03-07,France,Denmark,0,4,Algarve Cup,Silves,Portugal,TRUE
+2007-03-07,Germany,Norway,1,2,Algarve Cup,Faro,Portugal,TRUE
+2007-03-07,Sweden,Finland,3,0,Algarve Cup,Faro,Portugal,TRUE
+2007-03-07,United States,China PR,2,1,Algarve Cup,Faro,Portugal,TRUE
+2007-03-07,Portugal,Republic of Ireland,1,1,Algarve Cup,Lagos,Portugal,FALSE
+2007-03-07,Italy,Iceland,2,1,Algarve Cup,Lagos,Portugal,TRUE
+2007-03-09,France,Germany,1,0,Algarve Cup,Faro,Portugal,TRUE
+2007-03-09,Norway,Denmark,0,1,Algarve Cup,Ferreiras,Portugal,TRUE
+2007-03-09,Sweden,China PR,1,0,Algarve Cup,Faro,Portugal,TRUE
+2007-03-09,United States,Finland,1,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2007-03-09,Portugal,Italy,0,1,Algarve Cup,Lagos,Portugal,FALSE
+2007-03-09,Iceland,Republic of Ireland,1,1,Algarve Cup,Lagos,Portugal,TRUE
+2007-03-12,France,Norway,1,0,Algarve Cup,Lagos,Portugal,TRUE
+2007-03-12,Germany,Denmark,3,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2007-03-12,Sweden,United States,2,3,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2007-03-12,China PR,Finland,0,2,Algarve Cup,Portimão,Portugal,TRUE
+2007-03-12,Portugal,Iceland,1,5,Algarve Cup,Lagos,Portugal,FALSE
+2007-03-12,Italy,Republic of Ireland,4,1,Algarve Cup,Silves,Portugal,TRUE
 2007-03-14,Portugal,Republic of Ireland,0,0,Algarve Cup,Ferreiras,Portugal,FALSE
 2007-03-14,Iceland,China PR,4,1,Algarve Cup,Montechoro,Portugal,TRUE
 2007-03-14,Italy,Germany,1,0,Algarve Cup,Olhão,Portugal,TRUE
@@ -2076,7 +2094,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2007-03-14,Sweden,France,3,1,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2007-03-14,United States,Denmark,2,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2007-04-01,Republic of Ireland,Hungary,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2007-04-09,New Zealand,Tonga,6,1,OFC Championship,Lae,Papua New Guinea,TRUE
+2007-04-09,Papua New Guinea,Solomon Islands,6,1,OFC Championship,Lae,Papua New Guinea,FALSE
 2007-04-11,France,Greece,6,0,UEFA Euro qualification,Valence,France,FALSE
+2007-04-11,New Zealand,Solomon Islands,8,0,OFC Championship,Lae,Papua New Guinea,TRUE
+2007-04-11,Papua New Guinea,Tonga,1,0,OFC Championship,Lae,Papua New Guinea,FALSE
 2007-04-12,Germany,Netherlands,5,1,UEFA Euro qualification,Bochum,Germany,FALSE
 2007-04-13,Papua New Guinea,New Zealand,0,7,OFC Championship,Lae,Papua New Guinea,FALSE
 2007-04-13,Tonga,Solomon Islands,0,0,OFC Championship,Lae,Papua New Guinea,TRUE
@@ -2108,12 +2130,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2007-06-21,Iceland,Serbia,5,0,UEFA Euro qualification,Reykjavík,Iceland,FALSE
 2007-06-21,Poland,Israel,4,1,UEFA Euro qualification,Kutno,Poland,FALSE
 2007-06-21,Norway,Austria,3,0,UEFA Euro qualification,Lillestrøm,Norway,FALSE
-2007-07-20,France,Denmark,0,4,Algarve Cup,Silves,Portugal,TRUE
-2007-07-20,Germany,Norway,1,2,Algarve Cup,Faro,Portugal,TRUE
-2007-07-20,Sweden,Finland,3,0,Algarve Cup,Faro,Portugal,TRUE
-2007-07-20,United States,China PR,2,1,Algarve Cup,Faro,Portugal,TRUE
-2007-07-20,Portugal,Republic of Ireland,1,1,Algarve Cup,Lagos,Portugal,FALSE
-2007-07-20,Italy,Iceland,2,1,Algarve Cup,Lagos,Portugal,TRUE
 2007-08-01,Belarus,Northern Ireland,5,0,UEFA Euro qualification,Bobruisk,Belarus,FALSE
 2007-08-22,Germany,Switzerland,7,0,UEFA Euro qualification,Koblenz,Germany,FALSE
 2007-08-23,Austria,Russia,1,5,UEFA Euro qualification,Anger,Austria,FALSE
@@ -2143,14 +2159,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2007-09-17,England,Argentina,6,1,FIFA World Cup,Chengdu,China PR,TRUE
 2007-09-18,Nigeria,United States,0,1,FIFA World Cup,Shanghai,China PR,TRUE
 2007-09-18,North Korea,Sweden,1,2,FIFA World Cup,Tianjin,China PR,TRUE
-2007-09-20,New Zealand,Tonga,6,1,OFC Championship,Lae,Papua New Guinea,TRUE
-2007-09-20,Papua New Guinea,Solomon Islands,6,1,OFC Championship,Lae,Papua New Guinea,FALSE
-2007-09-20,France,Germany,1,0,Algarve Cup,Faro,Portugal,TRUE
-2007-09-20,Norway,Denmark,0,1,Algarve Cup,Ferreiras,Portugal,TRUE
-2007-09-20,Sweden,China PR,1,0,Algarve Cup,Faro,Portugal,TRUE
-2007-09-20,United States,Finland,1,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
-2007-09-20,Portugal,Italy,0,1,Algarve Cup,Lagos,Portugal,FALSE
-2007-09-20,Iceland,Republic of Ireland,1,1,Algarve Cup,Lagos,Portugal,TRUE
 2007-09-20,Norway,Ghana,7,2,FIFA World Cup,Hangzhou,China PR,TRUE
 2007-09-20,Australia,Canada,2,2,FIFA World Cup,Chengdu,China PR,TRUE
 2007-09-20,China PR,New Zealand,2,0,FIFA World Cup,Tianjin,China PR,FALSE
@@ -2184,15 +2192,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2007-10-31,Belgium,Wales,1,0,UEFA Euro qualification,Dessel,Belgium,FALSE
 2007-10-31,Scotland,Denmark,0,1,UEFA Euro qualification,Perth,Scotland,FALSE
 2007-11-01,Netherlands,Germany,0,1,UEFA Euro qualification,Volendam,Netherlands,FALSE
-2007-11-20,New Zealand,Solomon Islands,8,0,OFC Championship,Lae,Papua New Guinea,TRUE
-2007-11-20,Papua New Guinea,Tonga,1,0,OFC Championship,Lae,Papua New Guinea,FALSE
 2007-11-25,England,Spain,1,0,UEFA Euro qualification,Shrewsbury,England,FALSE
-2007-12-20,France,Norway,1,0,Algarve Cup,Lagos,Portugal,TRUE
-2007-12-20,Germany,Denmark,3,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
-2007-12-20,Sweden,United States,2,3,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
-2007-12-20,China PR,Finland,0,2,Algarve Cup,Portimão,Portugal,TRUE
-2007-12-20,Portugal,Iceland,1,5,Algarve Cup,Lagos,Portugal,FALSE
-2007-12-20,Italy,Republic of Ireland,4,1,Algarve Cup,Silves,Portugal,TRUE
 2008-01-16,China PR,Finland,2,0,Four Nations Tournament,Guangzhou,China PR,FALSE
 2008-01-16,United States,Canada,4,0,Four Nations Tournament,Guangzhou,China PR,TRUE
 2008-01-18,China PR,Canada,0,0,Four Nations Tournament,Guangzhou,China PR,FALSE
@@ -2205,7 +2205,31 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-02-17,Wales,Belgium,0,1,UEFA Euro qualification,Barry,Wales,FALSE
 2008-02-20,Wales,Netherlands,0,1,UEFA Euro qualification,Newport,Wales,FALSE
 2008-02-21,Portugal,Ukraine,0,1,UEFA Euro qualification,Abrantes,Portugal,FALSE
+2008-03-05,Germany,Denmark,0,1,Algarve Cup,Faro,Portugal,TRUE
+2008-03-05,Finland,Sweden,1,3,Algarve Cup,Lagos,Portugal,TRUE
+2008-03-05,China PR,United States,0,4,Algarve Cup,Albufeira,Portugal,TRUE
+2008-03-05,Norway,Italy,4,2,Algarve Cup,Alvor,Portugal,TRUE
+2008-03-05,Iceland,Poland,2,0,Algarve Cup,Lagos,Portugal,TRUE
+2008-03-05,Portugal,Republic of Ireland,2,0,Algarve Cup,Faro,Portugal,FALSE
 2008-03-06,Northern Ireland,England,0,2,UEFA Euro qualification,Lurgan,Northern Ireland,FALSE
+2008-03-07,Germany,Finland,3,0,Algarve Cup,Faro,Portugal,TRUE
+2008-03-07,Denmark,Sweden,1,0,Algarve Cup,Lagos,Portugal,TRUE
+2008-03-07,United States,Italy,2,0,Algarve Cup,Alvor,Portugal,TRUE
+2008-03-07,Norway,China PR,3,1,Algarve Cup,Albufeira,Portugal,TRUE
+2008-03-07,Portugal,Poland,3,1,Algarve Cup,Faro,Portugal,FALSE
+2008-03-07,Republic of Ireland,Iceland,1,4,Algarve Cup,Lagos,Portugal,TRUE
+2008-03-10,Denmark,Finland,1,0,Algarve Cup,Lagos,Portugal,TRUE
+2008-03-10,Sweden,Germany,0,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2008-03-10,China PR,Italy,0,2,Algarve Cup,Loulé,Portugal,TRUE
+2008-03-10,United States,Norway,4,0,Algarve Cup,Alvor,Portugal,TRUE
+2008-03-10,Portugal,Iceland,0,3,Algarve Cup,Vila Real de Santo António,Portugal,FALSE
+2008-03-10,Poland,Republic of Ireland,0,1,Algarve Cup,Lagos,Portugal,TRUE
+2008-03-12,Republic of Ireland,Poland,2,2,Algarve Cup,Guia,Portugal,TRUE
+2008-03-12,Portugal,China PR,1,1,Algarve Cup,Albufeira,Portugal,FALSE
+2008-03-12,Finland,Iceland,0,3,Algarve Cup,Loulé,Portugal,TRUE
+2008-03-12,Sweden,Italy,3,0,Algarve Cup,Olhão,Portugal,TRUE
+2008-03-12,Germany,Norway,0,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2008-03-12,Denmark,United States,1,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2008-03-20,England,Czech Republic,0,0,UEFA Euro qualification,Doncaster,England,FALSE
 2008-03-24,Myanmar,Chinese Taipei,0,3,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,TRUE
 2008-03-24,Vietnam,Iran,4,1,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,FALSE
@@ -2239,12 +2263,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-05-08,France,Serbia,2,0,UEFA Euro qualification,Saint-Brieuc,France,FALSE
 2008-05-08,Switzerland,Wales,2,0,UEFA Euro qualification,Oberdorf,Switzerland,FALSE
 2008-05-08,Portugal,Denmark,0,4,UEFA Euro qualification,Fão,Portugal,FALSE
-2008-05-20,Germany,Denmark,0,1,Algarve Cup,Faro,Portugal,TRUE
-2008-05-20,Finland,Sweden,1,3,Algarve Cup,Lagos,Portugal,TRUE
-2008-05-20,China PR,United States,0,4,Algarve Cup,Albufeira,Portugal,TRUE
-2008-05-20,Norway,Italy,4,2,Algarve Cup,Alvor,Portugal,TRUE
-2008-05-20,Iceland,Poland,2,0,Algarve Cup,Lagos,Portugal,TRUE
-2008-05-20,Portugal,Republic of Ireland,2,0,Algarve Cup,Faro,Portugal,FALSE
 2008-05-24,Romania,Italy,1,6,UEFA Euro qualification,Buftea,Romania,FALSE
 2008-05-28,Northern Ireland,Spain,0,3,UEFA Euro qualification,Newry,Northern Ireland,FALSE
 2008-05-28,Romania,Hungary,3,1,UEFA Euro qualification,Oradea,Romania,FALSE
@@ -2279,12 +2297,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-06-25,Poland,Norway,0,3,UEFA Euro qualification,Kutno,Poland,FALSE
 2008-06-26,Czech Republic,Belarus,3,1,UEFA Euro qualification,Ludgeřovice,Czech Republic,FALSE
 2008-06-26,Iceland,Greece,7,0,UEFA Euro qualification,Reykjavík,Iceland,FALSE
-2008-07-20,Germany,Finland,3,0,Algarve Cup,Faro,Portugal,TRUE
-2008-07-20,Denmark,Sweden,1,0,Algarve Cup,Lagos,Portugal,TRUE
-2008-07-20,United States,Italy,2,0,Algarve Cup,Alvor,Portugal,TRUE
-2008-07-20,Norway,China PR,3,1,Algarve Cup,Albufeira,Portugal,TRUE
-2008-07-20,Portugal,Poland,3,1,Algarve Cup,Faro,Portugal,FALSE
-2008-07-20,Republic of Ireland,Iceland,1,4,Algarve Cup,Lagos,Portugal,TRUE
 2008-07-25,Northern Ireland,Belarus,1,1,UEFA Euro qualification,Newry,Northern Ireland,FALSE
 2008-08-06,Argentina,Canada,1,2,Olympic Games,Tianjin,China PR,TRUE
 2008-08-06,China PR,Sweden,2,1,Olympic Games,Tianjin,China PR,FALSE
@@ -2329,12 +2341,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-10-02,Italy,Hungary,3,0,UEFA Euro qualification,Montereale Valcellina,Italy,FALSE
 2008-10-02,Greece,Slovenia,4,6,UEFA Euro qualification,Athens,Greece,FALSE
 2008-10-02,Russia,Norway,0,0,UEFA Euro qualification,Krasnoarmeysk,Russia,FALSE
-2008-10-20,Denmark,Finland,1,0,Algarve Cup,Lagos,Portugal,TRUE
-2008-10-20,Sweden,Germany,0,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
-2008-10-20,China PR,Italy,0,2,Algarve Cup,Loulé,Portugal,TRUE
-2008-10-20,United States,Norway,4,0,Algarve Cup,Alvor,Portugal,TRUE
-2008-10-20,Portugal,Iceland,0,3,Algarve Cup,Vila Real de Santo António,Portugal,FALSE
-2008-10-20,Poland,Republic of Ireland,0,1,Algarve Cup,Lagos,Portugal,TRUE
 2008-10-25,Czech Republic,Italy,0,1,UEFA Euro qualification,Prague 20,Czech Republic,FALSE
 2008-10-25,Spain,Netherlands,0,2,UEFA Euro qualification,Madrid,Spain,FALSE
 2008-10-26,Republic of Ireland,Iceland,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
@@ -2361,22 +2367,36 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-11-25,South Africa,Cameroon,3,0,African Championship,Malabo,Equatorial Guinea,TRUE
 2008-11-28,Nigeria,Cameroon,1,1,African Championship,Malabo,Equatorial Guinea,TRUE
 2008-11-29,Equatorial Guinea,South Africa,2,1,African Championship,Malabo,Equatorial Guinea,FALSE
-2008-12-20,Republic of Ireland,Poland,2,2,Algarve Cup,Guia,Portugal,TRUE
-2008-12-20,Portugal,China PR,1,1,Algarve Cup,Albufeira,Portugal,FALSE
-2008-12-20,Finland,Iceland,0,3,Algarve Cup,Loulé,Portugal,TRUE
-2008-12-20,Sweden,Italy,3,0,Algarve Cup,Olhão,Portugal,TRUE
-2008-12-20,Germany,Norway,0,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
-2008-12-20,Denmark,United States,1,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2009-01-10,South Korea,Finland,4,0,Four Nations Tournament,Guangzhou,China PR,TRUE
+2009-01-10,China PR,New Zealand,6,0,Four Nations Tournament,Guangzhou,China PR,FALSE
+2009-01-12,China PR,Finland,1,0,Four Nations Tournament,Guangzhou,China PR,FALSE
+2009-01-12,South Korea,New Zealand,4,3,Four Nations Tournament,Guangzhou,China PR,TRUE
 2009-01-14,China PR,South Korea,1,0,Four Nations Tournament,Guangzhou,China PR,FALSE
 2009-01-14,New Zealand,Finland,0,2,Four Nations Tournament,Guangzhou,China PR,TRUE
-2009-04-20,Germany,Finland,2,0,Algarve Cup,Albufeira,Portugal,TRUE
-2009-04-20,China PR,Sweden,0,0,Algarve Cup,Lagos,Portugal,TRUE
-2009-04-20,United States,Denmark,2,0,Algarve Cup,Lagos,Portugal,TRUE
-2009-04-20,Norway,Iceland,1,3,Algarve Cup,Olhão,Portugal,TRUE
-2009-04-20,Wales,Austria,1,2,Algarve Cup,Alvor,Portugal,TRUE
-2009-04-20,Portugal,Poland,2,1,Algarve Cup,Albufeira,Portugal,FALSE
-2009-04-20,Thailand,Uzbekistan,6,1,AFC Asian Cup qualification,Bangkok,Thailand,FALSE
-2009-04-20,Vietnam,Kyrgyzstan,10,1,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,FALSE
+2009-03-04,Germany,Finland,2,0,Algarve Cup,Albufeira,Portugal,TRUE
+2009-03-04,China PR,Sweden,0,0,Algarve Cup,Lagos,Portugal,TRUE
+2009-03-04,United States,Denmark,2,0,Algarve Cup,Lagos,Portugal,TRUE
+2009-03-04,Norway,Iceland,1,3,Algarve Cup,Olhão,Portugal,TRUE
+2009-03-04,Wales,Austria,1,2,Algarve Cup,Alvor,Portugal,TRUE
+2009-03-04,Portugal,Poland,2,1,Algarve Cup,Albufeira,Portugal,FALSE
+2009-03-06,Sweden,Finland,1,0,Algarve Cup,Lagos,Portugal,TRUE
+2009-03-06,Germany,China PR,3,0,Algarve Cup,Albufeira,Portugal,TRUE
+2009-03-06,United States,Iceland,1,0,Algarve Cup,Ferreiras,Portugal,TRUE
+2009-03-06,Denmark,Norway,2,0,Algarve Cup,Lagos,Portugal,TRUE
+2009-03-06,Austria,Poland,1,1,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2009-03-06,Portugal,Wales,2,1,Algarve Cup,Albufeira,Portugal,FALSE
+2009-03-09,Finland,China PR,0,1,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2009-03-09,Sweden,Germany,3,2,Algarve Cup,Faro,Portugal,TRUE
+2009-03-09,Norway,United States,0,1,Algarve Cup,Ferreiras,Portugal,TRUE
+2009-03-09,Iceland,Denmark,0,2,Algarve Cup,Silves,Portugal,TRUE
+2009-03-09,Portugal,Austria,1,0,Algarve Cup,Faro,Portugal,FALSE
+2009-03-09,Poland,Wales,1,5,Algarve Cup,Loulé,Portugal,TRUE
+2009-03-11,Wales,Poland,1,2,Algarve Cup,Albufeira,Portugal,TRUE
+2009-03-11,Austria,Norway,0,2,Algarve Cup,Loulé,Portugal,TRUE
+2009-03-11,Portugal,Finland,1,1,Algarve Cup,Lagos,Portugal,FALSE
+2009-03-11,China PR,Iceland,2,1,Algarve Cup,Olhão,Portugal,TRUE
+2009-03-11,Germany,Denmark,0,1,Algarve Cup,Faro,Portugal,TRUE
+2009-03-11,United States,Sweden,1,1,Algarve Cup,Faro,Portugal,TRUE
 2009-04-25,Kyrgyzstan,Jordan,1,7,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE
 2009-04-25,Palestine,Maldives,4,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE
 2009-04-27,Maldives,Uzbekistan,0,5,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE
@@ -2387,17 +2407,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2009-05-01,Kyrgyzstan,Uzbekistan,0,2,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE
 2009-05-03,Maldives,Kyrgyzstan,0,2,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE
 2009-05-03,Uzbekistan,Jordan,2,2,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE
-2009-06-20,Sweden,Finland,1,0,Algarve Cup,Lagos,Portugal,TRUE
-2009-06-20,Germany,China PR,3,0,Algarve Cup,Albufeira,Portugal,TRUE
-2009-06-20,United States,Iceland,1,0,Algarve Cup,Ferreiras,Portugal,TRUE
-2009-06-20,Denmark,Norway,2,0,Algarve Cup,Lagos,Portugal,TRUE
-2009-06-20,Austria,Poland,1,1,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
-2009-06-20,Portugal,Wales,2,1,Algarve Cup,Albufeira,Portugal,FALSE
-2009-06-20,Iran,Uzbekistan,1,4,AFC Asian Cup qualification,Bangkok,Thailand,TRUE
-2009-06-20,Hong Kong,Kyrgyzstan,2,0,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,TRUE
+2009-07-04,Thailand,Uzbekistan,6,1,AFC Asian Cup qualification,Bangkok,Thailand,FALSE
+2009-07-04,Vietnam,Kyrgyzstan,10,1,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,FALSE
+2009-07-06,Iran,Uzbekistan,1,4,AFC Asian Cup qualification,Bangkok,Thailand,TRUE
+2009-07-06,Hong Kong,Kyrgyzstan,2,0,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,TRUE
+2009-07-08,Thailand,Iran,8,1,AFC Asian Cup qualification,Bangkok,Thailand,FALSE
+2009-07-08,Vietnam,Hong Kong,7,0,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,FALSE
+2009-07-10,Chinese Taipei,Jordan,0,1,AFC Asian Cup qualification,Hsinying City,Chinese Taipei,FALSE
+2009-07-12,Myanmar,Jordan,3,0,AFC Asian Cup qualification,Hsinying City,Chinese Taipei,TRUE
 2009-07-14,Chinese Taipei,Myanmar,2,5,AFC Asian Cup qualification,Hsinying City,Chinese Taipei,FALSE
-2009-08-20,Thailand,Iran,8,1,AFC Asian Cup qualification,Bangkok,Thailand,FALSE
-2009-08-20,Vietnam,Hong Kong,7,0,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,FALSE
 2009-08-23,Ukraine,Netherlands,0,2,UEFA Euro,Turku,Finland,TRUE
 2009-08-23,Finland,Denmark,1,0,UEFA Euro,Helsinki,Finland,FALSE
 2009-08-24,Germany,Norway,4,0,UEFA Euro,Tampere,Finland,TRUE
@@ -2423,27 +2441,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2009-09-06,England,Netherlands,2,1,UEFA Euro,Tampere,Finland,TRUE
 2009-09-07,Germany,Norway,3,1,UEFA Euro,Helsinki,Finland,TRUE
 2009-09-10,England,Germany,2,6,UEFA Euro,Helsinki,Finland,TRUE
-2009-09-20,Finland,China PR,0,1,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
-2009-09-20,Sweden,Germany,3,2,Algarve Cup,Faro,Portugal,TRUE
-2009-09-20,Norway,United States,0,1,Algarve Cup,Ferreiras,Portugal,TRUE
-2009-09-20,Iceland,Denmark,0,2,Algarve Cup,Silves,Portugal,TRUE
-2009-09-20,Portugal,Austria,1,0,Algarve Cup,Faro,Portugal,FALSE
-2009-09-20,Poland,Wales,1,5,Algarve Cup,Loulé,Portugal,TRUE
-2009-10-20,South Korea,Finland,4,0,Four Nations Tournament,Guangzhou,China PR,TRUE
-2009-10-20,China PR,New Zealand,6,0,Four Nations Tournament,Guangzhou,China PR,FALSE
-2009-10-20,Chinese Taipei,Jordan,0,1,AFC Asian Cup qualification,Hsinying City,Chinese Taipei,FALSE
-2009-11-20,Wales,Poland,1,2,Algarve Cup,Albufeira,Portugal,TRUE
-2009-11-20,Austria,Norway,0,2,Algarve Cup,Loulé,Portugal,TRUE
-2009-11-20,Portugal,Finland,1,1,Algarve Cup,Lagos,Portugal,FALSE
-2009-11-20,China PR,Iceland,2,1,Algarve Cup,Olhão,Portugal,TRUE
-2009-11-20,Germany,Denmark,0,1,Algarve Cup,Faro,Portugal,TRUE
-2009-11-20,United States,Sweden,1,1,Algarve Cup,Faro,Portugal,TRUE
-2009-12-20,China PR,Finland,1,0,Four Nations Tournament,Guangzhou,China PR,FALSE
-2009-12-20,South Korea,New Zealand,4,3,Four Nations Tournament,Guangzhou,China PR,TRUE
-2009-12-20,Myanmar,Jordan,3,0,AFC Asian Cup qualification,Hsinying City,Chinese Taipei,TRUE
-2010-01-20,Nigeria,Mali,5,0,African Championship,Daveyton,South Africa,TRUE
-2010-02-20,Equatorial Guinea,Cameroon,2,2,African Championship,Daveyton,South Africa,TRUE
-2010-02-20,Algeria,Ghana,1,2,African Championship,Daveyton,South Africa,TRUE
 2010-02-24,China PR,Finland,1,1,Algarve Cup,Lagos,Portugal,TRUE
 2010-02-24,Germany,Denmark,4,0,Algarve Cup,Parchal,Portugal,TRUE
 2010-02-24,United States,Iceland,2,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
@@ -2468,21 +2465,22 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2010-03-03,Denmark,Norway,2,1,Algarve Cup,Ferreiras,Portugal,TRUE
 2010-03-03,China PR,Sweden,0,2,Algarve Cup,Albufeira,Portugal,TRUE
 2010-03-03,Germany,United States,2,3,Algarve Cup,Faro,Portugal,TRUE
+2010-03-03,Suriname,Saint Vincent and the Grenadines,1,0,CONCACAF Gold Cup qualification,Georgetown,Guyana,TRUE
+2010-03-05,Guyana,Suriname,2,0,CONCACAF Gold Cup qualification,Georgetown,Guyana,FALSE
 2010-03-06,Senegal,Morocco,0,0,African Championship qualification,Pikine,Senegal,FALSE
 2010-03-06,Ethiopia,Tanzania,1,3,African Championship qualification,Addis Ababa,Ethiopia,FALSE
 2010-03-07,Namibia,Angola,2,1,African Championship qualification,Windhoek,Namibia,FALSE
 2010-03-07,Botswana,DR Congo,0,2,African Championship qualification,Gaborone,Botswana,FALSE
 2010-03-07,Gabon,Ivory Coast,1,2,African Championship qualification,Libreville,Gabon,FALSE
 2010-03-07,Guinea,Sierra Leone,3,2,African Championship qualification,Conakry,Guinea,FALSE
+2010-03-07,Guyana,Saint Vincent and the Grenadines,1,0,CONCACAF Gold Cup qualification,Georgetown,Guyana,FALSE
+2010-03-10,Antigua and Barbuda,Saint Lucia,1,2,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,FALSE
+2010-03-12,U.S. Virgin Islands,Saint Lucia,0,7,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,TRUE
 2010-03-14,Antigua and Barbuda,U.S. Virgin Islands,3,1,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,FALSE
 2010-03-17,Saint Kitts and Nevis,Dominica,2,0,CONCACAF Gold Cup qualification,Bayamón,Puerto Rico,TRUE
 2010-03-19,DR Congo,Botswana,5,2,African Championship qualification,Kinshasa,DR Congo,FALSE
 2010-03-19,Ivory Coast,Gabon,3,1,African Championship qualification,Abidjan,Ivory Coast,FALSE
 2010-03-19,Puerto Rico,Saint Kitts and Nevis,7,0,CONCACAF Gold Cup qualification,Bayamón,Puerto Rico,FALSE
-2010-03-20,Morocco,Senegal,0,1,African Championship qualification,Salé,Morocco,FALSE
-2010-03-20,Sierra Leone,Guinea,1,1,African Championship qualification,Freetown,Sierra Leone,FALSE
-2010-03-20,Tanzania,Ethiopia,1,1,African Championship qualification,Dar es Salaam,Tanzania,FALSE
-2010-03-20,Suriname,Saint Vincent and the Grenadines,1,0,CONCACAF Gold Cup qualification,Georgetown,Guyana,TRUE
 2010-03-21,Angola,Namibia,1,1,African Championship qualification,Benguela,Angola,FALSE
 2010-03-21,Puerto Rico,Dominica,6,0,CONCACAF Gold Cup qualification,Bayamón,Puerto Rico,FALSE
 2010-03-26,Dominican Republic,Turks and Caicos Islands,3,1,CONCACAF Gold Cup qualification,Santo Domingo,Dominican Republic,FALSE
@@ -2491,14 +2489,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2010-03-30,Dominican Republic,Haiti,1,2,CONCACAF Gold Cup qualification,Santo Domingo,Dominican Republic,FALSE
 2010-03-30,Anguilla,Grenada,2,0,CONCACAF Gold Cup qualification,Bridgetown,Barbados,TRUE
 2010-04-01,Barbados,Grenada,4,0,CONCACAF Gold Cup qualification,Bridgetown,Barbados,FALSE
-2010-04-20,South Africa,Nigeria,1,2,African Championship,Daveyton,South Africa,FALSE
-2010-04-20,Mali,Tanzania,3,2,African Championship,Daveyton,South Africa,TRUE
 2010-04-20,El Salvador,Belize,9,0,CONCACAF Gold Cup qualification,Antigua Guatemala,Guatemala,TRUE
 2010-04-22,Guatemala,El Salvador,2,1,CONCACAF Gold Cup qualification,Antigua Guatemala,Guatemala,FALSE
 2010-04-24,Guatemala,Belize,5,1,CONCACAF Gold Cup qualification,Antigua Guatemala,Guatemala,FALSE
 2010-04-26,Nicaragua,Honduras,2,1,CONCACAF Gold Cup qualification,Managua,Nicaragua,FALSE
 2010-04-28,Honduras,Costa Rica,0,2,CONCACAF Gold Cup qualification,Managua,Nicaragua,TRUE
 2010-04-30,Nicaragua,Costa Rica,0,2,CONCACAF Gold Cup qualification,Managua,Nicaragua,FALSE
+2010-05-10,Guyana,Barbados,3,0,CONCACAF Gold Cup qualification,Macoya,Trinidad and Tobago,TRUE
+2010-05-10,Trinidad and Tobago,Saint Lucia,6,1,CONCACAF Gold Cup qualification,Macoya,Trinidad and Tobago,FALSE
+2010-05-11,Cuba,Puerto Rico,4,3,CONCACAF Gold Cup qualification,Marabella,Trinidad and Tobago,TRUE
+2010-05-11,Antigua and Barbuda,Haiti,1,4,CONCACAF Gold Cup qualification,Marabella,Trinidad and Tobago,TRUE
+2010-05-12,Saint Lucia,Guyana,0,8,CONCACAF Gold Cup qualification,Macoya,Trinidad and Tobago,TRUE
+2010-05-12,Trinidad and Tobago,Barbados,5,0,CONCACAF Gold Cup qualification,Macoya,Trinidad and Tobago,FALSE
 2010-05-13,Haiti,Cuba,3,0,CONCACAF Gold Cup qualification,Marabella,Trinidad and Tobago,TRUE
 2010-05-13,Puerto Rico,Antigua and Barbuda,8,0,CONCACAF Gold Cup qualification,Marabella,Trinidad and Tobago,TRUE
 2010-05-14,Barbados,Saint Lucia,4,3,CONCACAF Gold Cup qualification,Macoya,Trinidad and Tobago,TRUE
@@ -2507,9 +2509,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2010-05-15,Cuba,Antigua and Barbuda,6,1,CONCACAF Gold Cup qualification,Marabella,Trinidad and Tobago,TRUE
 2010-05-19,Australia,Vietnam,2,0,AFC Asian Cup,Chengdu,China PR,TRUE
 2010-05-19,China PR,South Korea,0,0,AFC Asian Cup,Chengdu,China PR,FALSE
-2010-05-20,Equatorial Guinea,Algeria,1,0,African Championship,Daveyton,South Africa,TRUE
-2010-05-20,Ghana,Cameroon,1,2,African Championship,Daveyton,South Africa,TRUE
-2010-05-20,Guyana,Suriname,2,0,CONCACAF Gold Cup qualification,Georgetown,Guyana,FALSE
 2010-05-20,North Korea,Thailand,3,0,AFC Asian Cup,Chengdu,China PR,TRUE
 2010-05-20,Japan,Myanmar,8,0,AFC Asian Cup,Chengdu,China PR,TRUE
 2010-05-21,DR Congo,Cameroon,0,2,African Championship qualification,Kinshasa,DR Congo,FALSE
@@ -2539,11 +2538,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2010-06-06,Ghana,Senegal,3,0,African Championship qualification,Accra,Ghana,FALSE
 2010-06-26,Cuba,Guyana,1,0,CONCACAF Gold Cup qualification,Havana,Cuba,FALSE
 2010-07-03,Guyana,Cuba,3,1,CONCACAF Gold Cup qualification,Georgetown,Guyana,FALSE
-2010-07-20,South Africa,Mali,4,0,African Championship,Daveyton,South Africa,FALSE
-2010-07-20,Tanzania,Nigeria,0,3,African Championship,Tembisa,South Africa,TRUE
-2010-07-20,Guyana,Saint Vincent and the Grenadines,1,0,CONCACAF Gold Cup qualification,Georgetown,Guyana,FALSE
-2010-08-20,Ghana,Equatorial Guinea,1,3,African Championship,Daveyton,South Africa,TRUE
-2010-08-20,Cameroon,Algeria,2,1,African Championship,Tembisa,South Africa,TRUE
 2010-09-29,New Zealand,Vanuatu,14,0,OFC Championship,Auckland,New Zealand,FALSE
 2010-09-29,Cook Islands,Tahiti,1,0,OFC Championship,Auckland,New Zealand,TRUE
 2010-09-30,Papua New Guinea,Fiji,3,0,OFC Championship,Auckland,New Zealand,TRUE
@@ -2560,9 +2554,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2010-10-06,Papua New Guinea,Cook Islands,1,0,OFC Championship,Auckland,New Zealand,TRUE
 2010-10-08,Solomon Islands,Cook Islands,0,2,OFC Championship,Auckland,New Zealand,TRUE
 2010-10-08,New Zealand,Papua New Guinea,11,0,OFC Championship,Auckland,New Zealand,FALSE
-2010-10-20,Antigua and Barbuda,Saint Lucia,1,2,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,FALSE
-2010-10-20,Guyana,Barbados,3,0,CONCACAF Gold Cup qualification,Macoya,Trinidad and Tobago,TRUE
-2010-10-20,Trinidad and Tobago,Saint Lucia,6,1,CONCACAF Gold Cup qualification,Macoya,Trinidad and Tobago,FALSE
 2010-10-28,Costa Rica,Guatemala,1,0,CONCACAF Gold Cup,Cancún,Mexico,TRUE
 2010-10-28,United States,Haiti,5,0,CONCACAF Gold Cup,Cancún,Mexico,TRUE
 2010-10-29,Trinidad and Tobago,Canada,0,1,CONCACAF Gold Cup,Cancún,Mexico,TRUE
@@ -2574,28 +2565,44 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2010-10-31,Mexico,Trinidad and Tobago,2,0,CONCACAF Gold Cup,Cancún,Mexico,FALSE
 2010-11-01,Guatemala,Haiti,0,1,CONCACAF Gold Cup,Cancún,Mexico,TRUE
 2010-11-01,United States,Costa Rica,4,0,CONCACAF Gold Cup,Cancún,Mexico,TRUE
+2010-11-01,Nigeria,Mali,5,0,African Championship,Daveyton,South Africa,TRUE
 2010-11-02,Guyana,Trinidad and Tobago,1,4,CONCACAF Gold Cup,Cancún,Mexico,TRUE
 2010-11-02,Mexico,Canada,0,3,CONCACAF Gold Cup,Cancún,Mexico,FALSE
+2010-11-02,Equatorial Guinea,Cameroon,2,2,African Championship,Daveyton,South Africa,TRUE
+2010-11-02,Algeria,Ghana,1,2,African Championship,Daveyton,South Africa,TRUE
+2010-11-03,Morocco,Senegal,0,1,African Championship qualification,Salé,Morocco,FALSE
+2010-11-03,Sierra Leone,Guinea,1,1,African Championship qualification,Freetown,Sierra Leone,FALSE
+2010-11-03,Tanzania,Ethiopia,1,1,African Championship qualification,Dar es Salaam,Tanzania,FALSE
 2010-11-04,Argentina,Bolivia,3,0,Copa América,Latacunga,Ecuador,TRUE
 2010-11-04,Ecuador,Chile,1,2,Copa América,Latacunga,Ecuador,FALSE
+2010-11-04,South Africa,Nigeria,1,2,African Championship,Daveyton,South Africa,FALSE
+2010-11-04,Mali,Tanzania,3,2,African Championship,Daveyton,South Africa,TRUE
 2010-11-05,Paraguay,Colombia,0,3,Copa América,Loja,Ecuador,TRUE
 2010-11-05,Brazil,Venezuela,4,0,Copa América,Loja,Ecuador,TRUE
 2010-11-05,Canada,Costa Rica,4,0,CONCACAF Gold Cup,Cancún,Mexico,TRUE
 2010-11-05,Mexico,United States,2,1,CONCACAF Gold Cup,Cancún,Mexico,FALSE
+2010-11-05,Equatorial Guinea,Algeria,1,0,African Championship,Daveyton,South Africa,TRUE
+2010-11-05,Ghana,Cameroon,1,2,African Championship,Daveyton,South Africa,TRUE
 2010-11-06,Chile,Argentina,1,2,Copa América,Ambato,Ecuador,TRUE
 2010-11-06,Ecuador,Peru,2,1,Copa América,Ambato,Ecuador,FALSE
 2010-11-07,Venezuela,Paraguay,0,4,Copa América,Loja,Ecuador,TRUE
 2010-11-07,Uruguay,Brazil,0,4,Copa América,Loja,Ecuador,TRUE
+2010-11-07,South Africa,Mali,4,0,African Championship,Daveyton,South Africa,FALSE
+2010-11-07,Tanzania,Nigeria,0,3,African Championship,Tembisa,South Africa,TRUE
 2010-11-08,Chile,Bolivia,3,0,Copa América,Riobamba,Ecuador,TRUE
 2010-11-08,Argentina,Peru,2,0,Copa América,Riobamba,Ecuador,TRUE
 2010-11-08,Costa Rica,United States,0,3,CONCACAF Gold Cup,Cancún,Mexico,TRUE
 2010-11-08,Mexico,Canada,0,1,CONCACAF Gold Cup,Cancún,Mexico,FALSE
+2010-11-08,Ghana,Equatorial Guinea,1,3,African Championship,Daveyton,South Africa,TRUE
+2010-11-08,Cameroon,Algeria,2,1,African Championship,Tembisa,South Africa,TRUE
 2010-11-09,Colombia,Venezuela,5,0,Copa América,Azogues,Ecuador,TRUE
 2010-11-09,Paraguay,Uruguay,4,0,Copa América,Azogues,Ecuador,TRUE
 2010-11-10,Peru,Chile,1,3,Copa América,Ambato,Ecuador,TRUE
 2010-11-10,Ecuador,Bolivia,4,3,Copa América,Ambato,Ecuador,FALSE
 2010-11-11,Venezuela,Uruguay,5,2,Copa América,Cuenca,Ecuador,TRUE
 2010-11-11,Colombia,Brazil,1,2,Copa América,Cuenca,Ecuador,TRUE
+2010-11-11,Nigeria,Cameroon,5,1,African Championship,Daveyton,South Africa,TRUE
+2010-11-11,South Africa,Equatorial Guinea,1,3,African Championship,Daveyton,South Africa,FALSE
 2010-11-12,Bolivia,Peru,2,1,Copa América,Latacunga,Ecuador,TRUE
 2010-11-12,Ecuador,Argentina,1,0,Copa América,Latacunga,Ecuador,FALSE
 2010-11-13,Uruguay,Colombia,0,8,Copa América,Cuenca,Ecuador,TRUE
@@ -2606,15 +2613,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2010-11-17,Brazil,Argentina,4,0,Copa América,Latacunga,Ecuador,TRUE
 2010-11-19,Chile,Argentina,0,0,Copa América,Latacunga,Ecuador,TRUE
 2010-11-19,Brazil,Colombia,5,0,Copa América,Latacunga,Ecuador,TRUE
-2010-11-20,Nigeria,Cameroon,5,1,African Championship,Daveyton,South Africa,TRUE
-2010-11-20,South Africa,Equatorial Guinea,1,3,African Championship,Daveyton,South Africa,FALSE
-2010-11-20,Cuba,Puerto Rico,4,3,CONCACAF Gold Cup qualification,Marabella,Trinidad and Tobago,TRUE
-2010-11-20,Antigua and Barbuda,Haiti,1,4,CONCACAF Gold Cup qualification,Marabella,Trinidad and Tobago,TRUE
 2010-11-21,Colombia,Argentina,1,0,Copa América,Quito,Ecuador,TRUE
 2010-11-21,Chile,Brazil,1,3,Copa América,Quito,Ecuador,TRUE
-2010-12-20,U.S. Virgin Islands,Saint Lucia,0,7,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,TRUE
-2010-12-20,Saint Lucia,Guyana,0,8,CONCACAF Gold Cup qualification,Macoya,Trinidad and Tobago,TRUE
-2010-12-20,Trinidad and Tobago,Barbados,5,0,CONCACAF Gold Cup qualification,Macoya,Trinidad and Tobago,FALSE
 2011-01-21,Sweden,United States,2,1,Four Nations Tournament,Chongqing,China PR,TRUE
 2011-01-21,China PR,Canada,2,3,Four Nations Tournament,Chongqing,China PR,FALSE
 2011-01-23,China PR,Sweden,2,1,Four Nations Tournament,Chongqing,China PR,FALSE
@@ -2777,8 +2777,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2012-01-14,Botswana,Zimbabwe,0,1,African Championship qualification,Gaborone,Botswana,FALSE
 2012-01-14,Uganda,DR Congo,1,1,African Championship qualification,Kampala,Uganda,FALSE
 2012-01-15,Mali,Ghana,0,3,African Championship qualification,Bamako,Mali,FALSE
-2012-01-20,Cameroon,Ivory Coast,4,1,African Championship,Bata,Equatorial Guinea,TRUE
-2012-01-20,Ethiopia,Nigeria,0,3,African Championship,Bata,Equatorial Guinea,TRUE
 2012-01-28,Tunisia,Morocco,2,0,African Championship qualification,Soliman,Tunisia,FALSE
 2012-01-28,DR Congo,Uganda,4,0,African Championship qualification,Kinshasa,DR Congo,FALSE
 2012-01-29,Ethiopia,Egypt,4,0,African Championship qualification,Addis Ababa,Ethiopia,FALSE
@@ -2821,8 +2819,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2012-03-07,Iceland,Denmark,1,3,Algarve Cup,Ferreiras,Portugal,TRUE
 2012-03-07,Sweden,United States,0,4,Algarve Cup,Parchal,Portugal,TRUE
 2012-03-07,Germany,Japan,4,3,Algarve Cup,Faro,Portugal,TRUE
-2012-03-20,Equatorial Guinea,Senegal,5,0,African Championship,Malabo,Equatorial Guinea,FALSE
-2012-03-20,South Africa,DR Congo,4,1,African Championship,Bata,Equatorial Guinea,TRUE
 2012-03-31,Russia,Macedonia,8,0,UEFA Euro qualification,Podolsk,Russia,FALSE
 2012-03-31,Greece,Poland,1,1,UEFA Euro qualification,Athens,Greece,FALSE
 2012-03-31,Italy,Bosnia and Herzegovina,4,0,UEFA Euro qualification,Ferrara,Italy,FALSE
@@ -2848,8 +2844,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2012-04-05,Ukraine,Estonia,5,0,UEFA Euro qualification,Sevastopol,Ukraine,FALSE
 2012-04-05,Netherlands,Slovenia,3,1,UEFA Euro qualification,Venlo,Netherlands,FALSE
 2012-04-05,Austria,Portugal,1,0,UEFA Euro qualification,Wiener Neustadt,Austria,FALSE
-2012-04-20,Nigeria,Ivory Coast,3,1,African Championship,Malabo,Equatorial Guinea,TRUE
-2012-04-20,Cameroon,Ethiopia,0,0,African Championship,Bata,Equatorial Guinea,TRUE
 2012-04-25,Northern Ireland,Hungary,0,1,UEFA Euro qualification,Lurgan,Northern Ireland,FALSE
 2012-05-19,Northern Ireland,Bulgaria,4,1,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
 2012-05-26,Ivory Coast,Mozambique,7,0,African Championship qualification,Côte d'Ivoire,Ivory Coast,FALSE
@@ -2893,7 +2887,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2012-06-21,Republic of Ireland,Scotland,0,1,UEFA Euro qualification,Cork,Republic of Ireland,FALSE
 2012-06-21,Slovenia,England,0,4,UEFA Euro qualification,Velenje,Slovenia,FALSE
 2012-07-20,Equatorial Guinea,Cameroon,2,0,African Championship,Malabo,Equatorial Guinea,FALSE
-2012-07-20,Nigeria,South Africa,0,1,African Championship,Bata,Equatorial Guinea,TRUE
 2012-07-25,Great Britain,New Zealand,1,0,Olympic Games,Cardiff,United Kingdom,TRUE
 2012-07-25,Cameroon,Brazil,0,5,Olympic Games,Cardiff,United Kingdom,TRUE
 2012-07-25,Japan,Canada,2,1,Olympic Games,Coventry,United Kingdom,TRUE
@@ -2963,12 +2956,39 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2012-10-29,Ivory Coast,Ethiopia,5,0,African Championship,Bata,Equatorial Guinea,TRUE
 2012-10-31,South Africa,Senegal,1,0,African Championship,Malabo,Equatorial Guinea,TRUE
 2012-10-31,Equatorial Guinea,DR Congo,6,0,African Championship,Malabo,Equatorial Guinea,FALSE
-2012-11-20,Cameroon,Nigeria,1,0,African Championship,Malabo,Equatorial Guinea,TRUE
-2012-11-20,Equatorial Guinea,South Africa,4,0,African Championship,Malabo,Equatorial Guinea,FALSE
+2012-11-01,Cameroon,Ivory Coast,4,1,African Championship,Bata,Equatorial Guinea,TRUE
+2012-11-01,Ethiopia,Nigeria,0,3,African Championship,Bata,Equatorial Guinea,TRUE
+2012-11-03,Equatorial Guinea,Senegal,5,0,African Championship,Malabo,Equatorial Guinea,FALSE
+2012-11-03,South Africa,DR Congo,4,1,African Championship,Bata,Equatorial Guinea,TRUE
+2012-11-04,Nigeria,Ivory Coast,3,1,African Championship,Malabo,Equatorial Guinea,TRUE
+2012-11-04,Cameroon,Ethiopia,0,0,African Championship,Bata,Equatorial Guinea,TRUE
+2012-11-07,Nigeria,South Africa,0,1,African Championship,Bata,Equatorial Guinea,TRUE
+2012-11-11,Cameroon,Nigeria,1,0,African Championship,Malabo,Equatorial Guinea,TRUE
+2012-11-11,Equatorial Guinea,South Africa,4,0,African Championship,Malabo,Equatorial Guinea,FALSE
+2013-01-12,Norway,South Korea,2,0,Four Nations Tournament,Chongqing,China PR,TRUE
+2013-01-12,China PR,Canada,0,1,Four Nations Tournament,Chongqing,China PR,FALSE
 2013-01-14,China PR,Norway,0,1,Four Nations Tournament,Chongqing,China PR,FALSE
 2013-01-14,Canada,South Korea,1,3,Four Nations Tournament,Chongqing,China PR,TRUE
 2013-01-16,China PR,South Korea,2,0,Four Nations Tournament,Chongqing,China PR,FALSE
 2013-01-16,Canada,Norway,0,0,Four Nations Tournament,Chongqing,China PR,TRUE
+2013-03-06,Norway,Japan,2,0,Algarve Cup,Parchal,Portugal,TRUE
+2013-03-06,Denmark,Germany,0,0,Algarve Cup,Albufeira,Portugal,TRUE
+2013-03-06,United States,Iceland,3,0,Algarve Cup,Albufeira,Portugal,TRUE
+2013-03-06,Sweden,China PR,1,1,Algarve Cup,Parchal,Portugal,TRUE
+2013-03-06,Mexico,Hungary,1,0,Algarve Cup,Ferreiras,Portugal,TRUE
+2013-03-06,Portugal,Wales,2,0,Algarve Cup,António,Portugal,FALSE
+2013-03-08,Germany,Japan,2,1,Algarve Cup,Parchal,Portugal,TRUE
+2013-03-08,Norway,Denmark,0,0,Algarve Cup,Parchal,Portugal,TRUE
+2013-03-08,United States,China PR,5,0,Algarve Cup,Albufeira,Portugal,TRUE
+2013-03-08,Sweden,Iceland,6,1,Algarve Cup,Albufeira,Portugal,TRUE
+2013-03-08,Portugal,Hungary,0,2,Algarve Cup,António,Portugal,FALSE
+2013-03-08,Wales,Mexico,1,0,Algarve Cup,António,Portugal,TRUE
+2013-03-11,Denmark,Japan,0,2,Algarve Cup,Algarve,Portugal,TRUE
+2013-03-11,Germany,Norway,2,0,Algarve Cup,Lagos,Portugal,TRUE
+2013-03-11,China PR,Iceland,1,0,Algarve Cup,Ferreiras,Portugal,TRUE
+2013-03-11,Sweden,United States,1,1,Algarve Cup,Lagos,Portugal,TRUE
+2013-03-11,Wales,Hungary,1,1,Algarve Cup,Quarteira,Portugal,TRUE
+2013-03-11,Portugal,Mexico,0,3,Algarve Cup,Algarve,Portugal,FALSE
 2013-03-13,Portugal,Wales,1,1,Algarve Cup,Parchal,Portugal,FALSE
 2013-03-13,Hungary,Iceland,1,4,Algarve Cup,Parchal,Portugal,TRUE
 2013-03-13,Mexico,Denmark,0,3,Algarve Cup,Lagos,Portugal,TRUE
@@ -2999,12 +3019,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2013-06-07,Jordan,Kuwait,21,0,AFC Asian Cup qualification,Amman,Jordan,FALSE
 2013-06-09,Lebanon,Kuwait,12,1,AFC Asian Cup qualification,Amman,Jordan,TRUE
 2013-06-09,Jordan,Uzbekistan,4,0,AFC Asian Cup qualification,Amman,Jordan,FALSE
-2013-06-20,Norway,Japan,2,0,Algarve Cup,Parchal,Portugal,TRUE
-2013-06-20,Denmark,Germany,0,0,Algarve Cup,Albufeira,Portugal,TRUE
-2013-06-20,United States,Iceland,3,0,Algarve Cup,Albufeira,Portugal,TRUE
-2013-06-20,Sweden,China PR,1,1,Algarve Cup,Parchal,Portugal,TRUE
-2013-06-20,Mexico,Hungary,1,0,Algarve Cup,Ferreiras,Portugal,TRUE
-2013-06-20,Portugal,Wales,2,0,Algarve Cup,António,Portugal,FALSE
 2013-07-10,Italy,Finland,0,0,UEFA Euro,Halmstad,Sweden,TRUE
 2013-07-10,Sweden,Denmark,1,1,UEFA Euro,Gothenburg,Sweden,FALSE
 2013-07-11,Norway,Iceland,1,1,UEFA Euro,Kalmar,Sweden,TRUE
@@ -3030,20 +3044,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2013-07-24,Sweden,Germany,0,1,UEFA Euro,Gothenburg,Sweden,FALSE
 2013-07-25,Norway,Denmark,1,1,UEFA Euro,Norrköping,Sweden,TRUE
 2013-07-28,Germany,Norway,1,0,UEFA Euro,Solna,Sweden,TRUE
-2013-08-20,Germany,Japan,2,1,Algarve Cup,Parchal,Portugal,TRUE
-2013-08-20,Norway,Denmark,0,0,Algarve Cup,Parchal,Portugal,TRUE
-2013-08-20,United States,China PR,5,0,Algarve Cup,Albufeira,Portugal,TRUE
-2013-08-20,Sweden,Iceland,6,1,Algarve Cup,Albufeira,Portugal,TRUE
-2013-08-20,Portugal,Hungary,0,2,Algarve Cup,António,Portugal,FALSE
-2013-08-20,Wales,Mexico,1,0,Algarve Cup,António,Portugal,TRUE
-2013-11-20,Denmark,Japan,0,2,Algarve Cup,Algarve,Portugal,TRUE
-2013-11-20,Germany,Norway,2,0,Algarve Cup,Lagos,Portugal,TRUE
-2013-11-20,China PR,Iceland,1,0,Algarve Cup,Ferreiras,Portugal,TRUE
-2013-11-20,Sweden,United States,1,1,Algarve Cup,Lagos,Portugal,TRUE
-2013-11-20,Wales,Hungary,1,1,Algarve Cup,Quarteira,Portugal,TRUE
-2013-11-20,Portugal,Mexico,0,3,Algarve Cup,Algarve,Portugal,FALSE
-2013-12-20,Norway,South Korea,2,0,Four Nations Tournament,Chongqing,China PR,TRUE
-2013-12-20,China PR,Canada,0,1,Four Nations Tournament,Chongqing,China PR,FALSE
+2014-02-11,China PR,New Zealand,1,0,Four Nations Tournament,Chongqing,China PR,FALSE
+2014-02-11,North Korea,Mexico,2,0,Four Nations Tournament,Chongqing,China PR,TRUE
 2014-02-13,China PR,Mexico,3,1,Four Nations Tournament,Chongqing,China PR,FALSE
 2014-02-13,North Korea,New Zealand,1,0,Four Nations Tournament,Chongqing,China PR,TRUE
 2014-02-14,Algeria,Morocco,2,0,African Championship qualification,Algiers,Algeria,FALSE
@@ -3062,6 +3064,30 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-03-01,Ghana,Burkina Faso,3,0,African Championship qualification,Accra,Ghana,FALSE
 2014-03-02,Kenya,Rwanda,2,1,African Championship qualification,Machakos,Kenya,FALSE
 2014-03-02,Zimbabwe,Botswana,2,1,African Championship qualification,Harare,Zimbabwe,FALSE
+2014-03-05,Norway,China PR,0,1,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2014-03-05,Germany,Iceland,5,0,Algarve Cup,Albufeira,Portugal,TRUE
+2014-03-05,Japan,United States,1,1,Algarve Cup,Parchal,Portugal,TRUE
+2014-03-05,Sweden,Denmark,2,0,Algarve Cup,Albufeira,Portugal,TRUE
+2014-03-05,Russia,North Korea,1,2,Algarve Cup,Lagos,Portugal,TRUE
+2014-03-05,Portugal,Austria,3,2,Algarve Cup,Parchal,Portugal,FALSE
+2014-03-07,Norway,Iceland,1,2,Algarve Cup,Lagos,Portugal,TRUE
+2014-03-07,Germany,China PR,1,0,Algarve Cup,Albufeira,Portugal,TRUE
+2014-03-07,Sweden,United States,1,0,Algarve Cup,Albufeira,Portugal,TRUE
+2014-03-07,Japan,Denmark,1,0,Algarve Cup,Parchal,Portugal,TRUE
+2014-03-07,Portugal,Russia,1,3,Algarve Cup,Parchal,Portugal,FALSE
+2014-03-07,Austria,North Korea,0,2,Algarve Cup,Lagos,Portugal,TRUE
+2014-03-10,China PR,Iceland,0,1,Algarve Cup,Lagos,Portugal,TRUE
+2014-03-10,Norway,Germany,1,3,Algarve Cup,Albufeira,Portugal,TRUE
+2014-03-10,Japan,Sweden,2,1,Algarve Cup,Faro,Portugal,TRUE
+2014-03-10,United States,Denmark,3,5,Algarve Cup,Albufeira,Portugal,TRUE
+2014-03-10,Portugal,North Korea,0,2,Algarve Cup,Faro,Portugal,FALSE
+2014-03-10,Austria,Russia,3,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2014-03-12,Portugal,Austria,1,2,Algarve Cup,Faro,Portugal,FALSE
+2014-03-12,Russia,Norway,1,0,Algarve Cup,Parchal,Portugal,TRUE
+2014-03-12,North Korea,United States,0,3,Algarve Cup,Parchal,Portugal,TRUE
+2014-03-12,China PR,Denmark,1,1,Algarve Cup,Albufeira,Portugal,TRUE
+2014-03-12,Iceland,Sweden,2,1,Algarve Cup,Albufeira,Portugal,TRUE
+2014-03-12,Germany,Japan,3,0,Algarve Cup,Faro,Portugal,TRUE
 2014-05-14,Vietnam,Jordan,3,1,AFC Asian Cup,Ho Chi Minh City,Vietnam,FALSE
 2014-05-14,Australia,Japan,2,2,AFC Asian Cup,Ho Chi Minh City,Vietnam,TRUE
 2014-05-15,South Korea,Myanmar,12,0,AFC Asian Cup,Ho Chi Minh City,Vietnam,TRUE
@@ -3077,12 +3103,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-05-20,Honduras,Belize,8,0,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,TRUE
 2014-05-20,Guatemala,Panama,1,0,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,FALSE
 2014-05-20,Nicaragua,El Salvador,0,2,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,TRUE
-2014-05-20,Norway,China PR,0,1,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
-2014-05-20,Germany,Iceland,5,0,Algarve Cup,Albufeira,Portugal,TRUE
-2014-05-20,Japan,United States,1,1,Algarve Cup,Parchal,Portugal,TRUE
-2014-05-20,Sweden,Denmark,2,0,Algarve Cup,Albufeira,Portugal,TRUE
-2014-05-20,Russia,North Korea,1,2,Algarve Cup,Lagos,Portugal,TRUE
-2014-05-20,Portugal,Austria,3,2,Algarve Cup,Parchal,Portugal,FALSE
 2014-05-21,Vietnam,Thailand,1,2,AFC Asian Cup,Ho Chi Minh City,Vietnam,FALSE
 2014-05-22,Belize,Panama,1,13,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,TRUE
 2014-05-22,Guatemala,Honduras,3,2,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,FALSE
@@ -3108,12 +3128,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-06-08,Ghana,Ethiopia,3,0,African Championship qualification,Tamale,Ghana,FALSE
 2014-06-08,Cameroon,Senegal,1,0,African Championship qualification,Yaoundé,Cameroon,FALSE
 2014-06-08,Zambia,Zimbabwe,1,0,African Championship qualification,Lusaka,Zambia,FALSE
-2014-07-20,Norway,Iceland,1,2,Algarve Cup,Lagos,Portugal,TRUE
-2014-07-20,Germany,China PR,1,0,Algarve Cup,Albufeira,Portugal,TRUE
-2014-07-20,Sweden,United States,1,0,Algarve Cup,Albufeira,Portugal,TRUE
-2014-07-20,Japan,Denmark,1,0,Algarve Cup,Parchal,Portugal,TRUE
-2014-07-20,Portugal,Russia,1,3,Algarve Cup,Parchal,Portugal,FALSE
-2014-07-20,Austria,North Korea,0,2,Algarve Cup,Lagos,Portugal,TRUE
+2014-10-11,Namibia,Zambia,2,0,African Championship,Windhoek,Namibia,FALSE
+2014-10-11,Nigeria,Ivory Coast,4,2,African Championship,Windhoek,Namibia,TRUE
+2014-10-12,South Africa,Cameroon,0,1,African Championship,Windhoek,Namibia,TRUE
+2014-10-12,Algeria,Ghana,1,0,African Championship,Windhoek,Namibia,TRUE
 2014-10-14,Zambia,Nigeria,0,6,African Championship,Windhoek,Namibia,TRUE
 2014-10-14,Namibia,Ivory Coast,1,3,African Championship,Windhoek,Namibia,FALSE
 2014-10-15,Cameroon,Algeria,2,0,African Championship,Windhoek,Namibia,TRUE
@@ -3132,12 +3150,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-10-18,Martinique,Mexico,0,10,CONCACAF Gold Cup,Bridgeview,United States,TRUE
 2014-10-20,Trinidad and Tobago,Guatemala,2,1,CONCACAF Gold Cup,Washington,United States,TRUE
 2014-10-20,United States,Haiti,6,0,CONCACAF Gold Cup,Washington,United States,FALSE
-2014-10-20,China PR,Iceland,0,1,Algarve Cup,Lagos,Portugal,TRUE
-2014-10-20,Norway,Germany,1,3,Algarve Cup,Albufeira,Portugal,TRUE
-2014-10-20,Japan,Sweden,2,1,Algarve Cup,Faro,Portugal,TRUE
-2014-10-20,United States,Denmark,3,5,Algarve Cup,Albufeira,Portugal,TRUE
-2014-10-20,Portugal,North Korea,0,2,Algarve Cup,Faro,Portugal,FALSE
-2014-10-20,Austria,Russia,3,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2014-10-21,Martinique,Costa Rica,1,6,CONCACAF Gold Cup,Washington,United States,TRUE
 2014-10-21,Mexico,Jamaica,3,1,CONCACAF Gold Cup,Washington,United States,TRUE
 2014-10-22,Nigeria,South Africa,2,1,African Championship,Windhoek,Namibia,TRUE
@@ -3154,22 +3166,36 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-10-27,Papua New Guinea,New Zealand,0,3,OFC Championship,Kokopo,Papua New Guinea,FALSE
 2014-10-29,Cook Islands,New Zealand,0,11,OFC Championship,Kokopo,Papua New Guinea,TRUE
 2014-10-29,Papua New Guinea,Tonga,3,0,OFC Championship,Kokopo,Papua New Guinea,FALSE
-2014-11-20,Namibia,Zambia,2,0,African Championship,Windhoek,Namibia,FALSE
-2014-11-20,Nigeria,Ivory Coast,4,2,African Championship,Windhoek,Namibia,TRUE
-2014-11-20,China PR,New Zealand,1,0,Four Nations Tournament,Chongqing,China PR,FALSE
-2014-11-20,North Korea,Mexico,2,0,Four Nations Tournament,Chongqing,China PR,TRUE
-2014-12-20,South Africa,Cameroon,0,1,African Championship,Windhoek,Namibia,TRUE
-2014-12-20,Algeria,Ghana,1,0,African Championship,Windhoek,Namibia,TRUE
-2014-12-20,Portugal,Austria,1,2,Algarve Cup,Faro,Portugal,FALSE
-2014-12-20,Russia,Norway,1,0,Algarve Cup,Parchal,Portugal,TRUE
-2014-12-20,North Korea,United States,0,3,Algarve Cup,Parchal,Portugal,TRUE
-2014-12-20,China PR,Denmark,1,1,Algarve Cup,Albufeira,Portugal,TRUE
-2014-12-20,Iceland,Sweden,2,1,Algarve Cup,Albufeira,Portugal,TRUE
-2014-12-20,Germany,Japan,3,0,Algarve Cup,Faro,Portugal,TRUE
+2015-01-11,Canada,South Korea,2,1,Four Nations Tournament,Foshan,China PR,TRUE
+2015-01-11,China PR,Mexico,0,0,Four Nations Tournament,Foshan,China PR,FALSE
 2015-01-13,Canada,Mexico,2,1,Four Nations Tournament,Foshan,China PR,TRUE
 2015-01-13,China PR,South Korea,2,3,Four Nations Tournament,Foshan,China PR,FALSE
 2015-01-15,China PR,Canada,1,2,Four Nations Tournament,Foshan,China PR,FALSE
 2015-01-15,South Korea,Mexico,2,1,Four Nations Tournament,Foshan,China PR,TRUE
+2015-03-04,Brazil,China PR,0,0,Algarve Cup,Albufeira,Portugal,TRUE
+2015-03-04,Germany,Sweden,2,4,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2015-03-04,Switzerland,Iceland,2,0,Algarve Cup,Lagos,Portugal,TRUE
+2015-03-04,Norway,United States,1,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2015-03-04,Japan,Denmark,1,2,Algarve Cup,Parchal,Portugal,TRUE
+2015-03-04,Portugal,France,0,1,Algarve Cup,Parchal,Portugal,FALSE
+2015-03-06,Germany,China PR,2,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2015-03-06,Sweden,Brazil,0,2,Algarve Cup,Lagos,Portugal,TRUE
+2015-03-06,United States,Switzerland,3,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2015-03-06,Norway,Iceland,1,0,Algarve Cup,Lagos,Portugal,TRUE
+2015-03-06,Portugal,Japan,0,3,Algarve Cup,Parchal,Portugal,FALSE
+2015-03-06,France,Denmark,4,1,Algarve Cup,Parchal,Portugal,TRUE
+2015-03-09,Brazil,Germany,1,3,Algarve Cup,Parchal,Portugal,TRUE
+2015-03-09,Sweden,China PR,3,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2015-03-09,United States,Iceland,0,0,Algarve Cup,Lagos,Portugal,TRUE
+2015-03-09,Norway,Switzerland,2,2,Algarve Cup,Albufeira,Portugal,TRUE
+2015-03-09,Japan,France,1,3,Algarve Cup,Parchal,Portugal,TRUE
+2015-03-09,Portugal,Denmark,2,2,Algarve Cup,Vila Real de Santo António,Portugal,FALSE
+2015-03-11,Portugal,China PR,3,3,Algarve Cup,Parchal,Portugal,FALSE
+2015-03-11,Japan,Iceland,2,0,Algarve Cup,Faro,Portugal,TRUE
+2015-03-11,Brazil,Switzerland,4,1,Algarve Cup,Albufeira,Portugal,TRUE
+2015-03-11,Norway,Denmark,5,2,Algarve Cup,Albufeira,Portugal,TRUE
+2015-03-11,Sweden,Germany,1,2,Algarve Cup,Parchal,Portugal,TRUE
+2015-03-11,France,United States,0,2,Algarve Cup,Faro,Portugal,TRUE
 2015-04-04,Luxembourg,Latvia,4,3,UEFA Euro qualification,Orhei,Luxembourg,FALSE
 2015-04-04,Moldova,Lithuania,2,0,UEFA Euro qualification,Vadul lui Vodă,Moldova,FALSE
 2015-04-04,Georgia,Faroe Islands,2,0,UEFA Euro qualification,Ħamrun,Georgia,FALSE
@@ -3182,12 +3208,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-04-09,Latvia,Lithuania,1,1,UEFA Euro qualification,Orhei,Latvia,FALSE
 2015-04-09,Malta,Faroe Islands,2,4,UEFA Euro qualification,Ħamrun,Malta,FALSE
 2015-04-09,Andorra,Georgia,0,7,UEFA Euro qualification,Ta' Qali,Andorra,FALSE
-2015-04-20,Brazil,China PR,0,0,Algarve Cup,Albufeira,Portugal,TRUE
-2015-04-20,Germany,Sweden,2,4,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
-2015-04-20,Switzerland,Iceland,2,0,Algarve Cup,Lagos,Portugal,TRUE
-2015-04-20,Norway,United States,1,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
-2015-04-20,Japan,Denmark,1,2,Algarve Cup,Parchal,Portugal,TRUE
-2015-04-20,Portugal,France,0,1,Algarve Cup,Parchal,Portugal,FALSE
 2015-06-06,Canada,China PR,1,0,FIFA World Cup,Edmonton,Canada,FALSE
 2015-06-06,New Zealand,Netherlands,0,1,FIFA World Cup,Edmonton,Canada,TRUE
 2015-06-07,Norway,Thailand,4,0,FIFA World Cup,Ottawa,Canada,TRUE
@@ -3224,12 +3244,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-06-17,South Korea,Spain,2,1,FIFA World Cup,Ottawa,Canada,TRUE
 2015-06-17,Mexico,France,0,5,FIFA World Cup,Ottawa,Canada,TRUE
 2015-06-17,England,Colombia,2,1,FIFA World Cup,Montreal,Canada,TRUE
-2015-06-20,Germany,China PR,2,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
-2015-06-20,Sweden,Brazil,0,2,Algarve Cup,Lagos,Portugal,TRUE
-2015-06-20,United States,Switzerland,3,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
-2015-06-20,Norway,Iceland,1,0,Algarve Cup,Lagos,Portugal,TRUE
-2015-06-20,Portugal,Japan,0,3,Algarve Cup,Parchal,Portugal,FALSE
-2015-06-20,France,Denmark,4,1,Algarve Cup,Parchal,Portugal,TRUE
 2015-06-20,Germany,Sweden,4,1,FIFA World Cup,Ottawa,Canada,TRUE
 2015-06-20,China PR,Cameroon,1,0,FIFA World Cup,Edmonton,Canada,TRUE
 2015-06-21,Brazil,Australia,0,1,FIFA World Cup,Moncton,Canada,TRUE
@@ -3253,12 +3267,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-09-17,Kazakhstan,Austria,0,2,UEFA Euro qualification,Shymkent,Kazakhstan,FALSE
 2015-09-18,Germany,Hungary,12,0,UEFA Euro qualification,Halle,Germany,FALSE
 2015-09-18,Italy,Georgia,6,1,UEFA Euro qualification,La Spezia,Italy,FALSE
-2015-09-20,Brazil,Germany,1,3,Algarve Cup,Parchal,Portugal,TRUE
-2015-09-20,Sweden,China PR,3,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
-2015-09-20,United States,Iceland,0,0,Algarve Cup,Lagos,Portugal,TRUE
-2015-09-20,Norway,Switzerland,2,2,Algarve Cup,Albufeira,Portugal,TRUE
-2015-09-20,Japan,France,1,3,Algarve Cup,Parchal,Portugal,TRUE
-2015-09-20,Portugal,Denmark,2,2,Algarve Cup,Vila Real de Santo António,Portugal,FALSE
 2015-09-21,Republic of Ireland,Finland,0,2,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
 2015-09-21,Estonia,England,0,8,UEFA Euro qualification,Tallinn,Estonia,FALSE
 2015-09-22,Slovenia,Scotland,0,3,UEFA Euro qualification,Ajdovščina,Slovenia,FALSE
@@ -3299,14 +3307,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-10-27,Switzerland,Georgia,4,0,UEFA Euro qualification,Biel/Bienne,Switzerland,FALSE
 2015-10-27,Serbia,Estonia,3,0,UEFA Euro qualification,Pećinci,Serbia,FALSE
 2015-10-27,Bosnia and Herzegovina,Belgium,0,5,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
-2015-11-20,Portugal,China PR,3,3,Algarve Cup,Parchal,Portugal,FALSE
-2015-11-20,Japan,Iceland,2,0,Algarve Cup,Faro,Portugal,TRUE
-2015-11-20,Brazil,Switzerland,4,1,Algarve Cup,Albufeira,Portugal,TRUE
-2015-11-20,Norway,Denmark,5,2,Algarve Cup,Albufeira,Portugal,TRUE
-2015-11-20,Sweden,Germany,1,2,Algarve Cup,Parchal,Portugal,TRUE
-2015-11-20,France,United States,0,2,Algarve Cup,Faro,Portugal,TRUE
-2015-11-20,Canada,South Korea,2,1,Four Nations Tournament,Foshan,China PR,TRUE
-2015-11-20,China PR,Mexico,0,0,Four Nations Tournament,Foshan,China PR,FALSE
 2015-11-25,Turkey,Russia,0,0,UEFA Euro qualification,Fethiye,Turkey,FALSE
 2015-11-25,Serbia,Bosnia and Herzegovina,0,1,UEFA Euro qualification,Stara Pazova,Serbia,FALSE
 2015-11-26,Macedonia,Belarus,0,2,UEFA Euro qualification,Skopje,Macedonia,FALSE
@@ -3378,8 +3378,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-03-26,Ethiopia,Algeria,1,1,African Championship qualification,Addis Ababa,Ethiopia,FALSE
 2016-04-06,Israel,Norway,0,1,UEFA Euro qualification,Ramat Gan,Israel,FALSE
 2016-04-06,Austria,Kazakhstan,6,1,UEFA Euro qualification,Steyr,Austria,FALSE
+2016-04-06,Mali,Equatorial Guinea,1,1,African Championship qualification,Bamako,Mali,FALSE
+2016-04-06,Zimbabwe,Zambia,1,0,African Championship qualification,Harare,Zimbabwe,FALSE
+2016-04-06,Tunisia,Ghana,1,2,African Championship qualification,Oued Ellil,Tunisia,FALSE
 2016-04-07,Montenegro,Republic of Ireland,0,5,UEFA Euro qualification,Petrovac,Montenegro,FALSE
 2016-04-07,Poland,Denmark,0,0,UEFA Euro qualification,Tychy,Poland,FALSE
+2016-04-07,Egypt,Ivory Coast,1,0,African Championship qualification,Cairo,Egypt,FALSE
 2016-04-08,Scotland,Slovenia,3,1,UEFA Euro qualification,Paisley,Scotland,FALSE
 2016-04-08,Portugal,Spain,1,4,UEFA Euro qualification,Covilhã,Portugal,FALSE
 2016-04-08,Ukraine,Albania,2,0,UEFA Euro qualification,Lviv,Ukraine,FALSE
@@ -3388,9 +3392,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-04-08,Turkey,Germany,0,6,UEFA Euro qualification,Istanbul,Turkey,FALSE
 2016-04-08,Hungary,Croatia,2,0,UEFA Euro qualification,Győr,Hungary,FALSE
 2016-04-08,England,Belgium,1,1,UEFA Euro qualification,Rotherham,England,FALSE
+2016-04-08,Algeria,Kenya,2,2,African Championship qualification,Algiers,Algeria,FALSE
+2016-04-08,Senegal,Nigeria,1,1,African Championship qualification,Dakar,Senegal,FALSE
 2016-04-09,Switzerland,Italy,2,1,UEFA Euro qualification,Biel/Bienne,Switzerland,FALSE
+2016-04-09,Botswana,South Africa,0,2,African Championship qualification,Lobatse,Botswana,FALSE
 2016-04-10,Austria,Norway,0,1,UEFA Euro qualification,Steyr,Austria,FALSE
+2016-04-10,Equatorial Guinea,Mali,2,1,African Championship qualification,Malabo,Equatorial Guinea,FALSE
+2016-04-10,Zambia,Zimbabwe,2,3,African Championship qualification,Lusaka,Zambia,FALSE
 2016-04-11,France,Ukraine,4,0,UEFA Euro qualification,Valenciennes,France,FALSE
+2016-04-11,Ivory Coast,Egypt,2,1,African Championship qualification,Abidjan,Ivory Coast,FALSE
 2016-04-12,Belarus,Iceland,0,5,UEFA Euro qualification,Minsk,Belarus,FALSE
 2016-04-12,Slovenia,Macedonia,8,1,UEFA Euro qualification,Lendava,Slovenia,FALSE
 2016-04-12,Montenegro,Finland,1,7,UEFA Euro qualification,Petrovac,Montenegro,FALSE
@@ -3403,6 +3413,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-04-12,Bosnia and Herzegovina,England,0,1,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
 2016-04-12,Belgium,Estonia,6,0,UEFA Euro qualification,Leuven,Belgium,FALSE
 2016-04-12,Kazakhstan,Wales,0,4,UEFA Euro qualification,Shymkent,Kazakhstan,FALSE
+2016-04-12,Kenya,Algeria,1,1,African Championship qualification,Nairobi,Kenya,FALSE
+2016-04-12,Nigeria,Senegal,2,0,African Championship qualification,Abuja,Nigeria,FALSE
+2016-04-12,Ghana,Tunisia,4,0,African Championship qualification,Accra,Ghana,FALSE
+2016-04-12,South Africa,Botswana,3,0,African Championship qualification,Tembisa,South Africa,FALSE
 2016-06-02,Albania,Romania,0,3,UEFA Euro qualification,Elbasan,Albania,FALSE
 2016-06-02,Poland,Sweden,0,4,UEFA Euro qualification,Łódź,Poland,FALSE
 2016-06-02,Denmark,Slovakia,4,0,UEFA Euro qualification,Viborg,Denmark,FALSE
@@ -3433,10 +3447,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-06-07,Czech Republic,Northern Ireland,3,0,UEFA Euro qualification,Jablonec nad Nisou,Czech Republic,FALSE
 2016-06-07,Serbia,England,0,7,UEFA Euro qualification,Stara Pazova,Serbia,FALSE
 2016-06-07,Wales,Norway,0,2,UEFA Euro qualification,Newport,Wales,FALSE
-2016-06-20,Mali,Equatorial Guinea,1,1,African Championship qualification,Bamako,Mali,FALSE
-2016-06-20,Zimbabwe,Zambia,1,0,African Championship qualification,Harare,Zimbabwe,FALSE
-2016-06-20,Tunisia,Ghana,1,2,African Championship qualification,Oued Ellil,Tunisia,FALSE
-2016-07-20,Egypt,Ivory Coast,1,0,African Championship qualification,Cairo,Egypt,FALSE
 2016-08-03,Northern Ireland,Czech Republic,1,1,UEFA Euro qualification,Lurgan,Northern Ireland,FALSE
 2016-08-03,Sweden,South Africa,1,0,Olympic Games,Rio de Janeiro,Brazil,TRUE
 2016-08-03,Brazil,China PR,3,0,Olympic Games,Rio de Janeiro,Brazil,FALSE
@@ -3464,8 +3474,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-08-16,Canada,Germany,0,2,Olympic Games,Belo Horizonte,Brazil,TRUE
 2016-08-19,Brazil,Canada,1,2,Olympic Games,São Paulo,Brazil,FALSE
 2016-08-19,Sweden,Germany,1,2,Olympic Games,Rio de Janeiro,Brazil,TRUE
-2016-08-20,Algeria,Kenya,2,2,African Championship qualification,Algiers,Algeria,FALSE
-2016-08-20,Senegal,Nigeria,1,1,African Championship qualification,Dakar,Senegal,FALSE
 2016-09-15,Belarus,Macedonia,6,2,UEFA Euro qualification,Minsk,Belarus,FALSE
 2016-09-15,Spain,Montenegro,13,0,UEFA Euro qualification,Las Rozas de Madrid,Spain,FALSE
 2016-09-15,Romania,Ukraine,2,1,UEFA Euro qualification,Cluj-Napoca,Romania,FALSE
@@ -3481,7 +3489,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-09-16,Russia,Germany,0,4,UEFA Euro qualification,Khimki,Russia,FALSE
 2016-09-16,Northern Ireland,Italy,0,3,UEFA Euro qualification,Lurgan,Northern Ireland,FALSE
 2016-09-19,Norway,Israel,5,0,UEFA Euro qualification,Ulsteinvik,Norway,FALSE
-2016-09-20,Botswana,South Africa,0,2,African Championship qualification,Lobatse,Botswana,FALSE
 2016-09-20,Belarus,Slovenia,2,0,UEFA Euro qualification,Minsk,Belarus,FALSE
 2016-09-20,Iceland,Scotland,1,2,UEFA Euro qualification,Reykjavík,Iceland,FALSE
 2016-09-20,Spain,Finland,5,0,UEFA Euro qualification,Leganés,Spain,FALSE
@@ -3497,15 +3504,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-09-20,Bosnia and Herzegovina,Serbia,2,4,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
 2016-09-20,Belgium,England,0,2,UEFA Euro qualification,Leuven,Belgium,FALSE
 2016-09-20,Wales,Austria,0,0,UEFA Euro qualification,Newport,Wales,FALSE
-2016-10-20,Equatorial Guinea,Mali,2,1,African Championship qualification,Malabo,Equatorial Guinea,FALSE
-2016-10-20,Zambia,Zimbabwe,2,3,African Championship qualification,Lusaka,Zambia,FALSE
 2016-10-21,Portugal,Romania,0,0,UEFA Euro qualification,Lisbon,Portugal,FALSE
 2016-10-25,Romania,Portugal,1,1,UEFA Euro qualification,Cluj-Napoca,Romania,FALSE
 2016-11-19,Cameroon,Egypt,2,0,African Championship,Yaoundé,Cameroon,FALSE
 2016-11-19,South Africa,Zimbabwe,0,0,African Championship,Yaoundé,Cameroon,TRUE
 2016-11-20,Nigeria,Mali,6,0,African Championship,Limbe,Cameroon,TRUE
 2016-11-20,Ghana,Kenya,3,1,African Championship,Limbe,Cameroon,TRUE
-2016-11-20,Ivory Coast,Egypt,2,1,African Championship qualification,Abidjan,Ivory Coast,FALSE
 2016-11-22,Cameroon,South Africa,1,0,African Championship,Yaoundé,Cameroon,FALSE
 2016-11-22,Zimbabwe,Egypt,0,1,African Championship,Yaoundé,Cameroon,TRUE
 2016-11-23,Nigeria,Ghana,1,1,African Championship,Limbe,Cameroon,TRUE
@@ -3518,10 +3522,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-11-29,Nigeria,South Africa,1,0,African Championship,Limbe,Cameroon,TRUE
 2016-12-02,Ghana,South Africa,1,0,African Championship,Yaoundé,Cameroon,TRUE
 2016-12-03,Cameroon,Nigeria,0,1,African Championship,Yaoundé,Cameroon,FALSE
-2016-12-20,Kenya,Algeria,1,1,African Championship qualification,Nairobi,Kenya,FALSE
-2016-12-20,Nigeria,Senegal,2,0,African Championship qualification,Abuja,Nigeria,FALSE
-2016-12-20,Ghana,Tunisia,4,0,African Championship qualification,Accra,Ghana,FALSE
-2016-12-20,South Africa,Botswana,3,0,African Championship qualification,Tembisa,South Africa,FALSE
 2017-01-19,Myanmar,Ukraine,0,4,Four Nations Tournament,Foshan,China PR,TRUE
 2017-01-19,China PR,Thailand,2,0,Four Nations Tournament,Foshan,China PR,FALSE
 2017-01-21,China PR,Myanmar,2,0,Four Nations Tournament,Foshan,China PR,FALSE
@@ -3558,14 +3558,22 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-03-08,Japan,Netherlands,2,3,Algarve Cup,Estádio Algarve,Portugal,TRUE
 2017-03-08,Australia,Denmark,1,1,Algarve Cup,Albufeira,Portugal,TRUE
 2017-03-08,Spain,Canada,1,0,Algarve Cup,Estádio Algarve,Portugal,TRUE
-2017-03-20,Bahrain,Jordan,0,6,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
-2017-03-20,Tajikistan,Iraq,1,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,FALSE
-2017-03-20,Philippines,United Arab Emirates,4,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
-2017-03-20,North Korea,India,8,0,AFC Asian Cup qualification,Pyongyang,North Korea,FALSE
-2017-03-20,Hong Kong,Uzbekistan,1,2,AFC Asian Cup qualification,Pyongyang,North Korea,TRUE
-2017-03-20,Palestine,Thailand,0,6,AFC Asian Cup qualification,Al-Ram,Palestine,FALSE
-2017-03-20,Iran,Myanmar,0,2,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
-2017-03-20,Singapore,Syria,1,0,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
+2017-04-03,Bahrain,Jordan,0,6,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
+2017-04-03,Tajikistan,Iraq,1,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,FALSE
+2017-04-03,Philippines,United Arab Emirates,4,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
+2017-04-03,North Korea,India,8,0,AFC Asian Cup qualification,Pyongyang,North Korea,FALSE
+2017-04-03,Hong Kong,Uzbekistan,1,2,AFC Asian Cup qualification,Pyongyang,North Korea,TRUE
+2017-04-03,Palestine,Thailand,0,6,AFC Asian Cup qualification,Al-Ram,Palestine,FALSE
+2017-04-03,Iran,Myanmar,0,2,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
+2017-04-03,Singapore,Syria,1,0,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
+2017-04-05,Philippines,Iraq,4,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
+2017-04-05,Tajikistan,Bahrain,0,4,AFC Asian Cup qualification,Dushanbe,Tajikistan,FALSE
+2017-04-05,Jordan,United Arab Emirates,6,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
+2017-04-05,North Korea,Hong Kong,5,0,AFC Asian Cup qualification,Pyongyang,North Korea,FALSE
+2017-04-05,India,South Korea,0,10,AFC Asian Cup qualification,Pyongyang,North Korea,TRUE
+2017-04-05,Palestine,Chinese Taipei,0,5,AFC Asian Cup qualification,Al-Ram,Palestine,FALSE
+2017-04-05,Singapore,Iran,0,6,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
+2017-04-05,Vietnam,Syria,11,0,AFC Asian Cup qualification,Hanoi,Vietnam,FALSE
 2017-04-06,Estonia,Latvia,0,4,FIFA World Cup qualification,Tbilisi,Georgia,TRUE
 2017-04-06,Georgia,Kazakhstan,0,1,FIFA World Cup qualification,Tbilisi,Georgia,FALSE
 2017-04-06,Albania,Kosovo,3,2,FIFA World Cup qualification,Elbasan,Albania,FALSE
@@ -3574,6 +3582,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-04-06,Lithuania,Israel,0,2,FIFA World Cup qualification,Vilnius,Lithuania,FALSE
 2017-04-06,Turkey,Montenegro,3,0,FIFA World Cup qualification,Tórshavn,Faroe Islands,TRUE
 2017-04-06,Faroe Islands,Luxembourg,5,1,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
+2017-04-07,United Arab Emirates,Bahrain,1,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
+2017-04-07,Tajikistan,Philippines,0,8,AFC Asian Cup qualification,Dushanbe,Tajikistan,FALSE
+2017-04-07,Jordan,Iraq,10,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
+2017-04-07,North Korea,South Korea,1,1,AFC Asian Cup qualification,Pyongyang,North Korea,FALSE
+2017-04-07,Uzbekistan,India,7,1,AFC Asian Cup qualification,Pyongyang,North Korea,TRUE
+2017-04-07,Thailand,Chinese Taipei,1,0,AFC Asian Cup qualification,Al-Ram,Palestine,TRUE
+2017-04-07,Myanmar,Syria,14,0,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
+2017-04-07,Vietnam,Singapore,8,0,AFC Asian Cup qualification,Hanoi,Vietnam,FALSE
 2017-04-08,Kazakhstan,Latvia,2,2,FIFA World Cup qualification,Tbilisi,Georgia,TRUE
 2017-04-08,Georgia,Estonia,2,1,FIFA World Cup qualification,Tbilisi,Georgia,FALSE
 2017-04-08,Greece,Kosovo,6,0,FIFA World Cup qualification,Tirana,Albania,TRUE
@@ -3582,6 +3598,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-04-08,Israel,Andorra,7,0,FIFA World Cup qualification,Vilnius,Lithuania,TRUE
 2017-04-08,Faroe Islands,Montenegro,2,1,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
 2017-04-08,Turkey,Luxembourg,9,1,FIFA World Cup qualification,Tórshavn,Faroe Islands,TRUE
+2017-04-09,North Korea,Uzbekistan,4,0,AFC Asian Cup qualification,Pyongyang,North Korea,FALSE
+2017-04-09,Hong Kong,South Korea,0,6,AFC Asian Cup qualification,Pyongyang,North Korea,TRUE
+2017-04-09,Myanmar,Singapore,6,0,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
+2017-04-09,Vietnam,Iran,6,1,AFC Asian Cup qualification,Hanoi,Vietnam,FALSE
+2017-04-10,Iraq,United Arab Emirates,0,3,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
+2017-04-10,Tajikistan,Jordan,2,10,AFC Asian Cup qualification,Dushanbe,Tajikistan,FALSE
+2017-04-10,Philippines,Bahrain,1,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
 2017-04-11,Estonia,Kazakhstan,0,1,FIFA World Cup qualification,Tbilisi,Georgia,TRUE
 2017-04-11,Georgia,Latvia,1,1,FIFA World Cup qualification,Tbilisi,Georgia,FALSE
 2017-04-11,Albania,Greece,2,1,FIFA World Cup qualification,Elbasan,Albania,FALSE
@@ -3590,14 +3613,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-04-11,Lithuania,Andorra,2,0,FIFA World Cup qualification,Kaunas,Lithuania,FALSE
 2017-04-11,Faroe Islands,Turkey,2,1,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
 2017-04-11,Luxembourg,Montenegro,1,7,FIFA World Cup qualification,Tórshavn,Faroe Islands,TRUE
-2017-05-20,Philippines,Iraq,4,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
-2017-05-20,Tajikistan,Bahrain,0,4,AFC Asian Cup qualification,Dushanbe,Tajikistan,FALSE
-2017-05-20,Jordan,United Arab Emirates,6,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
-2017-05-20,North Korea,Hong Kong,5,0,AFC Asian Cup qualification,Pyongyang,North Korea,FALSE
-2017-05-20,India,South Korea,0,10,AFC Asian Cup qualification,Pyongyang,North Korea,TRUE
-2017-05-20,Palestine,Chinese Taipei,0,5,AFC Asian Cup qualification,Al-Ram,Palestine,FALSE
-2017-05-20,Singapore,Iran,0,6,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
-2017-05-20,Vietnam,Syria,11,0,AFC Asian Cup qualification,Hanoi,Vietnam,FALSE
+2017-04-11,India,Hong Kong,2,0,AFC Asian Cup qualification,Pyongyang,North Korea,TRUE
+2017-04-11,South Korea,Uzbekistan,4,0,AFC Asian Cup qualification,Pyongyang,North Korea,TRUE
+2017-04-11,Syria,Iran,0,12,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
+2017-04-11,Vietnam,Myanmar,2,0,AFC Asian Cup qualification,Hanoi,Vietnam,FALSE
+2017-04-12,Jordan,Philippines,5,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
+2017-04-12,Tajikistan,United Arab Emirates,0,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,FALSE
+2017-04-12,Bahrain,Iraq,4,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
 2017-07-16,Netherlands,Norway,1,0,UEFA Euro,Utrecht,Netherlands,FALSE
 2017-07-16,Denmark,Belgium,1,0,UEFA Euro,Doetinchem,Netherlands,TRUE
 2017-07-17,Italy,Russia,1,2,UEFA Euro,Rotterdam,Netherlands,TRUE
@@ -3608,14 +3630,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-07-19,England,Scotland,6,0,UEFA Euro,Utrecht,Netherlands,TRUE
 2017-07-20,Norway,Belgium,0,2,UEFA Euro,Breda,Netherlands,TRUE
 2017-07-20,Netherlands,Denmark,1,0,UEFA Euro,Rotterdam,Netherlands,FALSE
-2017-07-20,United Arab Emirates,Bahrain,1,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
-2017-07-20,Tajikistan,Philippines,0,8,AFC Asian Cup qualification,Dushanbe,Tajikistan,FALSE
-2017-07-20,Jordan,Iraq,10,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
-2017-07-20,North Korea,South Korea,1,1,AFC Asian Cup qualification,Pyongyang,North Korea,FALSE
-2017-07-20,Uzbekistan,India,7,1,AFC Asian Cup qualification,Pyongyang,North Korea,TRUE
-2017-07-20,Thailand,Chinese Taipei,1,0,AFC Asian Cup qualification,Al-Ram,Palestine,TRUE
-2017-07-20,Myanmar,Syria,14,0,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
-2017-07-20,Vietnam,Singapore,8,0,AFC Asian Cup qualification,Hanoi,Vietnam,FALSE
 2017-07-21,Sweden,Russia,2,0,UEFA Euro,Deventer,Netherlands,TRUE
 2017-07-21,Germany,Italy,2,1,UEFA Euro,Tilburg,Netherlands,TRUE
 2017-07-22,Iceland,Switzerland,1,2,UEFA Euro,Doetinchem,Netherlands,TRUE
@@ -3657,10 +3671,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-09-19,Romania,Italy,0,1,FIFA World Cup qualification,Cluj-Napoca,Romania,FALSE
 2017-09-19,Belgium,Moldova,12,0,FIFA World Cup qualification,Leuven,Belgium,FALSE
 2017-09-19,Serbia,Austria,0,4,FIFA World Cup qualification,Kruševac,Serbia,FALSE
-2017-09-20,North Korea,Uzbekistan,4,0,AFC Asian Cup qualification,Pyongyang,North Korea,FALSE
-2017-09-20,Hong Kong,South Korea,0,6,AFC Asian Cup qualification,Pyongyang,North Korea,TRUE
-2017-09-20,Myanmar,Singapore,6,0,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
-2017-09-20,Vietnam,Iran,6,1,AFC Asian Cup qualification,Hanoi,Vietnam,FALSE
 2017-10-19,Belarus,Scotland,1,2,FIFA World Cup qualification,Minsk,Belarus,FALSE
 2017-10-19,Hungary,Croatia,2,2,FIFA World Cup qualification,Győr,Hungary,FALSE
 2017-10-19,Serbia,Israel,2,0,FIFA World Cup qualification,Belgrade,Serbia,FALSE
@@ -3668,9 +3678,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-10-20,Germany,Iceland,2,3,FIFA World Cup qualification,Wiesbaden,Germany,FALSE
 2017-10-20,Slovenia,Czech Republic,0,4,FIFA World Cup qualification,Domžale,Slovenia,FALSE
 2017-10-20,Belgium,Romania,3,2,FIFA World Cup qualification,Leuven,Belgium,FALSE
-2017-10-20,Iraq,United Arab Emirates,0,3,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
-2017-10-20,Tajikistan,Jordan,2,10,AFC Asian Cup qualification,Dushanbe,Tajikistan,FALSE
-2017-10-20,Philippines,Bahrain,1,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
 2017-10-21,Kazakhstan,Bosnia and Herzegovina,0,2,FIFA World Cup qualification,Astana,Kazakhstan,FALSE
 2017-10-22,Finland,Serbia,1,0,FIFA World Cup qualification,Helsinki,Finland,FALSE
 2017-10-23,Israel,Spain,0,6,FIFA World Cup qualification,Ramat Gan,Israel,FALSE
@@ -3684,10 +3691,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-10-24,Czech Republic,Iceland,1,1,FIFA World Cup qualification,Znojmo,Czech Republic,FALSE
 2017-10-24,Italy,Romania,3,0,FIFA World Cup qualification,Castel di Sangro,Italy,FALSE
 2017-10-24,Portugal,Belgium,0,1,FIFA World Cup qualification,Penafiel,Portugal,FALSE
-2017-11-20,India,Hong Kong,2,0,AFC Asian Cup qualification,Pyongyang,North Korea,TRUE
-2017-11-20,South Korea,Uzbekistan,4,0,AFC Asian Cup qualification,Pyongyang,North Korea,TRUE
-2017-11-20,Syria,Iran,0,12,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
-2017-11-20,Vietnam,Myanmar,2,0,AFC Asian Cup qualification,Hanoi,Vietnam,FALSE
 2017-11-23,Austria,Israel,2,0,FIFA World Cup qualification,Maria Enzersdorf,Austria,FALSE
 2017-11-24,Wales,Kazakhstan,1,0,FIFA World Cup qualification,Cardiff,Wales,FALSE
 2017-11-24,England,Bosnia and Herzegovina,4,0,FIFA World Cup qualification,Walsall,England,FALSE
@@ -3707,9 +3710,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-11-28,Romania,Moldova,3,1,FIFA World Cup qualification,Mogoșoaia,Romania,FALSE
 2017-11-28,Portugal,Italy,0,1,FIFA World Cup qualification,Estoril,Portugal,FALSE
 2017-11-28,Spain,Austria,4,0,FIFA World Cup qualification,Palma,Spain,FALSE
-2017-12-20,Jordan,Philippines,5,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
-2017-12-20,Tajikistan,United Arab Emirates,0,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,FALSE
-2017-12-20,Bahrain,Iraq,4,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
 2018-01-19,Colombia,Thailand,1,1,Four Nations Tournament,Foshan,China PR,TRUE
 2018-01-19,China PR,Vietnam,4,0,Four Nations Tournament,Foshan,China PR,FALSE
 2018-01-21,China PR,Thailand,2,1,Four Nations Tournament,Foshan,China PR,FALSE
@@ -3750,6 +3750,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-04-04,Chile,Paraguay,1,1,Copa América,La Serena,Ecuador,TRUE
 2018-04-04,Colombia,Uruguay,7,0,Copa América,La Serena,Chile,TRUE
 2018-04-04,Chile,Paraguay,1,1,Copa América,La Serena,Chile,FALSE
+2018-04-04,Senegal,Algeria,2,1,African Championship qualification,Dakar,Senegal,FALSE
+2018-04-04,Libya,Ethiopia,0,8,African Championship qualification,Cairo,Egypt,TRUE
+2018-04-04,Congo,Central African Republic,2,0,African Championship qualification,Brazzaville,Congo,FALSE
+2018-04-04,Kenya,Uganda,1,0,African Championship qualification,Machakos,Kenya,FALSE
+2018-04-04,Tanzania,Zambia,3,3,African Championship qualification,Dar es Salaam,Tanzania,FALSE
+2018-04-04,Central African Republic,Congo,1,1,African Championship qualification,Bangui,Central African Republic,FALSE
 2018-04-05,Ecuador,Venezuela,0,1,Copa América,Coquimbo,Ecuador,FALSE
 2018-04-05,Brazil,Argentina,3,1,Copa América,Coquimbo,Ecuador,TRUE
 2018-04-05,Ecuador,Venezuela,0,1,Copa América,Coquimbo,Chile,TRUE
@@ -3759,6 +3765,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-04-05,Croatia,Ukraine,0,3,FIFA World Cup qualification,Zadar,Croatia,FALSE
 2018-04-05,Hungary,Sweden,1,4,FIFA World Cup qualification,Szombathely,Hungary,FALSE
 2018-04-05,Austria,Serbia,1,1,FIFA World Cup qualification,Maria Enzersdorf,Austria,FALSE
+2018-04-05,Namibia,Zimbabwe,0,2,African Championship qualification,Windhoek,Namibia,FALSE
 2018-04-06,Paraguay,Peru,3,0,Copa América,La Serena,Ecuador,TRUE
 2018-04-06,Chile,Colombia,1,1,Copa América,La Serena,Ecuador,TRUE
 2018-04-06,Paraguay,Peru,3,0,Copa América,La Serena,Chile,TRUE
@@ -3771,15 +3778,33 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-04-06,Moldova,Italy,1,3,FIFA World Cup qualification,Vadul lui Vodă,Moldova,FALSE
 2018-04-06,Belgium,Portugal,1,1,FIFA World Cup qualification,Leuven,Belgium,FALSE
 2018-04-06,Finland,Spain,0,2,FIFA World Cup qualification,Helsinki,Finland,FALSE
+2018-04-06,Morocco,Ivory Coast,1,1,African Championship qualification,Rabat,Morocco,FALSE
+2018-04-06,Lesotho,Eswatini,1,0,African Championship qualification,Maseru,Lesotho,FALSE
+2018-04-06,Algeria,Ethiopia,3,1,African Championship qualification,Algiers,Algeria,FALSE
+2018-04-06,Ivory Coast,Mali,2,2,African Championship qualification,Abidjan,Ivory Coast,FALSE
+2018-04-06,Gambia,Nigeria,0,1,African Championship qualification,Bakau,Gambia,FALSE
+2018-04-06,Congo,Cameroon,0,5,African Championship qualification,Brazzaville,Congo,FALSE
+2018-04-06,Kenya,Equatorial Guinea,2,1,African Championship qualification,Machakos,Kenya,FALSE
+2018-04-06,Lesotho,South Africa,0,1,African Championship qualification,Maseru,Lesotho,FALSE
+2018-04-06,Zambia,Zimbabwe,0,1,African Championship qualification,Lusaka,Zambia,FALSE
+2018-04-06,China PR,Thailand,4,0,AFC Asian Cup,Amman,Jordan,TRUE
+2018-04-06,Jordan,Philippines,1,2,AFC Asian Cup,Amman,Jordan,FALSE
 2018-04-07,Argentina,Bolivia,3,0,Copa América,Coquimbo,Ecuador,TRUE
 2018-04-07,Ecuador,Brazil,0,8,Copa América,Coquimbo,Ecuador,FALSE
 2018-04-07,Argentina,Bolivia,3,0,Copa América,Coquimbo,Chile,TRUE
 2018-04-07,Brazil,Ecuador,8,0,Copa América,Coquimbo,Chile,TRUE
 2018-04-07,Germany,Czech Republic,4,0,FIFA World Cup qualification,Halle,Germany,FALSE
+2018-04-07,Burkina Faso,Gambia,2,1,African Championship qualification,Ouagadougou,Burkina Faso,FALSE
+2018-04-07,Dominican Republic,Puerto Rico,0,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
+2018-04-07,Japan,Vietnam,4,0,AFC Asian Cup,Amman,Jordan,TRUE
+2018-04-07,Australia,South Korea,0,0,AFC Asian Cup,Amman,Jordan,TRUE
 2018-04-08,Uruguay,Peru,1,1,Copa América,La Serena,Ecuador,TRUE
 2018-04-08,Colombia,Paraguay,5,1,Copa América,La Serena,Ecuador,TRUE
 2018-04-08,Uruguay,Peru,1,1,Copa América,La Serena,Chile,TRUE
 2018-04-08,Colombia,Paraguay,5,1,Copa América,La Serena,Chile,TRUE
+2018-04-08,Uganda,Kenya,0,0,African Championship qualification,Kampala,Uganda,FALSE
+2018-04-08,Zambia,Tanzania,1,1,African Championship qualification,Lusaka,Zambia,FALSE
+2018-04-08,Zimbabwe,Namibia,2,0,African Championship qualification,Harare,Zimbabwe,FALSE
 2018-04-09,Venezuela,Bolivia,8,0,Copa América,Coquimbo,Ecuador,TRUE
 2018-04-09,Ecuador,Argentina,3,6,Copa América,Coquimbo,Ecuador,FALSE
 2018-04-09,Venezuela,Bolivia,8,0,Copa América,Coquimbo,Chile,TRUE
@@ -3787,6 +3812,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-04-09,Kazakhstan,Russia,0,3,FIFA World Cup qualification,Astana,Kazakhstan,FALSE
 2018-04-09,Croatia,Hungary,1,3,FIFA World Cup qualification,Zadar,Croatia,FALSE
 2018-04-09,Denmark,Ukraine,1,0,FIFA World Cup qualification,Viborg,Denmark,FALSE
+2018-04-09,Cameroon,Congo,5,0,African Championship qualification,Yaoundé,Cameroon,FALSE
+2018-04-09,Equatorial Guinea,Kenya,2,0,African Championship qualification,Malabo,Equatorial Guinea,FALSE
+2018-04-09,Philippines,China PR,0,3,AFC Asian Cup,Amman,Jordan,TRUE
+2018-04-09,Jordan,Thailand,1,6,AFC Asian Cup,Amman,Jordan,FALSE
 2018-04-10,Colombia,Peru,3,0,Copa América,La Serena,Ecuador,TRUE
 2018-04-10,Chile,Uruguay,1,0,Copa América,La Serena,Ecuador,TRUE
 2018-04-10,Colombia,Peru,3,0,Copa América,La Serena,Chile,TRUE
@@ -3802,6 +3831,17 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-04-10,Moldova,Romania,0,0,FIFA World Cup qualification,Chișinău,Moldova,FALSE
 2018-04-10,Israel,Serbia,0,1,FIFA World Cup qualification,Ramat Gan,Israel,FALSE
 2018-04-10,Austria,Spain,0,1,FIFA World Cup qualification,Maria Enzersdorf,Austria,FALSE
+2018-04-10,Algeria,Senegal,2,0,African Championship qualification,Algiers,Algeria,FALSE
+2018-04-10,Ethiopia,Libya,7,0,African Championship qualification,Addis Ababa,Ethiopia,FALSE
+2018-04-10,Ivory Coast,Morocco,0,0,African Championship qualification,Abidjan,Ivory Coast,FALSE
+2018-04-10,Gambia,Burkina Faso,2,1,African Championship qualification,Bakau,Gambia,FALSE
+2018-04-10,Eswatini,Lesotho,1,2,African Championship qualification,Lobamba,Eswatini,FALSE
+2018-04-10,Ethiopia,Algeria,2,3,African Championship qualification,Addis Ababa,Ethiopia,FALSE
+2018-04-10,Mali,Ivory Coast,0,0,African Championship qualification,Bamako,Mali,FALSE
+2018-04-10,South Africa,Lesotho,6,0,African Championship qualification,Bloemfontein,South Africa,FALSE
+2018-04-10,Zimbabwe,Zambia,1,2,African Championship qualification,Harare,Zimbabwe,FALSE
+2018-04-10,South Korea,Japan,0,0,AFC Asian Cup,Amman,Jordan,TRUE
+2018-04-10,Vietnam,Australia,0,8,AFC Asian Cup,Amman,Jordan,TRUE
 2018-04-11,Ecuador,Bolivia,0,1,Copa América,Coquimbo,Ecuador,FALSE
 2018-04-11,Brazil,Venezuela,4,0,Copa América,Coquimbo,Ecuador,TRUE
 2018-04-11,Ecuador,Bolivia,0,1,Copa América,Coquimbo,Chile,TRUE
@@ -3810,6 +3850,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-04-12,Peru,Chile,0,5,Copa América,La Serena,Ecuador,TRUE
 2018-04-12,Paraguay,Uruguay,2,1,Copa América,La Serena,Chile,TRUE
 2018-04-12,Chile,Peru,5,0,Copa América,La Serena,Chile,FALSE
+2018-04-12,Jordan,China PR,1,8,AFC Asian Cup,Amman,Jordan,FALSE
+2018-04-12,Thailand,Philippines,3,1,AFC Asian Cup,Amman,Jordan,TRUE
 2018-04-13,Argentina,Venezuela,2,0,Copa América,Coquimbo,Ecuador,TRUE
 2018-04-13,Bolivia,Brazil,0,7,Copa América,Coquimbo,Ecuador,TRUE
 2018-04-13,Argentina,Venezuela,2,0,Copa América,Coquimbo,Chile,TRUE
@@ -3827,30 +3869,27 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-04-19,Colombia,Chile,0,0,Copa América,La Serena,Ecuador,TRUE
 2018-04-19,Brazil,Argentina,3,0,Copa América,La Serena,Chile,TRUE
 2018-04-19,Chile,Colombia,0,0,Copa América,La Serena,Chile,FALSE
-2018-04-20,Senegal,Algeria,2,1,African Championship qualification,Dakar,Senegal,FALSE
-2018-04-20,Libya,Ethiopia,0,8,African Championship qualification,Cairo,Egypt,TRUE
-2018-04-20,Congo,Central African Republic,2,0,African Championship qualification,Brazzaville,Congo,FALSE
-2018-04-20,Kenya,Uganda,1,0,African Championship qualification,Machakos,Kenya,FALSE
-2018-04-20,Tanzania,Zambia,3,3,African Championship qualification,Dar es Salaam,Tanzania,FALSE
-2018-04-20,Trinidad and Tobago,Panama,0,3,CONCACAF Gold Cup,Cary,United States,TRUE
-2018-04-20,United States,Mexico,6,0,CONCACAF Gold Cup,Cary,United States,FALSE
 2018-04-20,China PR,Thailand,3,1,AFC Asian Cup,Amman,Jordan,TRUE
 2018-04-20,Japan,Australia,1,0,AFC Asian Cup,Amman,Jordan,TRUE
 2018-04-22,Chile,Argentina,4,0,Copa América,La Serena,Ecuador,TRUE
 2018-04-22,Brazil,Colombia,3,0,Copa América,La Serena,Ecuador,TRUE
 2018-04-22,Chile,Argentina,4,0,Copa América,La Serena,Chile,FALSE
 2018-04-22,Brazil,Colombia,3,0,Copa América,La Serena,Chile,TRUE
+2018-05-07,Cuba,Aruba,11,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
+2018-05-09,Anguilla,Aruba,1,2,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
+2018-05-09,Cuba,Puerto Rico,2,2,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
+2018-05-09,Jamaica,Guadeloupe,13,0,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,TRUE
+2018-05-09,Haiti,Martinique,2,0,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,FALSE
+2018-05-11,Aruba,Puerto Rico,0,5,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
+2018-05-11,Dominican Republic,Anguilla,3,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
+2018-05-11,Martinique,Jamaica,0,3,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,TRUE
+2018-05-11,Haiti,Guadeloupe,11,0,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,FALSE
 2018-05-13,Anguilla,Cuba,0,4,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
 2018-05-13,Dominican Republic,Aruba,3,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
 2018-05-13,Guadeloupe,Martinique,0,3,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,TRUE
 2018-05-13,Haiti,Jamaica,2,2,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,FALSE
 2018-05-19,Dominica,Saint Kitts and Nevis,1,2,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,TRUE
 2018-05-19,Trinidad and Tobago,U.S. Virgin Islands,10,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,FALSE
-2018-05-20,Namibia,Zimbabwe,0,2,African Championship qualification,Windhoek,Namibia,FALSE
-2018-05-20,Puerto Rico,Anguilla,10,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
-2018-05-20,Dominican Republic,Cuba,1,5,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
-2018-05-20,Costa Rica,Cuba,8,0,CONCACAF Gold Cup,Edinburg,United States,TRUE
-2018-05-20,Canada,Jamaica,2,0,CONCACAF Gold Cup,Edinburg,United States,TRUE
 2018-05-21,U.S. Virgin Islands,Grenada,3,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,TRUE
 2018-05-21,Trinidad and Tobago,Dominica,3,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,FALSE
 2018-05-23,Saint Kitts and Nevis,Grenada,10,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,TRUE
@@ -3871,6 +3910,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-05-27,Antigua and Barbuda,Saint Lucia,1,0,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,FALSE
 2018-05-27,Suriname,Bermuda,0,1,CONCACAF Gold Cup qualification,Leonora,Guyana,TRUE
 2018-05-27,Guyana,Barbados,0,0,CONCACAF Gold Cup qualification,Leonora,Guyana,FALSE
+2018-06-06,Nigeria,Gambia,6,0,African Championship qualification,Lagos,Nigeria,FALSE
 2018-06-07,Wales,Bosnia and Herzegovina,1,0,FIFA World Cup qualification,Swansea,Wales,FALSE
 2018-06-07,Scotland,Belarus,2,1,FIFA World Cup qualification,Falkirk,Scotland,FALSE
 2018-06-07,Sweden,Croatia,4,0,FIFA World Cup qualification,Gothenburg,Sweden,FALSE
@@ -3896,30 +3936,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-12,Romania,Portugal,1,1,FIFA World Cup qualification,Botoșani,Romania,FALSE
 2018-06-12,Serbia,Finland,0,2,FIFA World Cup qualification,Zemun,Serbia,FALSE
 2018-06-12,Israel,Austria,0,6,FIFA World Cup qualification,Ramat Gan,Israel,FALSE
-2018-06-20,Morocco,Ivory Coast,1,1,African Championship qualification,Rabat,Morocco,FALSE
-2018-06-20,Lesotho,Eswatini,1,0,African Championship qualification,Maseru,Lesotho,FALSE
-2018-06-20,Algeria,Ethiopia,3,1,African Championship qualification,Algiers,Algeria,FALSE
-2018-06-20,Ivory Coast,Mali,2,2,African Championship qualification,Abidjan,Ivory Coast,FALSE
-2018-06-20,Gambia,Nigeria,0,1,African Championship qualification,Bakau,Gambia,FALSE
-2018-06-20,Congo,Cameroon,0,5,African Championship qualification,Brazzaville,Congo,FALSE
-2018-06-20,Kenya,Equatorial Guinea,2,1,African Championship qualification,Machakos,Kenya,FALSE
-2018-06-20,Lesotho,South Africa,0,1,African Championship qualification,Maseru,Lesotho,FALSE
-2018-06-20,Zambia,Zimbabwe,0,1,African Championship qualification,Lusaka,Zambia,FALSE
-2018-06-20,China PR,Thailand,4,0,AFC Asian Cup,Amman,Jordan,TRUE
-2018-06-20,Jordan,Philippines,1,2,AFC Asian Cup,Amman,Jordan,FALSE
-2018-07-20,Burkina Faso,Gambia,2,1,African Championship qualification,Ouagadougou,Burkina Faso,FALSE
-2018-07-20,Cuba,Aruba,11,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
-2018-07-20,Dominican Republic,Puerto Rico,0,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
-2018-07-20,United States,Panama,5,0,CONCACAF Gold Cup,Cary,United States,FALSE
-2018-07-20,Mexico,Trinidad and Tobago,4,1,CONCACAF Gold Cup,Cary,United States,TRUE
-2018-07-20,Japan,Vietnam,4,0,AFC Asian Cup,Amman,Jordan,TRUE
-2018-07-20,Australia,South Korea,0,0,AFC Asian Cup,Amman,Jordan,TRUE
-2018-08-20,Central African Republic,Congo,1,1,African Championship qualification,Bangui,Central African Republic,FALSE
-2018-08-20,Uganda,Kenya,0,0,African Championship qualification,Kampala,Uganda,FALSE
-2018-08-20,Zambia,Tanzania,1,1,African Championship qualification,Lusaka,Zambia,FALSE
-2018-08-20,Zimbabwe,Namibia,2,0,African Championship qualification,Harare,Zimbabwe,FALSE
-2018-08-20,Jamaica,Costa Rica,1,0,CONCACAF Gold Cup,Edinburg,United States,TRUE
-2018-08-20,Cuba,Canada,0,12,CONCACAF Gold Cup,Edinburg,United States,TRUE
 2018-08-24,American Samoa,Solomon Islands,0,2,OFC Nations Cup qualification,Lautoka,Fiji,TRUE
 2018-08-24,Fiji,Vanuatu,5,1,OFC Nations Cup qualification,Lautoka,Fiji,FALSE
 2018-08-25,Cuba,Trinidad and Tobago,2,3,CONCACAF Gold Cup qualification,Kingston,Jamaica,TRUE
@@ -3969,35 +3985,28 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-09-04,Portugal,Romania,5,1,FIFA World Cup qualification,Felgueiras,Portugal,FALSE
 2018-09-04,Austria,Finland,4,1,FIFA World Cup qualification,Wiener Neustadt,Austria,FALSE
 2018-09-04,Spain,Serbia,3,0,FIFA World Cup qualification,Logroño,Spain,FALSE
-2018-09-20,Cameroon,Congo,5,0,African Championship qualification,Yaoundé,Cameroon,FALSE
-2018-09-20,Equatorial Guinea,Kenya,2,0,African Championship qualification,Malabo,Equatorial Guinea,FALSE
-2018-09-20,Anguilla,Aruba,1,2,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
-2018-09-20,Cuba,Puerto Rico,2,2,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
-2018-09-20,Jamaica,Guadeloupe,13,0,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,TRUE
-2018-09-20,Haiti,Martinique,2,0,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,FALSE
-2018-09-20,Philippines,China PR,0,3,AFC Asian Cup,Amman,Jordan,TRUE
-2018-09-20,Jordan,Thailand,1,6,AFC Asian Cup,Amman,Jordan,FALSE
+2018-10-04,Trinidad and Tobago,Panama,0,3,CONCACAF Gold Cup,Cary,United States,TRUE
+2018-10-04,United States,Mexico,6,0,CONCACAF Gold Cup,Cary,United States,FALSE
+2018-10-05,Puerto Rico,Anguilla,10,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
+2018-10-05,Dominican Republic,Cuba,1,5,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
+2018-10-05,Costa Rica,Cuba,8,0,CONCACAF Gold Cup,Edinburg,United States,TRUE
+2018-10-05,Canada,Jamaica,2,0,CONCACAF Gold Cup,Edinburg,United States,TRUE
 2018-10-05,Netherlands,Denmark,2,0,FIFA World Cup qualification,Breda,Netherlands,FALSE
 2018-10-05,Belgium,Switzerland,2,2,FIFA World Cup qualification,Leuven,Belgium,FALSE
+2018-10-07,United States,Panama,5,0,CONCACAF Gold Cup,Cary,United States,FALSE
+2018-10-07,Mexico,Trinidad and Tobago,4,1,CONCACAF Gold Cup,Cary,United States,TRUE
+2018-10-08,Jamaica,Costa Rica,1,0,CONCACAF Gold Cup,Edinburg,United States,TRUE
+2018-10-08,Cuba,Canada,0,12,CONCACAF Gold Cup,Edinburg,United States,TRUE
 2018-10-09,Denmark,Netherlands,1,2,FIFA World Cup qualification,Viborg,Denmark,FALSE
 2018-10-09,Switzerland,Belgium,1,1,FIFA World Cup qualification,Biel/Bienne,Switzerland,FALSE
+2018-10-10,Panama,Mexico,2,0,CONCACAF Gold Cup,Cary,United States,TRUE
+2018-10-10,United States,Trinidad and Tobago,7,0,CONCACAF Gold Cup,Cary,United States,FALSE
+2018-10-11,Cuba,Jamaica,0,9,CONCACAF Gold Cup,Edinburg,United States,TRUE
+2018-10-11,Costa Rica,Canada,1,3,CONCACAF Gold Cup,Edinburg,United States,TRUE
 2018-10-14,Panama,Canada,0,7,CONCACAF Gold Cup,Frisco,United States,TRUE
 2018-10-14,United States,Jamaica,6,0,CONCACAF Gold Cup,Frisco,United States,FALSE
 2018-10-17,Panama,Jamaica,2,2,CONCACAF Gold Cup,Frisco,United States,TRUE
 2018-10-17,United States,Canada,2,0,CONCACAF Gold Cup,Frisco,United States,FALSE
-2018-10-20,Algeria,Senegal,2,0,African Championship qualification,Algiers,Algeria,FALSE
-2018-10-20,Ethiopia,Libya,7,0,African Championship qualification,Addis Ababa,Ethiopia,FALSE
-2018-10-20,Ivory Coast,Morocco,0,0,African Championship qualification,Abidjan,Ivory Coast,FALSE
-2018-10-20,Gambia,Burkina Faso,2,1,African Championship qualification,Bakau,Gambia,FALSE
-2018-10-20,Eswatini,Lesotho,1,2,African Championship qualification,Lobamba,Eswatini,FALSE
-2018-10-20,Ethiopia,Algeria,2,3,African Championship qualification,Addis Ababa,Ethiopia,FALSE
-2018-10-20,Mali,Ivory Coast,0,0,African Championship qualification,Bamako,Mali,FALSE
-2018-10-20,South Africa,Lesotho,6,0,African Championship qualification,Bloemfontein,South Africa,FALSE
-2018-10-20,Zimbabwe,Zambia,1,2,African Championship qualification,Harare,Zimbabwe,FALSE
-2018-10-20,Panama,Mexico,2,0,CONCACAF Gold Cup,Cary,United States,TRUE
-2018-10-20,United States,Trinidad and Tobago,7,0,CONCACAF Gold Cup,Cary,United States,FALSE
-2018-10-20,South Korea,Japan,0,0,AFC Asian Cup,Amman,Jordan,TRUE
-2018-10-20,Vietnam,Australia,0,8,AFC Asian Cup,Amman,Jordan,TRUE
 2018-11-08,Argentina,Panama,4,0,FIFA World Cup qualification,Sarandí,Argentina,FALSE
 2018-11-09,Netherlands,Switzerland,3,0,FIFA World Cup qualification,Utrecht,Netherlands,FALSE
 2018-11-13,Switzerland,Netherlands,1,1,FIFA World Cup qualification,Schaffhausen,Switzerland,FALSE
@@ -4016,13 +4025,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-11-19,Cook Islands,Fiji,0,3,OFC Nations Cup,Nouméa,New Caledonia,TRUE
 2018-11-20,Ghana,Mali,1,2,African Cup of Nations,Accra,Ghana,FALSE
 2018-11-20,Cameroon,Algeria,3,0,African Cup of Nations,Accra,Ghana,TRUE
-2018-11-20,Nigeria,Gambia,6,0,African Championship qualification,Lagos,Nigeria,FALSE
-2018-11-20,Aruba,Puerto Rico,0,5,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
-2018-11-20,Dominican Republic,Anguilla,3,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
-2018-11-20,Martinique,Jamaica,0,3,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,TRUE
-2018-11-20,Haiti,Guadeloupe,11,0,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,FALSE
-2018-11-20,Cuba,Jamaica,0,9,CONCACAF Gold Cup,Edinburg,United States,TRUE
-2018-11-20,Costa Rica,Canada,1,3,CONCACAF Gold Cup,Edinburg,United States,TRUE
 2018-11-21,Nigeria,Zambia,4,0,African Cup of Nations,Cape Coast,Ghana,TRUE
 2018-11-21,Equatorial Guinea,South Africa,1,7,African Cup of Nations,Cape Coast,Ghana,TRUE
 2018-11-21,Tahiti,Samoa,5,5,OFC Nations Cup,Koné,New Caledonia,TRUE
@@ -4057,8 +4059,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-12-01,Fiji,New Zealand,0,8,OFC Nations Cup,Nouméa,New Caledonia,TRUE
 2018-12-01,New Caledonia,Papua New Guinea,1,7,OFC Nations Cup,Nouméa,New Caledonia,FALSE
 2018-12-01,Fiji,New Zealand,0,8,OFC Nations Cup,Nouméa,New Caledonia,TRUE
-2018-12-20,Jordan,China PR,1,8,AFC Asian Cup,Amman,Jordan,FALSE
-2018-12-20,Thailand,Philippines,3,1,AFC Asian Cup,Amman,Jordan,TRUE
 2019-01-17,South Korea,Romania,3,0,Four Nations Tournament,Meizhou,China PR,TRUE
 2019-01-17,China PR,Nigeria,3,0,Four Nations Tournament,Meizhou,China PR,FALSE
 2019-01-20,Romania,Nigeria,1,4,Four Nations Tournament,Meizhou,China PR,TRUE
@@ -4162,3 +4162,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-03-10,New Zealand,Norway,1,2,Algarve Cup,Faro/Loulé,Portugal,TRUE
 2020-03-11,England,Spain,0,1,SheBelieves Cup,Frisco,United States,TRUE
 2020-03-11,United States,Japan,3,1,SheBelieves Cup,Frisco,United States,FALSE
+2021-01-19,United States,Colombia,4,0,Friendly,Orlando,United States,FALSE
+2021-01-23,United States,Colombia,6,0,Friendly,Orlando,United States,FALSE
+2021-04-08,Argentina,Venezuela,0,0,Basque Country Women's Cup,Bilbao,Spain,TRUE
+2021-04-11,Argentina,Venezuela,1,0,Basque Country Women's Cup,San Sebastian,Spain,TRUE
+2021-04-11,Basque Country,Argentina,1,0,Basque Country Women's Cup,San Sebastian,Spain,FALSE
+2021-04-11,Basque Country,Venezuela,0,0,Basque Country Women's Cup,San Sebastian,Spain,FALSE
