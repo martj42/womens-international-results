@@ -4295,3 +4295,21 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-04-11,Basque Country,Argentina,1,0,Basque Country Women's Cup,San Sebastian,Spain,TRUE
 2021-04-11,Basque Country,Venezuela,0,0,Basque Country Women's Cup,San Sebastian,Spain,TRUE
 2021-04-14,France,United States,0,2,Friendly,Le Havre,France,FALSE
+2022-02-16,Brazil,Netherlands,1,1,Tournoi de France,Caen,France,TRUE
+2022-02-16,France,Finland,5,0,Tournoi de France,Le Havre,France,FALSE
+2022-02-16,Denmark,Italy,0,1,Algarve Cup,Lagos,Portugal,TRUE
+2022-02-16,Portugal,Norway,2,0,Algarve Cup,Lagos,Portugal,FALSE
+2022-02-17,United States,Czech Republic,0,0,SheBelieves Cup,Carson,United States,FALSE
+2022-02-17,Iceland,New Zealand,1,0,SheBelieves Cup,Carson,United States,TRUE
+2022-02-19,France,Brazil,2,1,Tournoi de France,Caen,France,FALSE
+2022-02-19,Finland,Netherlands,0,3,Tournoi de France,Le Havre,France,TRUE
+2022-02-20,United States,New Zealand,5,0,SheBelieves Cup,Carson,United States,FALSE
+2022-02-20,Czech Republic,Iceland,1,2,SheBelieves Cup,Carson,United States,TRUE
+2022-02-20,Italy,Norway,2,1,Algarve Cup,Algarve,Portugal,TRUE
+2022-02-20,Portugal,Sweden,0,4,Algarve Cup,Algarve,Portugal,FALSE
+2022-02-22,Brazil,Finland,0,0,Tournoi de France,Caen,France,TRUE
+2022-02-22,France,Netherlands,3,1,Tournoi de France,Le Havre,France,FALSE
+2022-02-23,New Zealand,Czech Republic,0,0,SheBelieves Cup,Frisco,United States,TRUE
+2022-02-23,United States,Iceland,5,0,SheBelieves Cup,Frisco,United States,FALSE
+2022-02-23,Sweden,Italy,1,1,Algarve Cup,Lagos,Portugal,TRUE
+2022-02-23,Portugal,Norway,0,2,Algarve Cup,Algarve,Portugal,FALSE
