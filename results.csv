@@ -2211,6 +2211,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-03-05,Norway,Italy,4,2,Algarve Cup,Alvor,Portugal,TRUE
 2008-03-05,Iceland,Poland,2,0,Algarve Cup,Lagos,Portugal,TRUE
 2008-03-05,Portugal,Republic of Ireland,2,0,Algarve Cup,Faro,Portugal,FALSE
+2008-03-05,United States,Scotland,2,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2008-03-05,Canada,Russia,2,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2008-03-05,Japan,Netherlands,3,1,Cyprus Cup,Larnaca,Cyprus,TRUE
 2008-03-06,Northern Ireland,England,0,2,UEFA Euro qualification,Lurgan,Northern Ireland,FALSE
 2008-03-07,Germany,Finland,3,0,Algarve Cup,Faro,Portugal,TRUE
 2008-03-07,Denmark,Sweden,1,0,Algarve Cup,Lagos,Portugal,TRUE
@@ -2218,18 +2221,27 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-03-07,Norway,China PR,3,1,Algarve Cup,Albufeira,Portugal,TRUE
 2008-03-07,Portugal,Poland,3,1,Algarve Cup,Faro,Portugal,FALSE
 2008-03-07,Republic of Ireland,Iceland,1,4,Algarve Cup,Lagos,Portugal,TRUE
+2008-03-07,Scotland,Netherlands,0,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2008-03-07,Japan,Canada,0,3,Cyprus Cup,Larnaca,Cyprus,TRUE
+2008-03-07,Russia,United States,2,0,Cyprus Cup,Larnaca,Cyprus,TRUE
 2008-03-10,Denmark,Finland,1,0,Algarve Cup,Lagos,Portugal,TRUE
 2008-03-10,Sweden,Germany,0,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2008-03-10,China PR,Italy,0,2,Algarve Cup,Loulé,Portugal,TRUE
 2008-03-10,United States,Norway,4,0,Algarve Cup,Alvor,Portugal,TRUE
 2008-03-10,Portugal,Iceland,0,3,Algarve Cup,Vila Real de Santo António,Portugal,FALSE
 2008-03-10,Poland,Republic of Ireland,0,1,Algarve Cup,Lagos,Portugal,TRUE
+2008-03-10,Netherlands,United States,0,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2008-03-10,Russia,Japan,1,3,Cyprus Cup,Achna,Cyprus,TRUE
+2008-03-10,Scotland,Canada,2,0,Cyprus Cup,Larnaca,Cyprus,TRUE
 2008-03-12,Republic of Ireland,Poland,2,2,Algarve Cup,Guia,Portugal,TRUE
 2008-03-12,Portugal,China PR,1,1,Algarve Cup,Albufeira,Portugal,FALSE
 2008-03-12,Finland,Iceland,0,3,Algarve Cup,Loulé,Portugal,TRUE
 2008-03-12,Sweden,Italy,3,0,Algarve Cup,Olhão,Portugal,TRUE
 2008-03-12,Germany,Norway,0,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2008-03-12,Denmark,United States,1,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2008-03-12,Russia,Scotland,3,2,Cyprus Cup,Nicosia,Cyprus,TRUE
+2008-03-12,Netherlands,Japan,1,2,Cyprus Cup,Nicosia,Cyprus,TRUE
+2008-03-12,Canada,United States,3,2,Cyprus Cup,Nicosia,Cyprus,TRUE
 2008-03-20,England,Czech Republic,0,0,UEFA Euro qualification,Doncaster,England,FALSE
 2008-03-24,Myanmar,Taiwan,0,3,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,TRUE
 2008-03-24,Vietnam,Iran,4,1,AFC Asian Cup qualification,Ho Chi Minh City,Vietnam,FALSE
@@ -2379,24 +2391,40 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2009-03-04,Norway,Iceland,1,3,Algarve Cup,Olhão,Portugal,TRUE
 2009-03-04,Wales,Austria,1,2,Algarve Cup,Alvor,Portugal,TRUE
 2009-03-04,Portugal,Poland,2,1,Algarve Cup,Albufeira,Portugal,FALSE
+2009-03-05,South Africa,England,0,6,Cyprus Cup,Larnaca,Cyprus,TRUE
+2009-03-05,France,Scotland,2,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2009-03-05,Netherlands,Russia,2,1,Cyprus Cup,Nicosia,Cyprus,TRUE
+2009-03-05,Canada,New Zealand,1,1,Cyprus Cup,Paralimni,Cyprus,TRUE
 2009-03-06,Sweden,Finland,1,0,Algarve Cup,Lagos,Portugal,TRUE
 2009-03-06,Germany,China PR,3,0,Algarve Cup,Albufeira,Portugal,TRUE
 2009-03-06,United States,Iceland,1,0,Algarve Cup,Ferreiras,Portugal,TRUE
 2009-03-06,Denmark,Norway,2,0,Algarve Cup,Lagos,Portugal,TRUE
 2009-03-06,Austria,Poland,1,1,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2009-03-06,Portugal,Wales,2,1,Algarve Cup,Albufeira,Portugal,FALSE
+2009-03-07,England,France,2,2,Cyprus Cup,Paralimni,Cyprus,TRUE
+2009-03-07,South Africa,Scotland,2,0,Cyprus Cup,Nicosia,Cyprus,TRUE
+2009-03-07,Canada,Netherlands,2,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2009-03-07,Russia,New Zealand,4,2,Cyprus Cup,Nicosia,Cyprus,TRUE
 2009-03-09,Finland,China PR,0,1,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2009-03-09,Sweden,Germany,3,2,Algarve Cup,Faro,Portugal,TRUE
 2009-03-09,Norway,United States,0,1,Algarve Cup,Ferreiras,Portugal,TRUE
 2009-03-09,Iceland,Denmark,0,2,Algarve Cup,Silves,Portugal,TRUE
 2009-03-09,Portugal,Austria,1,0,Algarve Cup,Faro,Portugal,FALSE
 2009-03-09,Poland,Wales,1,5,Algarve Cup,Loulé,Portugal,TRUE
+2009-03-10,England,Scotland,3,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2009-03-10,France,South Africa,3,2,Cyprus Cup,Nicosia,Cyprus,TRUE
+2009-03-10,Canada,Russia,2,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2009-03-10,New Zealand,Netherlands,2,0,Cyprus Cup,Paralimni,Cyprus,TRUE
 2009-03-11,Wales,Poland,1,2,Algarve Cup,Albufeira,Portugal,TRUE
 2009-03-11,Austria,Norway,0,2,Algarve Cup,Loulé,Portugal,TRUE
 2009-03-11,Portugal,Finland,1,1,Algarve Cup,Lagos,Portugal,FALSE
 2009-03-11,China PR,Iceland,2,1,Algarve Cup,Olhão,Portugal,TRUE
 2009-03-11,Germany,Denmark,0,1,Algarve Cup,Faro,Portugal,TRUE
 2009-03-11,United States,Sweden,1,1,Algarve Cup,Faro,Portugal,TRUE
+2009-03-12,Scotland,Russia,2,1,Cyprus Cup,Nicosia,Cyprus,TRUE
+2009-03-12,Netherlands,South Africa,5,0,Cyprus Cup,Nicosia,Cyprus,TRUE
+2009-03-12,France,New Zealand,1,1,Cyprus Cup,Nicosia,Cyprus,TRUE
+2009-03-12,England,Canada,3,1,Cyprus Cup,Nicosia,Cyprus,TRUE
 2009-04-25,Kyrgyzstan,Jordan,1,7,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE
 2009-04-25,Palestine,Maldives,4,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE
 2009-04-27,Maldives,Uzbekistan,0,5,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE
@@ -2447,18 +2475,30 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2010-02-24,Norway,Sweden,2,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2010-02-24,Portugal,Faroe Islands,5,0,Algarve Cup,Parchal,Portugal,FALSE
 2010-02-24,Romania,Austria,2,0,Algarve Cup,Lagos,Portugal,TRUE
+2010-02-24,Scotland,Netherlands,1,4,Cyprus Cup,Nicosia,Cyprus,TRUE
+2010-02-24,New Zealand,Italy,1,0,Cyprus Cup,Nicosia,Cyprus,TRUE
+2010-02-24,England,South Africa,1,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2010-02-24,Canada,Switzerland,2,1,Cyprus Cup,Larnaca,Cyprus,TRUE
 2010-02-26,Denmark,China PR,0,2,Algarve Cup,Lagos,Portugal,TRUE
 2010-02-26,Germany,Finland,7,0,Algarve Cup,Parchal,Portugal,TRUE
 2010-02-26,Norway,United States,1,2,Algarve Cup,Olhão,Portugal,TRUE
 2010-02-26,Iceland,Sweden,1,5,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2010-02-26,Portugal,Romania,0,0,Algarve Cup,Parchal,Portugal,FALSE
 2010-02-26,Austria,Faroe Islands,3,0,Algarve Cup,Lagos,Portugal,TRUE
+2010-02-26,Italy,Scotland,2,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2010-02-26,Netherlands,New Zealand,1,1,Cyprus Cup,Nicosia,Cyprus,TRUE
+2010-02-26,Switzerland,South Africa,3,1,Cyprus Cup,Nicosia,Cyprus,TRUE
+2010-02-27,England,Canada,0,1,Cyprus Cup,Larnaca,Cyprus,TRUE
 2010-03-01,China PR,Germany,0,5,Algarve Cup,Faro,Portugal,TRUE
 2010-03-01,Denmark,Finland,2,1,Algarve Cup,Albufeira,Portugal,TRUE
 2010-03-01,United States,Sweden,2,0,Algarve Cup,Ferreiras,Portugal,TRUE
 2010-03-01,Iceland,Norway,2,3,Algarve Cup,Silves,Portugal,TRUE
 2010-03-01,Faroe Islands,Romania,1,5,Algarve Cup,Albufeira,Portugal,TRUE
 2010-03-01,Portugal,Austria,2,1,Algarve Cup,Faro,Portugal,FALSE
+2010-03-01,New Zealand,Scotland,3,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2010-03-01,Italy,Netherlands,1,1,Cyprus Cup,Nicosia,Cyprus,TRUE
+2010-03-01,South Africa,Canada,1,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2010-03-01,England,Switzerland,2,2,Cyprus Cup,Nicosia,Cyprus,TRUE
 2010-03-03,Austria,Faroe Islands,6,0,Algarve Cup,Olhão,Portugal,TRUE
 2010-03-03,Portugal,Iceland,0,3,Algarve Cup,Faro,Portugal,FALSE
 2010-03-03,Finland,Romania,0,1,Algarve Cup,Silves,Portugal,TRUE
@@ -2466,6 +2506,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2010-03-03,China PR,Sweden,0,2,Algarve Cup,Albufeira,Portugal,TRUE
 2010-03-03,Germany,United States,2,3,Algarve Cup,Faro,Portugal,TRUE
 2010-03-03,Suriname,Saint Vincent and the Grenadines,1,0,CONCACAF Gold Cup qualification,Georgetown,Guyana,TRUE
+2010-03-03,South Africa,Scotland,1,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2010-03-03,England,Italy,3,2,Cyprus Cup,Nicosia,Cyprus,TRUE
+2010-03-03,Netherlands,Switzerland,4,0,Cyprus Cup,Nicosia,Cyprus,TRUE
+2010-03-03,New Zealand,Canada,0,1,Cyprus Cup,Nicosia,Cyprus,TRUE
 2010-03-05,Guyana,Suriname,2,0,CONCACAF Gold Cup qualification,Georgetown,Guyana,FALSE
 2010-03-06,Senegal,Morocco,0,0,African Championship qualification,Pikine,Senegal,FALSE
 2010-03-06,Ethiopia,Tanzania,1,3,African Championship qualification,Addis Ababa,Ethiopia,FALSE
@@ -2627,6 +2671,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-03-02,China PR,Denmark,0,1,Algarve Cup,Ferreiras,Portugal,TRUE
 2011-03-02,Portugal,Wales,3,1,Algarve Cup,Vila Real de Santo António,Portugal,FALSE
 2011-03-02,Romania,Chile,2,0,Algarve Cup,Lagos,Portugal,TRUE
+2011-03-02,Canada,Scotland,1,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2011-03-02,England,Italy,2,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2011-03-02,France,Switzerland,2,0,Cyprus Cup,Nicosia,Cyprus,TRUE
+2011-03-02,New Zealand,Netherlands,1,4,Cyprus Cup,Nicosia,Cyprus,TRUE
+2011-03-02,South Korea,Northern Ireland,3,1,Cyprus Cup,Sotira,Cyprus,TRUE
+2011-03-02,Russia,Mexico,0,0,Cyprus Cup,Paralimni,Cyprus,TRUE
 2011-03-03,Macedonia,Lithuania,1,1,UEFA Euro qualification,Strumica,Macedonia,FALSE
 2011-03-03,Luxembourg,Latvia,2,0,UEFA Euro qualification,Strumica,Macedonia,TRUE
 2011-03-03,Malta,Georgia,1,0,UEFA Euro qualification,Ta' Qali,Malta,FALSE
@@ -2637,6 +2687,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-03-04,Denmark,Sweden,1,3,Algarve Cup,Olhão,Portugal,TRUE
 2011-03-04,Portugal,Chile,0,0,Algarve Cup,Vila Real de Santo António,Portugal,FALSE
 2011-03-04,Wales,Romania,2,1,Algarve Cup,Lagos,Portugal,TRUE
+2011-03-04,England,Scotland,0,2,Cyprus Cup,Nicosia,Cyprus,TRUE
+2011-03-04,Italy,Canada,0,1,Cyprus Cup,Nicosia,Cyprus,TRUE
+2011-03-04,France,Netherlands,1,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2011-03-04,Switzerland,New Zealand,1,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2011-03-04,Russia,Northern Ireland,2,1,Cyprus Cup,Sotira,Cyprus,TRUE
+2011-03-04,South Korea,Mexico,1,1,Cyprus Cup,Paralimni,Cyprus,TRUE
 2011-03-05,Macedonia,Luxembourg,5,1,UEFA Euro qualification,Strumica,Macedonia,FALSE
 2011-03-05,Latvia,Lithuania,1,0,UEFA Euro qualification,Strumica,Macedonia,TRUE
 2011-03-05,Armenia,Georgia,0,0,UEFA Euro qualification,Ta' Qali,Malta,TRUE
@@ -2647,6 +2703,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-03-07,Denmark,Iceland,0,1,Algarve Cup,Lagos,Portugal,TRUE
 2011-03-07,Chile,Wales,1,2,Algarve Cup,Faro,Portugal,TRUE
 2011-03-07,Portugal,Romania,1,1,Algarve Cup,Parchal,Portugal,FALSE
+2011-03-07,Scotland,Italy,0,0,Cyprus Cup,Nicosia,Cyprus,TRUE
+2011-03-07,Canada,England,2,0,Cyprus Cup,Nicosia,Cyprus,TRUE
+2011-03-07,Netherlands,Switzerland,6,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2011-03-07,New Zealand,France,2,5,Cyprus Cup,Nicosia,Cyprus,TRUE
+2011-03-07,Mexico,Northern Ireland,3,1,Cyprus Cup,Sotira,Cyprus,TRUE
+2011-03-07,Russia,South Korea,1,2,Cyprus Cup,Paralimni,Cyprus,TRUE
 2011-03-08,Lithuania,Luxembourg,4,1,UEFA Euro qualification,Strumica,Macedonia,TRUE
 2011-03-08,Macedonia,Latvia,1,0,UEFA Euro qualification,Strumica,Macedonia,FALSE
 2011-03-08,Georgia,Faroe Islands,1,0,UEFA Euro qualification,Ta' Qali,Malta,TRUE
@@ -2657,6 +2719,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-03-09,Norway,Denmark,0,0,Algarve Cup,Ferreiras,Portugal,TRUE
 2011-03-09,Sweden,Japan,1,2,Algarve Cup,Parchal,Portugal,TRUE
 2011-03-09,Iceland,United States,2,4,Algarve Cup,Faro,Portugal,TRUE
+2011-03-09,Switzerland,Northern Ireland,2,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2011-03-09,Italy,Russia,2,0,Cyprus Cup,Nicosia,Cyprus,TRUE
+2011-03-09,New Zealand,Mexico,0,5,Cyprus Cup,Paralimni,Cyprus,TRUE
+2011-03-09,England,South Korea,2,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2011-03-09,Scotland,France,0,3,Cyprus Cup,Nicosia,Cyprus,TRUE
+2011-03-09,Canada,Netherlands,2,1,Cyprus Cup,Paralimni,Cyprus,TRUE
 2011-05-19,Iceland,Bulgaria,6,0,UEFA Euro qualification,Reykjavík,Iceland,FALSE
 2011-06-26,Nigeria,France,0,1,FIFA World Cup,Sinsheim,Germany,TRUE
 2011-06-26,Germany,Canada,2,1,FIFA World Cup,Berlin,Germany,FALSE
@@ -2801,24 +2869,48 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2012-02-17,Mexico,North Korea,0,1,Four Nations Tournament,Chongqing,China PR,TRUE
 2012-02-19,China PR,North Korea,0,0,Four Nations Tournament,Chongqing,China PR,FALSE
 2012-02-19,Mexico,South Korea,2,3,Four Nations Tournament,Chongqing,China PR,TRUE
+2012-02-28,France,Switzerland,3,0,Cyprus Cup,Nicosia,Cyprus,TRUE
+2012-02-28,England,Finland,3,1,Cyprus Cup,Nicosia,Cyprus,TRUE
+2012-02-28,Netherlands,Italy,2,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2012-02-28,Canada,Scotland,5,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2012-02-28,South Korea,South Africa,2,1,Cyprus Cup,Achna,Cyprus,TRUE
+2012-02-28,New Zealand,Northern Ireland,2,0,Cyprus Cup,Larnaca,Cyprus,TRUE
 2012-02-29,Germany,Iceland,1,0,Algarve Cup,Lagos,Portugal,TRUE
 2012-02-29,Sweden,China PR,1,0,Algarve Cup,Santo António,Portugal,TRUE
 2012-02-29,Japan,Norway,2,1,Algarve Cup,Parchal,Portugal,TRUE
 2012-02-29,United States,Denmark,5,0,Algarve Cup,Lagos,Portugal,TRUE
 2012-02-29,Republic of Ireland,Hungary,0,1,Algarve Cup,Silves,Portugal,TRUE
 2012-02-29,Portugal,Wales,0,1,Algarve Cup,Parchal,Portugal,FALSE
+2012-03-01,Switzerland,England,0,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2012-03-01,Finland,France,1,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2012-03-01,Scotland,Netherlands,2,1,Cyprus Cup,Nicosia,Cyprus,TRUE
+2012-03-01,Italy,Canada,1,2,Cyprus Cup,Nicosia,Cyprus,TRUE
+2012-03-01,Northern Ireland,South Korea,0,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2012-03-01,South Africa,New Zealand,0,0,Cyprus Cup,Larnaca,Cyprus,TRUE
 2012-03-02,Iceland,Sweden,1,4,Algarve Cup,Ferreiras,Portugal,TRUE
 2012-03-02,Germany,China PR,1,0,Algarve Cup,Santo António,Portugal,TRUE
 2012-03-02,Denmark,Japan,0,2,Algarve Cup,Parchal,Portugal,TRUE
 2012-03-02,United States,Norway,2,1,Algarve Cup,Lagos,Portugal,TRUE
 2012-03-02,Portugal,Hungary,4,0,Algarve Cup,Parchal,Portugal,FALSE
 2012-03-02,Wales,Republic of Ireland,0,0,Algarve Cup,Ferreiras,Portugal,TRUE
+2012-03-04,England,France,0,3,Cyprus Cup,Paralimni,Cyprus,TRUE
+2012-03-04,Finland,Switzerland,3,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2012-03-04,Italy,Scotland,2,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2012-03-04,Netherlands,Canada,0,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2012-03-04,New Zealand,South Korea,1,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2012-03-04,Northern Ireland,South Africa,0,2,Cyprus Cup,Paralimni,Cyprus,TRUE
 2012-03-05,Sweden,Germany,0,4,Algarve Cup,Parchal,Portugal,TRUE
 2012-03-05,China PR,Iceland,0,1,Algarve Cup,Lagos,Portugal,TRUE
 2012-03-05,Norway,Denmark,0,1,Algarve Cup,Ferreiras,Portugal,TRUE
 2012-03-05,Japan,United States,1,0,Algarve Cup,Faro,Portugal,TRUE
 2012-03-05,Hungary,Wales,1,2,Algarve Cup,Santo António,Portugal,TRUE
 2012-03-05,Portugal,Republic of Ireland,2,1,Algarve Cup,Faro,Portugal,FALSE
+2012-03-06,Switzerland,Northern Ireland,5,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2012-03-06,Scotland,South Africa,2,0,Cyprus Cup,Paralimni,Cyprus,TRUE
+2012-03-06,New Zealand,Netherlands,2,2,Cyprus Cup,Achna,Cyprus,TRUE
+2012-03-06,South Korea,Finland,1,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2012-03-06,England,Italy,1,3,Cyprus Cup,Paralimni,Cyprus,TRUE
+2012-03-06,France,Canada,2,0,Cyprus Cup,Larnaca,Cyprus,TRUE
 2012-03-07,Hungary,Republic of Ireland,1,2,Algarve Cup,Quarteira,Portugal,TRUE
 2012-03-07,Portugal,China PR,0,1,Algarve Cup,Faro,Portugal,FALSE
 2012-03-07,Wales,Norway,0,3,Algarve Cup,Loulé,Portugal,TRUE
@@ -3001,24 +3093,48 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2013-03-06,Sweden,China PR,1,1,Algarve Cup,Parchal,Portugal,TRUE
 2013-03-06,Mexico,Hungary,1,0,Algarve Cup,Ferreiras,Portugal,TRUE
 2013-03-06,Portugal,Wales,2,0,Algarve Cup,António,Portugal,FALSE
+2013-03-06,New Zealand,Scotland,1,0,Cyprus Cup,Nicosia,Cyprus,TRUE
+2013-03-06,England,Italy,4,2,Cyprus Cup,Nicosia,Cyprus,TRUE
+2013-03-06,Canada,Switzerland,2,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2013-03-06,Finland,Netherlands,1,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2013-03-06,South Korea,South Africa,2,0,Cyprus Cup,Paralimni,Cyprus,TRUE
+2013-03-06,Republic of Ireland,Northern Ireland,5,1,Cyprus Cup,Paralimni,Cyprus,TRUE
 2013-03-08,Germany,Japan,2,1,Algarve Cup,Parchal,Portugal,TRUE
 2013-03-08,Norway,Denmark,0,0,Algarve Cup,Parchal,Portugal,TRUE
 2013-03-08,United States,China PR,5,0,Algarve Cup,Albufeira,Portugal,TRUE
 2013-03-08,Sweden,Iceland,6,1,Algarve Cup,Albufeira,Portugal,TRUE
 2013-03-08,Portugal,Hungary,0,2,Algarve Cup,António,Portugal,FALSE
 2013-03-08,Wales,Mexico,1,0,Algarve Cup,António,Portugal,TRUE
+2013-03-08,New Zealand,Italy,2,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2013-03-08,Scotland,England,4,4,Cyprus Cup,Larnaca,Cyprus,TRUE
+2013-03-08,Switzerland,Netherlands,1,1,Cyprus Cup,Nicosia,Cyprus,TRUE
+2013-03-08,Finland,Canada,1,2,Cyprus Cup,Nicosia,Cyprus,TRUE
+2013-03-08,Republic of Ireland,South Africa,1,0,Cyprus Cup,Paralimni,Cyprus,TRUE
+2013-03-08,South Korea,Northern Ireland,3,0,Cyprus Cup,Paralimni,Cyprus,TRUE
 2013-03-11,Denmark,Japan,0,2,Algarve Cup,Algarve,Portugal,TRUE
 2013-03-11,Germany,Norway,2,0,Algarve Cup,Lagos,Portugal,TRUE
 2013-03-11,China PR,Iceland,1,0,Algarve Cup,Ferreiras,Portugal,TRUE
 2013-03-11,Sweden,United States,1,1,Algarve Cup,Lagos,Portugal,TRUE
 2013-03-11,Wales,Hungary,1,1,Algarve Cup,Quarteira,Portugal,TRUE
 2013-03-11,Portugal,Mexico,0,3,Algarve Cup,Algarve,Portugal,FALSE
+2013-03-11,England,New Zealand,3,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2013-03-11,Italy,Scotland,1,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2013-03-11,Finland,Switzerland,2,3,Cyprus Cup,Larnaca,Cyprus,TRUE
+2013-03-11,Netherlands,Canada,0,1,Cyprus Cup,Nicosia,Cyprus,TRUE
+2013-03-11,South Africa,Northern Ireland,2,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2013-03-11,South Korea,Republic of Ireland,0,0,Cyprus Cup,Paralimni,Cyprus,TRUE
 2013-03-13,Portugal,Wales,1,1,Algarve Cup,Parchal,Portugal,FALSE
 2013-03-13,Hungary,Iceland,1,4,Algarve Cup,Parchal,Portugal,TRUE
 2013-03-13,Mexico,Denmark,0,3,Algarve Cup,Lagos,Portugal,TRUE
 2013-03-13,Japan,China PR,1,0,Algarve Cup,Algarve,Portugal,TRUE
 2013-03-13,Norway,Sweden,2,2,Algarve Cup,Lagos,Portugal,TRUE
 2013-03-13,Germany,United States,0,2,Algarve Cup,Algarve,Portugal,TRUE
+2013-03-13,South Africa,Northern Ireland,1,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2013-03-13,South Korea,Italy,0,1,Cyprus Cup,Achna,Cyprus,TRUE
+2013-03-13,Republic of Ireland,Finland,0,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2013-03-13,Scotland,Netherlands,1,0,Cyprus Cup,Nicosia,Cyprus,TRUE
+2013-03-13,New Zealand,Switzerland,2,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2013-03-13,England,Canada,1,0,Cyprus Cup,Nicosia,Cyprus,TRUE
 2013-04-05,Germany,United States,3,3,Friendly,Offenbach,Germany,FALSE
 2013-04-09,Netherlands,United States,1,3,Friendly,Den Haag,Netherlands,FALSE
 2013-05-21,Iran,Philippines,0,6,AFC Asian Cup qualification,Dhaka,Bangladesh,TRUE
@@ -3107,24 +3223,48 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-03-05,Sweden,Denmark,2,0,Algarve Cup,Albufeira,Portugal,TRUE
 2014-03-05,Russia,North Korea,1,2,Algarve Cup,Lagos,Portugal,TRUE
 2014-03-05,Portugal,Austria,3,2,Algarve Cup,Parchal,Portugal,FALSE
+2014-03-05,Canada,Finland,3,0,Cyprus Cup,Nicosia,Cyprus,TRUE
+2014-03-05,England,Italy,2,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2014-03-05,Netherlands,Australia,2,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2014-03-05,France,Scotland,1,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2014-03-05,New Zealand,Republic of Ireland,1,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2014-03-05,Switzerland,South Korea,1,1,Cyprus Cup,Paralimni,Cyprus,TRUE
 2014-03-07,Norway,Iceland,1,2,Algarve Cup,Lagos,Portugal,TRUE
 2014-03-07,Germany,China PR,1,0,Algarve Cup,Albufeira,Portugal,TRUE
 2014-03-07,Sweden,United States,1,0,Algarve Cup,Albufeira,Portugal,TRUE
 2014-03-07,Japan,Denmark,1,0,Algarve Cup,Parchal,Portugal,TRUE
 2014-03-07,Portugal,Russia,1,3,Algarve Cup,Parchal,Portugal,FALSE
 2014-03-07,Austria,North Korea,0,2,Algarve Cup,Lagos,Portugal,TRUE
+2014-03-07,Finland,England,0,3,Cyprus Cup,Larnaca,Cyprus,TRUE
+2014-03-07,Canada,Italy,3,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2014-03-07,Scotland,Netherlands,4,3,Cyprus Cup,Nicosia,Cyprus,TRUE
+2014-03-07,Australia,France,2,3,Cyprus Cup,Nicosia,Cyprus,TRUE
+2014-03-07,Republic of Ireland,South Korea,1,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2014-03-07,Switzerland,New Zealand,2,1,Cyprus Cup,Paralimni,Cyprus,TRUE
 2014-03-10,China PR,Iceland,0,1,Algarve Cup,Lagos,Portugal,TRUE
 2014-03-10,Norway,Germany,1,3,Algarve Cup,Albufeira,Portugal,TRUE
 2014-03-10,Japan,Sweden,2,1,Algarve Cup,Faro,Portugal,TRUE
 2014-03-10,United States,Denmark,3,5,Algarve Cup,Albufeira,Portugal,TRUE
 2014-03-10,Portugal,North Korea,0,2,Algarve Cup,Faro,Portugal,FALSE
 2014-03-10,Austria,Russia,3,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2014-03-10,England,Canada,2,0,Cyprus Cup,Nicosia,Cyprus,TRUE
+2014-03-10,Italy,Finland,1,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2014-03-10,Netherlands,France,0,3,Cyprus Cup,Nicosia,Cyprus,TRUE
+2014-03-10,Australia,Scotland,2,4,Cyprus Cup,Larnaca,Cyprus,TRUE
+2014-03-10,Switzerland,Republic of Ireland,1,2,Cyprus Cup,Paralimni,Cyprus,TRUE
+2014-03-10,South Korea,New Zealand,4,0,Cyprus Cup,Paralimni,Cyprus,TRUE
 2014-03-12,Portugal,Austria,1,2,Algarve Cup,Faro,Portugal,FALSE
 2014-03-12,Russia,Norway,1,0,Algarve Cup,Parchal,Portugal,TRUE
 2014-03-12,North Korea,United States,0,3,Algarve Cup,Parchal,Portugal,TRUE
 2014-03-12,China PR,Denmark,1,1,Algarve Cup,Albufeira,Portugal,TRUE
 2014-03-12,Iceland,Sweden,2,1,Algarve Cup,Albufeira,Portugal,TRUE
 2014-03-12,Germany,Japan,3,0,Algarve Cup,Faro,Portugal,TRUE
+2014-03-12,Finland,New Zealand,0,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2014-03-12,Netherlands,Switzerland,4,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2014-03-12,Italy,Australia,2,5,Cyprus Cup,Paralimni,Cyprus,TRUE
+2014-03-12,Canada,Republic of Ireland,2,1,Cyprus Cup,Nicosia,Cyprus,TRUE
+2014-03-12,Scotland,South Korea,1,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2014-03-12,England,France,0,2,Cyprus Cup,Nicosia,Cyprus,TRUE
 2014-04-07,United States,China PR,2,0,Friendly,Denver,United States,FALSE
 2014-04-11,United States,China PR,3,0,Friendly,San Diego,United States,FALSE
 2014-05-09,Canada,United States,1,1,Friendly,Winnipeg,Canada,FALSE
@@ -3229,24 +3369,48 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-03-04,Norway,United States,1,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2015-03-04,Japan,Denmark,1,2,Algarve Cup,Parchal,Portugal,TRUE
 2015-03-04,Portugal,France,0,1,Algarve Cup,Parchal,Portugal,FALSE
+2015-03-04,South Korea,Italy,1,2,Cyprus Cup,Nicosia,Cyprus,TRUE
+2015-03-04,Scotland,Canada,0,2,Cyprus Cup,Nicosia,Cyprus,TRUE
+2015-03-04,Finland,England,1,3,Cyprus Cup,Larnaca,Cyprus,TRUE
+2015-03-04,Netherlands,Australia,0,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2015-03-04,Mexico,South Africa,2,0,Cyprus Cup,Paralimni,Cyprus,TRUE
+2015-03-04,Czech Republic,Belgium,2,2,Cyprus Cup,Paralimni,Cyprus,TRUE
 2015-03-06,Germany,China PR,2,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2015-03-06,Sweden,Brazil,0,2,Algarve Cup,Lagos,Portugal,TRUE
 2015-03-06,United States,Switzerland,3,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2015-03-06,Norway,Iceland,1,0,Algarve Cup,Lagos,Portugal,TRUE
 2015-03-06,Portugal,Japan,0,3,Algarve Cup,Parchal,Portugal,FALSE
 2015-03-06,France,Denmark,4,1,Algarve Cup,Parchal,Portugal,TRUE
+2015-03-06,Canada,South Korea,1,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2015-03-06,Italy,Scotland,3,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2015-03-06,Finland,Netherlands,0,0,Cyprus Cup,Nicosia,Cyprus,TRUE
+2015-03-06,Australia,England,0,3,Cyprus Cup,Nicosia,Cyprus,TRUE
+2015-03-06,Belgium,South Africa,0,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2015-03-06,Czech Republic,Mexico,0,1,Cyprus Cup,Paralimni,Cyprus,TRUE
 2015-03-09,Brazil,Germany,1,3,Algarve Cup,Parchal,Portugal,TRUE
 2015-03-09,Sweden,China PR,3,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2015-03-09,United States,Iceland,0,0,Algarve Cup,Lagos,Portugal,TRUE
 2015-03-09,Norway,Switzerland,2,2,Algarve Cup,Albufeira,Portugal,TRUE
 2015-03-09,Japan,France,1,3,Algarve Cup,Parchal,Portugal,TRUE
 2015-03-09,Portugal,Denmark,2,2,Algarve Cup,Vila Real de Santo António,Portugal,FALSE
+2015-03-09,Italy,Canada,0,1,Cyprus Cup,Nicosia,Cyprus,TRUE
+2015-03-09,Scotland,South Korea,2,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2015-03-09,Netherlands,England,1,1,Cyprus Cup,Nicosia,Cyprus,TRUE
+2015-03-09,Australia,Finland,3,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2015-03-09,South Africa,Czech Republic,0,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2015-03-09,Mexico,Belgium,0,0,Cyprus Cup,Paralimni,Cyprus,TRUE
 2015-03-11,Portugal,China PR,3,3,Algarve Cup,Parchal,Portugal,FALSE
 2015-03-11,Japan,Iceland,2,0,Algarve Cup,Faro,Portugal,TRUE
 2015-03-11,Brazil,Switzerland,4,1,Algarve Cup,Albufeira,Portugal,TRUE
 2015-03-11,Norway,Denmark,5,2,Algarve Cup,Albufeira,Portugal,TRUE
 2015-03-11,Sweden,Germany,1,2,Algarve Cup,Parchal,Portugal,TRUE
 2015-03-11,France,United States,0,2,Algarve Cup,Faro,Portugal,TRUE
+2015-03-11,South Korea,Belgium,1,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2015-03-11,Finland,South Africa,2,1,Cyprus Cup,Nicosia,Cyprus,TRUE
+2015-03-11,Scotland,Netherlands,3,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2015-03-11,Australia,Czech Republic,6,2,Cyprus Cup,Paralimni,Cyprus,TRUE
+2015-03-11,Italy,Mexico,2,3,Cyprus Cup,Larnaca,Cyprus,TRUE
+2015-03-11,Canada,England,0,1,Cyprus Cup,Larnaca,Cyprus,TRUE
 2015-04-04,Luxembourg,Latvia,4,3,UEFA Euro qualification,Orhei,Luxembourg,FALSE
 2015-04-04,Moldova,Lithuania,2,0,UEFA Euro qualification,Vadul lui Vodă,Moldova,FALSE
 2015-04-04,Georgia,Faroe Islands,2,0,UEFA Euro qualification,Ħamrun,Georgia,FALSE
@@ -3411,6 +3575,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-03-02,Canada,Denmark,0,1,Algarve Cup,Albufeira,Portugal,TRUE
 2016-03-02,Portugal,Russia,0,1,Algarve Cup,Albufeira,Portugal,FALSE
 2016-03-02,Brazil,New Zealand,1,0,Algarve Cup,Lagos,Portugal,TRUE
+2016-03-02,Austria,Republic of Ireland,2,0,Cyprus Cup,Deryneia,Cyprus,TRUE
+2016-03-02,Hungary,Italy,0,2,Cyprus Cup,Deryneia,Cyprus,TRUE
+2016-03-02,Wales,Finland,2,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2016-03-02,Poland,Czech Republic,1,0,Cyprus Cup,Larnaca,Cyprus,TRUE
 2016-03-03,Germany,France,1,0,SheBelieves Cup,Tampa,United States,TRUE
 2016-03-03,United States,England,1,0,SheBelieves Cup,Tampa,United States,FALSE
 2016-03-04,Tanzania,Zimbabwe,1,2,African Championship qualification,Dar es Salaam,Tanzania,FALSE
@@ -3419,6 +3587,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-03-04,Denmark,Iceland,1,4,Algarve Cup,Parchal,Portugal,TRUE
 2016-03-04,New Zealand,Russia,0,0,Algarve Cup,Parchal,Portugal,TRUE
 2016-03-04,Portugal,Brazil,1,3,Algarve Cup,Vila Real de Santo António,Portugal,FALSE
+2016-03-04,Austria,Hungary,2,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2016-03-04,Italy,Republic of Ireland,1,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2016-03-04,Wales,Poland,1,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2016-03-04,Finland,Czech Republic,1,3,Cyprus Cup,Paralimni,Cyprus,TRUE
 2016-03-05,Mali,Morocco,0,0,African Championship qualification,Bamako,Mali,FALSE
 2016-03-05,Senegal,Guinea,1,0,African Championship qualification,Dakar,Senegal,FALSE
 2016-03-05,Burkina Faso,Tunisia,0,0,African Championship qualification,Ouagadougou,Burkina Faso,FALSE
@@ -3432,6 +3604,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-03-07,Canada,Iceland,1,0,Algarve Cup,Lagos,Portugal,TRUE
 2016-03-07,Brazil,Russia,3,0,Algarve Cup,Lagos,Portugal,TRUE
 2016-03-07,Portugal,New Zealand,0,1,Algarve Cup,Albufeira,Portugal,FALSE
+2016-03-07,Italy,Austria,0,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2016-03-07,Republic of Ireland,Hungary,0,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2016-03-07,Finland,Poland,0,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2016-03-07,Czech Republic,Wales,1,0,Cyprus Cup,Paralimni,Cyprus,TRUE
 2016-03-08,Greece,Ukraine,1,3,UEFA Euro qualification,Athens,Greece,FALSE
 2016-03-09,Portugal,Denmark,1,3,Algarve Cup,Parchal,Portugal,FALSE
 2016-03-09,Belgium,Russia,5,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
@@ -3439,6 +3615,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-03-09,Canada,Brazil,2,1,Algarve Cup,Parchal,Portugal,TRUE
 2016-03-09,France,England,0,0,SheBelieves Cup,Boca Raton,United States,TRUE
 2016-03-09,United States,Germany,2,1,SheBelieves Cup,Boca Raton,United States,FALSE
+2016-03-09,Republic of Ireland,Finland,2,0,Cyprus Cup,Paralimni,Cyprus,TRUE
+2016-03-09,Hungary,Wales,2,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2016-03-09,Italy,Czech Republic,3,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2016-03-09,Austria,Poland,2,1,Cyprus Cup,Larnaca,Cyprus,TRUE
 2016-03-18,Namibia,Zambia,2,2,African Championship qualification,Windhoek,Namibia,FALSE
 2016-03-19,Morocco,Mali,1,2,African Championship qualification,Salé,Morocco,FALSE
 2016-03-19,Guinea,Senegal,1,0,African Championship qualification,Conakry,Guinea,FALSE
@@ -3619,12 +3799,24 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-03-01,Australia,Sweden,0,1,Algarve Cup,Albufeira,Portugal,TRUE
 2017-03-01,England,France,1,2,SheBelieves Cup,Chester,United States,TRUE
 2017-03-01,United States,Germany,1,0,SheBelieves Cup,Chester,United States,FALSE
+2017-03-01,North Korea,Italy,3,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2017-03-01,Belgium,Switzerland,2,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2017-03-01,New Zealand,Scotland,2,3,Cyprus Cup,Larnaca,Cyprus,TRUE
+2017-03-01,South Korea,Austria,0,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2017-03-01,Czech Republic,Republic of Ireland,0,2,Cyprus Cup,Paralimni,Cyprus,TRUE
+2017-03-01,Hungary,Wales,0,2,Cyprus Cup,Paralimni,Cyprus,TRUE
 2017-03-03,Russia,Canada,1,2,Algarve Cup,Estádio Algarve,Portugal,TRUE
 2017-03-03,Portugal,Denmark,0,6,Algarve Cup,Parchal,Portugal,FALSE
 2017-03-03,Japan,Iceland,2,0,Algarve Cup,Parchal,Portugal,TRUE
 2017-03-03,Spain,Norway,3,0,Algarve Cup,Estádio Algarve,Portugal,TRUE
 2017-03-03,Australia,Netherlands,3,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2017-03-03,China PR,Sweden,0,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2017-03-03,Switzerland,North Korea,1,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2017-03-03,Italy,Belgium,1,4,Cyprus Cup,Larnaca,Cyprus,TRUE
+2017-03-03,Austria,New Zealand,3,0,Cyprus Cup,Nicosia,Cyprus,TRUE
+2017-03-03,Scotland,South Korea,0,2,Cyprus Cup,Nicosia,Cyprus,TRUE
+2017-03-03,Wales,Czech Republic,0,0,Cyprus Cup,Paralimni,Cyprus,TRUE
+2017-03-03,Republic of Ireland,Hungary,0,0,Cyprus Cup,Paralimni,Cyprus,TRUE
 2017-03-04,France,Germany,0,0,SheBelieves Cup,Harrison,United States,TRUE
 2017-03-04,United States,England,0,1,SheBelieves Cup,Harrison,United States,FALSE
 2017-03-06,Russia,Denmark,1,6,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
@@ -3633,6 +3825,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-03-06,Iceland,Spain,0,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2017-03-06,China PR,Australia,1,2,Algarve Cup,Albufeira,Portugal,TRUE
 2017-03-06,Sweden,Netherlands,0,1,Algarve Cup,Lagos,Portugal,TRUE
+2017-03-06,Italy,Switzerland,0,6,Cyprus Cup,Larnaca,Cyprus,TRUE
+2017-03-06,North Korea,Belgium,4,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2017-03-06,Austria,Scotland,1,3,Cyprus Cup,Larnaca,Cyprus,TRUE
+2017-03-06,New Zealand,South Korea,0,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2017-03-06,Republic of Ireland,Wales,1,0,Cyprus Cup,Paralimni,Cyprus,TRUE
+2017-03-06,Czech Republic,Hungary,1,2,Cyprus Cup,Paralimni,Cyprus,TRUE
 2017-03-07,Germany,England,1,0,SheBelieves Cup,"Washington, D.C.",United States,TRUE
 2017-03-07,United States,France,0,3,SheBelieves Cup,"Washington, D.C.",United States,FALSE
 2017-03-08,Portugal,Norway,0,2,Algarve Cup,Parchal,Portugal,FALSE
@@ -3641,6 +3839,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-03-08,Japan,Netherlands,2,3,Algarve Cup,Estádio Algarve,Portugal,TRUE
 2017-03-08,Australia,Denmark,1,1,Algarve Cup,Albufeira,Portugal,TRUE
 2017-03-08,Spain,Canada,1,0,Algarve Cup,Estádio Algarve,Portugal,TRUE
+2017-03-08,Italy,Czech Republic,6,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2017-03-08,New Zealand,Hungary,3,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2017-03-08,Belgium,Austria,1,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2017-03-08,Scotland,Wales,0,0,Cyprus Cup,Paralimni,Cyprus,TRUE
+2017-03-08,North Korea,Republic of Ireland,2,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2017-03-08,Switzerland,South Korea,1,0,Cyprus Cup,Larnaca,Cyprus,TRUE
 2017-04-03,Bahrain,Jordan,0,6,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
 2017-04-03,Tajikistan,Iraq,1,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,FALSE
 2017-04-03,Philippines,United Arab Emirates,4,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
@@ -3731,12 +3935,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-07-26,Iceland,Austria,0,3,UEFA Euro,Rotterdam,Netherlands,TRUE
 2017-07-27,Portugal,England,1,2,UEFA Euro,Tilburg,Netherlands,TRUE
 2017-07-27,Scotland,Spain,1,0,UEFA Euro,Deventer,Netherlands,TRUE
+2017-07-27,Brazil,Japan,1,1,Tournament of Nations,Seattle,United States,TRUE
+2017-07-27,United States,Australia,0,1,Tournament of Nations,Seattle,United States,FALSE
 2017-07-29,Netherlands,Sweden,2,0,UEFA Euro,Doetinchem,Netherlands,FALSE
 2017-07-30,Germany,Denmark,1,2,UEFA Euro,Rotterdam,Netherlands,TRUE
 2017-07-30,Austria,Spain,0,0,UEFA Euro,Tilburg,Netherlands,TRUE
 2017-07-30,England,France,1,0,UEFA Euro,Deventer,Netherlands,TRUE
+2017-07-30,Japan,Australia,2,4,Tournament of Nations,San Diego,United States,TRUE
+2017-07-30,United States,Brazil,4,3,Tournament of Nations,San Diego,United States,FALSE
 2017-08-03,Denmark,Austria,0,0,UEFA Euro,Breda,Netherlands,TRUE
 2017-08-03,Netherlands,England,3,0,UEFA Euro,Enschede,Netherlands,FALSE
+2017-08-03,Australia,Brazil,6,1,Tournament of Nations,Carson,United States,TRUE
+2017-08-03,United States,Japan,3,0,Tournament of Nations,Carson,United States,FALSE
 2017-08-06,Netherlands,Denmark,4,2,UEFA Euro,Enschede,Netherlands,FALSE
 2017-09-14,Faroe Islands,Czech Republic,0,8,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
 2017-09-15,Albania,Switzerland,1,4,FIFA World Cup qualification,Elbasan,Albania,FALSE
@@ -3817,6 +4027,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-02-28,Canada,Sweden,1,3,Algarve Cup,Parchal,Portugal,TRUE
 2018-02-28,Japan,Netherlands,2,6,Algarve Cup,Parchal,Portugal,TRUE
 2018-02-28,Denmark,Iceland,0,0,Algarve Cup,Lagos,Portugal,TRUE
+2018-02-28,Finland,Wales,0,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2018-02-28,Italy,Switzerland,3,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2018-02-28,Belgium,Czech Republic,1,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2018-02-28,Austria,Spain,0,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2018-02-28,Slovakia,South Africa,0,0,Cyprus Cup,Paralimni,Cyprus,TRUE
+2018-02-28,Hungary,North Korea,0,2,Cyprus Cup,Paralimni,Cyprus,TRUE
 2018-03-01,England,France,4,1,SheBelieves Cup,Columbus,United States,TRUE
 2018-03-01,United States,Germany,1,0,SheBelieves Cup,Columbus,United States,FALSE
 2018-03-02,Portugal,Australia,0,0,Algarve Cup,Estádio Algarve,Portugal,FALSE
@@ -3825,6 +4041,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-03-02,Sweden,South Korea,1,1,Algarve Cup,Parchal,Portugal,TRUE
 2018-03-02,Japan,Iceland,2,1,Algarve Cup,Parchal,Portugal,TRUE
 2018-03-02,Denmark,Netherlands,2,3,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
+2018-03-02,Wales,Italy,0,3,Cyprus Cup,Larnaca,Cyprus,TRUE
+2018-03-02,Switzerland,Finland,4,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2018-03-02,Czech Republic,Austria,0,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2018-03-02,Spain,Belgium,0,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2018-03-02,North Korea,Slovakia,1,0,Cyprus Cup,Paralimni,Cyprus,TRUE
+2018-03-02,South Africa,Hungary,1,0,Cyprus Cup,Paralimni,Cyprus,TRUE
 2018-03-04,United States,France,1,1,SheBelieves Cup,Harrison,United States,FALSE
 2018-03-04,Germany,England,2,2,SheBelieves Cup,Harrison,United States,TRUE
 2018-03-05,Portugal,Norway,2,0,Algarve Cup,Estádio Algarve,Portugal,FALSE
@@ -3833,6 +4055,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-03-05,South Korea,Canada,0,3,Algarve Cup,Lagos,Portugal,TRUE
 2018-03-05,Japan,Denmark,2,0,Algarve Cup,Estádio Algarve,Portugal,TRUE
 2018-03-05,Iceland,Netherlands,0,0,Algarve Cup,Albufeira,Portugal,TRUE
+2018-03-05,Finland,Italy,2,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2018-03-05,Switzerland,Wales,0,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2018-03-05,Belgium,Austria,2,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2018-03-05,Spain,Czech Republic,2,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2018-03-05,South Africa,North Korea,0,0,Cyprus Cup,Paralimni,Cyprus,TRUE
+2018-03-05,Hungary,Slovakia,1,1,Cyprus Cup,Paralimni,Cyprus,TRUE
 2018-03-07,China PR,Russia,2,1,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2018-03-07,Iceland,Denmark,1,1,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2018-03-07,South Korea,Norway,3,2,Algarve Cup,Albufeira,Portugal,TRUE
@@ -3840,6 +4068,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-03-07,Portugal,Australia,2,1,Algarve Cup,Albufeira,Portugal,FALSE
 2018-03-07,France,Germany,3,0,SheBelieves Cup,Orlando,United States,TRUE
 2018-03-07,United States,England,1,0,SheBelieves Cup,Orlando,United States,FALSE
+2018-03-07,Hungary,Finland,0,2,Cyprus Cup,Paralimni,Cyprus,TRUE
+2018-03-07,Slovakia,Czech Republic,2,5,Cyprus Cup,Larnaca,Cyprus,TRUE
+2018-03-07,Wales,Austria,1,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2018-03-07,South Africa,Belgium,1,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2018-03-07,North Korea,Switzerland,2,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2018-03-07,Italy,Spain,0,2,Cyprus Cup,Larnaca,Cyprus,TRUE
 2018-04-04,Colombia,Uruguay,7,0,Copa América,La Serena,Ecuador,TRUE
 2018-04-04,Chile,Paraguay,1,1,Copa América,La Serena,Ecuador,TRUE
 2018-04-04,Colombia,Uruguay,7,0,Copa América,La Serena,Chile,TRUE
@@ -4034,6 +4268,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-12,Serbia,Finland,0,2,FIFA World Cup qualification,Zemun,Serbia,FALSE
 2018-06-12,Israel,Austria,0,6,FIFA World Cup qualification,Ramat Gan,Israel,FALSE
 2018-06-13,United States,China PR,2,1,Friendly,Cleveland,United States,FALSE
+2018-07-26,Brazil,Australia,1,3,Tournament of Nations,Kansas City,United States,TRUE
+2018-07-26,United States,Japan,4,2,Tournament of Nations,Kansas City,United States,FALSE
+2018-07-29,Japan,Brazil,1,2,Tournament of Nations,East Hartford,United States,TRUE
+2018-07-29,United States,Australia,1,1,Tournament of Nations,East Hartford,United States,FALSE
+2018-08-02,Australia,Japan,2,0,Tournament of Nations,Bridgeview,United States,TRUE
+2018-08-02,United States,Brazil,4,1,Tournament of Nations,Bridgeview,United States,FALSE
 2018-08-24,American Samoa,Solomon Islands,0,2,OFC Nations Cup qualification,Lautoka,Fiji,TRUE
 2018-08-24,Fiji,Vanuatu,5,1,OFC Nations Cup qualification,Lautoka,Fiji,FALSE
 2018-08-25,Cuba,Trinidad and Tobago,2,3,CONCACAF Gold Cup qualification,Kingston,Jamaica,TRUE
@@ -4119,10 +4359,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-11-18,Zambia,Equatorial Guinea,5,0,African Cup of Nations,Cape Coast,Ghana,TRUE
 2018-11-18,Samoa,Papua New Guinea,0,5,OFC Nations Cup,Koné,New Caledonia,TRUE
 2018-11-18,New Caledonia,Tahiti,4,2,OFC Nations Cup,Koné,New Caledonia,FALSE
-2018-11-18,Samoa,Papua New Guinea,0,5,OFC Nations Cup,Koné,New Caledonia,TRUE
-2018-11-18,New Caledonia,Tahiti,4,2,OFC Nations Cup,Koné,New Caledonia,FALSE
-2018-11-19,New Zealand,Tonga,11,0,OFC Nations Cup,Nouméa,New Caledonia,TRUE
-2018-11-19,Cook Islands,Fiji,0,3,OFC Nations Cup,Nouméa,New Caledonia,TRUE
 2018-11-19,New Zealand,Tonga,11,0,OFC Nations Cup,Nouméa,New Caledonia,TRUE
 2018-11-19,Cook Islands,Fiji,0,3,OFC Nations Cup,Nouméa,New Caledonia,TRUE
 2018-11-20,Ghana,Mali,1,2,African Cup of Nations,Accra,Ghana,FALSE
@@ -4131,10 +4367,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-11-21,Equatorial Guinea,South Africa,1,7,African Cup of Nations,Cape Coast,Ghana,TRUE
 2018-11-21,Tahiti,Samoa,5,5,OFC Nations Cup,Koné,New Caledonia,TRUE
 2018-11-21,New Caledonia,Papua New Guinea,2,6,OFC Nations Cup,Koné,New Caledonia,FALSE
-2018-11-21,Tahiti,Samoa,5,5,OFC Nations Cup,Koné,New Caledonia,TRUE
-2018-11-21,New Caledonia,Papua New Guinea,2,6,OFC Nations Cup,Koné,New Caledonia,FALSE
-2018-11-22,Tonga,Fiji,0,12,OFC Nations Cup,Nouméa,New Caledonia,TRUE
-2018-11-22,New Zealand,Cook Islands,6,0,OFC Nations Cup,Nouméa,New Caledonia,TRUE
 2018-11-22,Tonga,Fiji,0,12,OFC Nations Cup,Nouméa,New Caledonia,TRUE
 2018-11-22,New Zealand,Cook Islands,6,0,OFC Nations Cup,Nouméa,New Caledonia,TRUE
 2018-11-23,Ghana,Cameroon,1,1,African Cup of Nations,Accra,Ghana,FALSE
@@ -4143,22 +4375,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-11-24,South Africa,Zambia,1,1,African Cup of Nations,Accra,Ghana,TRUE
 2018-11-24,Papua New Guinea,Tahiti,3,1,OFC Nations Cup,Koné,New Caledonia,TRUE
 2018-11-24,New Caledonia,Samoa,2,0,OFC Nations Cup,Koné,New Caledonia,FALSE
-2018-11-24,Papua New Guinea,Tahiti,3,1,OFC Nations Cup,Koné,New Caledonia,TRUE
-2018-11-24,New Caledonia,Samoa,2,0,OFC Nations Cup,Koné,New Caledonia,FALSE
-2018-11-25,Tonga,Cook Islands,1,0,OFC Nations Cup,Nouméa,New Caledonia,TRUE
-2018-11-25,Fiji,New Zealand,0,10,OFC Nations Cup,Nouméa,New Caledonia,TRUE
 2018-11-25,Tonga,Cook Islands,1,0,OFC Nations Cup,Nouméa,New Caledonia,TRUE
 2018-11-25,Fiji,New Zealand,0,10,OFC Nations Cup,Nouméa,New Caledonia,TRUE
 2018-11-27,Cameroon,Nigeria,0,0,African Cup of Nations,Accra,Ghana,TRUE
 2018-11-27,South Africa,Mali,2,0,African Cup of Nations,Cape Coast,Ghana,TRUE
 2018-11-28,Papua New Guinea,Fiji,1,5,OFC Nations Cup,Maré,New Caledonia,TRUE
 2018-11-28,New Caledonia,New Zealand,0,8,OFC Nations Cup,Lifou,New Caledonia,FALSE
-2018-11-28,Papua New Guinea,Fiji,1,5,OFC Nations Cup,Maré,New Caledonia,TRUE
-2018-11-28,New Caledonia,New Zealand,0,8,OFC Nations Cup,Lifou,New Caledonia,FALSE
 2018-11-30,Cameroon,Mali,4,2,African Cup of Nations,Cape Coast,Ghana,TRUE
 2018-12-01,Nigeria,South Africa,0,0,African Cup of Nations,Accra,Ghana,TRUE
-2018-12-01,New Caledonia,Papua New Guinea,1,7,OFC Nations Cup,Nouméa,New Caledonia,FALSE
-2018-12-01,Fiji,New Zealand,0,8,OFC Nations Cup,Nouméa,New Caledonia,TRUE
 2018-12-01,New Caledonia,Papua New Guinea,1,7,OFC Nations Cup,Nouméa,New Caledonia,FALSE
 2018-12-01,Fiji,New Zealand,0,8,OFC Nations Cup,Nouméa,New Caledonia,TRUE
 2019-01-17,South Korea,Romania,3,0,Four Nations Tournament,Meizhou,China PR,TRUE
@@ -4173,16 +4397,34 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-02-27,Sweden,Switzerland,4,1,Algarve Cup,Estádio Algarve,Portugal,TRUE
 2019-02-27,United States,Japan,2,2,SheBelieves Cup,Chester,United States,FALSE
 2019-02-27,England,Brazil,2,1,SheBelieves Cup,Chester,United States,TRUE
+2019-02-27,South Africa,Finland,2,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2019-02-27,North Korea,Czech Republic,4,2,Cyprus Cup,Pyla,Cyprus,TRUE
+2019-02-27,Mexico,Italy,0,5,Cyprus Cup,Larnaca,Cyprus,TRUE
+2019-02-27,Thailand,Hungary,4,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2019-02-27,Belgium,Slovakia,3,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2019-02-27,Nigeria,Austria,1,4,Cyprus Cup,Larnaca,Cyprus,TRUE
 2019-03-01,Scotland,Canada,0,1,Algarve Cup,Lagos,Portugal,TRUE
 2019-03-01,Poland,Spain,3,0,Algarve Cup,Lagos,Portugal,TRUE
 2019-03-01,China PR,Norway,1,3,Algarve Cup,Albufeira,Portugal,TRUE
 2019-03-01,Portugal,Sweden,2,1,Algarve Cup,Albufeira,Portugal,FALSE
+2019-03-01,Finland,Czech Republic,1,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2019-03-01,South Africa,North Korea,1,4,Cyprus Cup,Larnaca,Cyprus,TRUE
+2019-03-01,Thailand,Mexico,1,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2019-03-01,Hungary,Italy,0,3,Cyprus Cup,Larnaca,Cyprus,TRUE
+2019-03-01,Slovakia,Nigeria,3,4,Cyprus Cup,Larnaca,Cyprus,TRUE
+2019-03-01,Austria,Belgium,0,0,Cyprus Cup,Larnaca,Cyprus,TRUE
 2019-03-02,Brazil,Japan,1,3,SheBelieves Cup,Nashville,United States,TRUE
 2019-03-02,United States,England,2,2,SheBelieves Cup,Nashville,United States,FALSE
 2019-03-04,Iceland,Scotland,1,4,Algarve Cup,Parchal,Portugal,TRUE
 2019-03-04,Netherlands,Poland,0,1,Algarve Cup,Parchal,Portugal,TRUE
 2019-03-04,Denmark,China PR,1,0,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2019-03-04,Portugal,Switzerland,1,3,Algarve Cup,Vila Real de Santo António,Portugal,FALSE
+2019-03-04,Czech Republic,South Africa,2,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2019-03-04,Finland,North Korea,0,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2019-03-04,Italy,Thailand,4,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2019-03-04,Mexico,Hungary,3,3,Cyprus Cup,Larnaca,Cyprus,TRUE
+2019-03-04,Slovakia,Austria,0,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2019-03-04,Nigeria,Belgium,0,1,Cyprus Cup,Larnaca,Cyprus,TRUE
 2019-03-05,Japan,England,0,3,SheBelieves Cup,Tampa,United States,TRUE
 2019-03-05,United States,Brazil,1,0,SheBelieves Cup,Tampa,United States,FALSE
 2019-03-06,China PR,Netherlands,1,1,Algarve Cup,Albufeira,Portugal,TRUE
@@ -4191,6 +4433,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-03-06,Scotland,Denmark,1,0,Algarve Cup,Estádio Algarve,Portugal,TRUE
 2019-03-06,Canada,Sweden,0,0,Algarve Cup,Estádio Algarve,Portugal,TRUE
 2019-03-06,Poland,Norway,0,3,Algarve Cup,Parchal,Portugal,TRUE
+2019-03-06,Slovakia,Hungary,2,3,Cyprus Cup,Larnaca,Cyprus,TRUE
+2019-03-06,Finland,South Africa,3,0,Cyprus Cup,Paralimni,Cyprus,TRUE
+2019-03-06,Nigeria,Thailand,3,0,Cyprus Cup,Paralimni,Cyprus,TRUE
+2019-03-06,Czech Republic,Mexico,1,2,Cyprus Cup,Larnaca,Cyprus,TRUE
+2019-03-06,Austria,Belgium,0,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2019-03-06,North Korea,Italy,3,3,Cyprus Cup,Larnaca,Cyprus,TRUE
 2019-04-05,United States,Australia,5,3,Friendly,Denver,United States,FALSE
 2019-04-08,United States,Belgium,6,0,Friendly,Los Angeles,United States,FALSE
 2019-05-13,United States,South Africa,3,0,Friendly,Santa Clara,United States,FALSE
@@ -4232,6 +4480,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-06-20,Cameroon,New Zealand,2,1,FIFA World Cup,Montpellier,France,TRUE
 2019-06-20,Sweden,United States,0,2,FIFA World Cup,Le Havre,France,TRUE
 2019-06-20,Thailand,Chile,0,2,FIFA World Cup,Rennes,France,TRUE
+2019-06-20,Montenegro,Greece,0,4,UEFA Euro qualification,Podgorica,Montenegro,FALSE
 2019-06-22,Germany,Nigeria,3,0,FIFA World Cup,Grenoble,France,TRUE
 2019-06-22,Norway,Australia,1,1,FIFA World Cup,Nice,France,TRUE
 2019-06-23,England,Cameroon,3,0,FIFA World Cup,Valenciennes,France,TRUE
@@ -4248,13 +4497,98 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-07-03,Netherlands,Sweden,1,0,FIFA World Cup,Décines-Charpieu,France,TRUE
 2019-07-06,England,Sweden,1,2,FIFA World Cup,Nice,France,TRUE
 2019-07-07,United States,Netherlands,2,0,FIFA World Cup,Décines-Charpieu,France,TRUE
+2019-07-20,Malta,Israel,1,1,UEFA Euro qualification,Ta' Qali,Malta,FALSE
+2019-07-20,Azerbaijan,Czech Republic,0,4,UEFA Euro qualification,Baku,Azerbaijan,FALSE
+2019-07-20,Finland,Cyprus,4,0,UEFA Euro qualification,Helsinki,Finland,FALSE
 2019-08-04,United States,Republic of Ireland,3,0,Friendly,Pasadena,United States,FALSE
+2019-08-20,Turkey,Netherlands,0,8,UEFA Euro qualification,İzmir,Turkey,FALSE
+2019-08-20,Italy,Georgia,6,0,UEFA Euro qualification,Benevento,Italy,FALSE
+2019-08-20,Albania,Scotland,0,5,UEFA Euro qualification,Elbasan,Albania,FALSE
+2019-08-20,Slovakia,Hungary,0,0,UEFA Euro qualification,Senec,Slovakia,FALSE
+2019-08-20,North Macedonia,Austria,0,3,UEFA Euro qualification,Skopje,North Macedonia,FALSE
+2019-08-20,Romania,Lithuania,3,0,UEFA Euro qualification,Mogoșoaia,Romania,FALSE
+2019-08-20,Croatia,Belgium,1,4,UEFA Euro qualification,Zaprešić,Croatia,FALSE
+2019-08-20,Norway,Northern Ireland,6,0,UEFA Euro qualification,Stavanger,Norway,FALSE
+2019-08-29,Israel,Italy,2,3,UEFA Euro qualification,Ramat Gan,Israel,FALSE
+2019-08-29,Denmark,Malta,8,0,UEFA Euro qualification,Viborg,Denmark,FALSE
+2019-08-29,Iceland,Hungary,4,1,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+2019-08-29,Lithuania,Croatia,1,2,UEFA Euro qualification,Šiauliai,Lithuania,FALSE
+2019-08-29,Faroe Islands,Wales,0,6,UEFA Euro qualification,Tórshavn,Faroe Islands,FALSE
 2019-08-30,United States,Portugal,4,0,Friendly,Philadelphia,United States,FALSE
+2019-08-30,Estonia,Netherlands,0,7,UEFA Euro qualification,Tallinn,Estonia,FALSE
+2019-08-30,Slovenia,Russia,0,1,UEFA Euro qualification,Velenje,Slovenia,FALSE
+2019-08-30,Kosovo,Turkey,2,0,UEFA Euro qualification,Pristina,Kosovo,FALSE
+2019-08-30,Bosnia and Herzegovina,Georgia,7,1,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
+2019-08-30,Moldova,Czech Republic,0,7,UEFA Euro qualification,Chișinău,Moldova,FALSE
+2019-08-30,Scotland,Cyprus,8,0,UEFA Euro qualification,Edinburgh,Scotland,FALSE
+2019-08-30,Northern Ireland,Norway,0,6,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+2019-08-31,Germany,Montenegro,10,0,UEFA Euro qualification,Kassel,Germany,FALSE
+2019-09-01,Kazakhstan,Serbia,0,3,UEFA Euro qualification,Shymkent,Kazakhstan,FALSE
+2019-09-02,Albania,Finland,0,3,UEFA Euro qualification,Elbasan,Albania,FALSE
+2019-09-02,Iceland,Slovakia,1,0,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+2019-09-03,Slovenia,Kosovo,5,0,UEFA Euro qualification,Dravograd,Slovenia,FALSE
+2019-09-03,Russia,Estonia,4,0,UEFA Euro qualification,Moscow,Russia,FALSE
+2019-09-03,Netherlands,Turkey,3,0,UEFA Euro qualification,Heerenveen,Netherlands,FALSE
+2019-09-03,Georgia,Italy,0,1,UEFA Euro qualification,Tbilisi,Georgia,FALSE
+2019-09-03,Bosnia and Herzegovina,Malta,2,0,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,FALSE
+2019-09-03,Israel,Denmark,0,3,UEFA Euro qualification,Ramat Gan,Israel,FALSE
+2019-09-03,Latvia,Sweden,1,4,UEFA Euro qualification,Liepāja,Latvia,FALSE
+2019-09-03,Austria,North Macedonia,3,0,UEFA Euro qualification,Maria Enzersdorf,Austria,FALSE
+2019-09-03,Switzerland,Lithuania,4,0,UEFA Euro qualification,Schaffhausen,Switzerland,FALSE
+2019-09-03,Belgium,Croatia,6,1,UEFA Euro qualification,Leuven,Belgium,FALSE
+2019-09-03,Ukraine,Germany,0,8,UEFA Euro qualification,Lviv,Ukraine,FALSE
+2019-09-03,Republic of Ireland,Montenegro,2,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2019-09-03,Belarus,Faroe Islands,6,0,UEFA Euro qualification,Barysaw,Belarus,FALSE
+2019-09-03,Wales,Northern Ireland,2,2,UEFA Euro qualification,Newport,Wales,FALSE
 2019-09-04,United States,Portugal,3,0,Friendly,Saint Paul,United States,FALSE
+2019-09-20,France,Serbia,6,0,UEFA Euro qualification,Bordeaux,France,FALSE
+2019-10-02,North Macedonia,Kazakhstan,4,1,UEFA Euro qualification,Skopje,North Macedonia,FALSE
 2019-10-04,United States,South Korea,2,0,Friendly,Charlotte,United States,FALSE
+2019-10-04,Turkey,Estonia,0,0,UEFA Euro qualification,Istanbul,Turkey,FALSE
+2019-10-04,Slovenia,Netherlands,2,4,UEFA Euro qualification,Murska Sobota,Slovenia,FALSE
+2019-10-04,Denmark,Bosnia and Herzegovina,2,0,UEFA Euro qualification,Viborg,Denmark,FALSE
+2019-10-04,Malta,Italy,0,2,UEFA Euro qualification,Ta' Qali,Malta,FALSE
+2019-10-04,Spain,Azerbaijan,4,0,UEFA Euro qualification,A Coruña,Spain,FALSE
+2019-10-04,Albania,Portugal,0,1,UEFA Euro qualification,Elbasan,Albania,FALSE
+2019-10-04,Latvia,Slovakia,1,2,UEFA Euro qualification,Liepāja,Latvia,FALSE
+2019-10-04,Hungary,Sweden,0,5,UEFA Euro qualification,Miskolc,Hungary,FALSE
+2019-10-04,Lithuania,Switzerland,0,3,UEFA Euro qualification,Šiauliai,Lithuania,FALSE
+2019-10-04,Belarus,Norway,1,7,UEFA Euro qualification,Barysaw,Belarus,FALSE
+2019-10-05,North Macedonia,Serbia,0,6,UEFA Euro qualification,Skopje,North Macedonia,FALSE
+2019-10-05,Germany,Ukraine,8,0,UEFA Euro qualification,Aachen,Germany,FALSE
 2019-10-06,United States,South Korea,1,1,Friendly,Chicago,United States,FALSE
+2019-10-08,Turkey,Slovenia,1,6,UEFA Euro qualification,İzmit,Turkey,FALSE
+2019-10-08,Estonia,Kosovo,1,2,UEFA Euro qualification,Tartu,Estonia,FALSE
+2019-10-08,Netherlands,Russia,2,0,UEFA Euro qualification,Eindhoven,Netherlands,FALSE
+2019-10-08,Italy,Bosnia and Herzegovina,2,0,UEFA Euro qualification,Palermo,Italy,FALSE
+2019-10-08,Georgia,Denmark,0,2,UEFA Euro qualification,Tbilisi,Georgia,FALSE
+2019-10-08,Czech Republic,Spain,1,5,UEFA Euro qualification,Prague,Czech Republic,FALSE
+2019-10-08,Finland,Albania,8,1,UEFA Euro qualification,Vaasa,Finland,FALSE
+2019-10-08,Sweden,Slovakia,7,0,UEFA Euro qualification,Gothenburg,Sweden,FALSE
+2019-10-08,Latvia,Iceland,0,6,UEFA Euro qualification,Liepāja,Latvia,FALSE
+2019-10-08,Kazakhstan,France,0,3,UEFA Euro qualification,Shymkent,Kazakhstan,FALSE
+2019-10-08,Serbia,Austria,0,1,UEFA Euro qualification,Niš,Serbia,FALSE
+2019-10-08,Romania,Belgium,0,1,UEFA Euro qualification,Cluj-Napoca,Romania,FALSE
+2019-10-08,Switzerland,Croatia,2,0,UEFA Euro qualification,Thun,Switzerland,FALSE
+2019-10-08,Greece,Germany,0,5,UEFA Euro qualification,Thessaloniki,Greece,FALSE
+2019-10-08,Republic of Ireland,Ukraine,3,2,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2019-10-08,Faroe Islands,Norway,0,13,UEFA Euro qualification,Tórshavn,Faroe Islands,FALSE
+2019-10-08,Belarus,Wales,0,1,UEFA Euro qualification,Barysaw,Belarus,FALSE
+2019-10-20,Moldova,Azerbaijan,3,1,UEFA Euro qualification,Chișinău,Moldova,FALSE
 2019-11-08,United States,Sweden,3,2,Friendly,Columbus,United States,FALSE
 2019-11-11,United States,Costa Rica,6,0,Friendly,Jacksonville,United States,FALSE
+2019-12-20,Netherlands,Slovenia,4,1,UEFA Euro qualification,Arnhem,Netherlands,FALSE
+2019-12-20,Italy,Malta,5,0,UEFA Euro qualification,Castel di Sangro,Italy,FALSE
+2019-12-20,Israel,Bosnia and Herzegovina,1,3,UEFA Euro qualification,Haifa,Israel,FALSE
+2019-12-20,Denmark,Georgia,14,0,UEFA Euro qualification,Viborg,Denmark,FALSE
+2019-12-20,Poland,Spain,0,0,UEFA Euro qualification,Lublin,Poland,FALSE
+2019-12-20,Portugal,Finland,1,1,UEFA Euro qualification,Vila Nova de Famalicão,Portugal,FALSE
+2019-12-20,Hungary,Latvia,4,0,UEFA Euro qualification,Szombathely,Hungary,FALSE
+2019-12-20,Austria,Kazakhstan,9,0,UEFA Euro qualification,Maria Enzersdorf,Austria,FALSE
+2019-12-20,Switzerland,Romania,6,0,UEFA Euro qualification,Schaffhausen,Switzerland,FALSE
+2019-12-20,Belgium,Lithuania,6,0,UEFA Euro qualification,Leuven,Belgium,FALSE
+2019-12-20,Greece,Republic of Ireland,1,1,UEFA Euro qualification,Athens,Greece,FALSE
+2019-12-20,Northern Ireland,Wales,0,0,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
 2020-01-29,United States,Haiti,4,0,Olympic Games qualification,Houston,United States,FALSE
 2020-02-01,United States,Panama,8,0,Olympic Games qualification,Houston,United States,FALSE
 2020-02-04,United States,Costa Rica,6,0,Olympic Games qualification,Houston,United States,FALSE
@@ -4268,6 +4602,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-03-04,Portugal,Italy,1,2,Algarve Cup,Faro/Loulé,Portugal,FALSE
 2020-03-05,Spain,Japan,3,1,SheBelieves Cup,Orlando,United States,TRUE
 2020-03-05,United States,England,2,0,SheBelieves Cup,Orlando,United States,FALSE
+2020-03-05,Croatia,Mexico,1,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2020-03-05,Czech Republic,Finland,1,1,Cyprus Cup,Larnaca,Cyprus,TRUE
+2020-03-06,Serbia,North Macedonia,8,1,UEFA Euro qualification,Belgrade,Serbia,FALSE
 2020-03-07,Canada,Netherlands,0,0,Tournoi de France,Calais,France,TRUE
 2020-03-07,France,Brazil,1,0,Tournoi de France,Valenciennes,France,FALSE
 2020-03-07,Sweden,Denmark,1,2,Algarve Cup,Lagos,Portugal,TRUE
@@ -4277,39 +4614,269 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-03-07,Portugal,Sweden,0,2,Algarve Cup,Faro/Loulé,Portugal,FALSE
 2020-03-08,Japan,England,0,1,SheBelieves Cup,Harrison,United States,TRUE
 2020-03-08,United States,Spain,1,0,SheBelieves Cup,Harrison,United States,FALSE
+2020-03-08,Finland,Croatia,2,3,Cyprus Cup,Larnaca,Cyprus,TRUE
+2020-03-08,Mexico,Slovakia,2,2,Cyprus Cup,Larnaca,Cyprus,TRUE
 2020-03-10,Brazil,Canada,2,2,Tournoi de France,Calais,France,TRUE
 2020-03-10,France,Netherlands,3,3,Tournoi de France,Valenciennes,France,FALSE
 2020-03-10,Belgium,Denmark,0,4,Algarve Cup,Lagos,Portugal,TRUE
 2020-03-10,New Zealand,Norway,1,2,Algarve Cup,Faro/Loulé,Portugal,TRUE
 2020-03-11,England,Spain,0,1,SheBelieves Cup,Frisco,United States,TRUE
 2020-03-11,United States,Japan,3,1,SheBelieves Cup,Frisco,United States,FALSE
+2020-03-11,Mexico,Czech Republic,0,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2020-03-11,Slovakia,Finland,2,4,Cyprus Cup,Larnaca,Cyprus,TRUE
+2020-05-20,Bosnia and Herzegovina,Israel,1,0,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
+2020-05-20,Malta,Georgia,2,1,UEFA Euro qualification,Ta' Qali,Malta,FALSE
+2020-05-20,Republic of Ireland,Greece,1,0,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2020-06-20,Kosovo,Russia,0,5,UEFA Euro qualification,Wiesbaden,Germany,TRUE
+2020-07-20,Poland,Moldova,5,0,UEFA Euro qualification,Warsaw,Poland,FALSE
+2020-09-17,Bosnia and Herzegovina,Denmark,0,4,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
+2020-09-17,Sweden,Hungary,8,0,UEFA Euro qualification,Gothenburg,Sweden,FALSE
+2020-09-17,Iceland,Latvia,9,0,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+2020-09-18,Russia,Netherlands,0,1,UEFA Euro qualification,Moscow,Russia,FALSE
+2020-09-18,Kosovo,Estonia,2,0,UEFA Euro qualification,Pristina,Kosovo,FALSE
+2020-09-18,Slovenia,Turkey,3,1,UEFA Euro qualification,Kranj,Slovenia,FALSE
+2020-09-18,Czech Republic,Poland,0,0,UEFA Euro qualification,Chomutov,Czech Republic,FALSE
+2020-09-18,Serbia,France,0,2,UEFA Euro qualification,Subotica,Serbia,FALSE
+2020-09-18,Belgium,Romania,6,1,UEFA Euro qualification,Leuven,Belgium,FALSE
+2020-09-18,Croatia,Switzerland,1,1,UEFA Euro qualification,Zaprešić,Croatia,FALSE
+2020-09-18,Montenegro,Ukraine,1,3,UEFA Euro qualification,Podgorica,Montenegro,FALSE
+2020-09-18,Faroe Islands,Northern Ireland,0,6,UEFA Euro qualification,Torshavn,Faroe Islands,FALSE
+2020-09-19,Moldova,Spain,0,9,UEFA Euro qualification,Chișinău,Moldova,FALSE
+2020-09-19,Germany,Republic of Ireland,3,0,UEFA Euro qualification,Essen,Germany,FALSE
+2020-09-22,Estonia,Russia,0,3,UEFA Euro qualification,Jūrmala,Latvia,TRUE
+2020-09-22,Bosnia and Herzegovina,Italy,0,5,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
+2020-09-22,Malta,Denmark,0,8,UEFA Euro qualification,Ta' Qali,Malta,FALSE
+2020-09-22,Poland,Czech Republic,0,2,UEFA Euro qualification,Bielsko-Biała,Poland,FALSE
+2020-09-22,Latvia,Hungary,0,5,UEFA Euro qualification,Liepāja,Latvia,FALSE
+2020-09-22,Iceland,Sweden,1,1,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+2020-09-22,Kazakhstan,Austria,0,5,UEFA Euro qualification,Shymkent,Kazakhstan,FALSE
+2020-09-22,North Macedonia,France,0,7,UEFA Euro qualification,Skopje,North Macedonia,FALSE
+2020-09-22,Romania,Croatia,4,1,UEFA Euro qualification,Mogoșoaia,Romania,FALSE
+2020-09-22,Switzerland,Belgium,2,1,UEFA Euro qualification,Thun,Switzerland,FALSE
+2020-09-22,Montenegro,Germany,0,3,UEFA Euro qualification,Podgorica,Montenegro,FALSE
+2020-09-22,Ukraine,Greece,4,0,UEFA Euro qualification,Kyiv,Ukraine,FALSE
+2020-09-22,Norway,Wales,1,0,UEFA Euro qualification,Oslo,Norway,FALSE
+2020-09-22,Faroe Islands,Belarus,0,2,UEFA Euro qualification,Torshavn,Faroe Islands,FALSE
+2020-10-20,Kosovo,Slovenia,0,3,UEFA Euro qualification,Pristina,Kosovo,FALSE
+2020-10-20,Israel,Georgia,4,0,UEFA Euro qualification,Rishon LeZion,Israel,FALSE
+2020-10-20,Malta,Bosnia and Herzegovina,2,3,UEFA Euro qualification,Ta' Qali,Malta,FALSE
+2020-10-21,Denmark,Israel,4,0,UEFA Euro qualification,Viborg,Denmark,FALSE
+2020-10-22,Sweden,Latvia,7,0,UEFA Euro qualification,Gothenburg,Sweden,FALSE
+2020-10-22,Greece,Montenegro,1,0,UEFA Euro qualification,Athens,Greece,FALSE
+2020-10-22,Wales,Faroe Islands,4,0,UEFA Euro qualification,Newport,Wales,FALSE
+2020-10-23,Russia,Slovenia,1,0,UEFA Euro qualification,Moscow,Russia,FALSE
+2020-10-23,Turkey,Kosovo,0,0,UEFA Euro qualification,Manavgat,Turkey,FALSE
+2020-10-23,Netherlands,Estonia,7,0,UEFA Euro qualification,Groningen,Netherlands,FALSE
+2020-10-23,Poland,Azerbaijan,3,0,UEFA Euro qualification,Warsaw,Poland,FALSE
+2020-10-23,Spain,Czech Republic,4,0,UEFA Euro qualification,Seville,Spain,FALSE
+2020-10-23,Cyprus,Portugal,0,3,UEFA Euro qualification,Larnaca,Cyprus,FALSE
+2020-10-23,Scotland,Albania,3,0,UEFA Euro qualification,Edinburgh,Scotland,FALSE
+2020-10-23,Hungary,Slovakia,1,2,UEFA Euro qualification,Budapest,Hungary,FALSE
+2020-10-23,France,North Macedonia,11,0,UEFA Euro qualification,Orléans,France,FALSE
+2020-10-23,Lithuania,Romania,0,4,UEFA Euro qualification,Marijampolė,Lithuania,FALSE
+2020-10-23,Ukraine,Republic of Ireland,1,0,UEFA Euro qualification,Kyiv,Ukraine,FALSE
+2020-10-24,Serbia,Kazakhstan,4,1,UEFA Euro qualification,Stara Pazova,Serbia,FALSE
+2020-10-27,Russia,Turkey,4,2,UEFA Euro qualification,Moscow,Russia,FALSE
+2020-10-27,Kosovo,Netherlands,0,6,UEFA Euro qualification,Pristina,Kosovo,FALSE
+2020-10-27,Georgia,Israel,1,2,UEFA Euro qualification,Tbilisi,Georgia,FALSE
+2020-10-27,Italy,Denmark,1,3,UEFA Euro qualification,Empoli,Italy,FALSE
+2020-10-27,Moldova,Poland,0,3,UEFA Euro qualification,Chișinău,Moldova,FALSE
+2020-10-27,Czech Republic,Azerbaijan,3,0,UEFA Euro qualification,Chomutov,Czech Republic,FALSE
+2020-10-27,Finland,Scotland,1,0,UEFA Euro qualification,Helsinki,Finland,FALSE
+2020-10-27,Portugal,Cyprus,1,0,UEFA Euro qualification,Estoril,Portugal,FALSE
+2020-10-27,Slovakia,Latvia,2,0,UEFA Euro qualification,Senec,Slovakia,FALSE
+2020-10-27,Sweden,Iceland,2,0,UEFA Euro qualification,Gothenburg,Sweden,FALSE
+2020-10-27,Austria,France,0,0,UEFA Euro qualification,Wiener Neustadt,Austria,FALSE
+2020-10-27,Romania,Switzerland,0,2,UEFA Euro qualification,Mogoșoaia,Romania,FALSE
+2020-10-27,Lithuania,Belgium,0,9,UEFA Euro qualification,Marijampolė,Lithuania,FALSE
+2020-10-27,Greece,Ukraine,0,4,UEFA Euro qualification,Athens,Greece,FALSE
+2020-10-27,Wales,Norway,0,1,UEFA Euro qualification,Cardiff,Wales,FALSE
+2020-10-27,Belarus,Northern Ireland,0,1,UEFA Euro qualification,Minsk,Belarus,FALSE
+2020-11-20,Azerbaijan,Poland,0,5,UEFA Euro qualification,Baku,Azerbaijan,FALSE
+2020-11-20,Cyprus,Albania,0,2,UEFA Euro qualification,Larnaca,Cyprus,FALSE
+2020-11-20,Montenegro,Republic of Ireland,0,3,UEFA Euro qualification,Petrovac,Montenegro,FALSE
+2020-11-26,Georgia,Malta,0,4,UEFA Euro qualification,Tbilisi,Georgia,FALSE
+2020-11-26,Slovakia,Iceland,1,3,UEFA Euro qualification,Senec,Slovakia,FALSE
 2020-11-27,Netherlands,United States,0,2,Friendly,Breda,Netherlands,FALSE
+2020-11-27,Estonia,Turkey,0,4,UEFA Euro qualification,Tallinn,Estonia,FALSE
+2020-11-27,Russia,Kosovo,3,0,UEFA Euro qualification,Manavgat,Turkey,TRUE
+2020-11-27,Spain,Moldova,10,0,UEFA Euro qualification,Las Rozas de Madrid,Spain,FALSE
+2020-11-27,Albania,Cyprus,4,0,UEFA Euro qualification,Shkodër,Albania,FALSE
+2020-11-27,Portugal,Scotland,1,0,UEFA Euro qualification,Lisbon,Portugal,FALSE
+2020-11-27,Kazakhstan,North Macedonia,0,3,UEFA Euro qualification,Almaty,Kazakhstan,FALSE
+2020-11-27,France,Austria,3,0,UEFA Euro qualification,Guingamp,France,FALSE
+2020-11-27,Croatia,Lithuania,1,0,UEFA Euro qualification,Pula,Croatia,FALSE
+2020-11-27,Germany,Greece,6,0,UEFA Euro qualification,Ingolstadt,Germany,FALSE
+2020-11-27,Northern Ireland,Belarus,3,2,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+2020-12-01,Turkey,Russia,1,2,UEFA Euro qualification,Manavgat,Turkey,FALSE
+2020-12-01,Slovenia,Estonia,2,0,UEFA Euro qualification,Koper,Slovenia,FALSE
+2020-12-01,Netherlands,Kosovo,6,0,UEFA Euro qualification,Breda,Netherlands,FALSE
+2020-12-01,Georgia,Bosnia and Herzegovina,0,3,UEFA Euro qualification,Tbilisi,Georgia,FALSE
+2020-12-01,Israel,Malta,0,2,UEFA Euro qualification,Ramat Gan,Israel,FALSE
+2020-12-01,Denmark,Italy,0,0,UEFA Euro qualification,Viborg,Denmark,FALSE
+2020-12-01,Czech Republic,Moldova,7,0,UEFA Euro qualification,Chomutov,Czech Republic,FALSE
+2020-12-01,Portugal,Albania,1,0,UEFA Euro qualification,Lisbon,Portugal,FALSE
+2020-12-01,Scotland,Finland,0,1,UEFA Euro qualification,Edinburgh,Scotland,FALSE
+2020-12-01,Hungary,Iceland,0,1,UEFA Euro qualification,Budapest,Hungary,FALSE
+2020-12-01,Slovakia,Sweden,0,6,UEFA Euro qualification,Trnava,Slovakia,FALSE
+2020-12-01,Austria,Serbia,1,0,UEFA Euro qualification,Altach,Austria,FALSE
+2020-12-01,France,Kazakhstan,12,0,UEFA Euro qualification,Vannes,France,FALSE
+2020-12-01,Belgium,Switzerland,4,0,UEFA Euro qualification,Leuven,Belgium,FALSE
+2020-12-01,Ukraine,Montenegro,2,1,UEFA Euro qualification,Kyiv,Ukraine,FALSE
+2020-12-01,Republic of Ireland,Germany,1,3,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2020-12-01,Northern Ireland,Faroe Islands,5,1,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+2020-12-01,Wales,Belarus,3,0,UEFA Euro qualification,Newport,Wales,FALSE
 2021-01-19,United States,Colombia,4,0,Friendly,Orlando,United States,FALSE
 2021-01-23,United States,Colombia,6,0,Friendly,Orlando,United States,FALSE
+2021-02-18,Azerbaijan,Spain,0,13,UEFA Euro qualification,Baku,Azerbaijan,FALSE
 2021-02-19,United States,Canada,1,0,SheBelieves Cup,Orlando,United States,FALSE
+2021-02-19,Cyprus,Scotland,0,10,UEFA Euro qualification,Larnaca,Cyprus,FALSE
+2021-02-19,Finland,Portugal,1,0,UEFA Euro qualification,Helsinki,Finland,FALSE
 2021-02-22,United States,Brazil,2,0,SheBelieves Cup,Orlando,United States,FALSE
+2021-02-23,Estonia,Slovenia,0,9,UEFA Euro qualification,Tallinn,Estonia,FALSE
+2021-02-23,Azerbaijan,Moldova,1,0,UEFA Euro qualification,Baku,Azerbaijan,FALSE
+2021-02-23,Spain,Poland,3,0,UEFA Euro qualification,Las Rozas de Madrid,Spain,FALSE
+2021-02-23,Scotland,Portugal,0,2,UEFA Euro qualification,Larnaca,Scotland,FALSE
+2021-02-23,Cyprus,Finland,0,5,UEFA Euro qualification,Larnaca,Cyprus,FALSE
+2021-02-23,Croatia,Romania,0,1,UEFA Euro qualification,Pula,Croatia,FALSE
+2021-02-24,Italy,Israel,12,0,UEFA Euro qualification,Florence,Italy,FALSE
 2021-02-25,United States,Argentina,6,0,SheBelieves Cup,Orlando,United States,FALSE
 2021-04-08,Argentina,Venezuela,0,0,Basque Country Women's Cup,Bilbao,Spain,TRUE
+2021-04-09,Ukraine,Northern Ireland,1,2,UEFA Euro qualification,Kovalivka,Ukraine,FALSE
+2021-04-09,Portugal,Russia,0,1,UEFA Euro qualification,Lisbon,Portugal,FALSE
+2021-04-09,Czech Republic,Switzerland,1,1,UEFA Euro qualification,Chomutov,Czech Republic,FALSE
 2021-04-10,Sweden,United States,1,1,Friendly,Solna,Sweden,FALSE
 2021-04-11,Argentina,Venezuela,1,0,Basque Country Women's Cup,San Sebastian,Spain,TRUE
 2021-04-11,Basque Country,Argentina,1,0,Basque Country Women's Cup,San Sebastian,Spain,TRUE
 2021-04-11,Basque Country,Venezuela,0,0,Basque Country Women's Cup,San Sebastian,Spain,TRUE
+2021-04-13,Northern Ireland,Ukraine,2,0,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+2021-04-13,Russia,Portugal,0,0,UEFA Euro qualification,Moscow,Russia,FALSE
+2021-04-13,Switzerland,Czech Republic,1,1,UEFA Euro qualification,Thun,Switzerland,FALSE
 2021-04-14,France,United States,0,2,Friendly,Le Havre,France,FALSE
+2021-09-17,Mongolia,South Korea,0,12,AFC Asian Cup qualification,Tashkent,Uzbekistan,TRUE
+2021-09-18,Nepal,Philippines,1,2,AFC Asian Cup qualification,Tashkent,Uzbekistan,TRUE
+2021-09-19,Bangladesh,Jordan,0,5,AFC Asian Cup qualification,Tashkent,Uzbekistan,TRUE
+2021-09-19,Malaysia,Thailand,0,4,AFC Asian Cup qualification,Al-Ram,Palestine,TRUE
+2021-09-20,Uzbekistan,Mongolia,12,0,AFC Asian Cup qualification,Tashkent,Uzbekistan,FALSE
+2021-09-21,Hong Kong,Nepal,0,0,AFC Asian Cup qualification,Tashkent,Uzbekistan,TRUE
+2021-09-22,Iran,Bangladesh,5,0,AFC Asian Cup qualification,Tashkent,Uzbekistan,TRUE
+2021-09-22,Palestine,Malaysia,0,2,AFC Asian Cup qualification,Al-Ram,Palestine,FALSE
+2021-09-23,Maldives,Vietnam,0,16,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
+2021-09-23,Uzbekistan,South Korea,0,4,AFC Asian Cup qualification,Tashkent,Uzbekistan,FALSE
+2021-09-24,Singapore,Indonesia,0,1,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
+2021-09-24,Philippines,Hong Kong,2,1,AFC Asian Cup qualification,Tashkent,Uzbekistan,TRUE
+2021-09-25,Jordan,Iran,0,0,AFC Asian Cup qualification,Tashkent,Uzbekistan,TRUE
+2021-09-25,Palestine,Thailand,0,7,AFC Asian Cup qualification,Al-Ram,Palestine,FALSE
+2021-09-26,Tajikistan,Maldives,4,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,FALSE
+2021-09-27,Indonesia,Singapore,1,0,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
+2021-09-29,Tajikistan,Vietnam,0,7,AFC Asian Cup qualification,Dushanbe,Tajikistan,FALSE
+2021-10-18,Laos,Chinese Taipei,0,4,AFC Asian Cup qualification,Isa Town,Bahrain,TRUE
+2021-10-18,Myanmar,Lebanon,4,0,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,TRUE
+2021-10-18,United Arab Emirates,Guam,2,1,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,TRUE
+2021-10-18,Sierra Leone,Gambia,0,2,African Cup of Nations qualification,Monrovia,Liberia,TRUE
+2021-10-20,Uganda,Ethiopia,2,0,African Cup of Nations qualification,Kampala,Uganda,FALSE
+2021-10-20,Kenya,South Sudan,8,0,African Cup of Nations qualification,Nairobi,Kenya,FALSE
+2021-10-20,Eritrea,Burundi,0,5,African Cup of Nations qualification,Asmara,Eritrea,FALSE
+2021-10-20,Malawi,Zambia,1,1,African Cup of Nations qualification,Lilongwe,Malawi,FALSE
+2021-10-20,Tanzania,Namibia,1,2,African Cup of Nations qualification,Dar Es Salaam,Tanzania,FALSE
+2021-10-20,Zimbabwe,Eswatini,3,1,African Cup of Nations qualification,Harare,Zimbabwe,FALSE
+2021-10-20,Angola,Botswana,1,5,African Cup of Nations qualification,Luanda,Angola,FALSE
+2021-10-20,Mozambique,South Africa,0,7,African Cup of Nations qualification,Maputo,Mozambique,FALSE
+2021-10-20,Algeria,Sudan,14,0,African Cup of Nations qualification,Algiers,Algeria,FALSE
+2021-10-20,Egypt,Tunisia,2,6,African Cup of Nations qualification,Cairo,Egypt,FALSE
+2021-10-20,Congo,Gabon,2,1,African Cup of Nations qualification,Brazzaville,Congo,FALSE
+2021-10-20,Cameroon,Central African Republic,1,0,African Cup of Nations qualification,Douala,Cameroon,FALSE
+2021-10-20,Liberia,Senegal,1,2,African Cup of Nations qualification,Paynesville,Liberia,FALSE
+2021-10-20,Mali,Guinea,2,2,African Cup of Nations qualification,Bamako,Mali,FALSE
+2021-10-20,Guinea-Bissau,Mauritania,1,0,African Cup of Nations qualification,Bissau,Guinea-Bissau,FALSE
+2021-10-20,Burkina Faso,Benin,2,1,African Cup of Nations qualification,Abidjan,Ivory Coast,TRUE
+2021-10-20,Nigeria,Ghana,2,0,African Cup of Nations qualification,Lagos,Nigeria,FALSE
+2021-10-20,Niger,Ivory Coast,0,9,African Cup of Nations qualification,Niamey,Niger,FALSE
+2021-10-21,Bahrain,Laos,0,0,AFC Asian Cup qualification,Isa Town,Bahrain,FALSE
+2021-10-21,Lebanon,United Arab Emirates,1,0,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,TRUE
+2021-10-21,Guam,Myanmar,0,8,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,TRUE
+2021-10-22,São Tomé and Príncipe,Togo,0,5,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,FALSE
+2021-10-23,Kenya,South Sudan,7,1,African Cup of Nations qualification,Nairobi,Kenya,FALSE
+2021-10-23,Namibia,Tanzania,3,2,African Cup of Nations qualification,Johannesburg,South Africa,TRUE
+2021-10-24,Bahrain,Chinese Taipei,0,2,AFC Asian Cup qualification,Isa Town,Bahrain,FALSE
+2021-10-24,Myanmar,United Arab Emirates,2,0,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,TRUE
+2021-10-24,Guam,Lebanon,0,3,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,TRUE
+2021-10-24,Cameroon,Central African Republic,2,0,African Cup of Nations qualification,Yaoundé,Cameroon,FALSE
+2021-10-24,Benin,Burkina Faso,1,3,African Cup of Nations qualification,Cotonou,Benin,FALSE
+2021-10-24,Ghana,Nigeria,1,0,African Cup of Nations qualification,Accra,Ghana,FALSE
+2021-10-25,Gambia,Sierra Leone,1,1,African Cup of Nations qualification,Bakau,Gambia,FALSE
+2021-10-25,Guinea,Mali,0,2,African Cup of Nations qualification,Conakry,Guinea,FALSE
+2021-10-25,Ivory Coast,Niger,11,0,African Cup of Nations qualification,Abidjan,Ivory Coast,FALSE
+2021-10-26,Ethiopia,Uganda,2,0,African Cup of Nations qualification,Bahir Dar,Ethiopia,FALSE
+2021-10-26,Burundi,Eritrea,1,0,African Cup of Nations qualification,Ngozi,Burundi,FALSE
+2021-10-26,Zambia,Malawi,3,2,African Cup of Nations qualification,Lusaka,Zambia,FALSE
+2021-10-26,Eswatini,Zimbabwe,0,3,African Cup of Nations qualification,Manzini,Eswatini,FALSE
+2021-10-26,Botswana,Angola,2,0,African Cup of Nations qualification,Francistown,Botswana,FALSE
+2021-10-26,South Africa,Mozambique,6,0,African Cup of Nations qualification,Johannesburg,South Africa,FALSE
+2021-10-26,Tunisia,Egypt,1,0,African Cup of Nations qualification,Tunis,Tunisia,FALSE
+2021-10-26,Gabon,Congo,1,0,African Cup of Nations qualification,Libreville,Gabon,FALSE
+2021-10-26,Senegal,Liberia,6,0,African Cup of Nations qualification,Thiès,Senegal,FALSE
+2021-10-26,Mauritania,Guinea-Bissau,0,1,African Cup of Nations qualification,Nouakchott,Mauritania,FALSE
+2022-01-20,China PR,Chinese Taipei,4,0,AFC Asian Cup,Mumbai,India,TRUE
+2022-01-21,Australia,Indonesia,18,0,AFC Asian Cup,Mumbai,India,TRUE
+2022-01-21,Thailand,Philippines,0,1,AFC Asian Cup,Navi Mumbai,India,TRUE
+2022-01-21,Japan,Myanmar,5,0,AFC Asian Cup,Pune,India,TRUE
+2022-01-21,South Korea,Vietnam,3,0,AFC Asian Cup,Pune,India,TRUE
+2022-01-23,Iran,China PR,0,7,AFC Asian Cup,Mumbai,India,TRUE
+2022-01-24,Philippines,Australia,0,4,AFC Asian Cup,Mumbai,India,TRUE
+2022-01-24,Indonesia,Thailand,0,4,AFC Asian Cup,Navi Mumbai,India,TRUE
+2022-01-24,Myanmar,South Korea,0,2,AFC Asian Cup,Pune,India,TRUE
+2022-01-24,Vietnam,Japan,0,3,AFC Asian Cup,Pune,India,TRUE
+2022-01-26,Chinese Taipei,Iran,5,0,AFC Asian Cup,Navi Mumbai,India,TRUE
+2022-01-27,Australia,Thailand,2,1,AFC Asian Cup,Mumbai,India,TRUE
+2022-01-27,Philippines,Indonesia,6,0,AFC Asian Cup,Pune,India,TRUE
+2022-01-27,Japan,South Korea,1,1,AFC Asian Cup,Pune,India,TRUE
+2022-01-27,Vietnam,Myanmar,2,2,AFC Asian Cup,Navi Mumbai,India,TRUE
+2022-01-30,Australia,South Korea,0,1,AFC Asian Cup,Pune,India,TRUE
+2022-01-30,Japan,Thailand,7,0,AFC Asian Cup,Navi Mumbai,India,TRUE
+2022-01-30,China PR,Vietnam,3,1,AFC Asian Cup,Navi Mumbai,India,TRUE
+2022-01-30,Chinese Taipei,Philippines,1,1,AFC Asian Cup,Pune,India,TRUE
+2022-02-02,Thailand,Vietnam,0,2,AFC Asian Cup,Navi Mumbai,India,TRUE
+2022-02-03,South Korea,Philippines,2,0,AFC Asian Cup,Pune,India,TRUE
+2022-02-03,China PR,Japan,2,2,AFC Asian Cup,Pune,India,TRUE
+2022-02-04,Chinese Taipei,Thailand,3,0,AFC Asian Cup,Navi Mumbai,India,TRUE
+2022-02-06,China PR,South Korea,3,2,AFC Asian Cup,Navi Mumbai,India,TRUE
+2022-02-06,Vietnam,Chinese Taipei,2,1,AFC Asian Cup,Navi Mumbai,India,TRUE
 2022-02-16,Brazil,Netherlands,1,1,Tournoi de France,Caen,France,TRUE
 2022-02-16,France,Finland,5,0,Tournoi de France,Le Havre,France,FALSE
 2022-02-16,Denmark,Italy,0,1,Algarve Cup,Lagos,Portugal,TRUE
 2022-02-16,Portugal,Norway,2,0,Algarve Cup,Lagos,Portugal,FALSE
+2022-02-16,Burundi,Djibouti,6,1,African Cup of Nations qualification,Ngozi,Burundi,FALSE
+2022-02-16,Zambia,Namibia,0,0,African Cup of Nations qualification,Lusaka,Zambia,FALSE
+2022-02-16,Senegal,Mali,1,0,African Cup of Nations qualification,Thiès,Senegal,FALSE
+2022-02-16,Guinea-Bissau,Burkina Faso,0,6,African Cup of Nations qualification,Bissau,Guinea-Bissau,FALSE
 2022-02-17,United States,Czech Republic,0,0,SheBelieves Cup,Carson,United States,FALSE
 2022-02-17,Iceland,New Zealand,1,0,SheBelieves Cup,Carson,United States,TRUE
+2022-02-17,Togo,Gabon,2,1,African Cup of Nations qualification,Lomé,Togo,FALSE
+2022-02-18,Zimbabwe,Botswana,1,3,African Cup of Nations qualification,Harare,Zimbabwe,FALSE
+2022-02-18,South Africa,Algeria,2,0,African Cup of Nations qualification,Johannesburg,South Africa,FALSE
+2022-02-18,Tunisia,Equatorial Guinea,5,0,African Cup of Nations qualification,Soliman,Tunisia,FALSE
+2022-02-18,Cameroon,Gambia,8,0,African Cup of Nations qualification,Yaoundé,Cameroon,FALSE
+2022-02-18,Nigeria,Ivory Coast,2,0,African Cup of Nations qualification,Abuja,Nigeria,FALSE
 2022-02-19,France,Brazil,2,1,Tournoi de France,Caen,France,FALSE
 2022-02-19,Finland,Netherlands,0,3,Tournoi de France,Le Havre,France,TRUE
 2022-02-20,United States,New Zealand,5,0,SheBelieves Cup,Carson,United States,FALSE
 2022-02-20,Czech Republic,Iceland,1,2,SheBelieves Cup,Carson,United States,TRUE
 2022-02-20,Italy,Norway,2,1,Algarve Cup,Algarve,Portugal,TRUE
 2022-02-20,Portugal,Sweden,0,4,Algarve Cup,Algarve,Portugal,FALSE
+2022-02-21,Burundi,Djibouti,5,0,African Cup of Nations qualification,Ngozi,Burundi,FALSE
 2022-02-22,Brazil,Finland,0,0,Tournoi de France,Caen,France,TRUE
 2022-02-22,France,Netherlands,3,1,Tournoi de France,Le Havre,France,FALSE
+2022-02-22,Namibia,Zambia,1,1,African Cup of Nations qualification,Johannesburg,South Africa,TRUE
+2022-02-22,Mali,Senegal,1,0,African Cup of Nations qualification,Bamako,Mali,FALSE
 2022-02-23,New Zealand,Czech Republic,0,0,SheBelieves Cup,Frisco,United States,TRUE
 2022-02-23,United States,Iceland,5,0,SheBelieves Cup,Frisco,United States,FALSE
 2022-02-23,Sweden,Italy,1,1,Algarve Cup,Lagos,Portugal,TRUE
 2022-02-23,Portugal,Norway,0,2,Algarve Cup,Algarve,Portugal,FALSE
+2022-02-23,Botswana,Zimbabwe,0,2,African Cup of Nations qualification,Francistown,Botswana,FALSE
+2022-02-23,Algeria,South Africa,1,1,African Cup of Nations qualification,Algiers,Algeria,FALSE
+2022-02-23,Equatorial Guinea,Tunisia,3,2,African Cup of Nations qualification,Malabo,Equatorial Guinea,FALSE
+2022-02-23,Gabon,Togo,1,2,African Cup of Nations qualification,Libreville,Gabon,FALSE
+2022-02-23,Gambia,Cameroon,1,2,African Cup of Nations qualification,Bakau,Gambia,FALSE
+2022-02-23,Burkina Faso,Guinea-Bissau,1,0,African Cup of Nations qualification,Porto-Novo,Benin,TRUE
+2022-02-23,Ivory Coast,Nigeria,0,1,African Cup of Nations qualification,Abidjan,Ivory Coast,FALSE
