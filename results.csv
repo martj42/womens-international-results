@@ -4852,3 +4852,34 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-02-23,Gambia,Cameroon,1,2,African Cup of Nations qualification,Bakau,Gambia,FALSE
 2022-02-23,Burkina Faso,Guinea-Bissau,1,0,African Cup of Nations qualification,Porto-Novo,Benin,TRUE
 2022-02-23,Ivory Coast,Nigeria,0,1,African Cup of Nations qualification,Abidjan,Ivory Coast,FALSE
+2022-07-06,England,Austria,1,0,UEFA Euro,Manchester,England,FALSE
+2022-07-07,Norway,Northern Ireland,4,1,UEFA Euro,Southampton,Norway,TRUE
+2022-07-11,Austria,Northern Ireland,2,0,UEFA Euro,Southampton,Austria,TRUE
+2022-07-11,England,Norway,8,0,UEFA Euro,Brighton and Hove,England,FALSE
+2022-07-15,England,Northern Ireland,5,0,UEFA Euro,Southampton,England,FALSE
+2022-07-15,Austria,Norway,1,0,UEFA Euro,Brighton and Hove,Austria,TRUE
+2022-07-08,Spain,Finland,4,1,UEFA Euro,Milton Keynes,Spain,TRUE
+2022-07-08,Germany,Denmark,4,0,UEFA Euro,London,Germany,TRUE
+2022-07-12,Denmark,Finland,1,0,UEFA Euro,Milton Keynes,Denmark,TRUE
+2022-07-12,Germany,Spain,2,0,UEFA Euro,London,Germany,TRUE
+2022-07-16,Finland,Germany,0,3,UEFA Euro,Milton Keynes,Finland,TRUE
+2022-07-16,Denmark,Spain,0,1,UEFA Euro,London,Denmark,TRUE
+2022-07-09,Portugal,Switzerland,2,2,UEFA Euro,Leigh,Portugal,TRUE
+2022-07-09,Netherlands,Sweden,1,1,UEFA Euro,Sheffield,Netherlands,TRUE
+2022-07-13,Sweden,Switzerland,2,1,UEFA Euro,Sheffield,Sweden,TRUE
+2022-07-13,Netherlands,Portugal,3,2,UEFA Euro,Leigh,Netherlands,TRUE
+2022-07-17,Switzerland,Netherlands,1,4,UEFA Euro,Sheffield,Switzerland,TRUE
+2022-07-17,Sweden,Portugal,5,0,UEFA Euro,Leigh,Sweden,TRUE
+2022-07-10,Belgium,Iceland,1,1,UEFA Euro,Manchester,Belgium,TRUE
+2022-07-10,France,Italy,5,1,UEFA Euro,Rotherham,France,TRUE
+2022-07-14,Italy,Iceland,1,1,UEFA Euro,Manchester,Italy,TRUE
+2022-07-14,France,Belgium,2,1,UEFA Euro,Rotherham,France,TRUE
+2022-07-18,Iceland,France,1,1,UEFA Euro,Rotherham,Iceland,TRUE
+2022-07-18,Italy,Belgium,0,1,UEFA Euro,Manchester,Italy,TRUE
+2022-07-20,England,Spain,2,1,UEFA Euro,Brighton and Hove,England,FALSE
+2022-07-21,Germany,Austria,2,0,UEFA Euro,London,Germany,TRUE
+2022-07-22,Sweden,Belgium,1,0,UEFA Euro,Leigh,Sweden,TRUE
+2022-07-23,France,Netherlands,1,0,UEFA Euro,Rotherham,France,TRUE
+2022-07-26,England,Sweden,4,0,UEFA Euro,Sheffield,England,FALSE
+2022-07-27,Germany,France,2,1,UEFA Euro,Milton Keynes,Germany,TRUE
+2022-07-31,England,Germany,2,1,UEFA Euro,London,England,FALSE
