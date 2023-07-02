@@ -1133,8 +1133,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-11-11,Taiwan,Vietnam,4,1,AFC Championship,Philippines,Philippines,TRUE
 1999-11-11,Kazakhstan,China PR,0,9,AFC Championship,Bacolod,Philippines,TRUE
 1999-11-11,Hong Kong,Guam,0,2,AFC Championship,Philippines,Philippines,TRUE
-1999-11-19,North Korea,China PR,0,3,AFC Championship,Bacolod,Philippines,TRUE
-1999-11-19,Japan,Taiwan,0,2,AFC Championship,Bacolod,Philippines,TRUE
 1999-11-12,Japan,Nepal,14,0,AFC Championship,Barotac Nuevo,Philippines,TRUE
 1999-11-12,Philippines,Uzbekistan,0,1,AFC Championship,Iloilo City,Philippines,FALSE
 1999-11-13,Taiwan,North Korea,1,1,AFC Championship,Philippines,Philippines,TRUE
@@ -1151,6 +1149,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1999-11-16,Israel,Slovakia,0,5,UEFA Euro qualification,Israel,Israel,FALSE
 1999-11-16,Uzbekistan,Nepal,6,1,AFC Championship,Barotac Nuevo,Philippines,TRUE
 1999-11-16,Philippines,Thailand,0,1,AFC Championship,Iloilo City,Philippines,FALSE
+1999-11-19,North Korea,China PR,0,3,AFC Championship,Bacolod,Philippines,TRUE
+1999-11-19,Japan,Taiwan,0,2,AFC Championship,Bacolod,Philippines,TRUE
 1999-11-21,North Korea,Japan,3,2,AFC Championship,Bacolod,Philippines,TRUE
 1999-11-21,China PR,Taiwan,3,0,AFC Championship,Bacolod,Philippines,TRUE
 1999-11-27,France,Spain,1,0,UEFA Euro qualification,Martigues,France,FALSE
@@ -1205,7 +1205,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-05-17,Estonia,Belarus,0,7,UEFA Euro qualification,Valga,Estonia,FALSE
 2000-05-18,Romania,Slovakia,4,1,UEFA Euro qualification,Romania,Romania,FALSE
 2000-05-20,Russia,Finland,3,0,UEFA Euro qualification,Selyatino,Russia,FALSE
-2000-11-05,Finland,Sweden,2,5,UEFA Euro qualification,Vantaa,Finland,FALSE
 2000-05-21,Spain,France,1,2,UEFA Euro qualification,Vilagarcía de Arousa,Spain,FALSE
 2000-05-24,FR Yugoslavia,Denmark,0,8,UEFA Euro qualification,Novi Sad,FR Yugoslavia,FALSE
 2000-05-27,Poland,Wales,2,2,UEFA Euro qualification,Poland,Poland,FALSE
@@ -1281,6 +1280,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2000-10-18,Italy,Portugal,3,0,UEFA Euro qualification,Palermo,Italy,FALSE
 2000-10-22,Spain,Denmark,1,6,UEFA Euro qualification,Burgos,Spain,FALSE
 2000-10-30,Ukraine,England,1,2,UEFA Euro qualification,Borispol,Ukraine,FALSE
+2000-11-05,Finland,Sweden,2,5,UEFA Euro qualification,Vantaa,Finland,FALSE
 2000-11-11,South Africa,Réunion,3,0,African Championship,South Africa,South Africa,FALSE
 2000-11-11,Zimbabwe,Uganda,2,2,African Championship,South Africa,South Africa,TRUE
 2000-11-12,Nigeria,Ghana,2,2,African Championship,South Africa,South Africa,TRUE
@@ -1417,6 +1417,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2002-08-06,Panama,Honduras,2,6,CONCACAF Gold Cup qualification,El Salvador,El Salvador,TRUE
 2002-08-08,Suriname,U.S. Virgin Islands,6,1,CONCACAF Gold Cup qualification,Suriname,Suriname,FALSE
 2002-08-10,Suriname,U.S. Virgin Islands,2,0,CONCACAF Gold Cup qualification,Suriname,Suriname,FALSE
+2002-08-10,Eritrea,Tanzania,2,3,African Championship qualification,Asmara,Eritrea,FALSE
+2002-08-10,São Tomé and Príncipe,Gabon,0,2,African Championship qualification,São Tomé,São Tomé and Príncipe,FALSE
+2002-08-10,Ivory Coast,Mali,3,3,African Championship qualification,Abidjan,Ivory Coast,FALSE
+2002-08-11,Angola,Equatorial Guinea,3,0,African Championship qualification,Luanda,Angola,FALSE
 2002-08-13,Suriname,Trinidad and Tobago,1,3,CONCACAF Gold Cup qualification,Suriname,Suriname,FALSE
 2002-08-15,Suriname,Trinidad and Tobago,1,2,CONCACAF Gold Cup qualification,Suriname,Suriname,FALSE
 2002-08-18,Haiti,Jamaica,0,0,CONCACAF Gold Cup qualification,Haiti,Haiti,FALSE
@@ -1433,6 +1437,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2002-09-22,Angola,DR Congo,1,0,African Championship qualification,Lubango,Angola,FALSE
 2002-09-22,Senegal,Ghana,0,3,African Championship qualification,Dakar,Senegal,FALSE
 2002-09-22,Mali,Morocco,0,0,African Championship qualification,Bamako,Mali,FALSE
+2002-10-11,DR Congo,Angola,1,0,African Championship qualification,Kinshasa,DR Congo,FALSE
+2002-10-11,Morocco,Mali,0,0,African Championship qualification,Rabat,Morocco,FALSE
+2002-10-12,South Africa,Zambia,4,0,African Championship qualification,Bloemfontein,South Africa,FALSE
+2002-10-12,Cameroon,Gabon,4,0,African Championship qualification,Douala,Cameroon,FALSE
+2002-10-12,Ghana,Senegal,3,1,African Championship qualification,Kumasi,Ghana,FALSE
 2002-10-13,Uganda,Ethiopia,2,2,African Championship qualification,Kampala,Uganda,FALSE
 2002-10-13,Zimbabwe,Tanzania,5,0,African Championship qualification,Harare,Zimbabwe,FALSE
 2002-10-27,Trinidad and Tobago,Panama,2,4,CONCACAF Gold Cup,Pasadena,United States,TRUE
@@ -1457,19 +1466,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2002-12-08,Angola,Zimbabwe,1,1,African Championship,Oghara,Nigeria,TRUE
 2002-12-10,Ethiopia,Mali,2,2,African Championship,Warri,Nigeria,TRUE
 2002-12-10,Nigeria,Ghana,0,1,African Championship,Warri,Nigeria,FALSE
-2002-08-10,Eritrea,Tanzania,2,3,African Championship qualification,Asmara,Eritrea,FALSE
-2002-08-10,São Tomé and Príncipe,Gabon,0,2,African Championship qualification,São Tomé,São Tomé and Príncipe,FALSE
-2002-08-10,Ivory Coast,Mali,3,3,African Championship qualification,Abidjan,Ivory Coast,FALSE
 2002-12-11,Cameroon,Zimbabwe,0,0,African Championship,Oghara,Nigeria,TRUE
 2002-12-11,South Africa,Angola,1,1,African Championship,Oghara,Nigeria,TRUE
-2002-08-11,Angola,Equatorial Guinea,3,0,African Championship qualification,Luanda,Angola,FALSE
-2002-10-11,DR Congo,Angola,1,0,African Championship qualification,Kinshasa,DR Congo,FALSE
-2002-10-11,Morocco,Mali,0,0,African Championship qualification,Rabat,Morocco,FALSE
 2002-12-12,Cameroon,South Africa,3,0,African Championship,Warri,Nigeria,TRUE
 2002-12-12,Nigeria,Ghana,2,0,African Championship,Warri,Nigeria,FALSE
-2002-10-12,South Africa,Zambia,4,0,African Championship qualification,Bloemfontein,South Africa,FALSE
-2002-10-12,Cameroon,Gabon,4,0,African Championship qualification,Douala,Cameroon,FALSE
-2002-10-12,Ghana,Senegal,3,1,African Championship qualification,Kumasi,Ghana,FALSE
 2002-12-13,Nigeria,Mali,5,1,African Championship,Warri,Nigeria,FALSE
 2002-12-13,Ghana,Ethiopia,3,0,African Championship,Oghara,Nigeria,TRUE
 2002-12-14,Cameroon,Angola,1,0,African Championship,Oghara,Nigeria,TRUE
@@ -3421,7 +3421,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-04-09,Luxembourg,Moldova,0,3,UEFA Euro qualification,Vadul lui Vodă,Luxembourg,FALSE
 2015-04-09,Latvia,Lithuania,1,1,UEFA Euro qualification,Orhei,Latvia,FALSE
 2015-04-09,Malta,Faroe Islands,2,4,UEFA Euro qualification,Ħamrun,Malta,FALSE
-2015-04-09,Andorra,Georgia,0,7,UEFA Euro qualification,Ta' Qali,Andorra,FALSE
+2015-04-09,Andorra,Georgia,0,7,UEFA Euro qualification,Ta' Qali,Malta,TRUE
 2015-05-10,United States,Republic of Ireland,3,0,Friendly,San Jose,United States,FALSE
 2015-05-18,United States,Mexico,5,1,Friendly,Carson,United States,FALSE
 2015-05-31,United States,South Korea,0,0,Friendly,Harrison,United States,FALSE
@@ -4079,7 +4079,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-04-04,Congo,Central African Republic,2,0,African Championship qualification,Brazzaville,Congo,FALSE
 2018-04-04,Kenya,Uganda,1,0,African Championship qualification,Machakos,Kenya,FALSE
 2018-04-04,Tanzania,Zambia,3,3,African Championship qualification,Dar es Salaam,Tanzania,FALSE
-2018-04-08,Central African Republic,Congo,1,1,African Championship qualification,Bangui,Central African Republic,FALSE
 2018-04-05,Ecuador,Venezuela,0,1,Copa América,Coquimbo,Chile,TRUE
 2018-04-05,Brazil,Argentina,3,1,Copa América,Coquimbo,Chile,TRUE
 2018-04-05,Bosnia and Herzegovina,Russia,1,6,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,FALSE
@@ -4101,22 +4100,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-04-06,Finland,Spain,0,2,FIFA World Cup qualification,Helsinki,Finland,FALSE
 2018-04-06,Morocco,Ivory Coast,1,1,African Championship qualification,Rabat,Morocco,FALSE
 2018-04-06,Lesotho,Eswatini,1,0,African Championship qualification,Maseru,Lesotho,FALSE
-2018-06-06,Algeria,Ethiopia,3,1,African Championship qualification,Algiers,Algeria,FALSE
-2018-06-06,Ivory Coast,Mali,2,2,African Championship qualification,Abidjan,Ivory Coast,FALSE
-2018-06-06,Gambia,Nigeria,0,1,African Championship qualification,Bakau,Gambia,FALSE
-2018-06-06,Congo,Cameroon,0,5,African Championship qualification,Brazzaville,Congo,FALSE
-2018-06-06,Kenya,Equatorial Guinea,2,1,African Championship qualification,Machakos,Kenya,FALSE
-2018-06-06,Lesotho,South Africa,0,1,African Championship qualification,Maseru,Lesotho,FALSE
-2018-06-06,Zambia,Zimbabwe,0,1,African Championship qualification,Lusaka,Zambia,FALSE
 2018-04-06,China PR,Thailand,4,0,AFC Asian Cup,Amman,Jordan,TRUE
 2018-04-06,Jordan,Philippines,1,2,AFC Asian Cup,Amman,Jordan,FALSE
 2018-04-07,Argentina,Bolivia,3,0,Copa América,Coquimbo,Chile,TRUE
 2018-04-07,Brazil,Ecuador,8,0,Copa América,Coquimbo,Chile,TRUE
 2018-04-07,Germany,Czech Republic,4,0,FIFA World Cup qualification,Halle,Germany,FALSE
-2018-05-07,Burkina Faso,Gambia,2,1,African Championship qualification,Ouagadougou,Burkina Faso,FALSE
-2018-05-07,Dominican Republic,Puerto Rico,0,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
 2018-04-07,Japan,Vietnam,4,0,AFC Asian Cup,Amman,Jordan,TRUE
 2018-04-07,Australia,South Korea,0,0,AFC Asian Cup,Amman,Jordan,TRUE
+2018-04-08,Central African Republic,Congo,1,1,African Championship qualification,Bangui,Central African Republic,FALSE
 2018-04-08,United States,Mexico,6,2,Friendly,Houston,United States,FALSE
 2018-04-08,Uruguay,Peru,1,1,Copa América,La Serena,Chile,TRUE
 2018-04-08,Colombia,Paraguay,5,1,Copa América,La Serena,Chile,TRUE
@@ -4128,7 +4119,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-04-09,Kazakhstan,Russia,0,3,FIFA World Cup qualification,Astana,Kazakhstan,FALSE
 2018-04-09,Croatia,Hungary,1,3,FIFA World Cup qualification,Zadar,Croatia,FALSE
 2018-04-09,Denmark,Ukraine,1,0,FIFA World Cup qualification,Viborg,Denmark,FALSE
-2018-06-09,Cameroon,Congo,5,0,African Championship qualification,Yaoundé,Cameroon,FALSE
 2018-04-09,Equatorial Guinea,Kenya,2,0,African Championship qualification,Malabo,Equatorial Guinea,FALSE
 2018-04-09,Philippines,China PR,0,3,AFC Asian Cup,Amman,Jordan,TRUE
 2018-04-09,Jordan,Thailand,1,6,AFC Asian Cup,Amman,Jordan,FALSE
@@ -4150,10 +4140,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-04-10,Ivory Coast,Morocco,0,0,African Championship qualification,Abidjan,Ivory Coast,FALSE
 2018-04-10,Gambia,Burkina Faso,2,1,African Championship qualification,Bakau,Gambia,FALSE
 2018-04-10,Eswatini,Lesotho,1,2,African Championship qualification,Lobamba,Eswatini,FALSE
-2018-06-10,Ethiopia,Algeria,2,3,African Championship qualification,Addis Ababa,Ethiopia,FALSE
-2018-06-10,Mali,Ivory Coast,0,0,African Championship qualification,Bamako,Mali,FALSE
-2018-06-10,South Africa,Lesotho,6,0,African Championship qualification,Bloemfontein,South Africa,FALSE
-2018-06-10,Zimbabwe,Zambia,1,2,African Championship qualification,Harare,Zimbabwe,FALSE
 2018-04-10,South Korea,Japan,0,0,AFC Asian Cup,Amman,Jordan,TRUE
 2018-04-10,Vietnam,Australia,0,8,AFC Asian Cup,Amman,Jordan,TRUE
 2018-04-11,Ecuador,Bolivia,0,1,Copa América,Coquimbo,Chile,TRUE
@@ -4177,11 +4163,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-04-20,Japan,Australia,1,0,AFC Asian Cup,Amman,Jordan,TRUE
 2018-04-22,Chile,Argentina,4,0,Copa América,La Serena,Chile,FALSE
 2018-04-22,Brazil,Colombia,3,0,Copa América,La Serena,Chile,TRUE
+2018-05-07,Burkina Faso,Gambia,2,1,African Championship qualification,Ouagadougou,Burkina Faso,FALSE
+2018-05-07,Dominican Republic,Puerto Rico,0,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
 2018-05-07,Cuba,Aruba,11,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
 2018-05-09,Anguilla,Aruba,1,2,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
 2018-05-09,Cuba,Puerto Rico,2,2,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
 2018-05-09,Jamaica,Guadeloupe,13,0,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,TRUE
 2018-05-09,Haiti,Martinique,2,0,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,FALSE
+2018-05-10,Puerto Rico,Anguilla,10,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
+2018-05-10,Dominican Republic,Cuba,1,5,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
 2018-05-11,Aruba,Puerto Rico,0,5,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
 2018-05-11,Dominican Republic,Anguilla,3,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
 2018-05-11,Martinique,Jamaica,0,3,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,TRUE
@@ -4212,7 +4202,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-05-27,Antigua and Barbuda,Saint Lucia,1,0,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,FALSE
 2018-05-27,Suriname,Bermuda,0,1,CONCACAF Gold Cup qualification,Leonora,Guyana,TRUE
 2018-05-27,Guyana,Barbados,0,0,CONCACAF Gold Cup qualification,Leonora,Guyana,FALSE
-2018-06-11,Nigeria,Gambia,6,0,African Championship qualification,Lagos,Nigeria,FALSE
+2018-06-06,Algeria,Ethiopia,3,1,African Championship qualification,Algiers,Algeria,FALSE
+2018-06-06,Ivory Coast,Mali,2,2,African Championship qualification,Abidjan,Ivory Coast,FALSE
+2018-06-06,Gambia,Nigeria,0,1,African Championship qualification,Bakau,Gambia,FALSE
+2018-06-06,Congo,Cameroon,0,5,African Championship qualification,Brazzaville,Congo,FALSE
+2018-06-06,Kenya,Equatorial Guinea,2,1,African Championship qualification,Machakos,Kenya,FALSE
+2018-06-06,Lesotho,South Africa,0,1,African Championship qualification,Maseru,Lesotho,FALSE
+2018-06-06,Zambia,Zimbabwe,0,1,African Championship qualification,Lusaka,Zambia,FALSE
 2018-06-07,Wales,Bosnia and Herzegovina,1,0,FIFA World Cup qualification,Swansea,Wales,FALSE
 2018-06-07,Scotland,Belarus,2,1,FIFA World Cup qualification,Falkirk,Scotland,FALSE
 2018-06-07,Sweden,Croatia,4,0,FIFA World Cup qualification,Gothenburg,Sweden,FALSE
@@ -4225,7 +4221,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-08,Ukraine,Denmark,1,5,FIFA World Cup qualification,Lviv,Ukraine,FALSE
 2018-06-08,Italy,Portugal,3,0,FIFA World Cup qualification,Florence,Italy,FALSE
 2018-06-08,Finland,Austria,0,2,FIFA World Cup qualification,Helsinki,Finland,FALSE
+2018-06-09,Cameroon,Congo,5,0,African Championship qualification,Yaoundé,Cameroon,FALSE
+2018-06-10,Ethiopia,Algeria,2,3,African Championship qualification,Addis Ababa,Ethiopia,FALSE
+2018-06-10,Mali,Ivory Coast,0,0,African Championship qualification,Bamako,Mali,FALSE
+2018-06-10,South Africa,Lesotho,6,0,African Championship qualification,Bloemfontein,South Africa,FALSE
+2018-06-10,Zimbabwe,Zambia,1,2,African Championship qualification,Harare,Zimbabwe,FALSE
 2018-06-10,Moldova,Belgium,0,7,FIFA World Cup qualification,Chișinău,Moldova,FALSE
+2018-06-11,Nigeria,Gambia,6,0,African Championship qualification,Lagos,Nigeria,FALSE
 2018-06-11,Iceland,Slovenia,2,0,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
 2018-06-12,Bosnia and Herzegovina,Kazakhstan,0,2,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,FALSE
 2018-06-12,Wales,Russia,3,0,FIFA World Cup qualification,Newport,Wales,FALSE
@@ -4299,8 +4301,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-09-05,United States,Chile,4,0,Friendly,San Jose,United States,FALSE
 2018-10-04,Trinidad and Tobago,Panama,0,3,CONCACAF Gold Cup,Cary,United States,TRUE
 2018-10-04,United States,Mexico,6,0,CONCACAF Gold Cup,Cary,United States,FALSE
-2018-05-10,Puerto Rico,Anguilla,10,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
-2018-05-10,Dominican Republic,Cuba,1,5,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
 2018-10-05,Costa Rica,Cuba,8,0,CONCACAF Gold Cup,Edinburg,United States,TRUE
 2018-10-05,Canada,Jamaica,2,0,CONCACAF Gold Cup,Edinburg,United States,TRUE
 2018-10-05,Netherlands,Denmark,2,0,FIFA World Cup qualification,Breda,Netherlands,FALSE
@@ -4708,7 +4708,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-02-23,Estonia,Slovenia,0,9,UEFA Euro qualification,Tallinn,Estonia,FALSE
 2021-02-23,Azerbaijan,Moldova,1,0,UEFA Euro qualification,Baku,Azerbaijan,FALSE
 2021-02-23,Spain,Poland,3,0,UEFA Euro qualification,Las Rozas de Madrid,Spain,FALSE
-2021-02-23,Scotland,Portugal,0,2,UEFA Euro qualification,Larnaca,Scotland,FALSE
+2021-02-23,Scotland,Portugal,0,2,UEFA Euro qualification,Larnaca,Cyprus,TRUE
 2021-02-23,Cyprus,Finland,0,5,UEFA Euro qualification,Larnaca,Cyprus,FALSE
 2021-02-23,Croatia,Romania,0,1,UEFA Euro qualification,Pula,Croatia,FALSE
 2021-02-24,Italy,Israel,12,0,UEFA Euro qualification,Florence,Italy,FALSE
@@ -4725,12 +4725,55 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-04-13,Russia,Portugal,0,0,UEFA Euro qualification,Moscow,Russia,FALSE
 2021-04-13,Switzerland,Czech Republic,1,1,UEFA Euro qualification,Thun,Switzerland,FALSE
 2021-04-14,France,United States,0,2,Friendly,Le Havre,France,FALSE
+2021-09-16,Faroe Islands,Spain,0,10,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
+2021-09-16,Norway,Armenia,10,0,FIFA World Cup qualification,Oslo,Norway,FALSE
+2021-09-16,Albania,Kosovo,1,1,FIFA World Cup qualification,Elbasan,Albania,FALSE
+2021-09-16,Turkey,Portugal,1,1,FIFA World Cup qualification,Alanya,Turkey,FALSE
+2021-09-16,Denmark,Malta,7,0,FIFA World Cup qualification,Viborg,Denmark,FALSE
 2021-09-17,Mongolia,South Korea,0,12,AFC Asian Cup qualification,Tashkent,Uzbekistan,TRUE
+2021-09-17,Slovakia,Sweden,0,1,FIFA World Cup qualification,Senec,Slovakia,FALSE
+2021-09-17,Hungary,Scotland,0,2,FIFA World Cup qualification,Budapest,Hungary,FALSE
+2021-09-17,Belarus,Cyprus,4,1,FIFA World Cup qualification,Minsk,Belarus,FALSE
+2021-09-17,Netherlands,Czech Republic,1,1,FIFA World Cup qualification,Groningen,Netherlands,FALSE
+2021-09-17,Latvia,Austria,1,8,FIFA World Cup qualification,Liepāja,Latvia,FALSE
+2021-09-17,England,North Macedonia,8,0,FIFA World Cup qualification,Southampton,England,FALSE
+2021-09-17,Northern Ireland,Luxembourg,4,0,FIFA World Cup qualification,Larne,Northern Ireland,FALSE
+2021-09-17,Poland,Belgium,1,1,FIFA World Cup qualification,Gdańsk,Poland,FALSE
+2021-09-17,Italy,Moldova,3,0,FIFA World Cup qualification,Trieste,Italy,FALSE
+2021-09-17,Switzerland,Lithuania,4,1,FIFA World Cup qualification,Thun,Switzerland,FALSE
+2021-09-17,Romania,Croatia,2,0,FIFA World Cup qualification,Mogoșoaia,Romania,FALSE
+2021-09-17,Greece,France,0,10,FIFA World Cup qualification,Patras,Greece,FALSE
+2021-09-17,Estonia,Slovenia,0,4,FIFA World Cup qualification,Pärnu,Estonia,FALSE
+2021-09-17,Wales,Kazakhstan,6,0,FIFA World Cup qualification,Llanelli,Wales,FALSE
+2021-09-17,Bosnia and Herzegovina,Montenegro,2,3,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,FALSE
 2021-09-18,Nepal,Philippines,1,2,AFC Asian Cup qualification,Tashkent,Uzbekistan,TRUE
+2021-09-18,Germany,Bulgaria,7,0,FIFA World Cup qualification,Cottbus,Germany,FALSE
 2021-09-19,Bangladesh,Jordan,0,5,AFC Asian Cup qualification,Tashkent,Uzbekistan,TRUE
 2021-09-19,Malaysia,Thailand,0,4,AFC Asian Cup qualification,Al-Ram,Palestine,TRUE
+2021-09-19,Israel,Portugal,0,4,FIFA World Cup qualification,Rishon LeZion,Israel,FALSE
 2021-09-20,Uzbekistan,Mongolia,12,0,AFC Asian Cup qualification,Tashkent,Uzbekistan,FALSE
 2021-09-21,Hong Kong,Nepal,0,0,AFC Asian Cup qualification,Tashkent,Uzbekistan,TRUE
+2021-09-21,Finland,Slovakia,2,1,FIFA World Cup qualification,Turku,Finland,FALSE
+2021-09-21,Sweden,Georgia,4,0,FIFA World Cup qualification,Gothenburg,Sweden,FALSE
+2021-09-21,Hungary,Spain,0,7,FIFA World Cup qualification,Budapest,Hungary,FALSE
+2021-09-21,Scotland,Faroe Islands,7,1,FIFA World Cup qualification,Glasgow,Scotland,FALSE
+2021-09-21,Czech Republic,Cyprus,8,0,FIFA World Cup qualification,Liberec,Czech Republic,FALSE
+2021-09-21,Iceland,Netherlands,0,2,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+2021-09-21,North Macedonia,Austria,0,6,FIFA World Cup qualification,Skopje,North Macedonia,FALSE
+2021-09-21,Northern Ireland,Latvia,4,0,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
+2021-09-21,Luxembourg,England,0,10,FIFA World Cup qualification,Luxembourg,Luxembourg,FALSE
+2021-09-21,Armenia,Poland,0,1,FIFA World Cup qualification,Yerevan,Armenia,FALSE
+2021-09-21,Kosovo,Norway,0,3,FIFA World Cup qualification,Pristina,Kosovo,FALSE
+2021-09-21,Belgium,Albania,7,0,FIFA World Cup qualification,Brussels,Belgium,FALSE
+2021-09-21,Croatia,Italy,0,5,FIFA World Cup qualification,Karlovac,Croatia,FALSE
+2021-09-21,Moldova,Switzerland,0,6,FIFA World Cup qualification,Chișinău,Moldova,FALSE
+2021-09-21,Romania,Lithuania,3,0,FIFA World Cup qualification,Mogoșoaia,Romania,FALSE
+2021-09-21,Germany,Serbia,5,1,FIFA World Cup qualification,Chemnitz,Germany,FALSE
+2021-09-21,Estonia,Wales,0,1,FIFA World Cup qualification,Pärnu,Estonia,FALSE
+2021-09-21,Greece,Kazakhstan,3,2,FIFA World Cup qualification,Patras,Greece,FALSE
+2021-09-21,Slovenia,France,2,3,FIFA World Cup qualification,Murska Sobota,Slovenia,FALSE
+2021-09-21,Azerbaijan,Denmark,0,8,FIFA World Cup qualification,Baku,Azerbaijan,FALSE
+2021-09-21,Malta,Bosnia and Herzegovina,2,2,FIFA World Cup qualification,Ta' Qali,Malta,FALSE
 2021-09-22,Iran,Bangladesh,5,0,AFC Asian Cup qualification,Tashkent,Uzbekistan,TRUE
 2021-09-22,Palestine,Malaysia,0,2,AFC Asian Cup qualification,Al-Ram,Palestine,FALSE
 2021-09-23,Maldives,Vietnam,0,16,AFC Asian Cup qualification,Dushanbe,Tajikistan,TRUE
@@ -4767,9 +4810,31 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-10-21,Bahrain,Laos,0,0,AFC Asian Cup qualification,Isa Town,Bahrain,FALSE
 2021-10-21,Lebanon,United Arab Emirates,1,0,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,TRUE
 2021-10-21,Guam,Myanmar,0,8,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,TRUE
+2021-10-21,Georgia,Finland,0,3,FIFA World Cup qualification,Tbilisi,Georgia,FALSE
+2021-10-21,Republic of Ireland,Sweden,0,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2021-10-21,Ukraine,Faroe Islands,4,0,FIFA World Cup qualification,Kovalivka,Ukraine,FALSE
+2021-10-21,Latvia,North Macedonia,1,4,FIFA World Cup qualification,Riga,Latvia,FALSE
+2021-10-21,Albania,Armenia,5,0,FIFA World Cup qualification,Tirana,Albania,FALSE
+2021-10-21,Belgium,Kosovo,7,0,FIFA World Cup qualification,Leuven,Belgium,FALSE
+2021-10-21,Poland,Norway,0,0,FIFA World Cup qualification,Łódź,Poland,FALSE
+2021-10-21,Turkey,Bulgaria,1,0,FIFA World Cup qualification,Istanbul,Turkey,FALSE
+2021-10-21,Israel,Germany,0,1,FIFA World Cup qualification,Petah Tikva,Israel,FALSE
+2021-10-21,Portugal,Serbia,2,1,FIFA World Cup qualification,Setúbal,Portugal,FALSE
+2021-10-21,Montenegro,Azerbaijan,2,0,FIFA World Cup qualification,Podgorica,Montenegro,FALSE
+2021-10-21,Denmark,Bosnia and Herzegovina,8,0,FIFA World Cup qualification,Viborg,Denmark,FALSE
 2021-10-22,São Tomé and Príncipe,Togo,0,5,African Cup of Nations qualification,São Tomé,São Tomé and Príncipe,FALSE
+2021-10-22,Scotland,Hungary,2,1,FIFA World Cup qualification,Glasgow,Scotland,FALSE
+2021-10-22,Cyprus,Netherlands,0,8,FIFA World Cup qualification,Larnaca,Cyprus,FALSE
+2021-10-22,Iceland,Czech Republic,4,0,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+2021-10-22,Austria,Luxembourg,5,0,FIFA World Cup qualification,Wiener Neustadt,Austria,FALSE
+2021-10-22,Italy,Croatia,3,0,FIFA World Cup qualification,Castel di Sangro,Italy,FALSE
+2021-10-22,Switzerland,Romania,2,0,FIFA World Cup qualification,Zürich,Switzerland,FALSE
+2021-10-22,Kazakhstan,Greece,0,1,FIFA World Cup qualification,Nur-Sultan,Kazakhstan,FALSE
+2021-10-22,Slovenia,Wales,1,1,FIFA World Cup qualification,Lendava,Slovenia,FALSE
+2021-10-22,France,Estonia,11,0,FIFA World Cup qualification,Créteil,France,FALSE
 2021-10-23,Kenya,South Sudan,7,1,African Cup of Nations qualification,Nairobi,Kenya,FALSE
 2021-10-23,Namibia,Tanzania,3,2,African Cup of Nations qualification,Johannesburg,South Africa,TRUE
+2021-10-23,England,Northern Ireland,4,0,FIFA World Cup qualification,London,England,FALSE
 2021-10-24,Bahrain,Taiwan,0,2,AFC Asian Cup qualification,Isa Town,Bahrain,FALSE
 2021-10-24,Myanmar,United Arab Emirates,2,0,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,TRUE
 2021-10-24,Guam,Lebanon,0,3,AFC Asian Cup qualification,Bishkek,Kyrgyzstan,TRUE
@@ -4789,6 +4854,71 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-10-26,Gabon,Congo,1,0,African Cup of Nations qualification,Libreville,Gabon,FALSE
 2021-10-26,Senegal,Liberia,6,0,African Cup of Nations qualification,Thiès,Senegal,FALSE
 2021-10-26,Mauritania,Guinea-Bissau,0,1,African Cup of Nations qualification,Nouakchott,Mauritania,FALSE
+2021-10-26,Slovakia,Georgia,2,0,FIFA World Cup qualification,Poprad,Slovakia,FALSE
+2021-10-26,Finland,Republic of Ireland,1,2,FIFA World Cup qualification,Helsinki,Finland,FALSE
+2021-10-26,Ukraine,Spain,0,6,FIFA World Cup qualification,Kovalivka,Ukraine,FALSE
+2021-10-26,Faroe Islands,Hungary,1,7,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
+2021-10-26,Belarus,Netherlands,0,2,FIFA World Cup qualification,Minsk,Belarus,FALSE
+2021-10-26,Iceland,Cyprus,5,0,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+2021-10-26,North Macedonia,Luxembourg,2,3,FIFA World Cup qualification,Ohrid,North Macedonia,FALSE
+2021-10-26,Latvia,England,0,10,FIFA World Cup qualification,Riga,Latvia,FALSE
+2021-10-26,Northern Ireland,Austria,2,2,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
+2021-10-26,Armenia,Kosovo,0,1,FIFA World Cup qualification,Yerevan,Armenia,FALSE
+2021-10-26,Norway,Belgium,4,0,FIFA World Cup qualification,Oslo,Norway,FALSE
+2021-10-26,Poland,Albania,2,0,FIFA World Cup qualification,Tychy,Poland,FALSE
+2021-10-26,Lithuania,Italy,0,5,FIFA World Cup qualification,Vilnius,Lithuania,FALSE
+2021-10-26,Switzerland,Croatia,5,0,FIFA World Cup qualification,Zürich,Switzerland,FALSE
+2021-10-26,Germany,Israel,7,0,FIFA World Cup qualification,Essen,Germany,FALSE
+2021-10-26,Bulgaria,Portugal,0,5,FIFA World Cup qualification,Plovdiv,Bulgaria,FALSE
+2021-10-26,Serbia,Turkey,2,0,FIFA World Cup qualification,Gornji Milanovac,Serbia,FALSE
+2021-10-26,Kazakhstan,France,0,5,FIFA World Cup qualification,Nur-Sultan,Kazakhstan,FALSE
+2021-10-26,Greece,Slovenia,1,4,FIFA World Cup qualification,Larissa,Greece,FALSE
+2021-10-26,Wales,Estonia,4,0,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2021-10-26,Azerbaijan,Malta,1,2,FIFA World Cup qualification,Baku,Azerbaijan,FALSE
+2021-10-26,Montenegro,Denmark,1,5,FIFA World Cup qualification,Podgorica,Montenegro,FALSE
+2021-11-25,Sweden,Finland,2,1,FIFA World Cup qualification,Gothenburg,Sweden,FALSE
+2021-11-25,Republic of Ireland,Slovakia,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2021-11-25,Spain,Faroe Islands,12,0,FIFA World Cup qualification,Seville,Spain,FALSE
+2021-11-25,North Macedonia,Northern Ireland,0,11,FIFA World Cup qualification,Skopje,North Macedonia,FALSE
+2021-11-25,Kosovo,Poland,1,2,FIFA World Cup qualification,Pristina,Kosovo,FALSE
+2021-11-25,Belgium,Armenia,19,0,FIFA World Cup qualification,Leuven,Belgium,FALSE
+2021-11-25,Albania,Norway,0,7,FIFA World Cup qualification,Tirana,Albania,FALSE
+2021-11-25,Serbia,Bulgaria,3,0,FIFA World Cup qualification,Stara Pazova,Serbia,FALSE
+2021-11-25,Portugal,Israel,4,0,FIFA World Cup qualification,Portimão,Portugal,FALSE
+2021-11-25,Bosnia and Herzegovina,Denmark,0,3,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,FALSE
+2021-11-26,Scotland,Ukraine,1,1,FIFA World Cup qualification,Glasgow,Scotland,FALSE
+2021-11-26,Cyprus,Belarus,1,1,FIFA World Cup qualification,Larnaca,Cyprus,FALSE
+2021-11-26,Croatia,Lithuania,0,0,FIFA World Cup qualification,Pula,Croatia,FALSE
+2021-11-26,Italy,Switzerland,1,2,FIFA World Cup qualification,Palermo,Italy,FALSE
+2021-11-26,Romania,Moldova,3,0,FIFA World Cup qualification,Mogoșoaia,Romania,FALSE
+2021-11-26,Germany,Turkey,8,0,FIFA World Cup qualification,Braunschweig,Germany,FALSE
+2021-11-26,Slovenia,Estonia,6,0,FIFA World Cup qualification,Nova Gorica,Slovenia,FALSE
+2021-11-26,Wales,Greece,5,0,FIFA World Cup qualification,Llanelli,Wales,FALSE
+2021-11-26,France,Kazakhstan,6,0,FIFA World Cup qualification,Vannes,France,FALSE
+2021-11-26,Malta,Montenegro,0,2,FIFA World Cup qualification,Ta' Qali,Malta,FALSE
+2021-11-27,Czech Republic,Netherlands,2,2,FIFA World Cup qualification,Ostrava,Czech Republic,FALSE
+2021-11-27,England,Austria,1,0,FIFA World Cup qualification,Sunderland,England,FALSE
+2021-11-29,Northern Ireland,North Macedonia,9,0,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
+2021-11-30,Sweden,Slovakia,3,0,FIFA World Cup qualification,Malmö,Sweden,FALSE
+2021-11-30,Republic of Ireland,Georgia,11,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2021-11-30,Hungary,Ukraine,4,2,FIFA World Cup qualification,Kisvárda,Hungary,FALSE
+2021-11-30,Spain,Scotland,8,0,FIFA World Cup qualification,Seville,Spain,FALSE
+2021-11-30,Cyprus,Iceland,0,4,FIFA World Cup qualification,Larnaca,Cyprus,FALSE
+2021-11-30,England,Latvia,20,0,FIFA World Cup qualification,Doncaster,England,FALSE
+2021-11-30,Luxembourg,Austria,0,8,FIFA World Cup qualification,Luxembourg,Luxembourg,FALSE
+2021-11-30,Armenia,Norway,0,10,FIFA World Cup qualification,Yerevan,Armenia,FALSE
+2021-11-30,Kosovo,Albania,1,3,FIFA World Cup qualification,Pristina,Kosovo,FALSE
+2021-11-30,Belgium,Poland,4,0,FIFA World Cup qualification,Leuven,Belgium,FALSE
+2021-11-30,Croatia,Moldova,4,0,FIFA World Cup qualification,Pula,Croatia,FALSE
+2021-11-30,Lithuania,Switzerland,0,7,FIFA World Cup qualification,Vilnius,Lithuania,FALSE
+2021-11-30,Romania,Italy,0,5,FIFA World Cup qualification,Voluntari,Romania,FALSE
+2021-11-30,Bulgaria,Serbia,1,4,FIFA World Cup qualification,Plovdiv,Bulgaria,FALSE
+2021-11-30,Turkey,Israel,3,2,FIFA World Cup qualification,Mersin,Turkey,FALSE
+2021-11-30,Portugal,Germany,1,3,FIFA World Cup qualification,Faro,Portugal,FALSE
+2021-11-30,Slovenia,Greece,0,0,FIFA World Cup qualification,Nova Gorica,Slovenia,FALSE
+2021-11-30,France,Wales,2,0,FIFA World Cup qualification,Guingamp,France,FALSE
+2021-11-30,Bosnia and Herzegovina,Malta,1,0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,FALSE
+2021-11-30,Azerbaijan,Montenegro,1,0,FIFA World Cup qualification,Baku,Azerbaijan,FALSE
 2022-01-20,China PR,Taiwan,4,0,AFC Asian Cup,Mumbai,India,TRUE
 2022-01-21,Australia,Indonesia,18,0,AFC Asian Cup,Mumbai,India,TRUE
 2022-01-21,Thailand,Philippines,0,1,AFC Asian Cup,Navi Mumbai,India,TRUE
@@ -4852,34 +4982,134 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-02-23,Gambia,Cameroon,1,2,African Cup of Nations qualification,Bakau,Gambia,FALSE
 2022-02-23,Burkina Faso,Guinea-Bissau,1,0,African Cup of Nations qualification,Porto-Novo,Benin,TRUE
 2022-02-23,Ivory Coast,Nigeria,0,1,African Cup of Nations qualification,Abidjan,Ivory Coast,FALSE
+2022-02-23,Turkey,Serbia,2,5,FIFA World Cup qualification,İzmir,Turkey,FALSE
+2022-04-07,Georgia,Sweden,0,15,FIFA World Cup qualification,Gori,Georgia,FALSE
+2022-04-07,Belarus,Iceland,0,5,FIFA World Cup qualification,Belgrade,Serbia,TRUE
+2022-04-07,Norway,Kosovo,5,1,FIFA World Cup qualification,Sandefjord,Norway,FALSE
+2022-04-07,Albania,Belgium,0,5,FIFA World Cup qualification,Elbasan,Albania,FALSE
+2022-04-07,Poland,Armenia,12,0,FIFA World Cup qualification,Gdynia,Poland,FALSE
+2022-04-07,Bulgaria,Turkey,0,2,FIFA World Cup qualification,Plovdiv,Bulgaria,FALSE
+2022-04-07,Serbia,Israel,4,0,FIFA World Cup qualification,Stara Pazova,Serbia,FALSE
+2022-04-07,Bosnia and Herzegovina,Azerbaijan,1,0,FIFA World Cup qualification,Sarajevo,Bosnia and Herzegovina,FALSE
+2022-04-08,Slovakia,Finland,1,1,FIFA World Cup qualification,Trnava,Slovakia,FALSE
+2022-04-08,Hungary,Faroe Islands,7,0,FIFA World Cup qualification,Budapest,Hungary,FALSE
+2022-04-08,Netherlands,Cyprus,12,0,FIFA World Cup qualification,Groningen,Netherlands,FALSE
+2022-04-08,North Macedonia,England,0,10,FIFA World Cup qualification,Skopje,North Macedonia,FALSE
+2022-04-08,Austria,Northern Ireland,3,1,FIFA World Cup qualification,Wiener Neustadt,Austria,FALSE
+2022-04-08,Moldova,Croatia,0,1,FIFA World Cup qualification,Chișinău,Moldova,FALSE
+2022-04-08,Romania,Switzerland,1,1,FIFA World Cup qualification,Bucharest,Romania,FALSE
+2022-04-08,Italy,Lithuania,7,0,FIFA World Cup qualification,Parma,Italy,FALSE
+2022-04-08,Kazakhstan,Slovenia,0,2,FIFA World Cup qualification,Nur-Sultan,Kazakhstan,FALSE
+2022-04-08,Estonia,Greece,1,3,FIFA World Cup qualification,Tallinn,Estonia,FALSE
+2022-04-08,Wales,France,1,2,FIFA World Cup qualification,Llanelli,Wales,FALSE
+2022-04-08,Malta,Denmark,0,2,FIFA World Cup qualification,Ta' Qali,Malta,FALSE
+2022-04-09,Luxembourg,Latvia,3,2,FIFA World Cup qualification,Niederkorn,Luxembourg,FALSE
+2022-04-09,Germany,Portugal,3,0,FIFA World Cup qualification,Bielefeld,Germany,FALSE
+2022-04-12,Finland,Georgia,6,0,FIFA World Cup qualification,Helsinki,Finland,FALSE
+2022-04-12,Sweden,Republic of Ireland,1,1,FIFA World Cup qualification,Gothenburg,Sweden,FALSE
+2022-04-12,Scotland,Spain,0,2,FIFA World Cup qualification,Glasgow,Scotland,FALSE
+2022-04-12,Czech Republic,Iceland,0,1,FIFA World Cup qualification,Teplice,Czech Republic,FALSE
+2022-04-12,Luxembourg,North Macedonia,2,1,FIFA World Cup qualification,Esch-sur-Alzette,Luxembourg,FALSE
+2022-04-12,Austria,Latvia,8,0,FIFA World Cup qualification,Wiener Neustadt,Austria,FALSE
+2022-04-12,Northern Ireland,England,0,5,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
+2022-04-12,Armenia,Albania,0,4,FIFA World Cup qualification,Armavir,Armenia,FALSE
+2022-04-12,Norway,Poland,2,1,FIFA World Cup qualification,Oslo,Norway,FALSE
+2022-04-12,Kosovo,Belgium,1,6,FIFA World Cup qualification,Pristina,Kosovo,FALSE
+2022-04-12,Croatia,Romania,0,1,FIFA World Cup qualification,Velika Gorica,Croatia,FALSE
+2022-04-12,Lithuania,Moldova,4,0,FIFA World Cup qualification,Vilnius,Lithuania,FALSE
+2022-04-12,Switzerland,Italy,0,1,FIFA World Cup qualification,Thun,Switzerland,FALSE
+2022-04-12,Serbia,Germany,3,2,FIFA World Cup qualification,Stara Pazova,Serbia,FALSE
+2022-04-12,Israel,Turkey,1,0,FIFA World Cup qualification,Petah Tikva,Israel,FALSE
+2022-04-12,Portugal,Bulgaria,3,0,FIFA World Cup qualification,Barcelos,Portugal,FALSE
+2022-04-12,Kazakhstan,Wales,0,3,FIFA World Cup qualification,Nur-Sultan,Kazakhstan,FALSE
+2022-04-12,Greece,Estonia,3,0,FIFA World Cup qualification,Patras,Greece,FALSE
+2022-04-12,France,Slovenia,1,0,FIFA World Cup qualification,Le Mans,France,FALSE
+2022-04-12,Montenegro,Bosnia and Herzegovina,0,2,FIFA World Cup qualification,Podgorica,Montenegro,FALSE
+2022-04-12,Denmark,Azerbaijan,2,0,FIFA World Cup qualification,Viborg,Denmark,FALSE
+2022-06-23,Bulgaria,Israel,0,2,FIFA World Cup qualification,Plovdiv,Bulgaria,FALSE
+2022-06-24,Ukraine,Scotland,0,4,FIFA World Cup qualification,Rzeszów,Poland,TRUE
+2022-06-24,Belarus,Czech Republic,2,1,FIFA World Cup qualification,Belgrade,Serbia,TRUE
+2022-06-24,Latvia,Luxembourg,1,0,FIFA World Cup qualification,Riga,Latvia,FALSE
+2022-06-24,Moldova,Romania,0,4,FIFA World Cup qualification,Chișinău,Moldova,FALSE
+2022-06-27,Georgia,Republic of Ireland,0,9,FIFA World Cup qualification,Gori,Georgia,FALSE
+2022-06-28,Ukraine,Hungary,2,0,FIFA World Cup qualification,Rzeszów,Poland,TRUE
+2022-06-28,Netherlands,Belarus,3,0,FIFA World Cup qualification,Enschede,Netherlands,FALSE
+2022-06-28,Moldova,Lithuania,1,1,FIFA World Cup qualification,Chișinău,Moldova,FALSE
+2022-06-28,Estonia,Kazakhstan,4,2,FIFA World Cup qualification,Pärnu,Estonia,FALSE
 2022-07-06,England,Austria,1,0,UEFA Euro,Manchester,England,FALSE
-2022-07-07,Norway,Northern Ireland,4,1,UEFA Euro,Southampton,Norway,TRUE
-2022-07-11,Austria,Northern Ireland,2,0,UEFA Euro,Southampton,Austria,TRUE
+2022-07-07,Norway,Northern Ireland,4,1,UEFA Euro,Southampton,England,TRUE
+2022-07-08,Spain,Finland,4,1,UEFA Euro,Milton Keynes,England,TRUE
+2022-07-08,Germany,Denmark,4,0,UEFA Euro,London,England,TRUE
+2022-07-09,Portugal,Switzerland,2,2,UEFA Euro,Leigh,England,TRUE
+2022-07-09,Netherlands,Sweden,1,1,UEFA Euro,Sheffield,England,TRUE
+2022-07-10,Belgium,Iceland,1,1,UEFA Euro,Manchester,England,TRUE
+2022-07-10,France,Italy,5,1,UEFA Euro,Rotherham,England,TRUE
+2022-07-11,Austria,Northern Ireland,2,0,UEFA Euro,Southampton,England,TRUE
 2022-07-11,England,Norway,8,0,UEFA Euro,Brighton and Hove,England,FALSE
+2022-07-12,Denmark,Finland,1,0,UEFA Euro,Milton Keynes,England,TRUE
+2022-07-12,Germany,Spain,2,0,UEFA Euro,London,England,TRUE
+2022-07-13,Sweden,Switzerland,2,1,UEFA Euro,Sheffield,England,TRUE
+2022-07-13,Netherlands,Portugal,3,2,UEFA Euro,Leigh,England,TRUE
+2022-07-14,Italy,Iceland,1,1,UEFA Euro,Manchester,England,TRUE
+2022-07-14,France,Belgium,2,1,UEFA Euro,Rotherham,England,TRUE
 2022-07-15,England,Northern Ireland,5,0,UEFA Euro,Southampton,England,FALSE
-2022-07-15,Austria,Norway,1,0,UEFA Euro,Brighton and Hove,Austria,TRUE
-2022-07-08,Spain,Finland,4,1,UEFA Euro,Milton Keynes,Spain,TRUE
-2022-07-08,Germany,Denmark,4,0,UEFA Euro,London,Germany,TRUE
-2022-07-12,Denmark,Finland,1,0,UEFA Euro,Milton Keynes,Denmark,TRUE
-2022-07-12,Germany,Spain,2,0,UEFA Euro,London,Germany,TRUE
-2022-07-16,Finland,Germany,0,3,UEFA Euro,Milton Keynes,Finland,TRUE
-2022-07-16,Denmark,Spain,0,1,UEFA Euro,London,Denmark,TRUE
-2022-07-09,Portugal,Switzerland,2,2,UEFA Euro,Leigh,Portugal,TRUE
-2022-07-09,Netherlands,Sweden,1,1,UEFA Euro,Sheffield,Netherlands,TRUE
-2022-07-13,Sweden,Switzerland,2,1,UEFA Euro,Sheffield,Sweden,TRUE
-2022-07-13,Netherlands,Portugal,3,2,UEFA Euro,Leigh,Netherlands,TRUE
-2022-07-17,Switzerland,Netherlands,1,4,UEFA Euro,Sheffield,Switzerland,TRUE
-2022-07-17,Sweden,Portugal,5,0,UEFA Euro,Leigh,Sweden,TRUE
-2022-07-10,Belgium,Iceland,1,1,UEFA Euro,Manchester,Belgium,TRUE
-2022-07-10,France,Italy,5,1,UEFA Euro,Rotherham,France,TRUE
-2022-07-14,Italy,Iceland,1,1,UEFA Euro,Manchester,Italy,TRUE
-2022-07-14,France,Belgium,2,1,UEFA Euro,Rotherham,France,TRUE
-2022-07-18,Iceland,France,1,1,UEFA Euro,Rotherham,Iceland,TRUE
-2022-07-18,Italy,Belgium,0,1,UEFA Euro,Manchester,Italy,TRUE
+2022-07-15,Austria,Norway,1,0,UEFA Euro,Brighton and Hove,England,TRUE
+2022-07-16,Finland,Germany,0,3,UEFA Euro,Milton Keynes,England,TRUE
+2022-07-16,Denmark,Spain,0,1,UEFA Euro,London,England,TRUE
+2022-07-17,Switzerland,Netherlands,1,4,UEFA Euro,Sheffield,England,TRUE
+2022-07-17,Sweden,Portugal,5,0,UEFA Euro,Leigh,England,TRUE
+2022-07-18,Iceland,France,1,1,UEFA Euro,Rotherham,England,TRUE
+2022-07-18,Italy,Belgium,0,1,UEFA Euro,Manchester,England,TRUE
 2022-07-20,England,Spain,2,1,UEFA Euro,Brighton and Hove,England,FALSE
-2022-07-21,Germany,Austria,2,0,UEFA Euro,London,Germany,TRUE
-2022-07-22,Sweden,Belgium,1,0,UEFA Euro,Leigh,Sweden,TRUE
-2022-07-23,France,Netherlands,1,0,UEFA Euro,Rotherham,France,TRUE
+2022-07-21,Germany,Austria,2,0,UEFA Euro,London,England,TRUE
+2022-07-22,Sweden,Belgium,1,0,UEFA Euro,Leigh,England,TRUE
+2022-07-23,France,Netherlands,1,0,UEFA Euro,Rotherham,England,TRUE
 2022-07-26,England,Sweden,4,0,UEFA Euro,Sheffield,England,FALSE
-2022-07-27,Germany,France,2,1,UEFA Euro,Milton Keynes,Germany,TRUE
+2022-07-27,Germany,France,2,1,UEFA Euro,Milton Keynes,England,TRUE
 2022-07-31,England,Germany,2,1,UEFA Euro,London,England,FALSE
+2022-09-01,Georgia,Slovakia,0,4,FIFA World Cup qualification,Gori,Georgia,FALSE
+2022-09-01,Republic of Ireland,Finland,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2022-09-01,Cyprus,Czech Republic,0,6,FIFA World Cup qualification,Larnaca,Cyprus,FALSE
+2022-09-01,North Macedonia,Latvia,3,2,FIFA World Cup qualification,Skopje,North Macedonia,FALSE
+2022-09-01,Albania,Poland,1,2,FIFA World Cup qualification,Elbasan,Albania,FALSE
+2022-09-01,Kosovo,Armenia,2,1,FIFA World Cup qualification,Pristina,Kosovo,FALSE
+2022-09-01,Israel,Bulgaria,2,0,FIFA World Cup qualification,Ness Ziona,Israel,FALSE
+2022-09-01,Denmark,Montenegro,5,1,FIFA World Cup qualification,Viborg,Denmark,FALSE
+2022-09-02,Faroe Islands,Ukraine,0,3,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
+2022-09-02,Spain,Hungary,3,0,FIFA World Cup qualification,Las Rozas de Madrid,Spain,FALSE
+2022-09-02,Iceland,Belarus,6,0,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+2022-09-02,Luxembourg,Northern Ireland,1,2,FIFA World Cup qualification,Esch-sur-Alzette,Luxembourg,FALSE
+2022-09-02,Belgium,Norway,0,1,FIFA World Cup qualification,Leuven,Belgium,FALSE
+2022-09-02,Moldova,Italy,0,8,FIFA World Cup qualification,Chișinău,Moldova,FALSE
+2022-09-02,Lithuania,Romania,1,7,FIFA World Cup qualification,Vilnius,Lithuania,FALSE
+2022-09-02,Croatia,Switzerland,0,2,FIFA World Cup qualification,Karlovac,Croatia,FALSE
+2022-09-02,Serbia,Portugal,1,2,FIFA World Cup qualification,Stara Pazova,Serbia,FALSE
+2022-09-02,Estonia,France,0,9,FIFA World Cup qualification,Tallinn,Estonia,FALSE
+2022-09-02,Slovenia,Kazakhstan,2,0,FIFA World Cup qualification,Kranj,Slovenia,FALSE
+2022-09-02,Greece,Wales,0,1,FIFA World Cup qualification,Volos,Greece,FALSE
+2022-09-02,Malta,Azerbaijan,0,2,FIFA World Cup qualification,Ta' Qali,Malta,FALSE
+2022-09-03,Austria,England,0,2,FIFA World Cup qualification,Wiener Neustadt,Austria,FALSE
+2022-09-03,Turkey,Germany,0,3,FIFA World Cup qualification,Bursa,Turkey,FALSE
+2022-09-06,Finland,Sweden,0,5,FIFA World Cup qualification,Tampere,Finland,FALSE
+2022-09-06,Slovakia,Republic of Ireland,0,1,FIFA World Cup qualification,Senec,Slovakia,FALSE
+2022-09-06,Faroe Islands,Scotland,0,6,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
+2022-09-06,Spain,Ukraine,5,0,FIFA World Cup qualification,Las Rozas de Madrid,Spain,FALSE
+2022-09-06,Czech Republic,Belarus,7,0,FIFA World Cup qualification,Larnaca,Cyprus,TRUE
+2022-09-06,Netherlands,Iceland,1,0,FIFA World Cup qualification,Utrecht,Netherlands,FALSE
+2022-09-06,Latvia,Northern Ireland,1,3,FIFA World Cup qualification,Jūrmala,Latvia,FALSE
+2022-09-06,England,Luxembourg,10,0,FIFA World Cup qualification,Stoke-on-Trent,England,FALSE
+2022-09-06,Austria,North Macedonia,10,0,FIFA World Cup qualification,Wiener Neustadt,Austria,FALSE
+2022-09-06,Armenia,Belgium,0,7,FIFA World Cup qualification,Yerevan,Armenia,FALSE
+2022-09-06,Norway,Albania,5,0,FIFA World Cup qualification,Oslo,Norway,FALSE
+2022-09-06,Poland,Kosovo,7,0,FIFA World Cup qualification,Lublin,Poland,FALSE
+2022-09-06,Lithuania,Croatia,0,1,FIFA World Cup qualification,Vilnius,Lithuania,FALSE
+2022-09-06,Italy,Romania,2,0,FIFA World Cup qualification,Ferrara,Italy,FALSE
+2022-09-06,Switzerland,Moldova,15,0,FIFA World Cup qualification,Lausanne,Switzerland,FALSE
+2022-09-06,Bulgaria,Germany,0,8,FIFA World Cup qualification,Plovdiv,Bulgaria,FALSE
+2022-09-06,Israel,Serbia,0,2,FIFA World Cup qualification,Ness Ziona,Israel,FALSE
+2022-09-06,Portugal,Turkey,4,0,FIFA World Cup qualification,Vizela,Portugal,FALSE
+2022-09-06,Kazakhstan,Estonia,0,2,FIFA World Cup qualification,Karaganda,Kazakhstan,FALSE
+2022-09-06,France,Greece,5,1,FIFA World Cup qualification,Sedan,France,FALSE
+2022-09-06,Wales,Slovenia,0,0,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2022-09-06,Azerbaijan,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,Viborg,Denmark,TRUE
+2022-09-06,Malta,Montenegro,2,0,FIFA World Cup qualification,Ta' Qali,Malta,FALSE
