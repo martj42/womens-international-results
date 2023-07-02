@@ -5036,36 +5036,122 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-06-28,Netherlands,Belarus,3,0,FIFA World Cup qualification,Enschede,Netherlands,FALSE
 2022-06-28,Moldova,Lithuania,1,1,FIFA World Cup qualification,Chișinău,Moldova,FALSE
 2022-06-28,Estonia,Kazakhstan,4,2,FIFA World Cup qualification,Pärnu,Estonia,FALSE
+2022-07-02,Morocco,Burkina Faso,1,0,African Cup of Nations,Rabat,Morocco,FALSE
+2022-07-03,Senegal,Uganda,2,0,African Cup of Nations,Rabat,Morocco,TRUE
+2022-07-03,Cameroon,Zambia,0,0,African Cup of Nations,Casablanca,Morocco,TRUE
+2022-07-03,Tunisia,Togo,4,1,African Cup of Nations,Casablanca,Morocco,TRUE
+2022-07-04,United States,Haiti,3,0,CONCACAF Championship,San Nicolás de los Garza,Mexico,TRUE
+2022-07-04,Mexico,Jamaica,0,1,CONCACAF Championship,San Nicolás de los Garza,Mexico,FALSE
+2022-07-04,Nigeria,South Africa,1,2,African Cup of Nations,Rabat,Morocco,TRUE
+2022-07-04,Burundi,Botswana,2,4,African Cup of Nations,Rabat,Morocco,TRUE
+2022-07-05,Costa Rica,Panama,3,0,CONCACAF Championship,Guadalupe,Mexico,TRUE
+2022-07-05,Canada,Trinidad and Tobago,6,0,CONCACAF Championship,Guadalupe,Mexico,TRUE
+2022-07-05,Burkina Faso,Senegal,0,1,African Cup of Nations,Rabat,Morocco,TRUE
+2022-07-05,Morocco,Uganda,3,1,African Cup of Nations,Rabat,Morocco,FALSE
 2022-07-06,England,Austria,1,0,UEFA Euro,Manchester,England,FALSE
+2022-07-06,Zambia,Tunisia,1,0,African Cup of Nations,Casablanca,Morocco,TRUE
+2022-07-06,Togo,Cameroon,1,1,African Cup of Nations,Casablanca,Morocco,TRUE
 2022-07-07,Norway,Northern Ireland,4,1,UEFA Euro,Southampton,England,TRUE
+2022-07-07,Jamaica,United States,0,5,CONCACAF Championship,Guadalupe,Mexico,TRUE
+2022-07-07,Mexico,Haiti,0,3,CONCACAF Championship,Guadalupe,Mexico,FALSE
+2022-07-07,South Africa,Burundi,3,1,African Cup of Nations,Rabat,Morocco,TRUE
+2022-07-07,Botswana,Nigeria,0,2,African Cup of Nations,Rabat,Morocco,TRUE
 2022-07-08,Spain,Finland,4,1,UEFA Euro,Milton Keynes,England,TRUE
 2022-07-08,Germany,Denmark,4,0,UEFA Euro,London,England,TRUE
+2022-07-08,Bolivia,Ecuador,1,6,Copa América,Cali,Colombia,TRUE
+2022-07-08,Colombia,Paraguay,4,2,Copa América,Cali,Colombia,FALSE
+2022-07-08,Trinidad and Tobago,Costa Rica,0,4,CONCACAF Championship,San Nicolás de los Garza,Mexico,TRUE
+2022-07-08,Panama,Canada,0,1,CONCACAF Championship,San Nicolás de los Garza,Mexico,TRUE
+2022-07-08,Morocco,Senegal,1,0,African Cup of Nations,Rabat,Morocco,FALSE
+2022-07-08,Burkina Faso,Uganda,2,2,African Cup of Nations,Casablanca,Morocco,TRUE
 2022-07-09,Portugal,Switzerland,2,2,UEFA Euro,Leigh,England,TRUE
 2022-07-09,Netherlands,Sweden,1,1,UEFA Euro,Sheffield,England,TRUE
+2022-07-09,Uruguay,Venezuela,0,1,Copa América,Armenia,Colombia,TRUE
+2022-07-09,Brazil,Argentina,4,0,Copa América,Armenia,Colombia,TRUE
+2022-07-09,Cameroon,Tunisia,2,0,African Cup of Nations,Casablanca,Morocco,TRUE
+2022-07-09,Zambia,Togo,4,1,African Cup of Nations,Rabat,Morocco,TRUE
 2022-07-10,Belgium,Iceland,1,1,UEFA Euro,Manchester,England,TRUE
 2022-07-10,France,Italy,5,1,UEFA Euro,Rotherham,England,TRUE
+2022-07-10,South Africa,Botswana,1,0,African Cup of Nations,Rabat,Morocco,TRUE
+2022-07-10,Nigeria,Burundi,4,0,African Cup of Nations,Rabat,Morocco,TRUE
 2022-07-11,Austria,Northern Ireland,2,0,UEFA Euro,Southampton,England,TRUE
 2022-07-11,England,Norway,8,0,UEFA Euro,Brighton and Hove,England,FALSE
+2022-07-11,Paraguay,Chile,3,2,Copa América,Cali,Colombia,TRUE
+2022-07-11,Colombia,Bolivia,3,0,Copa América,Cali,Colombia,FALSE
+2022-07-11,Jamaica,Haiti,4,0,CONCACAF Championship,Guadalupe,Mexico,TRUE
+2022-07-11,Mexico,United States,0,1,CONCACAF Championship,San Nicolás de los Garza,Mexico,FALSE
+2022-07-11,Canada,Costa Rica,2,0,CONCACAF Championship,Guadalupe,Mexico,TRUE
+2022-07-11,Panama,Trinidad and Tobago,1,0,CONCACAF Championship,San Nicolás de los Garza,Mexico,TRUE
 2022-07-12,Denmark,Finland,1,0,UEFA Euro,Milton Keynes,England,TRUE
 2022-07-12,Germany,Spain,2,0,UEFA Euro,London,England,TRUE
+2022-07-12,Uruguay,Brazil,0,3,Copa América,Armenia,Colombia,TRUE
+2022-07-12,Argentina,Peru,4,0,Copa América,Armenia,Colombia,TRUE
 2022-07-13,Sweden,Switzerland,2,1,UEFA Euro,Sheffield,England,TRUE
 2022-07-13,Netherlands,Portugal,3,2,UEFA Euro,Leigh,England,TRUE
+2022-07-13,Samoa,Tonga,2,0,OFC Nations Cup,Suva,Fiji,TRUE
+2022-07-13,Zambia,Senegal,1,1,African Cup of Nations,Casablanca,Morocco,TRUE
+2022-07-13,Morocco,Botswana,2,1,African Cup of Nations,Rabat,Morocco,FALSE
 2022-07-14,Italy,Iceland,1,1,UEFA Euro,Manchester,England,TRUE
 2022-07-14,France,Belgium,2,1,UEFA Euro,Rotherham,England,TRUE
+2022-07-14,Vanuatu,Papua New Guinea,1,3,OFC Nations Cup,Suva,Fiji,TRUE
+2022-07-14,Fiji,Solomon Islands,1,1,OFC Nations Cup,Suva,Fiji,FALSE
+2022-07-14,Paraguay,Bolivia,2,0,Copa América,Cali,Colombia,TRUE
+2022-07-14,Chile,Ecuador,2,1,Copa América,Cali,Colombia,TRUE
+2022-07-14,United States,Costa Rica,3,0,CONCACAF Championship,San Nicolás de los Garza,Mexico,TRUE
+2022-07-14,Canada,Jamaica,3,0,CONCACAF Championship,San Nicolás de los Garza,Mexico,TRUE
+2022-07-14,Cameroon,Nigeria,0,1,African Cup of Nations,Casablanca,Morocco,TRUE
+2022-07-14,South Africa,Tunisia,1,0,African Cup of Nations,Rabat,Morocco,TRUE
 2022-07-15,England,Northern Ireland,5,0,UEFA Euro,Southampton,England,FALSE
 2022-07-15,Austria,Norway,1,0,UEFA Euro,Brighton and Hove,England,TRUE
+2022-07-15,Argentina,Uruguay,5,0,Copa América,Armenia,Colombia,TRUE
+2022-07-15,Peru,Venezuela,0,2,Copa América,Armenia,Colombia,TRUE
 2022-07-16,Finland,Germany,0,3,UEFA Euro,Milton Keynes,England,TRUE
 2022-07-16,Denmark,Spain,0,1,UEFA Euro,London,England,TRUE
+2022-07-16,Tonga,Cook Islands,1,1,OFC Nations Cup,Suva,Fiji,TRUE
 2022-07-17,Switzerland,Netherlands,1,4,UEFA Euro,Sheffield,England,TRUE
 2022-07-17,Sweden,Portugal,5,0,UEFA Euro,Leigh,England,TRUE
+2022-07-17,Papua New Guinea,Tahiti,2,1,OFC Nations Cup,Suva,Fiji,TRUE
+2022-07-17,Fiji,New Caledonia,3,1,OFC Nations Cup,Suva,Fiji,FALSE
+2022-07-17,Chile,Bolivia,5,0,Copa América,Cali,Colombia,TRUE
+2022-07-17,Colombia,Ecuador,2,1,Copa América,Cali,Colombia,FALSE
+2022-07-17,Senegal,Tunisia,0,0,African Cup of Nations,Casablanca,Morocco,TRUE
+2022-07-17,Botswana,Cameroon,0,1,African Cup of Nations,Rabat,Morocco,TRUE
 2022-07-18,Iceland,France,1,1,UEFA Euro,Rotherham,England,TRUE
 2022-07-18,Italy,Belgium,0,1,UEFA Euro,Manchester,England,TRUE
+2022-07-18,Venezuela,Brazil,0,4,Copa América,Armenia,Colombia,TRUE
+2022-07-18,Peru,Uruguay,0,6,Copa América,Armenia,Colombia,TRUE
+2022-07-18,Costa Rica,Jamaica,0,1,CONCACAF Championship,Guadalupe,Mexico,TRUE
+2022-07-18,United States,Canada,1,0,CONCACAF Championship,Guadalupe,Mexico,TRUE
+2022-07-18,Zambia,South Africa,0,1,African Cup of Nations,Casablanca,Morocco,TRUE
+2022-07-18,Morocco,Nigeria,1,1,African Cup of Nations,Rabat,Morocco,FALSE
+2022-07-19,Cook Islands,Samoa,0,1,OFC Nations Cup,Suva,Fiji,TRUE
 2022-07-20,England,Spain,2,1,UEFA Euro,Brighton and Hove,England,FALSE
+2022-07-20,Tahiti,Vanuatu,0,0,OFC Nations Cup,Suva,Fiji,TRUE
+2022-07-20,New Caledonia,Solomon Islands,2,2,OFC Nations Cup,Suva,Fiji,TRUE
+2022-07-20,Colombia,Chile,4,0,Copa América,Armenia,Colombia,FALSE
+2022-07-20,Ecuador,Paraguay,1,2,Copa América,Cali,Colombia,TRUE
 2022-07-21,Germany,Austria,2,0,UEFA Euro,London,England,TRUE
+2022-07-21,Brazil,Peru,6,0,Copa América,Cali,Colombia,TRUE
+2022-07-21,Venezuela,Argentina,0,1,Copa América,Armenia,Colombia,TRUE
 2022-07-22,Sweden,Belgium,1,0,UEFA Euro,Leigh,England,TRUE
+2022-07-22,Nigeria,Zambia,0,1,African Cup of Nations,Casablanca,Morocco,TRUE
 2022-07-23,France,Netherlands,1,0,UEFA Euro,Rotherham,England,TRUE
+2022-07-23,Samoa,New Caledonia,4,2,OFC Nations Cup,Suva,Fiji,TRUE
+2022-07-23,Papua New Guinea,Tonga,3,3,OFC Nations Cup,Suva,Fiji,TRUE
+2022-07-23,Morocco,South Africa,1,2,African Cup of Nations,Rabat,Morocco,FALSE
+2022-07-24,Fiji,Cook Islands,2,0,OFC Nations Cup,Suva,Fiji,FALSE
+2022-07-24,Tahiti,Solomon Islands,0,1,OFC Nations Cup,Suva,Fiji,TRUE
+2022-07-24,Chile,Venezuela,1,1,Copa América,Armenia,Colombia,TRUE
+2022-07-25,Colombia,Argentina,1,0,Copa América,Bucaramanga,Colombia,FALSE
 2022-07-26,England,Sweden,4,0,UEFA Euro,Sheffield,England,FALSE
+2022-07-26,Brazil,Paraguay,2,0,Copa América,Bucaramanga,Colombia,TRUE
 2022-07-27,Germany,France,2,1,UEFA Euro,Milton Keynes,England,TRUE
+2022-07-27,Samoa,Papua New Guinea,0,3,OFC Nations Cup,Suva,Fiji,TRUE
+2022-07-27,Fiji,Solomon Islands,3,1,OFC Nations Cup,Suva,Fiji,FALSE
+2022-07-29,Argentina,Paraguay,3,1,Copa América,Armenia,Colombia,TRUE
+2022-07-30,Samoa,Solomon Islands,1,1,OFC Nations Cup,Suva,Fiji,TRUE
+2022-07-30,Fiji,Papua New Guinea,1,2,OFC Nations Cup,Suva,Fiji,FALSE
+2022-07-30,Colombia,Brazil,0,1,Copa América,Bucaramanga,Colombia,FALSE
 2022-07-31,England,Germany,2,1,UEFA Euro,London,England,FALSE
 2022-09-01,Georgia,Slovakia,0,4,FIFA World Cup qualification,Gori,Georgia,FALSE
 2022-09-01,Republic of Ireland,Finland,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
@@ -5113,3 +5199,22 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-09-06,Wales,Slovenia,0,0,FIFA World Cup qualification,Cardiff,Wales,FALSE
 2022-09-06,Azerbaijan,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,Viborg,Denmark,TRUE
 2022-09-06,Malta,Montenegro,2,0,FIFA World Cup qualification,Ta' Qali,Malta,FALSE
+2022-10-06,Scotland,Austria,1,0,FIFA World Cup qualification,Glasgow,Scotland,FALSE
+2022-10-06,Wales,Bosnia and Herzegovina,1,0,FIFA World Cup qualification,Cardiff,Wales,FALSE
+2022-10-06,Portugal,Belgium,2,1,FIFA World Cup qualification,Vizela,Portugal,FALSE
+2022-10-11,Portugal,Iceland,4,1,FIFA World Cup qualification,Paços de Ferreira,Portugal,FALSE
+2022-10-11,Scotland,Republic of Ireland,0,1,FIFA World Cup qualification,Glasgow,Scotland,FALSE
+2022-10-11,Switzerland,Wales,2,1,FIFA World Cup qualification,Zürich,Switzerland,FALSE
+2023-02-17,New Zealand,Portugal,0,5,FIFA World Cup qualification,Hamilton,New Zealand,FALSE
+2023-02-17,Argentina,Chile,4,0,FIFA World Cup qualification,Auckland,New Zealand,TRUE
+2023-02-18,Cameroon,Thailand,2,0,FIFA World Cup qualification,Hamilton,New Zealand,TRUE
+2023-02-18,Senegal,Haiti,0,4,FIFA World Cup qualification,Auckland,New Zealand,TRUE
+2023-02-19,Taiwan,Paraguay,2,2,FIFA World Cup qualification,Hamilton,New Zealand,TRUE
+2023-02-19,Papua New Guinea,Panama,0,2,FIFA World Cup qualification,Auckland,New Zealand,TRUE
+2023-02-20,New Zealand,Argentina,0,2,FIFA World Cup qualification,Hamilton,New Zealand,FALSE
+2023-02-21,Thailand,Senegal,1,1,FIFA World Cup qualification,Hamilton,New Zealand,TRUE
+2023-02-22,Portugal,Cameroon,2,1,FIFA World Cup qualification,Hamilton,New Zealand,TRUE
+2023-02-22,Chile,Haiti,1,2,FIFA World Cup qualification,Auckland,New Zealand,TRUE
+2023-02-23,Paraguay,Panama,0,1,FIFA World Cup qualification,Hamilton,New Zealand,TRUE
+2023-02-23,Taiwan,Papua New Guinea,5,0,FIFA World Cup qualification,Auckland,New Zealand,TRUE
+2023-02-23,New Zealand,Argentina,0,1,FIFA World Cup qualification,Auckland,New Zealand,FALSE
