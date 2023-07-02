@@ -14,15 +14,24 @@ date,home_team,away_team,winner
 2015-06-26,Germany,France,Germany
 2017-03-08,Belgium,Austria,Belgium
 2017-03-08,Scotland,Wales,Scotland
+2018-03-06,Poland,Ukraine,Ukraine
 2018-03-07,Wales,Austria,Austria
+2019-03-05,India,Kazakhstan,Kazakhstan
 2019-03-06,Austria,Belgium,Belgium
 2019-03-06,North Korea,Italy,North Korea
 2019-06-22,Norway,Australia,Norway
+2019-09-01,Brazil,Chile,Chile
+2019-11-10,China PR,Brazil,China PR
 2021-04-13,Switzerland,Czech Republic,Switzerland
+2021-06-10,Estonia,Faroe Islands,Faroe Islands
 2021-09-25,Jordan,Iran,Iran
 2021-10-26,Ethiopia,Uganda,Uganda
 2022-01-30,Taiwan,Philippines,Philippines
 2022-02-03,China PR,Japan,China PR
+2022-02-16,Hungary,Russia,Russia
+2022-02-19,Wales,Belgium,Belgium
+2022-02-22,Scotland,Hungary,Scotland
+2022-02-22,Belgium,Russia,Belgium
 2022-02-22,Mali,Senegal,Senegal
 2022-02-23,Sweden,Italy,Sweden
 2022-07-13,Zambia,Senegal,Zambia
@@ -32,3 +41,4 @@ date,home_team,away_team,winner
 2022-07-24,Chile,Venezuela,Chile
 2022-07-30,Samoa,Solomon Islands,Solomon Islands
 2023-02-19,Taiwan,Paraguay,Paraguay
+2023-04-06,England,Brazil,England
