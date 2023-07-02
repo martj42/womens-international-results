@@ -1473,8 +1473,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2002-08-04,Jamaica,Haiti,2,0,CONCACAF Gold Cup qualification,Jamaica,Jamaica,FALSE
 2002-08-06,El Salvador,Costa Rica,0,3,CONCACAF Gold Cup qualification,El Salvador,El Salvador,FALSE
 2002-08-06,Panama,Honduras,2,6,CONCACAF Gold Cup qualification,El Salvador,El Salvador,TRUE
-2002-08-08,Suriname,U.S. Virgin Islands,6,1,CONCACAF Gold Cup qualification,Suriname,Suriname,FALSE
-2002-08-10,Suriname,U.S. Virgin Islands,2,0,CONCACAF Gold Cup qualification,Suriname,Suriname,FALSE
+2002-08-08,Suriname,United States Virgin Islands,6,1,CONCACAF Gold Cup qualification,Suriname,Suriname,FALSE
+2002-08-10,Suriname,United States Virgin Islands,2,0,CONCACAF Gold Cup qualification,Suriname,Suriname,FALSE
 2002-08-10,Eritrea,Tanzania,2,3,African Championship qualification,Asmara,Eritrea,FALSE
 2002-08-10,São Tomé and Príncipe,Gabon,0,2,African Championship qualification,São Tomé,São Tomé and Príncipe,FALSE
 2002-08-10,Ivory Coast,Mali,3,3,African Championship qualification,Abidjan,Ivory Coast,FALSE
@@ -1975,16 +1975,16 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-03-26,Mozambique,South Africa,1,6,African Championship qualification,Mozambique,Mozambique,FALSE
 2006-03-26,Togo,Congo,1,3,African Championship qualification,Lomé,Togo,FALSE
 2006-03-26,Guinea,Senegal,1,5,African Championship qualification,Guinea,Guinea,FALSE
-2006-04-01,British Virgin Islands,U.S. Virgin Islands,1,3,CONCACAF Gold Cup,British Virgin Islands,British Virgin Islands,FALSE
-2006-04-09,U.S. Virgin Islands,British Virgin Islands,5,0,CONCACAF Gold Cup,US Virgin Islands,US Virgin Islands,TRUE
+2006-04-01,British Virgin Islands,United States Virgin Islands,1,3,CONCACAF Gold Cup,British Virgin Islands,British Virgin Islands,FALSE
+2006-04-09,United States Virgin Islands,British Virgin Islands,5,0,CONCACAF Gold Cup,United States Virgin Islands,United States Virgin Islands,TRUE
 2006-05-03,Suriname,Netherlands Antilles,7,1,CONCACAF Gold Cup,Aruba,Aruba,TRUE
-2006-05-04,Dominican Republic,U.S. Virgin Islands,3,1,CONCACAF Gold Cup,Dominican Republic,Dominican Republic,FALSE
+2006-05-04,Dominican Republic,United States Virgin Islands,3,1,CONCACAF Gold Cup,Dominican Republic,Dominican Republic,FALSE
 2006-05-04,Bermuda,Turks and Caicos Islands,4,0,CONCACAF Gold Cup,Dominican Republic,Dominican Republic,TRUE
 2006-05-05,Aruba,Netherlands Antilles,1,2,CONCACAF Gold Cup,Aruba,Aruba,FALSE
-2006-05-06,Bermuda,U.S. Virgin Islands,4,1,CONCACAF Gold Cup,Dominican Republic,Dominican Republic,TRUE
+2006-05-06,Bermuda,United States Virgin Islands,4,1,CONCACAF Gold Cup,Dominican Republic,Dominican Republic,TRUE
 2006-05-06,Dominican Republic,Turks and Caicos Islands,5,0,CONCACAF Gold Cup,Dominican Republic,Dominican Republic,FALSE
 2006-05-07,Aruba,Suriname,0,3,CONCACAF Gold Cup,Aruba,Aruba,FALSE
-2006-05-08,U.S. Virgin Islands,Turks and Caicos Islands,2,0,CONCACAF Gold Cup,Dominican Republic,Dominican Republic,TRUE
+2006-05-08,United States Virgin Islands,Turks and Caicos Islands,2,0,CONCACAF Gold Cup,Dominican Republic,Dominican Republic,TRUE
 2006-05-08,Dominican Republic,Bermuda,3,1,CONCACAF Gold Cup,Dominican Republic,Dominican Republic,FALSE
 2006-05-08,Saint Kitts and Nevis,Antigua and Barbuda,3,2,CONCACAF Gold Cup,Jamaica,Jamaica,TRUE
 2006-05-08,Jamaica,Saint Lucia,5,0,CONCACAF Gold Cup,Jamaica,Jamaica,FALSE
@@ -2606,8 +2606,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2010-03-07,Guinea,Sierra Leone,3,2,African Championship qualification,Conakry,Guinea,FALSE
 2010-03-07,Guyana,Saint Vincent and the Grenadines,1,0,CONCACAF Gold Cup qualification,Georgetown,Guyana,FALSE
 2010-03-10,Antigua and Barbuda,Saint Lucia,1,2,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,FALSE
-2010-03-12,U.S. Virgin Islands,Saint Lucia,0,7,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,TRUE
-2010-03-14,Antigua and Barbuda,U.S. Virgin Islands,3,1,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,FALSE
+2010-03-12,United States Virgin Islands,Saint Lucia,0,7,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,TRUE
+2010-03-14,Antigua and Barbuda,United States Virgin Islands,3,1,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,FALSE
 2010-03-17,Saint Kitts and Nevis,Dominica,2,0,CONCACAF Gold Cup qualification,Bayamón,Puerto Rico,TRUE
 2010-03-19,DR Congo,Botswana,5,2,African Championship qualification,Kinshasa,DR Congo,FALSE
 2010-03-19,Ivory Coast,Gabon,3,1,African Championship qualification,Abidjan,Ivory Coast,FALSE
@@ -3105,32 +3105,32 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2012-06-21,Slovenia,England,0,4,UEFA Euro qualification,Velenje,Slovenia,FALSE
 2012-06-30,United States,Canada,2,1,Friendly,Sandy,United States,FALSE
 2012-07-20,Equatorial Guinea,Cameroon,2,0,African Championship,Malabo,Equatorial Guinea,FALSE
-2012-07-25,Great Britain,New Zealand,1,0,Olympic Games,Cardiff,United Kingdom,TRUE
-2012-07-25,Cameroon,Brazil,0,5,Olympic Games,Cardiff,United Kingdom,TRUE
-2012-07-25,Japan,Canada,2,1,Olympic Games,Coventry,United Kingdom,TRUE
-2012-07-25,Sweden,South Africa,4,1,Olympic Games,Coventry,United Kingdom,TRUE
-2012-07-25,United States,France,4,2,Olympic Games,Glasgow,United Kingdom,TRUE
-2012-07-25,Colombia,North Korea,0,2,Olympic Games,Glasgow,United Kingdom,TRUE
-2012-07-28,New Zealand,Brazil,0,1,Olympic Games,Cardiff,United Kingdom,TRUE
-2012-07-28,Great Britain,Cameroon,3,0,Olympic Games,Cardiff,United Kingdom,TRUE
-2012-07-28,Japan,Sweden,0,0,Olympic Games,Coventry,United Kingdom,TRUE
-2012-07-28,Canada,South Africa,3,0,Olympic Games,Coventry,United Kingdom,TRUE
-2012-07-28,United States,Colombia,3,0,Olympic Games,Glasgow,United Kingdom,TRUE
-2012-07-28,France,North Korea,5,0,Olympic Games,Glasgow,United Kingdom,TRUE
-2012-07-31,New Zealand,Cameroon,3,1,Olympic Games,Coventry,United Kingdom,TRUE
-2012-07-31,Great Britain,Brazil,1,0,Olympic Games,London,United Kingdom,TRUE
-2012-07-31,Japan,South Africa,0,0,Olympic Games,Cardiff,United Kingdom,TRUE
-2012-07-31,Canada,Sweden,2,2,Olympic Games,Newcastle,United Kingdom,TRUE
-2012-07-31,United States,North Korea,1,0,Olympic Games,Manchester,United Kingdom,TRUE
-2012-07-31,France,Colombia,1,0,Olympic Games,Newcastle,United Kingdom,TRUE
-2012-08-03,Sweden,France,1,2,Olympic Games,Glasgow,United Kingdom,TRUE
-2012-08-03,United States,New Zealand,2,0,Olympic Games,Newcastle,United Kingdom,TRUE
-2012-08-03,Brazil,Japan,0,2,Olympic Games,Cardiff,United Kingdom,TRUE
-2012-08-03,Great Britain,Canada,0,2,Olympic Games,Coventry,United Kingdom,TRUE
-2012-08-06,France,Japan,1,2,Olympic Games,London,United Kingdom,TRUE
-2012-08-06,Canada,United States,3,4,Olympic Games,Manchester,United Kingdom,TRUE
-2012-08-09,Canada,France,1,0,Olympic Games,Coventry,United Kingdom,TRUE
-2012-08-09,United States,Japan,2,1,Olympic Games,London,United Kingdom,TRUE
+2012-07-25,Great Britain,New Zealand,1,0,Olympic Games,Cardiff,Wales,FALSE
+2012-07-25,Cameroon,Brazil,0,5,Olympic Games,Cardiff,Wales,TRUE
+2012-07-25,Japan,Canada,2,1,Olympic Games,Coventry,England,TRUE
+2012-07-25,Sweden,South Africa,4,1,Olympic Games,Coventry,England,TRUE
+2012-07-25,United States,France,4,2,Olympic Games,Glasgow,Scotland,TRUE
+2012-07-25,Colombia,North Korea,0,2,Olympic Games,Glasgow,Scotland,TRUE
+2012-07-28,New Zealand,Brazil,0,1,Olympic Games,Cardiff,Wales,TRUE
+2012-07-28,Great Britain,Cameroon,3,0,Olympic Games,Cardiff,Wales,FALSE
+2012-07-28,Japan,Sweden,0,0,Olympic Games,Coventry,England,TRUE
+2012-07-28,Canada,South Africa,3,0,Olympic Games,Coventry,England,TRUE
+2012-07-28,United States,Colombia,3,0,Olympic Games,Glasgow,Scotland,TRUE
+2012-07-28,France,North Korea,5,0,Olympic Games,Glasgow,Scotland,TRUE
+2012-07-31,New Zealand,Cameroon,3,1,Olympic Games,Coventry,England,TRUE
+2012-07-31,Great Britain,Brazil,1,0,Olympic Games,London,England,FALSE
+2012-07-31,Japan,South Africa,0,0,Olympic Games,Cardiff,Wales,TRUE
+2012-07-31,Canada,Sweden,2,2,Olympic Games,Newcastle,England,TRUE
+2012-07-31,United States,North Korea,1,0,Olympic Games,Manchester,England,TRUE
+2012-07-31,France,Colombia,1,0,Olympic Games,Newcastle,England,TRUE
+2012-08-03,Sweden,France,1,2,Olympic Games,Glasgow,Scotland,TRUE
+2012-08-03,United States,New Zealand,2,0,Olympic Games,Newcastle,England,TRUE
+2012-08-03,Brazil,Japan,0,2,Olympic Games,Cardiff,Wales,TRUE
+2012-08-03,Great Britain,Canada,0,2,Olympic Games,Coventry,England,FALSE
+2012-08-06,France,Japan,1,2,Olympic Games,London,England,TRUE
+2012-08-06,Canada,United States,3,4,Olympic Games,Manchester,England,TRUE
+2012-08-09,Canada,France,1,0,Olympic Games,Coventry,England,TRUE
+2012-08-09,United States,Japan,2,1,Olympic Games,London,England,TRUE
 2012-08-25,Estonia,Slovakia,0,2,UEFA Euro qualification,Haapsalu,Estonia,FALSE
 2012-09-02,United States,Costa Rica,8,0,Friendly,Rochester,United States,FALSE
 2012-09-15,Macedonia,Russia,0,6,UEFA Euro qualification,Prilep,Macedonia,FALSE
@@ -3555,17 +3555,17 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-03-11,Australia,Czech Republic,6,2,Cyprus Cup,Paralimni,Cyprus,TRUE
 2015-03-11,Italy,Mexico,2,3,Cyprus Cup,Larnaca,Cyprus,TRUE
 2015-03-11,Canada,England,0,1,Cyprus Cup,Larnaca,Cyprus,TRUE
-2015-04-04,Luxembourg,Latvia,4,3,UEFA Euro qualification,Orhei,Luxembourg,FALSE
+2015-04-04,Luxembourg,Latvia,4,3,UEFA Euro qualification,Orhei,Moldova,TRUE
 2015-04-04,Moldova,Lithuania,2,0,UEFA Euro qualification,Vadul lui Vodă,Moldova,FALSE
-2015-04-04,Georgia,Faroe Islands,2,0,UEFA Euro qualification,Ħamrun,Georgia,FALSE
-2015-04-04,Andorra,Malta,3,5,UEFA Euro qualification,Ħamrun,Andorra,FALSE
+2015-04-04,Georgia,Faroe Islands,2,0,UEFA Euro qualification,Ħamrun,Malta,TRUE
+2015-04-04,Malta,Andorra,5,3,UEFA Euro qualification,Ħamrun,Malta,FALSE
 2015-04-05,United States,New Zealand,4,0,Friendly,St. Louis,United States,FALSE
-2015-04-06,Lithuania,Luxembourg,2,0,UEFA Euro qualification,Orhei,Lithuania,FALSE
+2015-04-06,Lithuania,Luxembourg,2,0,UEFA Euro qualification,Orhei,Moldova,TRUE
 2015-04-06,Moldova,Latvia,0,1,UEFA Euro qualification,Vadul lui Vodă,Moldova,FALSE
-2015-04-06,Faroe Islands,Andorra,8,0,UEFA Euro qualification,Ħamrun,Faroe Islands,FALSE
-2015-04-06,Georgia,Malta,1,2,UEFA Euro qualification,Ħamrun,Georgia,FALSE
+2015-04-06,Faroe Islands,Andorra,8,0,UEFA Euro qualification,Ħamrun,Malta,TRUE
+2015-04-06,Georgia,Malta,1,2,UEFA Euro qualification,Ħamrun,Malta,TRUE
 2015-04-09,Luxembourg,Moldova,0,3,UEFA Euro qualification,Vadul lui Vodă,Luxembourg,FALSE
-2015-04-09,Latvia,Lithuania,1,1,UEFA Euro qualification,Orhei,Latvia,FALSE
+2015-04-09,Latvia,Lithuania,1,1,UEFA Euro qualification,Orhei,Moldova,TRUE
 2015-04-09,Malta,Faroe Islands,2,4,UEFA Euro qualification,Ħamrun,Malta,FALSE
 2015-04-09,Andorra,Georgia,0,7,UEFA Euro qualification,Ta' Qali,Malta,TRUE
 2015-05-10,United States,Republic of Ireland,3,0,Friendly,San Jose,United States,FALSE
@@ -4377,11 +4377,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-05-13,Guadeloupe,Martinique,0,3,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,TRUE
 2018-05-13,Haiti,Jamaica,2,2,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,FALSE
 2018-05-19,Dominica,Saint Kitts and Nevis,1,2,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,TRUE
-2018-05-19,Trinidad and Tobago,U.S. Virgin Islands,10,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,FALSE
-2018-05-21,U.S. Virgin Islands,Grenada,3,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,TRUE
+2018-05-19,Trinidad and Tobago,United States Virgin Islands,10,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,FALSE
+2018-05-21,United States Virgin Islands,Grenada,3,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,TRUE
 2018-05-21,Trinidad and Tobago,Dominica,3,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,FALSE
 2018-05-23,Saint Kitts and Nevis,Grenada,10,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,TRUE
-2018-05-23,U.S. Virgin Islands,Dominica,0,3,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,TRUE
+2018-05-23,United States Virgin Islands,Dominica,0,3,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,TRUE
 2018-05-23,Saint Lucia,Curaçao,2,1,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,TRUE
 2018-05-23,Antigua and Barbuda,Saint Vincent and the Grenadines,1,0,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,FALSE
 2018-05-23,Barbados,Suriname,2,1,CONCACAF Gold Cup qualification,Leonora,Guyana,TRUE
@@ -4392,7 +4392,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-05-25,Antigua and Barbuda,Curaçao,3,0,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,FALSE
 2018-05-25,Bermuda,Barbados,3,2,CONCACAF Gold Cup qualification,Leonora,Guyana,TRUE
 2018-05-25,Guyana,Suriname,6,1,CONCACAF Gold Cup qualification,Leonora,Guyana,FALSE
-2018-05-27,Saint Kitts and Nevis,U.S. Virgin Islands,7,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,TRUE
+2018-05-27,Saint Kitts and Nevis,United States Virgin Islands,7,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,TRUE
 2018-05-27,Trinidad and Tobago,Grenada,13,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,FALSE
 2018-05-27,Curaçao,Saint Vincent and the Grenadines,1,0,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,TRUE
 2018-05-27,Antigua and Barbuda,Saint Lucia,1,0,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,FALSE
@@ -4981,8 +4981,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-04-10,Lithuania,Lebanon,7,1,Armenia International Friendly Tournament,Yerevan,Armenia,TRUE
 2021-04-10,Armenia,Jordan,1,1,Armenia International Friendly Tournament,Charentsavan,Armenia,FALSE
 2021-04-11,Argentina,Venezuela,1,0,Basque Country Women's Cup,San Sebastian,Spain,TRUE
-2021-04-11,Basque Country,Argentina,1,0,Basque Country Women's Cup,San Sebastian,Spain,TRUE
-2021-04-11,Basque Country,Venezuela,0,0,Basque Country Women's Cup,San Sebastian,Spain,TRUE
+2021-04-11,Basque Country,Argentina,1,0,Basque Country Women's Cup,San Sebastian,Spain,FALSE
+2021-04-11,Basque Country,Venezuela,0,0,Basque Country Women's Cup,San Sebastian,Spain,FALSE
 2021-04-12,Lebanon,Jordan,0,6,Armenia International Friendly Tournament,Charentsavan,Armenia,TRUE
 2021-04-12,Armenia,Lithuania,2,2,Armenia International Friendly Tournament,Yerevan,Armenia,FALSE
 2021-04-13,Northern Ireland,Ukraine,2,0,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
