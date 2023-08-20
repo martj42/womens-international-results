@@ -1418,3 +1418,167 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2022-07-31,England,Germany,England,Ella Toone,62,FALSE,FALSE
 2022-07-31,England,Germany,Germany,Lina Magull,79,FALSE,FALSE
 2022-07-31,England,Germany,England,Chloe Kelly,110,FALSE,FALSE
+2023-07-20,Australia,Republic of Ireland,Australia,Steph Catley,52,FALSE,TRUE
+2023-07-20,New Zealand,Norway,New Zealand,Hannah Wilkinson,48,FALSE,FALSE
+2023-07-21,Philippines,Switzerland,Switzerland,Ramona Bachmann,45,FALSE,TRUE
+2023-07-21,Philippines,Switzerland,Switzerland,Seraina Piubel,64,FALSE,FALSE
+2023-07-21,Spain,Costa Rica,Spain,Valeria del Campo,21,TRUE,FALSE
+2023-07-21,Spain,Costa Rica,Spain,Aitana Bonmatí,23,FALSE,FALSE
+2023-07-21,Spain,Costa Rica,Spain,Esther González,27,FALSE,FALSE
+2023-07-22,Denmark,China,Denmark,Amalie Vangsgaard,90,FALSE,FALSE
+2023-07-22,England,Haiti,England,Georgia Stanway,29,FALSE,TRUE
+2023-07-22,United States,Vietnam,United States,Sophia Smith,14,FALSE,FALSE
+2023-07-22,United States,Vietnam,United States,Sophia Smith,45,FALSE,FALSE
+2023-07-22,United States,Vietnam,United States,Lindsey Horan,77,FALSE,FALSE
+2023-07-22,Zambia,Japan,Japan,Hinata Miyazawa,43,FALSE,FALSE
+2023-07-22,Zambia,Japan,Japan,Mina Tanaka,55,FALSE,FALSE
+2023-07-22,Zambia,Japan,Japan,Hinata Miyazawa,62,FALSE,FALSE
+2023-07-22,Zambia,Japan,Japan,Jun Endō,71,FALSE,FALSE
+2023-07-22,Zambia,Japan,Japan,Riko Ueki,90,FALSE,TRUE
+2023-07-23,Netherlands,Portugal,Netherlands,Stefanie van der Gragt,13,FALSE,FALSE
+2023-07-23,Sweden,South Africa,South Africa,Hildah Magaia,48,FALSE,FALSE
+2023-07-23,Sweden,South Africa,Sweden,Fridolina Rolfö,65,FALSE,FALSE
+2023-07-23,Sweden,South Africa,Sweden,Amanda Ilestedt,90,FALSE,FALSE
+2023-07-24,Brazil,Panama,Brazil,Ary Borges,19,FALSE,FALSE
+2023-07-24,Brazil,Panama,Brazil,Ary Borges,39,FALSE,FALSE
+2023-07-24,Brazil,Panama,Brazil,Bia Zaneratto,48,FALSE,FALSE
+2023-07-24,Brazil,Panama,Brazil,Ary Borges,70,FALSE,FALSE
+2023-07-24,Germany,Morocco,Germany,Alexandra Popp,11,FALSE,FALSE
+2023-07-24,Germany,Morocco,Germany,Alexandra Popp,39,FALSE,FALSE
+2023-07-24,Germany,Morocco,Germany,Klara Bühl,46,FALSE,FALSE
+2023-07-24,Germany,Morocco,Germany,Hanane Aït El Haj,54,TRUE,FALSE
+2023-07-24,Germany,Morocco,Germany,Zineb Redouani,79,TRUE,FALSE
+2023-07-24,Germany,Morocco,Germany,Lea Schüller,90,FALSE,FALSE
+2023-07-24,Italy,Argentina,Italy,Cristiana Girelli,87,FALSE,FALSE
+2023-07-25,Colombia,South Korea,Colombia,Catalina Usme,30,FALSE,TRUE
+2023-07-25,Colombia,South Korea,Colombia,Linda Caicedo,39,FALSE,FALSE
+2023-07-25,New Zealand,Philippines,Philippines,Sarina Bolden,24,FALSE,FALSE
+2023-07-26,Canada,Republic of Ireland,Republic of Ireland,Katie McCabe,4,FALSE,FALSE
+2023-07-26,Canada,Republic of Ireland,Canada,Megan Connolly,45,TRUE,FALSE
+2023-07-26,Canada,Republic of Ireland,Canada,Adriana Leon,53,FALSE,FALSE
+2023-07-26,Japan,Costa Rica,Japan,Hikaru Naomoto,25,FALSE,FALSE
+2023-07-26,Japan,Costa Rica,Japan,Aoba Fujino,27,FALSE,FALSE
+2023-07-26,Spain,Zambia,Spain,Teresa Abelleira,9,FALSE,FALSE
+2023-07-26,Spain,Zambia,Spain,Jennifer Hermoso,13,FALSE,FALSE
+2023-07-26,Spain,Zambia,Spain,Alba Redondo,69,FALSE,FALSE
+2023-07-26,Spain,Zambia,Spain,Jennifer Hermoso,70,FALSE,FALSE
+2023-07-26,Spain,Zambia,Spain,Alba Redondo,85,FALSE,FALSE
+2023-07-27,Australia,Nigeria,Australia,Emily van Egmond,45,FALSE,FALSE
+2023-07-27,Australia,Nigeria,Nigeria,Uchenna Kanu,45,FALSE,FALSE
+2023-07-27,Australia,Nigeria,Nigeria,Osinachi Ohale,65,FALSE,FALSE
+2023-07-27,Australia,Nigeria,Nigeria,Asisat Oshoala,72,FALSE,FALSE
+2023-07-27,Australia,Nigeria,Australia,Alanna Kennedy,90,FALSE,FALSE
+2023-07-27,Portugal,Vietnam,Portugal,Telma Encarnação,7,FALSE,FALSE
+2023-07-27,Portugal,Vietnam,Portugal,Francisca Nazareth,21,FALSE,FALSE
+2023-07-27,United States,Netherlands,Netherlands,Jill Roord,17,FALSE,FALSE
+2023-07-27,United States,Netherlands,United States,Lindsey Horan,62,FALSE,FALSE
+2023-07-28,Argentina,South Africa,South Africa,Linda Motlhalo,30,FALSE,FALSE
+2023-07-28,Argentina,South Africa,South Africa,Thembi Kgatlana,66,FALSE,FALSE
+2023-07-28,Argentina,South Africa,Argentina,Sophia Braun,74,FALSE,FALSE
+2023-07-28,Argentina,South Africa,Argentina,Romina Núñez,79,FALSE,FALSE
+2023-07-28,China,Haiti,China,Wang Shuang,74,FALSE,TRUE
+2023-07-28,England,Denmark,England,Lauren James,6,FALSE,FALSE
+2023-07-29,France,Brazil,France,Eugénie Le Sommer,17,FALSE,FALSE
+2023-07-29,France,Brazil,Brazil,Debinha,58,FALSE,FALSE
+2023-07-29,France,Brazil,France,Wendie Renard,83,FALSE,FALSE
+2023-07-29,Panama,Jamaica,Jamaica,Allyson Swaby,56,FALSE,FALSE
+2023-07-29,Sweden,Italy,Sweden,Amanda Ilestedt,39,FALSE,FALSE
+2023-07-29,Sweden,Italy,Sweden,Fridolina Rolfö,44,FALSE,FALSE
+2023-07-29,Sweden,Italy,Sweden,Stina Blackstenius,45,FALSE,FALSE
+2023-07-29,Sweden,Italy,Sweden,Amanda Ilestedt,50,FALSE,FALSE
+2023-07-29,Sweden,Italy,Sweden,Rebecka Blomqvist,90,FALSE,FALSE
+2023-07-30,Germany,Colombia,Colombia,Linda Caicedo,52,FALSE,FALSE
+2023-07-30,Germany,Colombia,Germany,Alexandra Popp,89,FALSE,TRUE
+2023-07-30,Germany,Colombia,Colombia,Manuela Vanegas,90,FALSE,FALSE
+2023-07-30,Norway,Philippines,Norway,Sophie Román Haug,6,FALSE,FALSE
+2023-07-30,Norway,Philippines,Norway,Sophie Román Haug,17,FALSE,FALSE
+2023-07-30,Norway,Philippines,Norway,Caroline Graham Hansen,31,FALSE,FALSE
+2023-07-30,Norway,Philippines,Norway,Alicia Barker,48,TRUE,FALSE
+2023-07-30,Norway,Philippines,Norway,Guro Reiten,53,FALSE,TRUE
+2023-07-30,Norway,Philippines,Norway,Sophie Román Haug,90,FALSE,FALSE
+2023-07-30,South Korea,Morocco,Morocco,Ibtissam Jraïdi,6,FALSE,FALSE
+2023-07-31,Australia,Canada,Australia,Hayley Raso,9,FALSE,FALSE
+2023-07-31,Australia,Canada,Australia,Hayley Raso,39,FALSE,FALSE
+2023-07-31,Australia,Canada,Australia,Mary Fowler,58,FALSE,FALSE
+2023-07-31,Australia,Canada,Australia,Steph Catley,90,FALSE,TRUE
+2023-07-31,Costa Rica,Zambia,Zambia,Lushomo Mweemba,3,FALSE,FALSE
+2023-07-31,Costa Rica,Zambia,Zambia,Barbra Banda,31,FALSE,TRUE
+2023-07-31,Costa Rica,Zambia,Costa Rica,Melissa Herrera,47,FALSE,FALSE
+2023-07-31,Costa Rica,Zambia,Zambia,Racheal Kundananji,90,FALSE,FALSE
+2023-07-31,Japan,Spain,Japan,Hinata Miyazawa,12,FALSE,FALSE
+2023-07-31,Japan,Spain,Japan,Riko Ueki,29,FALSE,FALSE
+2023-07-31,Japan,Spain,Japan,Hinata Miyazawa,40,FALSE,FALSE
+2023-07-31,Japan,Spain,Japan,Mina Tanaka,82,FALSE,FALSE
+2023-08-01,China,England,England,Alessia Russo,4,FALSE,FALSE
+2023-08-01,China,England,England,Lauren Hemp,26,FALSE,FALSE
+2023-08-01,China,England,England,Lauren James,41,FALSE,FALSE
+2023-08-01,China,England,China,Wang Shuang,57,FALSE,TRUE
+2023-08-01,China,England,England,Lauren James,65,FALSE,FALSE
+2023-08-01,China,England,England,Chloe Kelly,77,FALSE,FALSE
+2023-08-01,China,England,England,Rachel Daly,84,FALSE,FALSE
+2023-08-01,Haiti,Denmark,Denmark,Pernille Harder,21,FALSE,TRUE
+2023-08-01,Haiti,Denmark,Denmark,Sanne Troelsgaard Nielsen,90,FALSE,FALSE
+2023-08-01,Vietnam,Netherlands,Netherlands,Lieke Martens,8,FALSE,FALSE
+2023-08-01,Vietnam,Netherlands,Netherlands,Katja Snoeijs,11,FALSE,FALSE
+2023-08-01,Vietnam,Netherlands,Netherlands,Esmee Brugts,18,FALSE,FALSE
+2023-08-01,Vietnam,Netherlands,Netherlands,Jill Roord,23,FALSE,FALSE
+2023-08-01,Vietnam,Netherlands,Netherlands,Daniëlle van de Donk,45,FALSE,FALSE
+2023-08-01,Vietnam,Netherlands,Netherlands,Esmee Brugts,57,FALSE,FALSE
+2023-08-01,Vietnam,Netherlands,Netherlands,Jill Roord,83,FALSE,FALSE
+2023-08-02,Argentina,Sweden,Sweden,Rebecka Blomqvist,66,FALSE,FALSE
+2023-08-02,Argentina,Sweden,Sweden,Elin Rubensson,90,FALSE,TRUE
+2023-08-02,Panama,France,Panama,Marta Cox,2,FALSE,FALSE
+2023-08-02,Panama,France,France,Maëlle Lakrar,21,FALSE,FALSE
+2023-08-02,Panama,France,France,Kadidiatou Diani,28,FALSE,FALSE
+2023-08-02,Panama,France,France,Kadidiatou Diani,37,FALSE,TRUE
+2023-08-02,Panama,France,France,Léa Le Garrec,45,FALSE,FALSE
+2023-08-02,Panama,France,France,Kadidiatou Diani,52,FALSE,TRUE
+2023-08-02,Panama,France,Panama,Yomira Pinzón,64,FALSE,TRUE
+2023-08-02,Panama,France,Panama,Lineth Cedeño,87,FALSE,FALSE
+2023-08-02,Panama,France,France,Vicki Bècho,90,FALSE,FALSE
+2023-08-02,South Africa,Italy,Italy,Arianna Caruso,11,FALSE,TRUE
+2023-08-02,South Africa,Italy,South Africa,Benedetta Orsi,32,TRUE,FALSE
+2023-08-02,South Africa,Italy,South Africa,Hildah Magaia,67,FALSE,FALSE
+2023-08-02,South Africa,Italy,Italy,Arianna Caruso,74,FALSE,FALSE
+2023-08-02,South Africa,Italy,South Africa,Thembi Kgatlana,90,FALSE,FALSE
+2023-08-03,Morocco,Colombia,Morocco,Anissa Lahmari,45,FALSE,FALSE
+2023-08-03,South Korea,Germany,South Korea,Cho So-hyun,6,FALSE,FALSE
+2023-08-03,South Korea,Germany,Germany,Alexandra Popp,42,FALSE,FALSE
+2023-08-05,Japan,Norway,Japan,Ingrid Syrstad Engen,15,TRUE,FALSE
+2023-08-05,Japan,Norway,Norway,Guro Reiten,20,FALSE,FALSE
+2023-08-05,Japan,Norway,Japan,Risa Shimizu,50,FALSE,FALSE
+2023-08-05,Japan,Norway,Japan,Hinata Miyazawa,81,FALSE,FALSE
+2023-08-05,Switzerland,Spain,Spain,Aitana Bonmatí,5,FALSE,FALSE
+2023-08-05,Switzerland,Spain,Switzerland,Laia Codina,11,TRUE,FALSE
+2023-08-05,Switzerland,Spain,Spain,Alba Redondo,17,FALSE,FALSE
+2023-08-05,Switzerland,Spain,Spain,Aitana Bonmatí,36,FALSE,FALSE
+2023-08-05,Switzerland,Spain,Spain,Laia Codina,45,FALSE,FALSE
+2023-08-05,Switzerland,Spain,Spain,Jennifer Hermoso,70,FALSE,FALSE
+2023-08-06,Netherlands,South Africa,Netherlands,Jill Roord,9,FALSE,FALSE
+2023-08-06,Netherlands,South Africa,Netherlands,Lineth Beerensteyn,68,FALSE,FALSE
+2023-08-07,Australia,Denmark,Australia,Caitlin Foord,29,FALSE,FALSE
+2023-08-07,Australia,Denmark,Australia,Hayley Raso,70,FALSE,FALSE
+2023-08-08,Colombia,Jamaica,Colombia,Catalina Usme,51,FALSE,FALSE
+2023-08-08,France,Morocco,France,Kadidiatou Diani,15,FALSE,FALSE
+2023-08-08,France,Morocco,France,Kenza Dali,20,FALSE,FALSE
+2023-08-08,France,Morocco,France,Eugénie Le Sommer,23,FALSE,FALSE
+2023-08-08,France,Morocco,France,Eugénie Le Sommer,70,FALSE,FALSE
+2023-08-11,Japan,Sweden,Sweden,Amanda Ilestedt,32,FALSE,FALSE
+2023-08-11,Japan,Sweden,Sweden,Filippa Angeldahl,51,FALSE,TRUE
+2023-08-11,Japan,Sweden,Japan,Honoka Hayashi,87,FALSE,FALSE
+2023-08-11,Spain,Netherlands,Spain,Mariona Caldentey,81,FALSE,TRUE
+2023-08-11,Spain,Netherlands,Netherlands,Stefanie van der Gragt,90,FALSE,FALSE
+2023-08-11,Spain,Netherlands,Spain,Salma Paralluelo,111,FALSE,FALSE
+2023-08-12,England,Colombia,Colombia,Leicy Santos,44,FALSE,FALSE
+2023-08-12,England,Colombia,England,Lauren Hemp,45,FALSE,FALSE
+2023-08-12,England,Colombia,England,Alessia Russo,63,FALSE,FALSE
+2023-08-15,Spain,Sweden,Spain,Salma Paralluelo,81,FALSE,FALSE
+2023-08-15,Spain,Sweden,Sweden,Rebecka Blomqvist,88,FALSE,FALSE
+2023-08-15,Spain,Sweden,Spain,Olga Carmona,89,FALSE,FALSE
+2023-08-16,Australia,England,England,Ella Toone,36,FALSE,FALSE
+2023-08-16,Australia,England,Australia,Sam Kerr,63,FALSE,FALSE
+2023-08-16,Australia,England,England,Lauren Hemp,71,FALSE,FALSE
+2023-08-16,Australia,England,England,Alessia Russo,86,FALSE,FALSE
+2023-08-19,Australia,Sweden,Sweden,Fridolina Rolfö,30,FALSE,TRUE
+2023-08-19,Australia,Sweden,Sweden,Kosovare Asllani,62,FALSE,FALSE
+2023-08-20,Spain,England,Spain,Olga Carmona,29,FALSE,FALSE
