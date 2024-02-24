@@ -1642,6 +1642,27 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2003-06-21,Japan,South Korea,0,1,AFC Championship,Bangkok,Thailand,TRUE
 2003-06-21,North Korea,China PR,2,1,AFC Championship,Bangkok,Thailand,TRUE
 2003-06-28,Republic of Ireland,Romania,2,2,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+2003-06-30,Tonga,Vanuatu,3,2,South Pacific Games,Nausori,Fiji,TRUE
+2003-06-30,Kiribati,Papua New Guinea,0,13,South Pacific Games,Nausori,Fiji,TRUE
+2003-06-30,Fiji,Guam,0,1,South Pacific Games,Nausori,Fiji,FALSE
+2003-07-02,Tonga,Guam,0,0,South Pacific Games,Nausori,Fiji,TRUE
+2003-07-02,Vanuatu,Tahiti,0,3,South Pacific Games,Nausori,Fiji,TRUE
+2003-07-02,Fiji,Papua New Guinea,1,2,South Pacific Games,Nausori,Fiji,FALSE
+2003-07-04,Fiji,Kiribati,2,0,South Pacific Games,Nausori,Fiji,FALSE
+2003-07-04,Tonga,Papua New Guinea,3,1,South Pacific Games,Nausori,Fiji,TRUE
+2003-07-04,Guam,Tahiti,1,1,South Pacific Games,Nausori,Fiji,TRUE
+2003-07-05,Kiribati,Guam,0,5,South Pacific Games,Nausori,Fiji,TRUE
+2003-07-05,Papua New Guinea,Vanuatu,2,2,South Pacific Games,Nausori,Fiji,TRUE
+2003-07-05,Tahiti,Tonga,1,0,South Pacific Games,Nausori,Fiji,TRUE
+2003-07-07,Guam,Vanuatu,1,0,South Pacific Games,Nausori,Fiji,TRUE
+2003-07-07,Tonga,Kiribati,2,1,South Pacific Games,Nausori,Fiji,TRUE
+2003-07-07,Fiji,Tahiti,3,1,South Pacific Games,Nausori,Fiji,FALSE
+2003-07-09,Papua New Guinea,Guam,1,0,South Pacific Games,Nausori,Fiji,TRUE
+2003-07-09,Kiribati,Tahiti,1,5,South Pacific Games,Nausori,Fiji,TRUE
+2003-07-09,Fiji,Vanuatu,3,2,South Pacific Games,Nausori,Fiji,FALSE
+2003-07-10,Fiji,Tonga,2,2,South Pacific Games,Nausori,Fiji,FALSE
+2003-07-10,Kiribati,Vanuatu,0,11,South Pacific Games,Nausori,Fiji,TRUE
+2003-07-10,Papua New Guinea,Tahiti,3,0,South Pacific Games,Nausori,Fiji,TRUE
 2003-07-19,Finland,Italy,1,1,UEFA Euro qualification,Vaasa,Finland,FALSE
 2003-08-09,Sweden,Finland,2,1,UEFA Euro qualification,Eskilstuna,Sweden,FALSE
 2003-08-09,Russia,Iceland,1,1,UEFA Euro qualification,Russia,Russia,FALSE
@@ -1722,6 +1743,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-02-07,Portugal,Germany,0,11,UEFA Euro qualification,Albufeira,Portugal,FALSE
 2004-02-20,Belgium,Spain,2,0,UEFA Euro qualification,Mons,Belgium,FALSE
 2004-02-29,Spain,Belgium,9,1,UEFA Euro qualification,Alginet,Spain,FALSE
+2004-03-02,Fiji,Papua New Guinea,0,2,OFC Olympic Qualifying Tournament,Ba,Fiji,FALSE
+2004-03-04,Australia,Papua New Guinea,10,0,OFC Olympic Qualifying Tournament,Ba,Fiji,TRUE
+2004-03-06,Fiji,Australia,0,7,OFC Olympic Qualifying Tournament,Ba,Fiji,FALSE
 2004-03-07,Belgium,Norway,1,6,UEFA Euro qualification,Strombeek-Bever,Belgium,FALSE
 2004-03-14,Denmark,Sweden,0,1,Algarve Cup,Ferreiras,Portugal,TRUE
 2004-03-14,United States,France,5,1,Algarve Cup,Ferreiras,Portugal,TRUE
@@ -1752,11 +1776,30 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-04-10,Ukraine,Scotland,1,0,UEFA Euro qualification,Ukraine,Ukraine,FALSE
 2004-04-10,Republic of Ireland,Croatia,8,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
 2004-04-18,Spain,Denmark,0,1,UEFA Euro qualification,Lucena,Spain,FALSE
+2004-04-18,North Korea,Taiwan,5,0,AFC Olympic Qualifying Tournament,Hiroshima,Japan,TRUE
+2004-04-18,Singapore,Hong Kong,0,2,AFC Olympic Qualifying Tournament,Hiroshima,Japan,TRUE
+2004-04-18,China,Myanmar,11,0,AFC Olympic Qualifying Tournament,Hiroshima,Japan,TRUE
+2004-04-18,South Korea,Guam,7,0,AFC Olympic Qualifying Tournament,Hiroshima,Japan,TRUE
+2004-04-18,Japan,Vietnam,7,0,AFC Olympic Qualifying Tournament,Komazawa Olympic Park,Japan,FALSE
+2004-04-20,Taiwan,Singapore,5,0,AFC Olympic Qualifying Tournament,Hiroshima,Japan,TRUE
+2004-04-20,Hong Kong,North Korea,0,9,AFC Olympic Qualifying Tournament,Hiroshima,Japan,TRUE
+2004-04-20,Myanmar,South Korea,0,7,AFC Olympic Qualifying Tournament,Hiroshima,Japan,TRUE
+2004-04-20,Guam,China,0,9,AFC Olympic Qualifying Tournament,Hiroshima,Japan,TRUE
+2004-04-20,Vietnam,Thailand,0,0,AFC Olympic Qualifying Tournament,Komazawa Olympic Park,Japan,TRUE
+2004-04-22,North Korea,Singapore,8,0,AFC Olympic Qualifying Tournament,Hiroshima,Japan,TRUE
+2004-04-22,Hong Kong,Taiwan,1,3,AFC Olympic Qualifying Tournament,Hiroshima,Japan,TRUE
+2004-04-22,Guam,Myanmar,0,2,AFC Olympic Qualifying Tournament,Hiroshima,Japan,TRUE
+2004-04-22,China,South Korea,3,0,AFC Olympic Qualifying Tournament,Hiroshima,Japan,TRUE
+2004-04-22,Japan,Thailand,6,0,AFC Olympic Qualifying Tournament,Tokyo,Japan,FALSE
 2004-04-24,Italy,Finland,1,1,UEFA Euro qualification,Andria,Italy,FALSE
 2004-04-24,Switzerland,Sweden,0,2,UEFA Euro qualification,Solothurn,Switzerland,FALSE
 2004-04-24,France,Hungary,6,0,UEFA Euro qualification,France,France,FALSE
 2004-04-24,Austria,Greece,1,2,UEFA Euro qualification,Austria,Austria,FALSE
+2004-04-24,Japan,North Korea,3,0,AFC Olympic Qualifying Tournament,Tokyo,Japan,FALSE
+2004-04-24,China,South Korea,1,0,AFC Olympic Qualifying Tournament,Hiroshima,Japan,TRUE
 2004-04-25,Belgium,Netherlands,0,3,UEFA Euro qualification,Heverlee,Belgium,FALSE
+2004-04-26,North Korea,South Korea,5,1,AFC Olympic Qualifying Tournament,Hiroshima,Japan,TRUE
+2004-04-26,Japan,China,0,1,AFC Olympic Qualifying Tournament,Hiroshima,Japan,FALSE
 2004-04-28,Germany,Ukraine,6,0,UEFA Euro qualification,Germany,Germany,FALSE
 2004-04-29,Slovakia,Greece,2,2,UEFA Euro qualification,Slovakia,Slovakia,FALSE
 2004-05-01,Hungary,Poland,2,2,UEFA Euro qualification,Hungary,Hungary,FALSE
@@ -1954,6 +1997,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-03-12,Angola,Equatorial Guinea,3,2,African Championship qualification,Luanda,Angola,FALSE
 2006-03-12,Congo,Togo,9,0,African Championship qualification,Brazzaville,Congo,FALSE
 2006-03-12,Senegal,Guinea,7,0,African Championship qualification,Dakar,Senegal,FALSE
+2006-03-12,Barbados,Antigua and Barbuda,0,1,CONCACAF Gold Cup qualification,Bridgetown,Barbados,FALSE
 2006-03-13,Sweden,Finland,4,1,Algarve Cup,Lagos,Portugal,TRUE
 2006-03-13,Germany,Norway,1,0,Algarve Cup,Estádio Algarve,Portugal,TRUE
 2006-03-13,United States,France,4,1,Algarve Cup,Faro-Loulé,Portugal,TRUE
@@ -1966,45 +2010,91 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-03-15,Germany,United States,0,0,Algarve Cup,Faro-Loulé,Portugal,TRUE
 2006-03-18,Antigua and Barbuda,Barbados,0,0,CONCACAF Gold Cup,Antigua and Barbuda,Antigua and Barbuda,FALSE
 2006-03-18,Cayman Islands,Netherlands Antilles,1,2,CONCACAF Gold Cup,Cayman Islands,Cayman Islands,FALSE
+2006-03-18,Antigua and Barbuda,Barbados,0,0,CONCACAF Gold Cup qualification,Saint John's,Antigua and Barbuda,FALSE
+2006-03-18,Cayman Islands,Netherlands Antilles,1,2,CONCACAF Gold Cup qualification,George Town,Cayman Islands,FALSE
 2006-03-25,Mali,Morocco,4,1,African Championship qualification,Bamako,Mali,FALSE
 2006-03-25,Ivory Coast,Benin,1,1,African Championship qualification,Ivory Coast,Ivory Coast,FALSE
 2006-03-25,Kenya,Djibouti,7,0,African Championship qualification,Nairobi,Kenya,FALSE
 2006-03-25,Zambia,DR Congo,2,3,African Championship qualification,Chingola,Zambia,FALSE
 2006-03-25,Netherlands Antilles,Cayman Islands,1,0,CONCACAF Gold Cup,Netherlands Antilles,Netherlands Antilles,FALSE
+2006-03-25,Netherlands Antilles,Cayman Islands,1,0,CONCACAF Gold Cup qualification,Willemstad,Netherlands Antilles,FALSE
 2006-03-26,Equatorial Guinea,Angola,3,1,African Championship qualification,Equatorial Guinea,Equatorial Guinea,FALSE
 2006-03-26,Mozambique,South Africa,1,6,African Championship qualification,Mozambique,Mozambique,FALSE
 2006-03-26,Togo,Congo,1,3,African Championship qualification,Lomé,Togo,FALSE
 2006-03-26,Guinea,Senegal,1,5,African Championship qualification,Guinea,Guinea,FALSE
 2006-04-01,British Virgin Islands,United States Virgin Islands,1,3,CONCACAF Gold Cup,British Virgin Islands,British Virgin Islands,FALSE
+2006-04-01,British Virgin Islands,United States Virgin Islands,1,3,CONCACAF Gold Cup qualification,Virgin Gorda,British Virgin Islands,FALSE
 2006-04-09,United States Virgin Islands,British Virgin Islands,5,0,CONCACAF Gold Cup,United States Virgin Islands,United States Virgin Islands,TRUE
+2006-04-09,United States Virgin Islands,British Virgin Islands,5,0,CONCACAF Gold Cup qualification,St. Thomas,United States Virgin Islands,FALSE
+2006-04-19,Lebanon,Algeria,0,12,Arab Championship,Alexandria,Egypt,TRUE
+2006-04-20,Palestine,Syria,1,2,Arab Championship,Alexandria,Egypt,TRUE
+2006-04-20,Egypt,Tunisia,2,1,Arab Championship,Alexandria,Egypt,FALSE
+2006-04-21,Algeria,Morocco,0,0,Arab Championship,Alexandria,Egypt,TRUE
+2006-04-22,Palestine,Tunisia,0,4,Arab Championship,Alexandria,Egypt,TRUE
+2006-04-22,Egypt,Syria,6,0,Arab Championship,Alexandria,Egypt,FALSE
+2006-04-23,Morocco,Lebanon,8,0,Arab Championship,Alexandria,Egypt,TRUE
+2006-04-24,Tunisia,Syria,10,0,Arab Championship,Alexandria,Egypt,TRUE
+2006-04-24,Egypt,Palestine,9,0,Arab Championship,Alexandria,Egypt,FALSE
+2006-04-26,Algeria,Tunisia,3,0,Arab Championship,Alexandria,Egypt,TRUE
+2006-04-26,Egypt,Morocco,2,4,Arab Championship,Alexandria,Egypt,FALSE
+2006-04-29,Egypt,Tunisia,1,2,Arab Championship,Alexandria,Egypt,FALSE
+2006-04-29,Algeria,Morocco,1,0,Arab Championship,Alexandria,Egypt,TRUE
 2006-05-03,Suriname,Netherlands Antilles,7,1,CONCACAF Gold Cup,Aruba,Aruba,TRUE
+2006-05-03,Suriname,Netherlands Antilles,7,1,CONCACAF Gold Cup qualification,Orangestad,Aruba,TRUE
 2006-05-04,Dominican Republic,United States Virgin Islands,3,1,CONCACAF Gold Cup,Dominican Republic,Dominican Republic,FALSE
 2006-05-04,Bermuda,Turks and Caicos Islands,4,0,CONCACAF Gold Cup,Dominican Republic,Dominican Republic,TRUE
+2006-05-04,Dominican Republic,United States Virgin Islands,3,1,CONCACAF Gold Cup qualification,Santo Domingo,Dominican Republic,FALSE
+2006-05-04,Bermuda,Turks and Caicos Islands,4,0,CONCACAF Gold Cup qualification,Santo Domingo,Dominican Republic,TRUE
 2006-05-05,Aruba,Netherlands Antilles,1,2,CONCACAF Gold Cup,Aruba,Aruba,FALSE
+2006-05-05,Aruba,Netherlands Antilles,1,2,CONCACAF Gold Cup qualification,Orangestad,Aruba,FALSE
 2006-05-06,Bermuda,United States Virgin Islands,4,1,CONCACAF Gold Cup,Dominican Republic,Dominican Republic,TRUE
 2006-05-06,Dominican Republic,Turks and Caicos Islands,5,0,CONCACAF Gold Cup,Dominican Republic,Dominican Republic,FALSE
+2006-05-06,Bermuda,United States Virgin Islands,4,1,CONCACAF Gold Cup qualification,Santo Domingo,Dominican Republic,TRUE
+2006-05-06,Dominican Republic,Turks and Caicos Islands,5,0,CONCACAF Gold Cup qualification,Santo Domingo,Dominican Republic,FALSE
 2006-05-07,Aruba,Suriname,0,3,CONCACAF Gold Cup,Aruba,Aruba,FALSE
+2006-05-07,Aruba,Suriname,0,3,CONCACAF Gold Cup qualification,Orangestad,Aruba,FALSE
 2006-05-08,United States Virgin Islands,Turks and Caicos Islands,2,0,CONCACAF Gold Cup,Dominican Republic,Dominican Republic,TRUE
 2006-05-08,Dominican Republic,Bermuda,3,1,CONCACAF Gold Cup,Dominican Republic,Dominican Republic,FALSE
 2006-05-08,Saint Kitts and Nevis,Antigua and Barbuda,3,2,CONCACAF Gold Cup,Jamaica,Jamaica,TRUE
 2006-05-08,Jamaica,Saint Lucia,5,0,CONCACAF Gold Cup,Jamaica,Jamaica,FALSE
+2006-05-08,United States Virgin Islands,Turks and Caicos Islands,2,0,CONCACAF Gold Cup qualification,Santo Domingo,Dominican Republic,TRUE
+2006-05-08,Dominican Republic,Bermuda,3,1,CONCACAF Gold Cup qualification,Santo Domingo,Dominican Republic,FALSE
+2006-05-08,Saint Kitts and Nevis,Antigua and Barbuda,3,2,CONCACAF Gold Cup qualification,Kingston,Jamaica,TRUE
+2006-05-08,Jamaica,Saint Lucia,5,0,CONCACAF Gold Cup qualification,Kingston,Jamaica,FALSE
 2006-05-10,Saint Lucia,Saint Kitts and Nevis,3,2,CONCACAF Gold Cup,Jamaica,Jamaica,TRUE
 2006-05-10,Jamaica,Antigua and Barbuda,10,0,CONCACAF Gold Cup,Jamaica,Jamaica,FALSE
 2006-05-10,Mexico,Nicaragua,9,0,CONCACAF Gold Cup,Mexico,Mexico,FALSE
+2006-05-10,Mexico,Nicaragua,9,0,CONCACAF Gold Cup qualification,Merida,Mexico,FALSE
+2006-05-10,Saint Lucia,Saint Kitts and Nevis,3,2,CONCACAF Gold Cup qualification,Kingston,Jamaica,TRUE
+2006-05-10,Jamaica,Antigua and Barbuda,10,0,CONCACAF Gold Cup qualification,Kingston,Jamaica,FALSE
 2006-05-12,Antigua and Barbuda,Saint Lucia,1,2,CONCACAF Gold Cup,Jamaica,Jamaica,TRUE
 2006-05-12,Jamaica,Saint Kitts and Nevis,11,0,CONCACAF Gold Cup,Jamaica,Jamaica,FALSE
 2006-05-12,Nicaragua,El Salvador,2,1,CONCACAF Gold Cup,Mexico,Mexico,TRUE
+2006-05-12,Nicaragua,El Salvador,2,1,CONCACAF Gold Cup qualification,Merida,Mexico,TRUE
+2006-05-12,Antigua and Barbuda,Saint Lucia,1,2,CONCACAF Gold Cup qualification,Kingston,Jamaica,TRUE
+2006-05-12,Jamaica,Saint Kitts and Nevis,11,0,CONCACAF Gold Cup qualification,Kingston,Jamaica,FALSE
 2006-05-14,Mexico,El Salvador,8,0,CONCACAF Gold Cup,Mexico,Mexico,FALSE
+2006-05-14,Mexico,El Salvador,8,0,CONCACAF Gold Cup qualification,Merida,Mexico,FALSE
 2006-05-19,Saint Vincent and the Grenadines,Dominica,2,0,CONCACAF Gold Cup,Arima,Trinidad and Tobago,TRUE
 2006-05-19,Trinidad and Tobago,Grenada,10,0,CONCACAF Gold Cup,Arima,Trinidad and Tobago,FALSE
+2006-05-19,Saint Vincent and the Grenadines,Dominica,2,0,CONCACAF Gold Cup qualification,Arima,Trinidad and Tobago,TRUE
+2006-05-19,Trinidad and Tobago,Grenada,10,0,CONCACAF Gold Cup qualification,Arima,Trinidad and Tobago,FALSE
 2006-05-21,Dominica,Grenada,2,2,CONCACAF Gold Cup,Arima,Trinidad and Tobago,TRUE
 2006-05-21,Trinidad and Tobago,Saint Vincent and the Grenadines,4,1,CONCACAF Gold Cup,Arima,Trinidad and Tobago,FALSE
+2006-05-21,Dominica,Grenada,2,2,CONCACAF Gold Cup qualification,Arima,Trinidad and Tobago,TRUE
+2006-05-21,Trinidad and Tobago,Saint Vincent and the Grenadines,4,1,CONCACAF Gold Cup qualification,Arima,Trinidad and Tobago,FALSE
 2006-05-23,Grenada,Saint Vincent and the Grenadines,0,5,CONCACAF Gold Cup,Arima,Trinidad and Tobago,TRUE
 2006-05-23,Trinidad and Tobago,Dominica,6,0,CONCACAF Gold Cup,Arima,Trinidad and Tobago,FALSE
+2006-05-23,Grenada,Saint Vincent and the Grenadines,0,5,CONCACAF Gold Cup qualification,Arima,Trinidad and Tobago,TRUE
+2006-05-23,Trinidad and Tobago,Dominica,6,0,CONCACAF Gold Cup qualification,Arima,Trinidad and Tobago,FALSE
 2006-05-24,Guatemala,Costa Rica,2,1,CONCACAF Gold Cup,Panama,Panama,TRUE
+2006-05-24,Guatemala,Costa Rica,2,1,CONCACAF Gold Cup qualification,Panama City,Panama,TRUE
 2006-05-26,Panama,Costa Rica,2,0,CONCACAF Gold Cup,Panama,Panama,FALSE
+2006-05-26,Panama,Costa Rica,2,0,CONCACAF Gold Cup qualification,Panama City,Panama,FALSE
 2006-05-28,Panama,Guatemala,3,0,CONCACAF Gold Cup,Panama,Panama,FALSE
+2006-05-28,Panama,Guatemala,3,0,CONCACAF Gold Cup qualification,Panama City,Panama,FALSE
 2006-05-29,Suriname,Haiti,0,3,CONCACAF Gold Cup,Suriname,Suriname,FALSE
+2006-05-29,Suriname,Haiti,0,3,CONCACAF Gold Cup qualification,Paramaribo,Suriname,FALSE
 2006-07-16,Myanmar,Thailand,1,2,AFC Asian Cup,Adelaide,Australia,TRUE
 2006-07-16,Australia,South Korea,4,0,AFC Asian Cup,Adelaide,Australia,FALSE
 2006-07-18,Thailand,North Korea,0,9,AFC Asian Cup,Adelaide,Australia,TRUE
@@ -2037,10 +2127,16 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-08-06,Benin,Mali,0,1,African Championship qualification,Cotonou,Benin,FALSE
 2006-09-06,Trinidad and Tobago,Suriname,5,1,CONCACAF Gold Cup,Arima,Trinidad and Tobago,FALSE
 2006-09-06,Jamaica,Bermuda,7,0,CONCACAF Gold Cup,Arima,Trinidad and Tobago,TRUE
+2006-09-06,Trinidad and Tobago,Suriname,5,1,CONCACAF Gold Cup qualification,Arima,Trinidad and Tobago,FALSE
+2006-09-06,Jamaica,Bermuda,7,0,CONCACAF Gold Cup qualification,Arima,Trinidad and Tobago,TRUE
 2006-09-08,Suriname,Dominican Republic,0,2,CONCACAF Gold Cup,Port of Spain,Trinidad and Tobago,TRUE
 2006-09-08,Bermuda,Haiti,0,5,CONCACAF Gold Cup,Port of Spain,Trinidad and Tobago,TRUE
+2006-09-08,Suriname,Dominican Republic,0,2,CONCACAF Gold Cup qualification,Port of Spain,Trinidad and Tobago,TRUE
+2006-09-08,Bermuda,Haiti,0,5,CONCACAF Gold Cup qualification,Port of Spain,Trinidad and Tobago,TRUE
 2006-09-10,Trinidad and Tobago,Dominican Republic,7,0,CONCACAF Gold Cup,Arima,Trinidad and Tobago,FALSE
 2006-09-10,Haiti,Jamaica,0,3,CONCACAF Gold Cup,Arima,Trinidad and Tobago,TRUE
+2006-09-10,Trinidad and Tobago,Dominican Republic,7,0,CONCACAF Gold Cup qualification,Arima,Trinidad and Tobago,FALSE
+2006-09-10,Haiti,Jamaica,0,3,CONCACAF Gold Cup qualification,Arima,Trinidad and Tobago,TRUE
 2006-10-28,South Africa,Algeria,4,0,African Championship,Warri,Nigeria,TRUE
 2006-10-28,Nigeria,Equatorial Guinea,4,2,African Championship,Delta,Nigeria,FALSE
 2006-10-28,Italy,Canada,2,3,Peace Queen Cup,Seoul,South Korea,TRUE
@@ -2201,10 +2297,30 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2007-08-23,Austria,Russia,1,5,UEFA Euro qualification,Anger,Austria,FALSE
 2007-08-25,Romania,Republic of Ireland,0,2,UEFA Euro qualification,Mogoșoaia,Romania,FALSE
 2007-08-25,Serbia,Greece,1,2,UEFA Euro qualification,Belgrade,Serbia,FALSE
+2007-08-25,Papua New Guinea,American Samoa,6,0,South Pacific Games,Apia,Samoa,TRUE
+2007-08-25,Fiji,Cook Islands,4,1,South Pacific Games,Apia,Samoa,TRUE
 2007-08-26,Belarus,Czech Republic,1,4,UEFA Euro qualification,Bobruisk,Belarus,FALSE
 2007-08-26,Slovenia,Iceland,2,1,UEFA Euro qualification,Dravograd,Slovenia,FALSE
 2007-08-26,Netherlands,Wales,2,1,UEFA Euro qualification,Volendam,Netherlands,FALSE
 2007-08-26,Austria,Israel,5,0,UEFA Euro qualification,Gleisdorf,Austria,FALSE
+2007-08-28,American Samoa,Cook Islands,1,1,South Pacific Games,Apia,Samoa,TRUE
+2007-08-28,Papua New Guinea,Solomon Islands,4,0,South Pacific Games,Apia,Samoa,TRUE
+2007-08-30,American Samoa,Fiji,0,3,South Pacific Games,Apia,Samoa,TRUE
+2007-08-30,Cook Islands,Solomon Islands,1,1,South Pacific Games,Apia,Samoa,TRUE
+2007-08-30,Tonga,New Caledonia,2,0,South Pacific Games,Apia,Samoa,TRUE
+2007-08-30,Samoa,Tahiti,0,4,South Pacific Games,Apia,Samoa,FALSE
+2007-09-01,Solomon Islands,American Samoa,3,0,South Pacific Games,Apia,Samoa,TRUE
+2007-09-01,Papua New Guinea,Fiji,0,1,South Pacific Games,Apia,Samoa,TRUE
+2007-09-01,Tahiti,Tonga,0,0,South Pacific Games,Apia,Samoa,TRUE
+2007-09-01,Samoa,New Caledonia,2,0,South Pacific Games,Apia,Samoa,FALSE
+2007-09-03,Cook Islands,Papua New Guinea,1,4,South Pacific Games,Apia,Samoa,TRUE
+2007-09-03,Solomon Islands,Fiji,0,3,South Pacific Games,Apia,Samoa,TRUE
+2007-09-03,New Caledonia,Tahiti,0,2,South Pacific Games,Apia,Samoa,TRUE
+2007-09-03,Samoa,Tonga,0,0,South Pacific Games,Apia,Samoa,FALSE
+2007-09-05,Fiji,Tonga,0,1,South Pacific Games,Apia,Samoa,TRUE
+2007-09-05,Papua New Guinea,Tahiti,5,0,South Pacific Games,Apia,Samoa,TRUE
+2007-09-07,Fiji,Tahiti,1,0,South Pacific Games,Apia,Samoa,TRUE
+2007-09-07,Tonga,Papua New Guinea,1,3,South Pacific Games,Apia,Samoa,TRUE
 2007-09-10,Germany,Argentina,11,0,FIFA World Cup,Shanghai,China PR,TRUE
 2007-09-11,Japan,England,2,2,FIFA World Cup,Shanghai,China PR,TRUE
 2007-09-11,United States,North Korea,2,2,FIFA World Cup,Chengdu,China PR,TRUE
@@ -2290,6 +2406,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-03-07,Scotland,Netherlands,0,1,Cyprus Cup,Paralimni,Cyprus,TRUE
 2008-03-07,Japan,Canada,0,3,Cyprus Cup,Larnaca,Cyprus,TRUE
 2008-03-07,Russia,United States,2,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2008-03-08,Papua New Guinea,New Zealand,0,2,OFC Olympic Qualifying Tournament,Port Moresby,Papua New Guinea,FALSE
 2008-03-10,Denmark,Finland,1,0,Algarve Cup,Lagos,Portugal,TRUE
 2008-03-10,Sweden,Germany,0,2,Algarve Cup,Vila Real de Santo António,Portugal,TRUE
 2008-03-10,China PR,Italy,0,2,Algarve Cup,Loulé,Portugal,TRUE
@@ -2867,6 +2984,26 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-07-16,Sweden,France,2,1,FIFA World Cup,Sinsheim,Germany,TRUE
 2011-07-17,Japan,United States,2,2,FIFA World Cup,Frankfurt,Germany,TRUE
 2011-08-25,Belarus,Estonia,2,1,UEFA Euro qualification,Molodechno,Belarus,FALSE
+2011-08-27,Papua New Guinea,Tahiti,1,0,South Pacific Games,Nouméa,New Caledonia,TRUE
+2011-08-27,New Caledonia,Solomon Islands,3,0,South Pacific Games,Nouméa,New Caledonia,FALSE
+2011-08-29,Papua New Guinea,American Samoa,8,0,South Pacific Games,Nouméa,New Caledonia,TRUE
+2011-08-29,New Caledonia,Tahiti,0,0,South Pacific Games,Nouméa,New Caledonia,FALSE
+2011-08-31,New Caledonia,American Samoa,7,0,South Pacific Games,Nouméa,New Caledonia,FALSE
+2011-08-31,Tahiti,Solomon Islands,2,0,South Pacific Games,Nouméa,New Caledonia,TRUE
+2011-08-31,Cook Islands,Guam,1,1,South Pacific Games,Nouméa,New Caledonia,TRUE
+2011-08-31,Tonga,Fiji,4,1,South Pacific Games,Nouméa,New Caledonia,TRUE
+2011-09-02,Solomon Islands,American Samoa,4,0,South Pacific Games,Nouméa,New Caledonia,TRUE
+2011-09-02,New Caledonia,Papua New Guinea,2,1,South Pacific Games,Nouméa,New Caledonia,FALSE
+2011-09-02,Guam,Fiji,1,2,South Pacific Games,Nouméa,New Caledonia,TRUE
+2011-09-02,Tonga,Cook Islands,0,1,South Pacific Games,Nouméa,New Caledonia,TRUE
+2011-09-05,Tahiti,American Samoa,4,0,South Pacific Games,Nouméa,New Caledonia,TRUE
+2011-09-05,Solomon Islands,Papua New Guinea,0,1,South Pacific Games,Nouméa,New Caledonia,TRUE
+2011-09-05,Tonga,Guam,0,0,South Pacific Games,Nouméa,New Caledonia,TRUE
+2011-09-05,Fiji,Cook Islands,1,0,South Pacific Games,Nouméa,New Caledonia,TRUE
+2011-09-07,New Caledonia,Tonga,3,2,South Pacific Games,Koné,New Caledonia,FALSE
+2011-09-07,Papua New Guinea,Fiji,4,0,South Pacific Games,Lifou,New Caledonia,TRUE
+2011-09-09,Tonga,Fiji,0,1,South Pacific Games,Boulari,New Caledonia,TRUE
+2011-09-09,New Caledonia,Papua New Guinea,1,2,South Pacific Games,Nouméa,New Caledonia,FALSE
 2011-09-14,Israel,France,0,5,UEFA Euro qualification,Ness Ziona,Israel,FALSE
 2011-09-17,Bosnia and Herzegovina,Italy,0,1,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,FALSE
 2011-09-17,Kazakhstan,Romania,0,3,UEFA Euro qualification,Shymkent,Kazakhstan,FALSE
@@ -3001,12 +3138,16 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2012-03-01,Italy,Canada,1,2,Cyprus Cup,Nicosia,Cyprus,TRUE
 2012-03-01,Northern Ireland,South Korea,0,1,Cyprus Cup,Larnaca,Cyprus,TRUE
 2012-03-01,South Africa,New Zealand,0,0,Cyprus Cup,Larnaca,Cyprus,TRUE
+2012-03-01,Tonga,Vanuatu,5,2,OFC Olympic Qualifying Tournament,Nukuʻalofa,Tonga,FALSE
+2012-03-01,Papua New Guinea,Samoa,7,2,OFC Olympic Qualifying Tournament,Nukuʻalofa,Tonga,TRUE
 2012-03-02,Iceland,Sweden,1,4,Algarve Cup,Ferreiras,Portugal,TRUE
 2012-03-02,Germany,China PR,1,0,Algarve Cup,Santo António,Portugal,TRUE
 2012-03-02,Denmark,Japan,0,2,Algarve Cup,Parchal,Portugal,TRUE
 2012-03-02,United States,Norway,2,1,Algarve Cup,Lagos,Portugal,TRUE
 2012-03-02,Portugal,Hungary,4,0,Algarve Cup,Parchal,Portugal,FALSE
 2012-03-02,Wales,Republic of Ireland,0,0,Algarve Cup,Ferreiras,Portugal,TRUE
+2012-03-03,Tonga,Papua New Guinea,0,2,OFC Olympic Qualifying Tournament,Nukuʻalofa,Tonga,FALSE
+2012-03-03,Samoa,Vanuatu,4,3,OFC Olympic Qualifying Tournament,Nukuʻalofa,Tonga,TRUE
 2012-03-04,England,France,0,3,Cyprus Cup,Paralimni,Cyprus,TRUE
 2012-03-04,Finland,Switzerland,3,1,Cyprus Cup,Paralimni,Cyprus,TRUE
 2012-03-04,Italy,Scotland,2,1,Cyprus Cup,Paralimni,Cyprus,TRUE
@@ -3019,6 +3160,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2012-03-05,Japan,United States,1,0,Algarve Cup,Faro,Portugal,TRUE
 2012-03-05,Hungary,Wales,1,2,Algarve Cup,Santo António,Portugal,TRUE
 2012-03-05,Portugal,Republic of Ireland,2,1,Algarve Cup,Faro,Portugal,FALSE
+2012-03-05,Tonga,Samoa,6,1,OFC Olympic Qualifying Tournament,Nukuʻalofa,Tonga,FALSE
+2012-03-05,Vanuatu,Papua New Guinea,1,11,OFC Olympic Qualifying Tournament,Nukuʻalofa,Tonga,TRUE
 2012-03-06,Switzerland,Northern Ireland,5,0,Cyprus Cup,Larnaca,Cyprus,TRUE
 2012-03-06,Scotland,South Africa,2,0,Cyprus Cup,Paralimni,Cyprus,TRUE
 2012-03-06,New Zealand,Netherlands,2,2,Cyprus Cup,Achna,Cyprus,TRUE
@@ -3031,6 +3174,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2012-03-07,Iceland,Denmark,1,3,Algarve Cup,Ferreiras,Portugal,TRUE
 2012-03-07,Sweden,United States,0,4,Algarve Cup,Parchal,Portugal,TRUE
 2012-03-07,Germany,Japan,4,3,Algarve Cup,Faro,Portugal,TRUE
+2012-03-07,Samoa,Vanuatu,0,2,OFC Olympic Qualifying Tournament,Nukuʻalofa,Tonga,TRUE
+2012-03-07,Tonga,Papua New Guinea,0,2,OFC Olympic Qualifying Tournament,Nukuʻalofa,Tonga,FALSE
 2012-03-31,Russia,Macedonia,8,0,UEFA Euro qualification,Podolsk,Russia,FALSE
 2012-03-31,Greece,Poland,1,1,UEFA Euro qualification,Athens,Greece,FALSE
 2012-03-31,Italy,Bosnia and Herzegovina,4,0,UEFA Euro qualification,Ferrara,Italy,FALSE
@@ -3042,6 +3187,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2012-03-31,Slovakia,Finland,0,1,UEFA Euro qualification,Senec,Slovakia,FALSE
 2012-03-31,Croatia,England,0,6,UEFA Euro qualification,Vrbovec,Croatia,FALSE
 2012-03-31,Portugal,Czech Republic,2,5,UEFA Euro qualification,Tondela,Portugal,FALSE
+2012-03-31,New Zealand,Papua New Guinea,8,0,OFC Olympic Qualifying Tournament,Whangarei,New Zealand,FALSE
 2012-04-01,Japan,United States,1,1,Friendly,Sendai,Japan,FALSE
 2012-04-01,Armenia,Austria,2,4,UEFA Euro qualification,Yerevan,Armenia,FALSE
 2012-04-03,Brazil,United States,0,3,Friendly,Chiba,Japan,TRUE
@@ -3051,6 +3197,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2012-04-04,Belgium,Iceland,1,0,UEFA Euro qualification,Dessel,Belgium,FALSE
 2012-04-04,France,Wales,4,0,UEFA Euro qualification,Caen,France,FALSE
 2012-04-04,Czech Republic,Denmark,0,2,UEFA Euro qualification,Prague,Czech Republic,FALSE
+2012-04-04,Papua New Guinea,New Zealand,0,7,OFC Olympic Qualifying Tournament,Port Moresby,Papua New Guinea,FALSE
 2012-04-05,Spain,Kazakhstan,13,0,UEFA Euro qualification,Madrid,Spain,FALSE
 2012-04-05,Switzerland,Germany,0,6,UEFA Euro qualification,Aarau,Switzerland,FALSE
 2012-04-05,Scotland,Republic of Ireland,2,1,UEFA Euro qualification,Edinburgh,Scotland,FALSE
@@ -3416,13 +3563,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-05-18,Japan,Jordan,7,0,AFC Asian Cup,Ho Chi Minh City,Vietnam,TRUE
 2014-05-19,South Korea,China PR,0,0,AFC Asian Cup,Ho Chi Minh City,Vietnam,TRUE
 2014-05-19,Thailand,Myanmar,2,1,AFC Asian Cup,Ho Chi Minh City,Vietnam,TRUE
-2014-05-20,Honduras,Belize,8,0,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,TRUE
-2014-05-20,Guatemala,Panama,1,0,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,FALSE
-2014-05-20,Nicaragua,El Salvador,0,2,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,TRUE
+2014-05-20,Honduras,Belize,8,0,CONCACAF Championship qualification,Guatemala City,Guatemala,TRUE
+2014-05-20,Guatemala,Panama,1,0,CONCACAF Championship qualification,Guatemala City,Guatemala,FALSE
+2014-05-20,Nicaragua,El Salvador,0,2,CONCACAF Championship qualification,Guatemala City,Guatemala,TRUE
 2014-05-21,Vietnam,Thailand,1,2,AFC Asian Cup,Ho Chi Minh City,Vietnam,FALSE
-2014-05-22,Belize,Panama,1,13,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,TRUE
-2014-05-22,Guatemala,Honduras,3,2,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,FALSE
-2014-05-22,El Salvador,Costa Rica,0,4,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,TRUE
+2014-05-22,Belize,Panama,1,13,CONCACAF Championship qualification,Guatemala City,Guatemala,TRUE
+2014-05-22,Guatemala,Honduras,3,2,CONCACAF Championship qualification,Guatemala City,Guatemala,FALSE
+2014-05-22,El Salvador,Costa Rica,0,4,CONCACAF Championship qualification,Guatemala City,Guatemala,TRUE
 2014-05-22,Japan,China PR,2,1,AFC Asian Cup,Ho Chi Minh City,Vietnam,TRUE
 2014-05-22,South Korea,Australia,1,2,AFC Asian Cup,Ho Chi Minh City,Vietnam,TRUE
 2014-05-23,Algeria,Tunisia,2,1,African Championship qualification,Algiers,Algeria,FALSE
@@ -3430,14 +3577,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-05-23,Comoros,South Africa,0,13,African Championship qualification,Mitsamiouli,Comoros,FALSE
 2014-05-24,Rwanda,Nigeria,1,4,African Championship qualification,Kigali,Rwanda,FALSE
 2014-05-24,Senegal,Cameroon,1,1,African Championship qualification,Ziguinchor,Senegal,FALSE
-2014-05-24,Panama,Honduras,4,1,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,TRUE
-2014-05-24,Guatemala,Belize,5,0,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,FALSE
-2014-05-24,Costa Rica,Nicaragua,3,0,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,TRUE
+2014-05-24,Panama,Honduras,4,1,CONCACAF Championship qualification,Guatemala City,Guatemala,TRUE
+2014-05-24,Guatemala,Belize,5,0,CONCACAF Championship qualification,Guatemala City,Guatemala,FALSE
+2014-05-24,Costa Rica,Nicaragua,3,0,CONCACAF Championship qualification,Guatemala City,Guatemala,TRUE
 2014-05-25,Ethiopia,Ghana,0,2,African Championship qualification,Addis Ababa,Ethiopia,FALSE
 2014-05-25,Zimbabwe,Zambia,0,1,African Championship qualification,Harare,Zimbabwe,FALSE
 2014-05-25,China PR,South Korea,2,1,AFC Asian Cup,Ho Chi Minh City,Vietnam,TRUE
 2014-05-25,Japan,Australia,1,0,AFC Asian Cup,Ho Chi Minh City,Vietnam,TRUE
-2014-05-26,Guatemala,Costa Rica,0,3,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,FALSE
+2014-05-26,Guatemala,Costa Rica,0,3,CONCACAF Championship qualification,Guatemala City,Guatemala,FALSE
 2014-06-07,Equatorial Guinea,Ivory Coast,2,2,African Championship qualification,Malabo,Equatorial Guinea,FALSE
 2014-06-07,Nigeria,Rwanda,8,0,African Championship qualification,Abuja,Nigeria,FALSE
 2014-06-08,Tunisia,Algeria,2,3,African Championship qualification,Bizerte,Tunisia,FALSE
@@ -3457,32 +3604,32 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-10-14,Namibia,Ivory Coast,1,3,African Championship,Windhoek,Namibia,FALSE
 2014-10-15,Cameroon,Algeria,2,0,African Championship,Windhoek,Namibia,TRUE
 2014-10-15,Ghana,South Africa,1,1,African Championship,Windhoek,Namibia,TRUE
-2014-10-15,Guatemala,Haiti,0,1,CONCACAF Gold Cup,Kansas City,United States,TRUE
-2014-10-15,United States,Trinidad and Tobago,1,0,CONCACAF Gold Cup,Kansas City,United States,FALSE
-2014-10-16,Jamaica,Martinique,6,0,CONCACAF Gold Cup,Kansas City,United States,TRUE
-2014-10-16,Costa Rica,Mexico,1,0,CONCACAF Gold Cup,Kansas City,United States,TRUE
+2014-10-15,Guatemala,Haiti,0,1,CONCACAF Championship,Kansas City,United States,TRUE
+2014-10-15,United States,Trinidad and Tobago,1,0,CONCACAF Championship,Kansas City,United States,FALSE
+2014-10-16,Jamaica,Martinique,6,0,CONCACAF Championship,Kansas City,United States,TRUE
+2014-10-16,Costa Rica,Mexico,1,0,CONCACAF Championship,Kansas City,United States,TRUE
 2014-10-17,Namibia,Nigeria,0,2,African Championship,Windhoek,Namibia,FALSE
 2014-10-17,Zambia,Ivory Coast,1,1,African Championship,Windhoek,Namibia,TRUE
-2014-10-17,Haiti,Trinidad and Tobago,0,1,CONCACAF Gold Cup,Bridgeview,United States,TRUE
-2014-10-17,United States,Guatemala,5,0,CONCACAF Gold Cup,Bridgeview,United States,FALSE
+2014-10-17,Haiti,Trinidad and Tobago,0,1,CONCACAF Championship,Bridgeview,United States,TRUE
+2014-10-17,United States,Guatemala,5,0,CONCACAF Championship,Bridgeview,United States,FALSE
 2014-10-18,South Africa,Algeria,5,1,African Championship,Windhoek,Namibia,TRUE
 2014-10-18,Cameroon,Ghana,0,1,African Championship,Windhoek,Namibia,TRUE
-2014-10-18,Costa Rica,Jamaica,2,1,CONCACAF Gold Cup,Bridgeview,United States,TRUE
-2014-10-18,Martinique,Mexico,0,10,CONCACAF Gold Cup,Bridgeview,United States,TRUE
-2014-10-20,Trinidad and Tobago,Guatemala,2,1,CONCACAF Gold Cup,Washington,United States,TRUE
-2014-10-20,United States,Haiti,6,0,CONCACAF Gold Cup,Washington,United States,FALSE
-2014-10-21,Martinique,Costa Rica,1,6,CONCACAF Gold Cup,Washington,United States,TRUE
-2014-10-21,Mexico,Jamaica,3,1,CONCACAF Gold Cup,Washington,United States,TRUE
+2014-10-18,Costa Rica,Jamaica,2,1,CONCACAF Championship,Bridgeview,United States,TRUE
+2014-10-18,Martinique,Mexico,0,10,CONCACAF Championship,Bridgeview,United States,TRUE
+2014-10-20,Trinidad and Tobago,Guatemala,2,1,CONCACAF Championship,Washington,United States,TRUE
+2014-10-20,United States,Haiti,6,0,CONCACAF Championship,Washington,United States,FALSE
+2014-10-21,Martinique,Costa Rica,1,6,CONCACAF Championship,Washington,United States,TRUE
+2014-10-21,Mexico,Jamaica,3,1,CONCACAF Championship,Washington,United States,TRUE
 2014-10-22,Nigeria,South Africa,2,1,African Championship,Windhoek,Namibia,TRUE
 2014-10-22,Cameroon,Ivory Coast,2,1,African Championship,Windhoek,Namibia,TRUE
-2014-10-24,Costa Rica,Trinidad and Tobago,1,1,CONCACAF Gold Cup,Chester,United States,TRUE
-2014-10-24,United States,Mexico,3,0,CONCACAF Gold Cup,Chester,United States,FALSE
+2014-10-24,Costa Rica,Trinidad and Tobago,1,1,CONCACAF Championship,Chester,United States,TRUE
+2014-10-24,United States,Mexico,3,0,CONCACAF Championship,Chester,United States,FALSE
 2014-10-25,South Africa,Ivory Coast,0,1,African Championship,Windhoek,Namibia,TRUE
 2014-10-25,Nigeria,Cameroon,2,0,African Championship,Windhoek,Namibia,TRUE
 2014-10-25,New Zealand,Tonga,16,0,OFC Championship,Kokopo,Papua New Guinea,TRUE
 2014-10-25,Papua New Guinea,Cook Islands,4,1,OFC Championship,Kokopo,Papua New Guinea,FALSE
-2014-10-26,Trinidad and Tobago,Mexico,2,4,CONCACAF Gold Cup,Chester,United States,TRUE
-2014-10-26,United States,Costa Rica,6,0,CONCACAF Gold Cup,Chester,United States,FALSE
+2014-10-26,Trinidad and Tobago,Mexico,2,4,CONCACAF Championship,Chester,United States,TRUE
+2014-10-26,United States,Costa Rica,6,0,CONCACAF Championship,Chester,United States,FALSE
 2014-10-27,Tonga,Cook Islands,1,1,OFC Championship,Kokopo,Papua New Guinea,TRUE
 2014-10-27,Papua New Guinea,New Zealand,0,3,OFC Championship,Kokopo,Papua New Guinea,FALSE
 2014-10-29,Cook Islands,New Zealand,0,11,OFC Championship,Kokopo,Papua New Guinea,TRUE
@@ -3610,6 +3757,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-06-17,England,Colombia,2,1,FIFA World Cup,Montreal,Canada,TRUE
 2015-06-20,Germany,Sweden,4,1,FIFA World Cup,Ottawa,Canada,TRUE
 2015-06-20,China PR,Cameroon,1,0,FIFA World Cup,Edmonton,Canada,TRUE
+2015-06-20,New Caledonia,Solomon Islands,8,1,South Pacific Games,Port Moresby,New Caledonia,FALSE
+2015-06-20,Tonga,Samoa,0,1,South Pacific Games,Port Moresby,New Caledonia,TRUE
+2015-06-20,Fiji,Papua New Guinea,1,5,South Pacific Games,Port Moresby,New Caledonia,TRUE
 2015-06-21,Brazil,Australia,0,1,FIFA World Cup,Moncton,Canada,TRUE
 2015-06-21,France,South Korea,3,0,FIFA World Cup,Montreal,Canada,TRUE
 2015-06-21,Canada,Switzerland,1,0,FIFA World Cup,Vancouver,Canada,FALSE
@@ -3624,8 +3774,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-07-01,Japan,England,2,1,FIFA World Cup,Edmonton,Canada,TRUE
 2015-07-04,Germany,England,0,1,FIFA World Cup,Edmonton,Canada,TRUE
 2015-07-05,United States,Japan,5,2,FIFA World Cup,Vancouver,Canada,TRUE
+2015-07-13,New Caledonia,Cook Islands,5,1,South Pacific Games,Port Moresby,New Caledonia,FALSE
+2015-07-13,Papua New Guinea,Samoa,3,0,South Pacific Games,Port Moresby,New Caledonia,TRUE
+2015-07-16,Cook Islands,Samoa,2,0,South Pacific Games,Port Moresby,New Caledonia,TRUE
+2015-07-16,New Caledonia,Papua New Guinea,0,1,South Pacific Games,Port Moresby,New Caledonia,FALSE
 2015-08-16,United States,Costa Rica,8,0,Friendly,Pittsburgh,United States,FALSE
 2015-08-20,United States,Costa Rica,7,2,Friendly,Chattanooga,United States,FALSE
+2015-08-20,Solomon Islands,Tonga,0,2,South Pacific Games,Port Moresby,New Caledonia,TRUE
+2015-08-20,New Caledonia,Samoa,2,2,South Pacific Games,Port Moresby,New Caledonia,FALSE
+2015-08-20,Fiji,Cook Islands,1,1,South Pacific Games,Port Moresby,New Caledonia,TRUE
 2015-09-17,Finland,Montenegro,1,0,UEFA Euro qualification,Turku,Finland,FALSE
 2015-09-17,Moldova,Sweden,0,3,UEFA Euro qualification,Orhei,Moldova,FALSE
 2015-09-17,Turkey,Croatia,1,4,UEFA Euro qualification,Erzurum,Turkey,FALSE
@@ -3680,6 +3837,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-10-27,Serbia,Estonia,3,0,UEFA Euro qualification,Pećinci,Serbia,FALSE
 2015-10-27,Bosnia and Herzegovina,Belgium,0,5,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
 2015-10-27,Australia,England,0,1,Yongchuan International Tournament,Chongqing,China PR,TRUE
+2015-11-20,New Caledonia,Tonga,6,0,South Pacific Games,Port Moresby,New Caledonia,FALSE
+2015-11-20,Samoa,Solomon Islands,2,1,South Pacific Games,Port Moresby,New Caledonia,TRUE
+2015-11-20,Papua New Guinea,Cook Islands,2,0,South Pacific Games,Port Moresby,New Caledonia,TRUE
 2015-11-25,Turkey,Russia,0,0,UEFA Euro qualification,Fethiye,Turkey,FALSE
 2015-11-25,Serbia,Bosnia and Herzegovina,0,1,UEFA Euro qualification,Stara Pazova,Serbia,FALSE
 2015-11-26,Macedonia,Belarus,0,2,UEFA Euro qualification,Skopje,Macedonia,FALSE
@@ -3717,6 +3877,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-01-21,South Korea,Vietnam,5,0,Four Nations Tournament,Foshan,China PR,TRUE
 2016-01-23,Mexico,South Korea,2,0,Four Nations Tournament,Foshan,China PR,TRUE
 2016-01-23,China PR,Vietnam,8,0,Four Nations Tournament,Foshan,China PR,FALSE
+2016-01-23,Papua New Guinea,New Zealand,1,7,OFC Olympic Qualifying Tournament,Lae,Papua New Guinea,FALSE
 2016-01-24,United States,Republic of Ireland,5,0,Friendly,San Diego,United States,FALSE
 2016-01-24,Montenegro,Spain,0,7,UEFA Euro qualification,Petrovac,Montenegro,FALSE
 2016-01-26,Greece,Albania,3,2,UEFA Euro qualification,Trikala,Greece,FALSE
@@ -4360,44 +4521,44 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-04-22,Chile,Argentina,4,0,Copa América,La Serena,Chile,FALSE
 2018-04-22,Brazil,Colombia,3,0,Copa América,La Serena,Chile,TRUE
 2018-05-07,Burkina Faso,Gambia,2,1,African Championship qualification,Ouagadougou,Burkina Faso,FALSE
-2018-05-07,Dominican Republic,Puerto Rico,0,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
-2018-05-07,Cuba,Aruba,11,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
-2018-05-09,Anguilla,Aruba,1,2,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
-2018-05-09,Cuba,Puerto Rico,2,2,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
-2018-05-09,Jamaica,Guadeloupe,13,0,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,TRUE
-2018-05-09,Haiti,Martinique,2,0,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,FALSE
-2018-05-10,Puerto Rico,Anguilla,10,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
-2018-05-10,Dominican Republic,Cuba,1,5,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
-2018-05-11,Aruba,Puerto Rico,0,5,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
-2018-05-11,Dominican Republic,Anguilla,3,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
-2018-05-11,Martinique,Jamaica,0,3,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,TRUE
-2018-05-11,Haiti,Guadeloupe,11,0,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,FALSE
-2018-05-13,Anguilla,Cuba,0,4,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,TRUE
-2018-05-13,Dominican Republic,Aruba,3,0,CONCACAF Gold Cup qualification,San Cristóbal,Dominican Republic,FALSE
-2018-05-13,Guadeloupe,Martinique,0,3,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,TRUE
-2018-05-13,Haiti,Jamaica,2,2,CONCACAF Gold Cup qualification,Port-au-Prince,Haiti,FALSE
-2018-05-19,Dominica,Saint Kitts and Nevis,1,2,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,TRUE
-2018-05-19,Trinidad and Tobago,United States Virgin Islands,10,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,FALSE
-2018-05-21,United States Virgin Islands,Grenada,3,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,TRUE
-2018-05-21,Trinidad and Tobago,Dominica,3,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,FALSE
-2018-05-23,Saint Kitts and Nevis,Grenada,10,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,TRUE
-2018-05-23,United States Virgin Islands,Dominica,0,3,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,TRUE
-2018-05-23,Saint Lucia,Curaçao,2,1,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,TRUE
-2018-05-23,Antigua and Barbuda,Saint Vincent and the Grenadines,1,0,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,FALSE
-2018-05-23,Barbados,Suriname,2,1,CONCACAF Gold Cup qualification,Leonora,Guyana,TRUE
-2018-05-23,Guyana,Bermuda,2,2,CONCACAF Gold Cup qualification,Leonora,Guyana,FALSE
-2018-05-25,Grenada,Dominica,1,1,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,TRUE
-2018-05-25,Trinidad and Tobago,Saint Kitts and Nevis,1,1,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,FALSE
-2018-05-25,Saint Vincent and the Grenadines,Saint Lucia,1,2,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,TRUE
-2018-05-25,Antigua and Barbuda,Curaçao,3,0,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,FALSE
-2018-05-25,Bermuda,Barbados,3,2,CONCACAF Gold Cup qualification,Leonora,Guyana,TRUE
-2018-05-25,Guyana,Suriname,6,1,CONCACAF Gold Cup qualification,Leonora,Guyana,FALSE
-2018-05-27,Saint Kitts and Nevis,United States Virgin Islands,7,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,TRUE
-2018-05-27,Trinidad and Tobago,Grenada,13,0,CONCACAF Gold Cup qualification,Couva,Trinidad and Tobago,FALSE
-2018-05-27,Curaçao,Saint Vincent and the Grenadines,1,0,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,TRUE
-2018-05-27,Antigua and Barbuda,Saint Lucia,1,0,CONCACAF Gold Cup qualification,St. John's,Antigua and Barbuda,FALSE
-2018-05-27,Suriname,Bermuda,0,1,CONCACAF Gold Cup qualification,Leonora,Guyana,TRUE
-2018-05-27,Guyana,Barbados,0,0,CONCACAF Gold Cup qualification,Leonora,Guyana,FALSE
+2018-05-07,Dominican Republic,Puerto Rico,0,0,CONCACAF Championship qualification,San Cristóbal,Dominican Republic,FALSE
+2018-05-07,Cuba,Aruba,11,0,CONCACAF Championship qualification,San Cristóbal,Dominican Republic,TRUE
+2018-05-09,Anguilla,Aruba,1,2,CONCACAF Championship qualification,San Cristóbal,Dominican Republic,TRUE
+2018-05-09,Cuba,Puerto Rico,2,2,CONCACAF Championship qualification,San Cristóbal,Dominican Republic,TRUE
+2018-05-09,Jamaica,Guadeloupe,13,0,CONCACAF Championship qualification,Port-au-Prince,Haiti,TRUE
+2018-05-09,Haiti,Martinique,2,0,CONCACAF Championship qualification,Port-au-Prince,Haiti,FALSE
+2018-05-10,Puerto Rico,Anguilla,10,0,CONCACAF Championship qualification,San Cristóbal,Dominican Republic,TRUE
+2018-05-10,Dominican Republic,Cuba,1,5,CONCACAF Championship qualification,San Cristóbal,Dominican Republic,FALSE
+2018-05-11,Aruba,Puerto Rico,0,5,CONCACAF Championship qualification,San Cristóbal,Dominican Republic,TRUE
+2018-05-11,Dominican Republic,Anguilla,3,0,CONCACAF Championship qualification,San Cristóbal,Dominican Republic,FALSE
+2018-05-11,Martinique,Jamaica,0,3,CONCACAF Championship qualification,Port-au-Prince,Haiti,TRUE
+2018-05-11,Haiti,Guadeloupe,11,0,CONCACAF Championship qualification,Port-au-Prince,Haiti,FALSE
+2018-05-13,Anguilla,Cuba,0,4,CONCACAF Championship qualification,San Cristóbal,Dominican Republic,TRUE
+2018-05-13,Dominican Republic,Aruba,3,0,CONCACAF Championship qualification,San Cristóbal,Dominican Republic,FALSE
+2018-05-13,Guadeloupe,Martinique,0,3,CONCACAF Championship qualification,Port-au-Prince,Haiti,TRUE
+2018-05-13,Haiti,Jamaica,2,2,CONCACAF Championship qualification,Port-au-Prince,Haiti,FALSE
+2018-05-19,Dominica,Saint Kitts and Nevis,1,2,CONCACAF Championship qualification,Couva,Trinidad and Tobago,TRUE
+2018-05-19,Trinidad and Tobago,United States Virgin Islands,10,0,CONCACAF Championship qualification,Couva,Trinidad and Tobago,FALSE
+2018-05-21,United States Virgin Islands,Grenada,3,0,CONCACAF Championship qualification,Couva,Trinidad and Tobago,TRUE
+2018-05-21,Trinidad and Tobago,Dominica,3,0,CONCACAF Championship qualification,Couva,Trinidad and Tobago,FALSE
+2018-05-23,Saint Kitts and Nevis,Grenada,10,0,CONCACAF Championship qualification,Couva,Trinidad and Tobago,TRUE
+2018-05-23,United States Virgin Islands,Dominica,0,3,CONCACAF Championship qualification,Couva,Trinidad and Tobago,TRUE
+2018-05-23,Saint Lucia,Curaçao,2,1,CONCACAF Championship qualification,St. John's,Antigua and Barbuda,TRUE
+2018-05-23,Antigua and Barbuda,Saint Vincent and the Grenadines,1,0,CONCACAF Championship qualification,St. John's,Antigua and Barbuda,FALSE
+2018-05-23,Barbados,Suriname,2,1,CONCACAF Championship qualification,Leonora,Guyana,TRUE
+2018-05-23,Guyana,Bermuda,2,2,CONCACAF Championship qualification,Leonora,Guyana,FALSE
+2018-05-25,Grenada,Dominica,1,1,CONCACAF Championship qualification,Couva,Trinidad and Tobago,TRUE
+2018-05-25,Trinidad and Tobago,Saint Kitts and Nevis,1,1,CONCACAF Championship qualification,Couva,Trinidad and Tobago,FALSE
+2018-05-25,Saint Vincent and the Grenadines,Saint Lucia,1,2,CONCACAF Championship qualification,St. John's,Antigua and Barbuda,TRUE
+2018-05-25,Antigua and Barbuda,Curaçao,3,0,CONCACAF Championship qualification,St. John's,Antigua and Barbuda,FALSE
+2018-05-25,Bermuda,Barbados,3,2,CONCACAF Championship qualification,Leonora,Guyana,TRUE
+2018-05-25,Guyana,Suriname,6,1,CONCACAF Championship qualification,Leonora,Guyana,FALSE
+2018-05-27,Saint Kitts and Nevis,United States Virgin Islands,7,0,CONCACAF Championship qualification,Couva,Trinidad and Tobago,TRUE
+2018-05-27,Trinidad and Tobago,Grenada,13,0,CONCACAF Championship qualification,Couva,Trinidad and Tobago,FALSE
+2018-05-27,Curaçao,Saint Vincent and the Grenadines,1,0,CONCACAF Championship qualification,St. John's,Antigua and Barbuda,TRUE
+2018-05-27,Antigua and Barbuda,Saint Lucia,1,0,CONCACAF Championship qualification,St. John's,Antigua and Barbuda,FALSE
+2018-05-27,Suriname,Bermuda,0,1,CONCACAF Championship qualification,Leonora,Guyana,TRUE
+2018-05-27,Guyana,Barbados,0,0,CONCACAF Championship qualification,Leonora,Guyana,FALSE
 2018-06-06,Algeria,Ethiopia,3,1,African Championship qualification,Algiers,Algeria,FALSE
 2018-06-06,Ivory Coast,Mali,2,2,African Championship qualification,Abidjan,Ivory Coast,FALSE
 2018-06-06,Gambia,Nigeria,0,1,African Championship qualification,Bakau,Gambia,FALSE
@@ -4446,18 +4607,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-08-02,United States,Brazil,4,1,Tournament of Nations,Bridgeview,United States,FALSE
 2018-08-24,American Samoa,Solomon Islands,0,2,OFC Nations Cup qualification,Lautoka,Fiji,TRUE
 2018-08-24,Fiji,Vanuatu,5,1,OFC Nations Cup qualification,Lautoka,Fiji,FALSE
-2018-08-25,Cuba,Trinidad and Tobago,2,3,CONCACAF Gold Cup qualification,Kingston,Jamaica,TRUE
-2018-08-25,Jamaica,Antigua and Barbuda,9,0,CONCACAF Gold Cup qualification,Kingston,Jamaica,FALSE
+2018-08-25,Cuba,Trinidad and Tobago,2,3,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
+2018-08-25,Jamaica,Antigua and Barbuda,9,0,CONCACAF Championship qualification,Kingston,Jamaica,FALSE
 2018-08-27,Vanuatu,American Samoa,1,0,OFC Nations Cup qualification,Lautoka,Fiji,TRUE
 2018-08-27,Fiji,Solomon Islands,0,0,OFC Nations Cup qualification,Lautoka,Fiji,FALSE
-2018-08-27,Panama,Nicaragua,4,0,CONCACAF Gold Cup qualification,Bradenton,United States,TRUE
-2018-08-27,Costa Rica,El Salvador,11,0,CONCACAF Gold Cup qualification,Bradenton,United States,TRUE
-2018-08-27,Antigua and Barbuda,Cuba,0,7,CONCACAF Gold Cup qualification,Kingston,Jamaica,TRUE
-2018-08-27,Jamaica,Bermuda,4,0,CONCACAF Gold Cup qualification,Kingston,Jamaica,FALSE
-2018-08-29,Costa Rica,Nicaragua,4,1,CONCACAF Gold Cup qualification,Bradenton,United States,TRUE
-2018-08-29,El Salvador,Panama,2,6,CONCACAF Gold Cup qualification,Bradenton,United States,TRUE
-2018-08-29,Trinidad and Tobago,Antigua and Barbuda,5,0,CONCACAF Gold Cup qualification,Kingston,Jamaica,TRUE
-2018-08-29,Cuba,Bermuda,2,0,CONCACAF Gold Cup qualification,Kingston,Jamaica,TRUE
+2018-08-27,Panama,Nicaragua,4,0,CONCACAF Championship qualification,Bradenton,United States,TRUE
+2018-08-27,Costa Rica,El Salvador,11,0,CONCACAF Championship qualification,Bradenton,United States,TRUE
+2018-08-27,Antigua and Barbuda,Cuba,0,7,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
+2018-08-27,Jamaica,Bermuda,4,0,CONCACAF Championship qualification,Kingston,Jamaica,FALSE
+2018-08-29,Costa Rica,Nicaragua,4,1,CONCACAF Championship qualification,Bradenton,United States,TRUE
+2018-08-29,El Salvador,Panama,2,6,CONCACAF Championship qualification,Bradenton,United States,TRUE
+2018-08-29,Trinidad and Tobago,Antigua and Barbuda,5,0,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
+2018-08-29,Cuba,Bermuda,2,0,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
 2018-08-30,Solomon Islands,Vanuatu,0,1,OFC Nations Cup qualification,Lautoka,Fiji,TRUE
 2018-08-30,Fiji,American Samoa,2,0,OFC Nations Cup qualification,Lautoka,Fiji,FALSE
 2018-08-30,Russia,Kazakhstan,3,0,FIFA World Cup qualification,Moscow,Russia,FALSE
@@ -4465,10 +4626,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-08-30,Sweden,Ukraine,3,0,FIFA World Cup qualification,Gothenburg,Sweden,FALSE
 2018-08-30,Denmark,Croatia,1,1,FIFA World Cup qualification,Viborg,Denmark,FALSE
 2018-08-30,Moldova,Portugal,0,7,FIFA World Cup qualification,Chișinău,Moldova,FALSE
-2018-08-31,El Salvador,Nicaragua,2,2,CONCACAF Gold Cup qualification,Bradenton,United States,TRUE
-2018-08-31,Costa Rica,Panama,3,1,CONCACAF Gold Cup qualification,Bradenton,United States,TRUE
-2018-08-31,Antigua and Barbuda,Bermuda,0,5,CONCACAF Gold Cup qualification,Kingston,Jamaica,TRUE
-2018-08-31,Jamaica,Trinidad and Tobago,4,1,CONCACAF Gold Cup qualification,Kingston,Jamaica,FALSE
+2018-08-31,El Salvador,Nicaragua,2,2,CONCACAF Championship qualification,Bradenton,United States,TRUE
+2018-08-31,Costa Rica,Panama,3,1,CONCACAF Championship qualification,Bradenton,United States,TRUE
+2018-08-31,Antigua and Barbuda,Bermuda,0,5,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
+2018-08-31,Jamaica,Trinidad and Tobago,4,1,CONCACAF Championship qualification,Kingston,Jamaica,FALSE
 2018-08-31,Wales,England,0,3,FIFA World Cup qualification,Newport,Wales,FALSE
 2018-08-31,Belarus,Poland,1,4,FIFA World Cup qualification,Minsk,Belarus,FALSE
 2018-08-31,Republic of Ireland,Northern Ireland,4,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
@@ -4478,8 +4639,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-08-31,Spain,Finland,5,1,FIFA World Cup qualification,Santander,Spain,FALSE
 2018-09-01,United States,Chile,3,0,Friendly,Carson,United States,FALSE
 2018-09-01,Iceland,Germany,0,2,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
-2018-09-02,Bermuda,Trinidad and Tobago,0,3,CONCACAF Gold Cup qualification,Kingston,Jamaica,TRUE
-2018-09-02,Jamaica,Cuba,6,1,CONCACAF Gold Cup qualification,Kingston,Jamaica,FALSE
+2018-09-02,Bermuda,Trinidad and Tobago,0,3,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
+2018-09-02,Jamaica,Cuba,6,1,CONCACAF Championship qualification,Kingston,Jamaica,FALSE
 2018-09-04,Russia,Bosnia and Herzegovina,3,0,FIFA World Cup qualification,Moscow,Russia,FALSE
 2018-09-04,Kazakhstan,England,0,6,FIFA World Cup qualification,Pavlodar,Kazakhstan,FALSE
 2018-09-04,Poland,Switzerland,0,0,FIFA World Cup qualification,Mielec,Poland,FALSE
@@ -4495,32 +4656,32 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-09-04,Austria,Finland,4,1,FIFA World Cup qualification,Wiener Neustadt,Austria,FALSE
 2018-09-04,Spain,Serbia,3,0,FIFA World Cup qualification,Logroño,Spain,FALSE
 2018-09-05,United States,Chile,4,0,Friendly,San Jose,United States,FALSE
-2018-10-04,Trinidad and Tobago,Panama,0,3,CONCACAF Gold Cup,Cary,United States,TRUE
-2018-10-04,United States,Mexico,6,0,CONCACAF Gold Cup,Cary,United States,FALSE
+2018-10-04,Trinidad and Tobago,Panama,0,3,CONCACAF Championship,Cary,United States,TRUE
+2018-10-04,United States,Mexico,6,0,CONCACAF Championship,Cary,United States,FALSE
 2018-10-04,Thailand,Finland,1,3,Yongchuan International Tournament,Chongqing,China PR,TRUE
 2018-10-04,China PR,Portugal,0,0,Yongchuan International Tournament,Chongqing,China PR,FALSE
-2018-10-05,Costa Rica,Cuba,8,0,CONCACAF Gold Cup,Edinburg,United States,TRUE
-2018-10-05,Canada,Jamaica,2,0,CONCACAF Gold Cup,Edinburg,United States,TRUE
+2018-10-05,Costa Rica,Cuba,8,0,CONCACAF Championship,Edinburg,United States,TRUE
+2018-10-05,Canada,Jamaica,2,0,CONCACAF Championship,Edinburg,United States,TRUE
 2018-10-05,Netherlands,Denmark,2,0,FIFA World Cup qualification,Breda,Netherlands,FALSE
 2018-10-05,Belgium,Switzerland,2,2,FIFA World Cup qualification,Leuven,Belgium,FALSE
 2018-10-06,Thailand,Portugal,1,4,Yongchuan International Tournament,Chongqing,China PR,TRUE
 2018-10-06,China PR,Finland,2,1,Yongchuan International Tournament,Chongqing,China PR,FALSE
-2018-10-07,United States,Panama,5,0,CONCACAF Gold Cup,Cary,United States,FALSE
-2018-10-07,Mexico,Trinidad and Tobago,4,1,CONCACAF Gold Cup,Cary,United States,TRUE
-2018-10-08,Jamaica,Costa Rica,1,0,CONCACAF Gold Cup,Edinburg,United States,TRUE
-2018-10-08,Cuba,Canada,0,12,CONCACAF Gold Cup,Edinburg,United States,TRUE
+2018-10-07,United States,Panama,5,0,CONCACAF Championship,Cary,United States,FALSE
+2018-10-07,Mexico,Trinidad and Tobago,4,1,CONCACAF Championship,Cary,United States,TRUE
+2018-10-08,Jamaica,Costa Rica,1,0,CONCACAF Championship,Edinburg,United States,TRUE
+2018-10-08,Cuba,Canada,0,12,CONCACAF Championship,Edinburg,United States,TRUE
 2018-10-08,Portugal,Finland,0,0,Yongchuan International Tournament,Chongqing,China PR,TRUE
 2018-10-08,China PR,Thailand,2,0,Yongchuan International Tournament,Chongqing,China PR,FALSE
 2018-10-09,Denmark,Netherlands,1,2,FIFA World Cup qualification,Viborg,Denmark,FALSE
 2018-10-09,Switzerland,Belgium,1,1,FIFA World Cup qualification,Biel/Bienne,Switzerland,FALSE
-2018-10-10,Panama,Mexico,2,0,CONCACAF Gold Cup,Cary,United States,TRUE
-2018-10-10,United States,Trinidad and Tobago,7,0,CONCACAF Gold Cup,Cary,United States,FALSE
-2018-10-11,Cuba,Jamaica,0,9,CONCACAF Gold Cup,Edinburg,United States,TRUE
-2018-10-11,Costa Rica,Canada,1,3,CONCACAF Gold Cup,Edinburg,United States,TRUE
-2018-10-14,Panama,Canada,0,7,CONCACAF Gold Cup,Frisco,United States,TRUE
-2018-10-14,United States,Jamaica,6,0,CONCACAF Gold Cup,Frisco,United States,FALSE
-2018-10-17,Panama,Jamaica,2,2,CONCACAF Gold Cup,Frisco,United States,TRUE
-2018-10-17,United States,Canada,2,0,CONCACAF Gold Cup,Frisco,United States,FALSE
+2018-10-10,Panama,Mexico,2,0,CONCACAF Championship,Cary,United States,TRUE
+2018-10-10,United States,Trinidad and Tobago,7,0,CONCACAF Championship,Cary,United States,FALSE
+2018-10-11,Cuba,Jamaica,0,9,CONCACAF Championship,Edinburg,United States,TRUE
+2018-10-11,Costa Rica,Canada,1,3,CONCACAF Championship,Edinburg,United States,TRUE
+2018-10-14,Panama,Canada,0,7,CONCACAF Championship,Frisco,United States,TRUE
+2018-10-14,United States,Jamaica,6,0,CONCACAF Championship,Frisco,United States,FALSE
+2018-10-17,Panama,Jamaica,2,2,CONCACAF Championship,Frisco,United States,TRUE
+2018-10-17,United States,Canada,2,0,CONCACAF Championship,Frisco,United States,FALSE
 2018-11-08,Portugal,United States,0,1,Friendly,Estoril,Portugal,FALSE
 2018-11-08,Argentina,Panama,4,0,FIFA World Cup qualification,Sarandí,Argentina,FALSE
 2018-11-09,Netherlands,Switzerland,3,0,FIFA World Cup qualification,Utrecht,Netherlands,FALSE
@@ -4696,9 +4857,19 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-07-03,Netherlands,Sweden,1,0,FIFA World Cup,Décines-Charpieu,France,TRUE
 2019-07-06,England,Sweden,1,2,FIFA World Cup,Nice,France,TRUE
 2019-07-07,United States,Netherlands,2,0,FIFA World Cup,Décines-Charpieu,France,TRUE
+2019-07-15,Fiji,New Caledonia,4,0,South Pacific Games,Apia,Samoa,TRUE
+2019-07-15,American Samoa,Tonga,0,12,South Pacific Games,Apia,Samoa,TRUE
+2019-07-15,Papua New Guinea,Vanuatu,6,1,South Pacific Games,Apia,Samoa,TRUE
+2019-07-15,Solomon Islands,Cook Islands,1,2,South Pacific Games,Apia,Samoa,TRUE
+2019-07-18,Tonga,Fiji,1,3,South Pacific Games,Apia,Samoa,TRUE
+2019-07-18,Samoa,New Caledonia,3,2,South Pacific Games,Apia,Samoa,FALSE
+2019-07-18,Cook Islands,Papua New Guinea,1,5,South Pacific Games,Apia,Samoa,TRUE
+2019-07-18,Vanuatu,Tahiti,0,0,South Pacific Games,Apia,Samoa,TRUE
 2019-07-20,Malta,Israel,1,1,UEFA Euro qualification,Ta' Qali,Malta,FALSE
 2019-07-20,Azerbaijan,Czech Republic,0,4,UEFA Euro qualification,Baku,Azerbaijan,FALSE
 2019-07-20,Finland,Cyprus,4,0,UEFA Euro qualification,Helsinki,Finland,FALSE
+2019-07-20,Fiji,Cook Islands,3,1,South Pacific Games,Apia,Samoa,TRUE
+2019-07-20,Samoa,Papua New Guinea,1,3,South Pacific Games,Apia,Samoa,FALSE
 2019-08-04,United States,Republic of Ireland,3,0,Friendly,Pasadena,United States,FALSE
 2019-08-20,Turkey,Netherlands,0,8,UEFA Euro qualification,İzmir,Turkey,FALSE
 2019-08-20,Italy,Georgia,6,0,UEFA Euro qualification,Benevento,Italy,FALSE
@@ -4708,6 +4879,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-08-20,Romania,Lithuania,3,0,UEFA Euro qualification,Mogoșoaia,Romania,FALSE
 2019-08-20,Croatia,Belgium,1,4,UEFA Euro qualification,Zaprešić,Croatia,FALSE
 2019-08-20,Norway,Northern Ireland,6,0,UEFA Euro qualification,Stavanger,Norway,FALSE
+2019-08-20,Fiji,American Samoa,11,0,South Pacific Games,Apia,Samoa,TRUE
+2019-08-20,Samoa,Tonga,5,0,South Pacific Games,Apia,Samoa,FALSE
+2019-08-20,Tahiti,Cook Islands,0,2,South Pacific Games,Apia,Samoa,TRUE
+2019-08-20,Papua New Guinea,Solomon Islands,5,2,South Pacific Games,Apia,Samoa,TRUE
 2019-08-29,Israel,Italy,2,3,UEFA Euro qualification,Ramat Gan,Israel,FALSE
 2019-08-29,Denmark,Malta,8,0,UEFA Euro qualification,Viborg,Denmark,FALSE
 2019-08-29,Iceland,Hungary,4,1,UEFA Euro qualification,Reykjavík,Iceland,FALSE
@@ -4778,6 +4953,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-10-08,Faroe Islands,Norway,0,13,UEFA Euro qualification,Tórshavn,Faroe Islands,FALSE
 2019-10-08,Belarus,Wales,0,1,UEFA Euro qualification,Barysaw,Belarus,FALSE
 2019-10-20,Moldova,Azerbaijan,3,1,UEFA Euro qualification,Chișinău,Moldova,FALSE
+2019-10-20,Tonga,New Caledonia,3,2,South Pacific Games,Apia,Samoa,TRUE
+2019-10-20,Samoa,American Samoa,0,0,South Pacific Games,Apia,Samoa,FALSE
+2019-10-20,Cook Islands,Vanuatu,2,1,South Pacific Games,Apia,Samoa,TRUE
+2019-10-20,Solomon Islands,Tahiti,0,1,South Pacific Games,Apia,Samoa,TRUE
 2019-11-07,Brazil,Canada,4,0,Yongchuan International Tournament,Chongqing,China PR,TRUE
 2019-11-07,China PR,New Zealand,2,0,Yongchuan International Tournament,Chongqing,China PR,FALSE
 2019-11-08,United States,Sweden,3,2,Friendly,Columbus,United States,FALSE
@@ -4797,6 +4976,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-12-20,Belgium,Lithuania,6,0,UEFA Euro qualification,Leuven,Belgium,FALSE
 2019-12-20,Greece,Republic of Ireland,1,1,UEFA Euro qualification,Athens,Greece,FALSE
 2019-12-20,Northern Ireland,Wales,0,0,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+2019-12-20,New Caledonia,American Samoa,9,0,South Pacific Games,Apia,Samoa,TRUE
+2019-12-20,Samoa,Fiji,1,0,South Pacific Games,Apia,Samoa,FALSE
+2019-12-20,Vanuatu,Solomon Islands,1,2,South Pacific Games,Apia,Samoa,TRUE
+2019-12-20,Tahiti,Papua New Guinea,0,4,South Pacific Games,Apia,Samoa,TRUE
 2020-01-29,United States,Haiti,4,0,Olympic Games qualification,Houston,United States,FALSE
 2020-02-01,United States,Panama,8,0,Olympic Games qualification,Houston,United States,FALSE
 2020-02-04,United States,Costa Rica,6,0,Olympic Games qualification,Houston,United States,FALSE
@@ -4994,6 +5177,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2021-06-13,Japan,Mexico,5,1,MS&AD Cup,Utsunomiya,Japan,FALSE
 2021-06-13,Estonia,Latvia,4,1,Baltic Cup,Jonava,Lithuania,TRUE
 2021-06-13,Lithuania,Faroe Islands,2,0,Baltic Cup,Alytus,Lithuania,FALSE
+2021-08-24,Egypt,Sudan,10,0,Arab Cup,Cairo,Egypt,FALSE
+2021-08-24,Tunisia,Lebanon,0,0,Arab Cup,Cairo,Egypt,TRUE
+2021-08-25,Jordan,Algeria,1,3,Arab Cup,Cairo,Egypt,TRUE
+2021-08-27,Sudan,Tunisia,1,12,Arab Cup,Cairo,Egypt,TRUE
+2021-08-27,Egypt,Lebanon,4,0,Arab Cup,Cairo,Egypt,FALSE
+2021-08-28,Algeria,Palestine,4,1,Arab Cup,Cairo,Egypt,TRUE
+2021-08-30,Egypt,Tunisia,2,2,Arab Cup,Cairo,Egypt,FALSE
+2021-08-30,Lebanon,Sudan,5,1,Arab Cup,Cairo,Egypt,TRUE
+2021-08-31,Palestine,Jordan,1,4,Arab Cup,Cairo,Egypt,TRUE
+2021-09-03,Egypt,Jordan,2,5,Arab Cup,Cairo,Egypt,FALSE
+2021-09-03,Algeria,Tunisia,2,2,Arab Cup,Cairo,Egypt,TRUE
+2021-09-06,Jordan,Tunisia,1,0,Arab Cup,Cairo,Egypt,TRUE
 2021-09-16,Faroe Islands,Spain,0,10,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
 2021-09-16,Norway,Armenia,10,0,FIFA World Cup qualification,Oslo,Norway,FALSE
 2021-09-16,Albania,Kosovo,1,1,FIFA World Cup qualification,Elbasan,Albania,FALSE
@@ -5235,11 +5430,23 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-02-16,Slovakia,Belgium,0,4,Pinatar Cup,San Pedro del Pinatar,Spain,TRUE
 2022-02-16,Hungary,Russia,2,2,Pinatar Cup,La Manga,Spain,TRUE
 2022-02-16,Malta,Moldova,3,1,Malta International Tournament,Paola,Malta,FALSE
+2022-02-16,Puerto Rico,Antigua and Barbuda,4,0,CONCACAF Championship qualification,Mayagüez,Puerto Rico,FALSE
+2022-02-16,Guatemala,United States Virgin Islands,9,0,CONCACAF Championship qualification,Antigua,Guatemala,FALSE
+2022-02-16,Dominican Republic,Grenada,9,0,CONCACAF Championship qualification,Santo Domingo,Dominican Republic,FALSE
+2022-02-16,El Salvador,Belize,6,0,CONCACAF Championship qualification,San Salvador,El Salvador,FALSE
+2022-02-16,Cuba,Saint Vincent and the Grenadines,3,0,CONCACAF Championship qualification,Santiago de Cuba,Cuba,FALSE
+2022-02-16,Guyana,Dominica,4,0,CONCACAF Championship qualification,Leonora,Guyana,FALSE
 2022-02-17,United States,Czech Republic,0,0,SheBelieves Cup,Carson,United States,FALSE
 2022-02-17,Iceland,New Zealand,1,0,SheBelieves Cup,Carson,United States,TRUE
 2022-02-17,Togo,Gabon,2,1,African Cup of Nations qualification,Lomé,Togo,FALSE
 2022-02-17,Germany,Spain,1,1,Arnold Clark Cup,Middlesbrough,England,TRUE
 2022-02-17,England,Canada,1,1,Arnold Clark Cup,Middlesbrough,England,FALSE
+2022-02-17,Mexico,Suriname,9,0,CONCACAF Championship qualification,San Nicolás de los Garza,Mexico,FALSE
+2022-02-17,Costa Rica,Saint Kitts and Nevis,7,0,CONCACAF Championship qualification,San Jose,Costa Rica,FALSE
+2022-02-17,Jamaica,Bermuda,4,0,CONCACAF Championship qualification,Kingston,Jamaica,FALSE
+2022-02-17,Panama,Barbados,5,0,CONCACAF Championship qualification,Panama City,Panama,FALSE
+2022-02-17,Haiti,Honduras,6,0,CONCACAF Championship qualification,Santo Domingo,Dominican Republic,TRUE
+2022-02-17,Trinidad and Tobago,Nicaragua,2,1,CONCACAF Championship qualification,Port of Spain,Trinidad and Tobago,FALSE
 2022-02-18,Zimbabwe,Botswana,1,3,African Cup of Nations qualification,Harare,Zimbabwe,FALSE
 2022-02-18,South Africa,Algeria,2,0,African Cup of Nations qualification,Johannesburg,South Africa,FALSE
 2022-02-18,Tunisia,Equatorial Guinea,5,0,African Cup of Nations qualification,Soliman,Tunisia,FALSE
@@ -5255,12 +5462,24 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-02-19,Wales,Belgium,0,0,Pinatar Cup,San Pedro del Pinatar,Spain,TRUE
 2022-02-19,Republic of Ireland,Russia,0,1,Pinatar Cup,La Manga,Spain,TRUE
 2022-02-19,Malta,Morocco,0,1,Malta International Tournament,Paola,Malta,FALSE
+2022-02-19,Anguilla,Puerto Rico,0,9,CONCACAF Championship qualification,The Valley,Anguilla,FALSE
+2022-02-19,Curaçao,Guatemala,0,6,CONCACAF Championship qualification,Willemstad,Curaçao,FALSE
+2022-02-19,Cayman Islands,Dominican Republic,0,4,CONCACAF Championship qualification,George Town,Cayman Islands,FALSE
+2022-02-19,Aruba,El Salvador,1,7,CONCACAF Championship qualification,San Cristóbal,Dominican Republic,TRUE
+2022-02-19,British Virgin Islands,Cuba,0,14,CONCACAF Championship qualification,San Pedro Sula,Honduras,TRUE
+2022-02-19,Turks and Caicos Islands,Guyana,0,7,CONCACAF Championship qualification,Providenciales,Turks and Caicos Islands,FALSE
 2022-02-20,United States,New Zealand,5,0,SheBelieves Cup,Carson,United States,FALSE
 2022-02-20,Czech Republic,Iceland,1,2,SheBelieves Cup,Carson,United States,TRUE
 2022-02-20,Italy,Norway,2,1,Algarve Cup,Algarve,Portugal,TRUE
 2022-02-20,Portugal,Sweden,0,4,Algarve Cup,Algarve,Portugal,FALSE
 2022-02-20,England,Spain,0,0,Arnold Clark Cup,Norwich,England,FALSE
 2022-02-20,Canada,Germany,1,0,Arnold Clark Cup,Norwich,England,TRUE
+2022-02-20,Mexico,Antigua and Barbuda,8,0,CONCACAF Championship qualification,Santo Domingo,Dominican Republic,TRUE
+2022-02-20,United States Virgin Islands,Costa Rica,0,6,CONCACAF Championship qualification,Saint Croix,United States Virgin Islands,FALSE
+2022-02-20,Grenada,Jamaica,1,6,CONCACAF Championship qualification,St. George's,Grenada,FALSE
+2022-02-20,Belize,Panama,0,8,CONCACAF Championship qualification,San Salvador,El Salvador,TRUE
+2022-02-20,Saint Vincent and the Grenadines,Haiti,0,11,CONCACAF Championship qualification,Santiago de Cuba,Cuba,TRUE
+2022-02-20,Dominica,Trinidad and Tobago,0,2,CONCACAF Championship qualification,Leonora,Guyana,TRUE
 2022-02-21,Burundi,Djibouti,5,0,African Cup of Nations qualification,Ngozi,Burundi,FALSE
 2022-02-22,Brazil,Finland,0,0,Tournoi de France,Caen,France,TRUE
 2022-02-22,France,Netherlands,3,1,Tournoi de France,Le Havre,France,FALSE
@@ -5274,6 +5493,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-02-22,Wales,Republic of Ireland,0,1,Pinatar Cup,La Manga,Spain,TRUE
 2022-02-22,Belgium,Russia,0,0,Pinatar Cup,San Pedro del Pinatar,Spain,TRUE
 2022-02-22,Morocco,Moldova,4,0,Malta International Tournament,Paola,Malta,TRUE
+2022-02-22,Suriname,Anguilla,5,0,CONCACAF Championship qualification,Paramaribo,Suriname,FALSE
+2022-02-22,Saint Kitts and Nevis,Curaçao,5,1,CONCACAF Championship qualification,Santo Domingo,Dominican Republic,TRUE
+2022-02-22,Bermuda,Cayman Islands,6,0,CONCACAF Championship qualification,Bradenton,United States,TRUE
+2022-02-22,Barbados,Aruba,3,1,CONCACAF Championship qualification,San Cristóbal,Dominican Republic,TRUE
+2022-02-22,Honduras,British Virgin Islands,4,0,CONCACAF Championship qualification,San Pedro Sula,Honduras,FALSE
+2022-02-22,Nicaragua,Turks and Caicos Islands,19,0,CONCACAF Championship qualification,Managua,Nicaragua,FALSE
 2022-02-23,New Zealand,Czech Republic,0,0,SheBelieves Cup,Frisco,United States,TRUE
 2022-02-23,United States,Iceland,5,0,SheBelieves Cup,Frisco,United States,FALSE
 2022-02-23,Sweden,Italy,1,1,Algarve Cup,Lagos,Portugal,TRUE
@@ -5288,6 +5513,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-02-23,Turkey,Serbia,2,5,FIFA World Cup qualification,İzmir,Turkey,FALSE
 2022-02-23,Spain,Canada,1,0,Arnold Clark Cup,Wolverhampton,England,TRUE
 2022-02-23,England,Germany,3,1,Arnold Clark Cup,Wolverhampton,England,FALSE
+2022-04-06,Antigua and Barbuda,Anguilla,1,0,CONCACAF Championship qualification,North Sound,Antigua and Barbuda,FALSE
+2022-04-06,United States Virgin Islands,Curaçao,0,1,CONCACAF Championship qualification,Saint Croix,United States Virgin Islands,FALSE
+2022-04-06,Grenada,Cayman Islands,0,2,CONCACAF Championship qualification,St. George's,Grenada,FALSE
+2022-04-06,Belize,Aruba,1,1,CONCACAF Championship qualification,Belmopan,Belize,FALSE
+2022-04-06,Saint Vincent and the Grenadines,British Virgin Islands,5,1,CONCACAF Championship qualification,Kingstown,Saint Vincent and the Grenadines,FALSE
+2022-04-06,Dominica,Turks and Caicos Islands,8,1,CONCACAF Championship qualification,Roseau,Dominica,FALSE
 2022-04-07,Georgia,Sweden,0,15,FIFA World Cup qualification,Gori,Georgia,FALSE
 2022-04-07,Belarus,Iceland,0,5,FIFA World Cup qualification,Belgrade,Serbia,TRUE
 2022-04-07,Norway,Kosovo,5,1,FIFA World Cup qualification,Sandefjord,Norway,FALSE
@@ -5308,8 +5539,20 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-04-08,Estonia,Greece,1,3,FIFA World Cup qualification,Tallinn,Estonia,FALSE
 2022-04-08,Wales,France,1,2,FIFA World Cup qualification,Llanelli,Wales,FALSE
 2022-04-08,Malta,Denmark,0,2,FIFA World Cup qualification,Ta' Qali,Malta,FALSE
+2022-04-08,Puerto Rico,Suriname,2,0,CONCACAF Championship qualification,Mayagüez,Puerto Rico,FALSE
+2022-04-08,Guatemala,Saint Kitts and Nevis,1,2,CONCACAF Championship qualification,Antigua,Guatemala,FALSE
+2022-04-08,Dominican Republic,Bermuda,1,0,CONCACAF Championship qualification,Santo Domingo,Dominican Republic,FALSE
+2022-04-08,El Salvador,Barbados,2,0,CONCACAF Championship qualification,San Salvador,El Salvador,FALSE
+2022-04-08,Cuba,Honduras,0,0,CONCACAF Championship qualification,Santiago de Cuba,Cuba,FALSE
+2022-04-08,Guyana,Nicaragua,0,0,CONCACAF Championship qualification,Leonora,Guyana,FALSE
 2022-04-09,Luxembourg,Latvia,3,2,FIFA World Cup qualification,Niederkorn,Luxembourg,FALSE
 2022-04-09,Germany,Portugal,3,0,FIFA World Cup qualification,Bielefeld,Germany,FALSE
+2022-04-09,Mexico,Anguilla,11,0,CONCACAF Championship qualification,The Valley,Mexico,FALSE
+2022-04-09,Curaçao,Costa Rica,0,4,CONCACAF Championship qualification,Willemstad,Curaçao,FALSE
+2022-04-09,Cayman Islands,Jamaica,0,9,CONCACAF Championship qualification,George Town,Cayman Islands,FALSE
+2022-04-09,Aruba,Panama,0,9,CONCACAF Championship qualification,Belmopan,Belize,TRUE
+2022-04-09,British Virgin Islands,Haiti,0,21,CONCACAF Championship qualification,Road Town,British Virgin Islands,FALSE
+2022-04-09,Turks and Caicos Islands,Trinidad and Tobago,0,13,CONCACAF Championship qualification,Providenciales,Turks and Caicos Islands,FALSE
 2022-04-12,Finland,Georgia,6,0,FIFA World Cup qualification,Helsinki,Finland,FALSE
 2022-04-12,Sweden,Republic of Ireland,1,1,FIFA World Cup qualification,Gothenburg,Sweden,FALSE
 2022-04-12,Scotland,Spain,0,2,FIFA World Cup qualification,Glasgow,Scotland,FALSE
@@ -5331,6 +5574,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-04-12,France,Slovenia,1,0,FIFA World Cup qualification,Le Mans,France,FALSE
 2022-04-12,Montenegro,Bosnia and Herzegovina,0,2,FIFA World Cup qualification,Podgorica,Montenegro,FALSE
 2022-04-12,Denmark,Azerbaijan,2,0,FIFA World Cup qualification,Viborg,Denmark,FALSE
+2022-04-12,Suriname,Antigua and Barbuda,5,1,CONCACAF Championship qualification,Paramaribo,Suriname,FALSE
+2022-04-12,Mexico,Puerto Rico,6,0,CONCACAF Championship qualification,Toluca,Mexico,FALSE
+2022-04-12,Saint Kitts and Nevis,United States Virgin Islands,6,0,CONCACAF Championship qualification,Basseterre,Saint Kitts and Nevis,FALSE
+2022-04-12,Costa Rica,Guatemala,5,0,CONCACAF Championship qualification,San Jose,Costa Rica,FALSE
+2022-04-12,Bermuda,Grenada,6,0,CONCACAF Championship qualification,Hamilton,Bermuda,FALSE
+2022-04-12,Jamaica,Dominican Republic,5,1,CONCACAF Championship qualification,Kingston,Jamaica,FALSE
+2022-04-12,Barbados,Belize,0,3,CONCACAF Championship qualification,San Salvador,El Salvador,TRUE
+2022-04-12,Panama,El Salvador,2,0,CONCACAF Championship qualification,Panama City,Panama,FALSE
+2022-04-12,Honduras,Saint Vincent and the Grenadines,2,1,CONCACAF Championship qualification,San Pedro Sula,Honduras,FALSE
+2022-04-12,Haiti,Cuba,6,0,CONCACAF Championship qualification,Santo Domingo,Dominican Republic,TRUE
+2022-04-12,Trinidad and Tobago,Guyana,2,2,CONCACAF Championship qualification,Bacolet,Trinidad and Tobago,FALSE
+2022-04-12,Nicaragua,Dominica,10,0,CONCACAF Championship qualification,Managua,Nicaragua,FALSE
 2022-06-23,Bulgaria,Israel,0,2,FIFA World Cup qualification,Plovdiv,Bulgaria,FALSE
 2022-06-24,Ukraine,Scotland,0,4,FIFA World Cup qualification,Rzeszów,Poland,TRUE
 2022-06-24,Belarus,Czech Republic,2,1,FIFA World Cup qualification,Belgrade,Serbia,TRUE
@@ -5595,51 +5850,51 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-02-23,New Zealand,Argentina,0,1,FIFA World Cup qualification,Auckland,New Zealand,FALSE
 2023-04-06,England,Brazil,1,1,Finalissima,London,England,FALSE
 2023-07-20,New Zealand,Norway,1,0,FIFA World Cup,Auckland,New Zealand,FALSE
-2023-07-21,Philippines,Switzerland,0,2,FIFA World Cup,Dunedin,New Zealand,TRUE
-2023-07-25,New Zealand,Philippines,0,1,FIFA World Cup,Wellington,New Zealand,FALSE
-2023-07-25,Switzerland,Norway,0,0,FIFA World Cup,Hamilton,New Zealand,TRUE
-2023-07-30,New Zealand,Switzerland,0,0,FIFA World Cup,Dunedin,New Zealand,FALSE
-2023-07-30,Norway,Philippines,6,0,FIFA World Cup,Auckland,New Zealand,TRUE
 2023-07-20,Australia,Republic of Ireland,1,0,FIFA World Cup,Sydney,Australia,FALSE
+2023-07-21,Philippines,Switzerland,0,2,FIFA World Cup,Dunedin,New Zealand,TRUE
 2023-07-21,Nigeria,Canada,0,0,FIFA World Cup,Melbourne,Australia,TRUE
-2023-07-26,Canada,Republic of Ireland,2,1,FIFA World Cup,Perth,Australia,TRUE
-2023-07-27,Australia,Nigeria,2,3,FIFA World Cup,Brisbane,Australia,FALSE
-2023-07-31,Australia,Canada,4,0,FIFA World Cup,Melbourne,Australia,FALSE
-2023-07-31,Republic of Ireland,Nigeria,0,0,FIFA World Cup,Brisbane,Australia,TRUE
 2023-07-21,Spain,Costa Rica,3,0,FIFA World Cup,Wellington,New Zealand,TRUE
 2023-07-22,Zambia,Japan,0,5,FIFA World Cup,Hamilton,New Zealand,TRUE
-2023-07-26,Japan,Costa Rica,2,0,FIFA World Cup,Dunedin,New Zealand,TRUE
-2023-07-26,Spain,Zambia,5,0,FIFA World Cup,Auckland,New Zealand,TRUE
-2023-07-31,Japan,Spain,4,0,FIFA World Cup,Wellington,New Zealand,TRUE
-2023-07-31,Costa Rica,Zambia,1,3,FIFA World Cup,Hamilton,New Zealand,TRUE
 2023-07-22,England,Haiti,1,0,FIFA World Cup,Brisbane,Australia,TRUE
 2023-07-22,Denmark,China,1,0,FIFA World Cup,Perth,Australia,TRUE
-2023-07-28,England,Denmark,1,0,FIFA World Cup,Sydney,Australia,TRUE
-2023-07-28,China,Haiti,1,0,FIFA World Cup,Adelaide,Australia,TRUE
-2023-08-01,China,England,1,6,FIFA World Cup,Adelaide,Australia,TRUE
-2023-08-01,Haiti,Denmark,0,2,FIFA World Cup,Perth,Australia,TRUE
 2023-07-22,United States,Vietnam,3,0,FIFA World Cup,Auckland,New Zealand,TRUE
 2023-07-23,Netherlands,Portugal,1,0,FIFA World Cup,Dunedin,New Zealand,TRUE
+2023-07-23,France,Jamaica,0,0,FIFA World Cup,Sydney,Australia,TRUE
+2023-07-23,Sweden,South Africa,2,1,FIFA World Cup,Wellington,New Zealand,TRUE
+2023-07-24,Brazil,Panama,4,0,FIFA World Cup,Adelaide,Australia,TRUE
+2023-07-24,Italy,Argentina,1,0,FIFA World Cup,Auckland,New Zealand,TRUE
+2023-07-24,Germany,Morocco,6,0,FIFA World Cup,Melbourne,Australia,TRUE
+2023-07-25,New Zealand,Philippines,0,1,FIFA World Cup,Wellington,New Zealand,FALSE
+2023-07-25,Switzerland,Norway,0,0,FIFA World Cup,Hamilton,New Zealand,TRUE
+2023-07-25,Colombia,South Korea,2,0,FIFA World Cup,Sydney,Australia,TRUE
+2023-07-26,Canada,Republic of Ireland,2,1,FIFA World Cup,Perth,Australia,TRUE
+2023-07-26,Japan,Costa Rica,2,0,FIFA World Cup,Dunedin,New Zealand,TRUE
+2023-07-26,Spain,Zambia,5,0,FIFA World Cup,Auckland,New Zealand,TRUE
+2023-07-27,Australia,Nigeria,2,3,FIFA World Cup,Brisbane,Australia,FALSE
 2023-07-27,United States,Netherlands,1,1,FIFA World Cup,Wellington,New Zealand,TRUE
 2023-07-27,Portugal,Vietnam,2,0,FIFA World Cup,Hamilton,New Zealand,TRUE
-2023-08-01,Portugal,United States,0,0,FIFA World Cup,Auckland,New Zealand,TRUE
-2023-08-01,Vietnam,Netherlands,0,7,FIFA World Cup,Dunedin,New Zealand,TRUE
-2023-07-23,France,Jamaica,0,0,FIFA World Cup,Sydney,Australia,TRUE
-2023-07-24,Brazil,Panama,4,0,FIFA World Cup,Adelaide,Australia,TRUE
+2023-07-28,England,Denmark,1,0,FIFA World Cup,Sydney,Australia,TRUE
+2023-07-28,China,Haiti,1,0,FIFA World Cup,Adelaide,Australia,TRUE
+2023-07-28,Argentina,South Africa,2,2,FIFA World Cup,Dunedin,New Zealand,TRUE
 2023-07-29,France,Brazil,2,1,FIFA World Cup,Brisbane,Australia,TRUE
 2023-07-29,Panama,Jamaica,0,1,FIFA World Cup,Perth,Australia,TRUE
-2023-08-02,Panama,France,3,6,FIFA World Cup,Sydney,Australia,TRUE
-2023-08-02,Jamaica,Brazil,0,0,FIFA World Cup,Melbourne,Australia,TRUE
-2023-07-23,Sweden,South Africa,2,1,FIFA World Cup,Wellington,New Zealand,TRUE
-2023-07-24,Italy,Argentina,1,0,FIFA World Cup,Auckland,New Zealand,TRUE
-2023-07-28,Argentina,South Africa,2,2,FIFA World Cup,Dunedin,New Zealand,TRUE
 2023-07-29,Sweden,Italy,5,0,FIFA World Cup,Wellington,New Zealand,TRUE
-2023-08-02,Argentina,Sweden,0,2,FIFA World Cup,Hamilton,New Zealand,TRUE
-2023-08-02,South Africa,Italy,3,2,FIFA World Cup,Wellington,New Zealand,TRUE
-2023-07-24,Germany,Morocco,6,0,FIFA World Cup,Melbourne,Australia,TRUE
-2023-07-25,Colombia,South Korea,2,0,FIFA World Cup,Sydney,Australia,TRUE
+2023-07-30,New Zealand,Switzerland,0,0,FIFA World Cup,Dunedin,New Zealand,FALSE
+2023-07-30,Norway,Philippines,6,0,FIFA World Cup,Auckland,New Zealand,TRUE
 2023-07-30,South Korea,Morocco,0,1,FIFA World Cup,Adelaide,Australia,TRUE
 2023-07-30,Germany,Colombia,1,2,FIFA World Cup,Sydney,Australia,TRUE
+2023-07-31,Australia,Canada,4,0,FIFA World Cup,Melbourne,Australia,FALSE
+2023-07-31,Republic of Ireland,Nigeria,0,0,FIFA World Cup,Brisbane,Australia,TRUE
+2023-07-31,Japan,Spain,4,0,FIFA World Cup,Wellington,New Zealand,TRUE
+2023-07-31,Costa Rica,Zambia,1,3,FIFA World Cup,Hamilton,New Zealand,TRUE
+2023-08-01,China,England,1,6,FIFA World Cup,Adelaide,Australia,TRUE
+2023-08-01,Haiti,Denmark,0,2,FIFA World Cup,Perth,Australia,TRUE
+2023-08-01,Portugal,United States,0,0,FIFA World Cup,Auckland,New Zealand,TRUE
+2023-08-01,Vietnam,Netherlands,0,7,FIFA World Cup,Dunedin,New Zealand,TRUE
+2023-08-02,Panama,France,3,6,FIFA World Cup,Sydney,Australia,TRUE
+2023-08-02,Jamaica,Brazil,0,0,FIFA World Cup,Melbourne,Australia,TRUE
+2023-08-02,Argentina,Sweden,0,2,FIFA World Cup,Hamilton,New Zealand,TRUE
+2023-08-02,South Africa,Italy,3,2,FIFA World Cup,Wellington,New Zealand,TRUE
 2023-08-03,South Korea,Germany,1,1,FIFA World Cup,Brisbane,Australia,TRUE
 2023-08-03,Morocco,Colombia,1,0,FIFA World Cup,Perth,Australia,TRUE
 2023-08-05,Switzerland,Spain,1,5,FIFA World Cup,Auckland,New Zealand,TRUE
@@ -5658,3 +5913,296 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-08-16,Australia,England,1,3,FIFA World Cup,Sydney,Australia,FALSE
 2023-08-19,Australia,Sweden,0,2,FIFA World Cup,Brisbane,Australia,FALSE
 2023-08-20,Spain,England,1,0,FIFA World Cup,Sydney,Australia,TRUE
+2023-09-20,Guatemala,Panama,0,3,CONCACAF Gold Cup qualification,Antigua,Guatemala,FALSE
+2023-09-20,Dominica,Suriname,0,4,CONCACAF Gold Cup qualification,Roseau,Dominica,FALSE
+2023-09-20,Antigua and Barbuda,Guyana,2,1,CONCACAF Gold Cup qualification,Piggotts,Antigua and Barbuda,FALSE
+2023-09-20,Martinique,Honduras,0,2,CONCACAF Gold Cup qualification,Fort-de-France,Martinique,FALSE
+2023-09-20,Nicaragua,El Salvador,0,3,CONCACAF Gold Cup qualification,Managua,Nicaragua,FALSE
+2023-09-20,Bahamas,Grenada,1,6,CONCACAF Gold Cup qualification,Nassau,Bahamas,FALSE
+2023-09-21,Haiti,Costa Rica,1,0,CONCACAF Gold Cup qualification,Santo Domingo,Dominican Republic,TRUE
+2023-09-21,Belize,Aruba,2,0,CONCACAF Gold Cup qualification,Belmopan,Belize,FALSE
+2023-09-21,Bonaire,Turks and Caicos Islands,0,0,CONCACAF Gold Cup qualification,Rincon,Bonaire,FALSE
+2023-09-21,Anguilla,Cayman Islands,3,1,CONCACAF Gold Cup qualification,The Valley,Anguilla,FALSE
+2023-09-22,Mexico,Puerto Rico,2,1,CONCACAF Gold Cup qualification,Mexico City,Mexico,FALSE
+2023-09-22,Bermuda,Dominican Republic,2,0,CONCACAF Gold Cup qualification,Devonshire Parish,Bermuda,FALSE
+2023-09-22,Barbados,Saint Vincent and the Grenadines,5,0,CONCACAF Gold Cup qualification,Bridgetown,Barbados,FALSE
+2023-09-22,Saint Lucia,Cuba,1,2,CONCACAF Gold Cup qualification,Gros Islet,Saint Lucia,FALSE
+2023-09-22,Belgium,Netherlands,2,1,UEFA Nations League,Leuven,Belgium,FALSE
+2023-09-22,England,Scotland,2,1,UEFA Nations League,Sunderland,England,FALSE
+2023-09-22,Norway,Austria,1,1,UEFA Nations League,Oslo,Norway,FALSE
+2023-09-22,France,Portugal,2,0,UEFA Nations League,Valenciennes,France,FALSE
+2023-09-22,Denmark,Germany,2,0,UEFA Nations League,Viborg,Denmark,FALSE
+2023-09-22,Iceland,Wales,1,0,UEFA Nations League,Reykjavík,Iceland,FALSE
+2023-09-22,Sweden,Spain,2,3,UEFA Nations League,Gothenburg,Sweden,FALSE
+2023-09-22,Switzerland,Italy,0,1,UEFA Nations League,St. Gallen,Switzerland,FALSE
+2023-09-22,Albania,Hungary,1,1,UEFA Nations League,Shkodër,Albania,FALSE
+2023-09-22,Finland,Slovakia,4,0,UEFA Nations League,Turku,Finland,FALSE
+2023-09-22,Croatia,Romania,2,1,UEFA Nations League,Varaždin,Croatia,FALSE
+2023-09-22,Ukraine,Serbia,1,2,UEFA Nations League,Starogard Gdański,Poland,TRUE
+2023-09-22,Greece,Poland,1,3,UEFA Nations League,Athens,Greece,FALSE
+2023-09-22,Slovenia,Czech Republic,0,2,UEFA Nations League,Krško,Slovenia,FALSE
+2023-09-22,Belarus,Bosnia and Herzegovina,1,2,UEFA Nations League,Győr,Hungary,TRUE
+2023-09-22,Latvia,Malta,0,1,UEFA Nations League,Jūrmala,Latvia,FALSE
+2023-09-22,Moldova,Andorra,1,2,UEFA Nations League,Orhei,Moldova,FALSE
+2023-09-22,Lithuania,Luxembourg,0,2,UEFA Nations League,Jonava,Lithuania,FALSE
+2023-09-22,Georgia,Turkey,0,3,UEFA Nations League,Tbilisi,Georgia,FALSE
+2023-09-22,Azerbaijan,Cyprus,1,1,UEFA Nations League,Baku,Azerbaijan,FALSE
+2023-09-22,Faroe Islands,Montenegro,0,1,UEFA Nations League,Tórshavn,Faroe Islands,FALSE
+2023-09-22,Estonia,Kazakhstan,0,0,UEFA Nations League,Tartu,Estonia,FALSE
+2023-09-22,North Macedonia,Bulgaria,0,1,UEFA Nations League,Skopje,North Macedonia,FALSE
+2023-09-22,Jamaica,Canada,0,2,Olympic qualifyication,Kingston,Jamaica,FALSE
+2023-09-23,Republic of Ireland,Northern Ireland,3,0,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2023-09-24,Panama,Guatemala,2,3,CONCACAF Gold Cup qualification,Penonomé,Panama,FALSE
+2023-09-24,Guyana,Dominica,5,0,CONCACAF Gold Cup qualification,Bridgetown,Barbados,TRUE
+2023-09-24,Suriname,Antigua and Barbuda,1,0,CONCACAF Gold Cup qualification,Paramaribo,Suriname,FALSE
+2023-09-24,El Salvador,Martinique,9,1,CONCACAF Gold Cup qualification,Santa Tecla,El Salvador,FALSE
+2023-09-24,Grenada,Bahamas,4,1,CONCACAF Gold Cup qualification,St. George's,Grenada,FALSE
+2023-09-25,Costa Rica,Saint Kitts and Nevis,11,0,CONCACAF Gold Cup qualification,Alajuela,Costa Rica,FALSE
+2023-09-25,Honduras,Nicaragua,1,1,CONCACAF Gold Cup qualification,Tegucigalpa,Honduras,FALSE
+2023-09-25,Turks and Caicos Islands,Aruba,0,5,CONCACAF Gold Cup qualification,Providenciales,Turks and Caicos Islands,FALSE
+2023-09-25,Belize,Bonaire,3,0,CONCACAF Gold Cup qualification,Belmopan,Belize,FALSE
+2023-09-25,Cayman Islands,Anguilla,2,2,CONCACAF Gold Cup qualification,George Town,Cayman Islands,FALSE
+2023-09-26,Mexico,Trinidad and Tobago,6,0,CONCACAF Gold Cup qualification,Pachuca,Mexico,FALSE
+2023-09-26,Saint Vincent and the Grenadines,Bermuda,0,4,CONCACAF Gold Cup qualification,Kingstown,Saint Vincent and the Grenadines,FALSE
+2023-09-26,Dominican Republic,Barbados,3,0,CONCACAF Gold Cup qualification,Santo Domingo,Dominican Republic,FALSE
+2023-09-26,Guadeloupe,Saint Lucia,1,5,CONCACAF Gold Cup qualification,Sainte-Anne,Guadeloupe,FALSE
+2023-09-26,Netherlands,England,2,1,UEFA Nations League,Utrecht,Netherlands,FALSE
+2023-09-26,Scotland,Belgium,1,1,UEFA Nations League,Glasgow,Scotland,FALSE
+2023-09-26,Austria,France,0,1,UEFA Nations League,Vienna,Austria,FALSE
+2023-09-26,Portugal,Norway,3,2,UEFA Nations League,Barcelos,Portugal,FALSE
+2023-09-26,Germany,Iceland,4,0,UEFA Nations League,Bochum,Germany,FALSE
+2023-09-26,Wales,Denmark,1,5,UEFA Nations League,Cardiff,Wales,FALSE
+2023-09-26,Italy,Sweden,0,1,UEFA Nations League,Castel di Sangro,Italy,FALSE
+2023-09-26,Spain,Switzerland,5,0,UEFA Nations League,Córdoba,Spain,FALSE
+2023-09-26,Hungary,Republic of Ireland,0,4,UEFA Nations League,Budapest,Hungary,FALSE
+2023-09-26,Northern Ireland,Albania,1,0,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2023-09-26,Romania,Finland,0,1,UEFA Nations League,Bucharest,Romania,FALSE
+2023-09-26,Slovakia,Croatia,4,0,UEFA Nations League,Senec,Slovakia,FALSE
+2023-09-26,Poland,Ukraine,2,1,UEFA Nations League,Gdynia,Poland,FALSE
+2023-09-26,Serbia,Greece,4,0,UEFA Nations League,Stara Pazova,Serbia,FALSE
+2023-09-26,Bosnia and Herzegovina,Slovenia,1,1,UEFA Nations League,Zenica,Bosnia and Herzegovina,FALSE
+2023-09-26,Czech Republic,Belarus,2,1,UEFA Nations League,Velika Gorica,Croatia,TRUE
+2023-09-26,Andorra,Latvia,0,4,UEFA Nations League,Andorra la Vella,Andorra,FALSE
+2023-09-26,Malta,Moldova,2,0,UEFA Nations League,Ta' Qali,Malta,FALSE
+2023-09-26,Turkey,Lithuania,2,0,UEFA Nations League,Elazığ,Turkey,FALSE
+2023-09-26,Luxembourg,Georgia,1,1,UEFA Nations League,Esch-sur-Alzette,Luxembourg,FALSE
+2023-09-26,Cyprus,Faroe Islands,1,0,UEFA Nations League,Dasaki Achnas,Cyprus,FALSE
+2023-09-26,Montenegro,Azerbaijan,0,1,UEFA Nations League,Podgorica,Montenegro,FALSE
+2023-09-26,Armenia,Kazakhstan,1,2,UEFA Nations League,Armavir,Armenia,FALSE
+2023-09-26,Estonia,Israel,0,5,UEFA Nations League,Tartu,Estonia,FALSE
+2023-09-26,Bulgaria,Kosovo,0,0,UEFA Nations League,Plovdiv,Bulgaria,FALSE
+2023-09-26,Canada,Jamaica,2,1,Olympic qualifyication,Toronto,Canada,FALSE
+2023-10-25,Panama,Jamaica,2,1,CONCACAF Gold Cup qualification,Panama City,Panama,FALSE
+2023-10-25,Suriname,Guyana,0,1,CONCACAF Gold Cup qualification,Paramaribo,Suriname,FALSE
+2023-10-25,Dominica,Antigua and Barbuda,0,0,CONCACAF Gold Cup qualification,Gros Islet,Saint Lucia,TRUE
+2023-10-25,Martinique,Nicaragua,1,0,CONCACAF Gold Cup qualification,Fort-de-France,Martinique,FALSE
+2023-10-25,Grenada,United States Virgin Islands,4,0,CONCACAF Gold Cup qualification,St. George's,Grenada,FALSE
+2023-10-26,Saint Kitts and Nevis,Haiti,0,11,CONCACAF Gold Cup qualification,Basseterre,Saint Kitts and Nevis,FALSE
+2023-10-26,Honduras,El Salvador,0,1,CONCACAF Gold Cup qualification,Tegucigalpa,Honduras,FALSE
+2023-10-26,Turks and Caicos Islands,Belize,0,6,CONCACAF Gold Cup qualification,Providenciales,Turks and Caicos Islands,FALSE
+2023-10-26,Bonaire,Aruba,3,1,CONCACAF Gold Cup qualification,Rincon,Bonaire,FALSE
+2023-10-26,Cayman Islands,Curaçao,0,2,CONCACAF Gold Cup qualification,George Town,Cayman Islands,FALSE
+2023-10-27,Trinidad and Tobago,Puerto Rico,1,2,CONCACAF Gold Cup qualification,Port of Spain,Trinidad and Tobago,TRUE
+2023-10-27,Saint Vincent and the Grenadines,Dominican Republic,0,8,CONCACAF Gold Cup qualification,Kingstown,Saint Vincent and the Grenadines,FALSE
+2023-10-27,Barbados,Bermuda,1,1,CONCACAF Gold Cup qualification,Bridgetown,Barbados,FALSE
+2023-10-27,Guadeloupe,Cuba,0,2,CONCACAF Gold Cup qualification,Sainte-Anne,Guadeloupe,FALSE
+2023-10-27,England,Belgium,1,0,UEFA Nations League,Leicester,England,FALSE
+2023-10-27,Netherlands,Scotland,4,0,UEFA Nations League,Nijmegen,Netherlands,FALSE
+2023-10-27,Austria,Portugal,2,1,UEFA Nations League,Altach,Austria,FALSE
+2023-10-27,Norway,France,1,2,UEFA Nations League,Oslo,Norway,FALSE
+2023-10-27,Germany,Wales,5,1,UEFA Nations League,Sinsheim,Germany,FALSE
+2023-10-27,Iceland,Denmark,0,1,UEFA Nations League,Reykjavík,Iceland,FALSE
+2023-10-27,Italy,Spain,0,1,UEFA Nations League,Salerno,Italy,FALSE
+2023-10-27,Sweden,Switzerland,1,0,UEFA Nations League,Gothenburg,Sweden,FALSE
+2023-10-27,Hungary,Northern Ireland,3,2,UEFA Nations League,Győr,Hungary,FALSE
+2023-10-27,Republic of Ireland,Albania,5,1,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2023-10-27,Finland,Croatia,3,0,UEFA Nations League,Helsinki,Finland,FALSE
+2023-10-27,Romania,Slovakia,0,0,UEFA Nations League,Bucharest,Romania,FALSE
+2023-10-27,Greece,Ukraine,2,1,UEFA Nations League,Heraklion,Greece,FALSE
+2023-10-27,Poland,Serbia,2,1,UEFA Nations League,Tychy,Poland,FALSE
+2023-10-27,Bosnia and Herzegovina,Czech Republic,1,0,UEFA Nations League,Zenica,Bosnia and Herzegovina,FALSE
+2023-10-27,Belarus,Slovenia,1,1,UEFA Nations League,Budapest,Hungary,TRUE
+2023-10-27,Latvia,Moldova,5,0,UEFA Nations League,Jelgava,Latvia,FALSE
+2023-10-27,Malta,Andorra,5,0,UEFA Nations League,Ta' Qali,Malta,FALSE
+2023-10-27,Lithuania,Georgia,0,0,UEFA Nations League,Vilnius,Lithuania,FALSE
+2023-10-27,Luxembourg,Turkey,0,4,UEFA Nations League,Esch-sur-Alzette,Luxembourg,FALSE
+2023-10-27,Faroe Islands,Azerbaijan,1,2,UEFA Nations League,Klaksvík,Faroe Islands,FALSE
+2023-10-27,Cyprus,Montenegro,0,2,UEFA Nations League,Dasaki Achnas,Cyprus,FALSE
+2023-10-27,Armenia,Estonia,1,4,UEFA Nations League,Yerevan,Armenia,FALSE
+2023-10-27,North Macedonia,Kosovo,0,2,UEFA Nations League,Skopje,North Macedonia,FALSE
+2023-10-29,Jamaica,Guatemala,2,2,CONCACAF Gold Cup qualification,Kingston,Jamaica,FALSE
+2023-10-29,Antigua and Barbuda,Dominica,1,2,CONCACAF Gold Cup qualification,Piggotts,Antigua and Barbuda,FALSE
+2023-10-29,Guyana,Suriname,1,0,CONCACAF Gold Cup qualification,Paramaribo,Suriname,TRUE
+2023-10-29,El Salvador,Honduras,5,0,CONCACAF Gold Cup qualification,San Salvador,El Salvador,FALSE
+2023-10-29,Nicaragua,Martinique,1,1,CONCACAF Gold Cup qualification,Managua,Nicaragua,FALSE
+2023-10-29,United States Virgin Islands,Bahamas,0,0,CONCACAF Gold Cup qualification,Charlotte Amalie,United States Virgin Islands,FALSE
+2023-10-30,Haiti,Saint Kitts and Nevis,13,0,CONCACAF Gold Cup qualification,Basseterre,Saint Kitts and Nevis,TRUE
+2023-10-30,Aruba,Bonaire,5,0,CONCACAF Gold Cup qualification,Oranjestad,Aruba,FALSE
+2023-10-30,Belize,Turks and Caicos Islands,3,0,CONCACAF Gold Cup qualification,Belmopan,Belize,FALSE
+2023-10-30,Curaçao,Anguilla,5,2,CONCACAF Gold Cup qualification,Willemstad,Curaçao,FALSE
+2023-10-31,Puerto Rico,Trinidad and Tobago,0,0,CONCACAF Gold Cup qualification,Bayamón,Puerto Rico,TRUE
+2023-10-31,Bermuda,Barbados,4,2,CONCACAF Gold Cup qualification,Hamilton,Bermuda,FALSE
+2023-10-31,Dominican Republic,Saint Vincent and the Grenadines,4,0,CONCACAF Gold Cup qualification,Santo Domingo,Dominican Republic,FALSE
+2023-10-31,Cuba,Guadeloupe,3,0,CONCACAF Gold Cup qualification,Santiago de Cuba,Cuba,FALSE
+2023-10-31,Belgium,England,3,2,UEFA Nations League,Leuven,Belgium,FALSE
+2023-10-31,Scotland,Netherlands,0,1,UEFA Nations League,Glasgow,Scotland,FALSE
+2023-10-31,Portugal,Austria,1,2,UEFA Nations League,Póvoa de Varzim,Portugal,FALSE
+2023-10-31,France,Norway,0,0,UEFA Nations League,Reims,France,FALSE
+2023-10-31,Denmark,Wales,2,1,UEFA Nations League,Viborg,Denmark,FALSE
+2023-10-31,Iceland,Germany,0,2,UEFA Nations League,Reykjavík,Iceland,FALSE
+2023-10-31,Sweden,Italy,1,1,UEFA Nations League,Malmö,Sweden,FALSE
+2023-10-31,Switzerland,Spain,1,7,UEFA Nations League,Zürich,Switzerland,FALSE
+2023-10-31,Albania,Republic of Ireland,0,1,UEFA Nations League,Shkodër,Albania,FALSE
+2023-10-31,Northern Ireland,Hungary,1,1,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2023-10-31,Slovakia,Romania,1,0,UEFA Nations League,Senec,Slovakia,FALSE
+2023-10-31,Croatia,Finland,0,2,UEFA Nations League,Šibenik,Croatia,FALSE
+2023-10-31,Ukraine,Greece,1,0,UEFA Nations League,Heraklion,Greece,TRUE
+2023-10-31,Serbia,Poland,1,1,UEFA Nations League,Stara Pazova,Serbia,FALSE
+2023-10-31,Czech Republic,Bosnia and Herzegovina,2,2,UEFA Nations League,Hradec Králové,Czech Republic,FALSE
+2023-10-31,Slovenia,Belarus,0,0,UEFA Nations League,Murska Sobota,Slovenia,FALSE
+2023-10-31,Moldova,Latvia,3,3,UEFA Nations League,Chișinău,Moldova,FALSE
+2023-10-31,Andorra,Malta,0,3,UEFA Nations League,Andorra la Vella,Andorra,FALSE
+2023-10-31,Georgia,Lithuania,0,3,UEFA Nations League,Tbilisi,Georgia,FALSE
+2023-10-31,Turkey,Luxembourg,1,0,UEFA Nations League,Çorum,Turkey,FALSE
+2023-10-31,Azerbaijan,Montenegro,3,0,UEFA Nations League,Baku,Azerbaijan,FALSE
+2023-10-31,Faroe Islands,Cyprus,0,1,UEFA Nations League,Tórshavn,Faroe Islands,FALSE
+2023-10-31,Estonia,Armenia,5,1,UEFA Nations League,Tallinn,Estonia,FALSE
+2023-10-31,Kosovo,North Macedonia,3,1,UEFA Nations League,Pristina,Kosovo,FALSE
+2023-11-17,Cook Islands,New Caledonia,2,5,South Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-17,Papua New Guinea,American Samoa,9,0,South Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-18,Tahiti,Samoa,2,3,South Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-18,Solomon Islands,Vanuatu,1,0,South Pacific Games,Honiara,Solomon Islands,FALSE
+2023-11-20,Papua New Guinea,Cook Islands,3,0,South Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-20,New Caledonia,American Samoa,4,0,South Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-21,Tonga,Tahiti,2,2,South Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-21,Fiji,Vanuatu,3,2,South Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-23,Kazakhstan,Israel,0,2,UEFA Nations League,Telki,Hungary,TRUE
+2023-11-23,Cook Islands,American Samoa,3,0,South Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-23,New Caledonia,Papua New Guinea,2,2,South Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-24,Samoa,Tonga,4,1,South Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-24,Solomon Islands,Fiji,1,4,South Pacific Games,Honiara,Solomon Islands,FALSE
+2023-11-26,Israel,Kazakhstan,0,0,UEFA Nations League,Telki,Hungary,TRUE
+2023-11-27,Papua New Guinea,Samoa,5,1,South Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-27,Fiji,New Caledonia,3,0,South Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-28,Cook Islands,American Samoa,0,3,South Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-28,Tahiti,Vanuatu,1,2,South Pacific Games,Honiara,Solomon Islands,TRUE
+2023-11-28,Solomon Islands,Tonga,1,0,South Pacific Games,Honiara,Solomon Islands,FALSE
+2023-11-29,Jamaica,Panama,1,1,CONCACAF Gold Cup qualification,Kingston,Jamaica,FALSE
+2023-11-29,Antigua and Barbuda,Suriname,0,1,CONCACAF Gold Cup qualification,Piggotts,Antigua and Barbuda,FALSE
+2023-11-29,Dominica,Guyana,0,9,CONCACAF Gold Cup qualification,Paramaribo,Suriname,TRUE
+2023-11-29,Nicaragua,Honduras,2,1,CONCACAF Gold Cup qualification,Estelí,Nicaragua,FALSE
+2023-11-29,Martinique,El Salvador,0,2,CONCACAF Gold Cup qualification,Fort-de-France,Martinique,FALSE
+2023-11-29,Bahamas,United States Virgin Islands,1,2,CONCACAF Gold Cup qualification,Nassau,Bahamas,FALSE
+2023-11-29,Armenia,Israel,0,4,UEFA Nations League,Armavir,Armenia,FALSE
+2023-11-30,Costa Rica,Haiti,2,1,CONCACAF Gold Cup qualification,Alajuela,Costa Rica,FALSE
+2023-11-30,Aruba,Turks and Caicos Islands,8,0,CONCACAF Gold Cup qualification,Oranjestad,Aruba,FALSE
+2023-11-30,Bonaire,Belize,1,5,CONCACAF Gold Cup qualification,Rincon,Bonaire,FALSE
+2023-11-30,Anguilla,Curaçao,1,5,CONCACAF Gold Cup qualification,The Valley,Anguilla,FALSE
+2023-11-30,Finland,Romania,6,0,UEFA Nations League,Turku,Finland,FALSE
+2023-12-01,Mexico,Puerto Rico,3,0,CONCACAF Gold Cup qualification,Bayamón,Mexico,FALSE
+2023-12-01,Barbados,Dominican Republic,1,7,CONCACAF Gold Cup qualification,Bridgetown,Barbados,FALSE
+2023-12-01,Bermuda,Saint Vincent and the Grenadines,3,0,CONCACAF Gold Cup qualification,Devonshire Parish,Bermuda,FALSE
+2023-12-01,Saint Lucia,Guadeloupe,5,1,CONCACAF Gold Cup qualification,Gros Islet,Saint Lucia,FALSE
+2023-12-01,Belgium,Scotland,1,1,UEFA Nations League,Leuven,Belgium,FALSE
+2023-12-01,England,Netherlands,3,2,UEFA Nations League,London,England,FALSE
+2023-12-01,Norway,Portugal,4,0,UEFA Nations League,Oslo,Norway,FALSE
+2023-12-01,France,Austria,3,0,UEFA Nations League,Rennes,France,FALSE
+2023-12-01,Wales,Iceland,1,2,UEFA Nations League,Cardiff,Wales,FALSE
+2023-12-01,Germany,Denmark,3,0,UEFA Nations League,Rostock,Germany,FALSE
+2023-12-01,Switzerland,Sweden,1,0,UEFA Nations League,Lucerne,Switzerland,FALSE
+2023-12-01,Spain,Italy,2,3,UEFA Nations League,Pontevedra,Spain,FALSE
+2023-12-01,Albania,Northern Ireland,0,4,UEFA Nations League,Tirana,Albania,FALSE
+2023-12-01,Republic of Ireland,Hungary,1,0,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+2023-12-01,Croatia,Slovakia,2,0,UEFA Nations League,Velika Gorica,Croatia,FALSE
+2023-12-01,Greece,Serbia,0,2,UEFA Nations League,Heraklion,Greece,FALSE
+2023-12-01,Ukraine,Poland,0,1,UEFA Nations League,Stalowa Wola,Poland,TRUE
+2023-12-01,Slovenia,Bosnia and Herzegovina,2,1,UEFA Nations League,Koper,Slovenia,FALSE
+2023-12-01,Latvia,Andorra,4,0,UEFA Nations League,Riga,Latvia,FALSE
+2023-12-01,Moldova,Malta,0,0,UEFA Nations League,Chișinău,Moldova,FALSE
+2023-12-01,Georgia,Luxembourg,4,2,UEFA Nations League,Tbilisi,Georgia,FALSE
+2023-12-01,Lithuania,Turkey,0,4,UEFA Nations League,Vilnius,Lithuania,FALSE
+2023-12-01,Montenegro,Faroe Islands,9,0,UEFA Nations League,Podgorica,Montenegro,FALSE
+2023-12-01,Cyprus,Azerbaijan,0,1,UEFA Nations League,Limassol,Cyprus,FALSE
+2023-12-01,Kazakhstan,Estonia,0,1,UEFA Nations League,Astana,Kazakhstan,FALSE
+2023-12-01,Kosovo,Bulgaria,5,1,UEFA Nations League,Podujevo,Kosovo,FALSE
+2023-12-01,Tahiti,Tonga,0,2,South Pacific Games,Honiara,Solomon Islands,TRUE
+2023-12-01,Solomon Islands,Vanuatu,1,2,South Pacific Games,Honiara,Solomon Islands,FALSE
+2023-12-01,Samoa,New Caledonia,1,3,South Pacific Games,Honiara,Solomon Islands,TRUE
+2023-12-01,Papua New Guinea,Fiji,4,1,South Pacific Games,Honiara,Solomon Islands,TRUE
+2023-12-02,Belarus,Czech Republic,0,1,UEFA Nations League,Győr,Hungary,TRUE
+2023-12-02,Armenia,Israel,1,6,UEFA Nations League,Yerevan,Armenia,FALSE
+2023-12-03,Guatemala,Jamaica,1,1,CONCACAF Gold Cup qualification,Guatemala City,Guatemala,FALSE
+2023-12-03,Guyana,Antigua and Barbuda,3,0,CONCACAF Gold Cup qualification,Paramaribo,Suriname,TRUE
+2023-12-03,Suriname,Dominica,11,0,CONCACAF Gold Cup qualification,Paramaribo,Suriname,FALSE
+2023-12-03,Honduras,Martinique,1,4,CONCACAF Gold Cup qualification,Tegucigalpa,Honduras,FALSE
+2023-12-03,El Salvador,Nicaragua,4,1,CONCACAF Gold Cup qualification,San Salvador,El Salvador,FALSE
+2023-12-03,United States Virgin Islands,Grenada,0,2,CONCACAF Gold Cup qualification,Charlotte Amalie,United States Virgin Islands,FALSE
+2023-12-04,Saint Kitts and Nevis,Costa Rica,0,19,CONCACAF Gold Cup qualification,Basseterre,Saint Kitts and Nevis,FALSE
+2023-12-04,Aruba,Belize,0,1,CONCACAF Gold Cup qualification,Oranjestad,Aruba,FALSE
+2023-12-04,Turks and Caicos Islands,Bonaire,0,2,CONCACAF Gold Cup qualification,Providenciales,Turks and Caicos Islands,FALSE
+2023-12-04,Curaçao,Cayman Islands,6,1,CONCACAF Gold Cup qualification,Willemstad,Curaçao,FALSE
+2023-12-05,Mexico,Trinidad and Tobago,1,0,CONCACAF Gold Cup qualification,Port of Spain,Mexico,FALSE
+2023-12-05,Saint Vincent and the Grenadines,Barbados,4,2,CONCACAF Gold Cup qualification,Port of Spain,Trinidad and Tobago,TRUE
+2023-12-05,Dominican Republic,Bermuda,2,0,CONCACAF Gold Cup qualification,Santo Domingo,Dominican Republic,FALSE
+2023-12-05,Cuba,Saint Lucia,4,1,CONCACAF Gold Cup qualification,Santiago de Cuba,Cuba,FALSE
+2023-12-05,Netherlands,Belgium,4,0,UEFA Nations League,Tilburg,Netherlands,FALSE
+2023-12-05,Scotland,England,0,6,UEFA Nations League,Glasgow,Scotland,FALSE
+2023-12-05,Austria,Norway,2,1,UEFA Nations League,Sankt Pölten,Austria,FALSE
+2023-12-05,Portugal,France,0,1,UEFA Nations League,Leiria,Portugal,FALSE
+2023-12-05,Denmark,Iceland,0,1,UEFA Nations League,Viborg,Denmark,FALSE
+2023-12-05,Wales,Germany,0,0,UEFA Nations League,Swansea,Wales,FALSE
+2023-12-05,Italy,Switzerland,3,0,UEFA Nations League,Parma,Italy,FALSE
+2023-12-05,Spain,Sweden,5,3,UEFA Nations League,Málaga,Spain,FALSE
+2023-12-05,Hungary,Albania,6,0,UEFA Nations League,Budapest,Hungary,FALSE
+2023-12-05,Northern Ireland,Republic of Ireland,1,6,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2023-12-05,Romania,Croatia,0,1,UEFA Nations League,Bucharest,Romania,FALSE
+2023-12-05,Slovakia,Finland,2,2,UEFA Nations League,Trnava,Slovakia,FALSE
+2023-12-05,Poland,Greece,2,0,UEFA Nations League,Sosnowiec,Poland,FALSE
+2023-12-05,Serbia,Ukraine,0,1,UEFA Nations League,Stara Pazova,Serbia,FALSE
+2023-12-05,Bosnia and Herzegovina,Belarus,1,0,UEFA Nations League,Zenica,Bosnia and Herzegovina,FALSE
+2023-12-05,Czech Republic,Slovenia,4,0,UEFA Nations League,Pardubice,Czech Republic,FALSE
+2023-12-05,Andorra,Moldova,0,0,UEFA Nations League,Andorra la Vella,Andorra,FALSE
+2023-12-05,Malta,Latvia,2,1,UEFA Nations League,Ta' Qali,Malta,FALSE
+2023-12-05,Luxembourg,Lithuania,1,1,UEFA Nations League,Differdange,Luxembourg,FALSE
+2023-12-05,Turkey,Georgia,2,0,UEFA Nations League,Mersin,Turkey,FALSE
+2023-12-05,Azerbaijan,Faroe Islands,1,0,UEFA Nations League,Baku,Azerbaijan,FALSE
+2023-12-05,Montenegro,Cyprus,2,0,UEFA Nations League,Podgorica,Montenegro,FALSE
+2023-12-05,Israel,Estonia,4,1,UEFA Nations League,Telki,Hungary,TRUE
+2023-12-05,Kazakhstan,Armenia,4,1,UEFA Nations League,Astana,Kazakhstan,FALSE
+2023-12-05,Bulgaria,North Macedonia,2,2,UEFA Nations League,Sofia,Bulgaria,FALSE
+2024-02-07,Fiji,American Samoa,10,0,OFC Olympic Qualifying Tournament,Apia,Samoa,TRUE
+2024-02-07,Papua New Guinea,Solomon Islands,1,1,OFC Olympic Qualifying Tournament,Apia,Samoa,TRUE
+2024-02-07,New Zealand,Tonga,3,0,OFC Olympic Qualifying Tournament,Apia,Samoa,TRUE
+2024-02-07,Samoa,Vanuatu,1,0,OFC Olympic Qualifying Tournament,Apia,Samoa,FALSE
+2024-02-10,American Samoa,Solomon Islands,1,7,OFC Olympic Qualifying Tournament,Apia,Samoa,TRUE
+2024-02-10,Papua New Guinea,Fiji,3,4,OFC Olympic Qualifying Tournament,Apia,Samoa,TRUE
+2024-02-10,Vanuatu,Tonga,1,2,OFC Olympic Qualifying Tournament,Apia,Samoa,TRUE
+2024-02-10,Samoa,New Zealand,0,6,OFC Olympic Qualifying Tournament,Apia,Samoa,FALSE
+2024-02-13,American Samoa,Papua New Guinea,0,9,OFC Olympic Qualifying Tournament,Apia,Samoa,TRUE
+2024-02-13,Solomon Islands,Fiji,3,1,OFC Olympic Qualifying Tournament,Apia,Samoa,TRUE
+2024-02-13,Samoa,Tonga,2,0,OFC Olympic Qualifying Tournament,Apia,Samoa,FALSE
+2024-02-13,Vanuatu,New Zealand,0,5,OFC Olympic Qualifying Tournament,Apia,Samoa,TRUE
+2024-02-16,Samoa,Solomon Islands,0,2,OFC Olympic Qualifying Tournament,Apia,Samoa,FALSE
+2024-02-16,New Zealand,Fiji,7,1,OFC Olympic Qualifying Tournament,Apia,Samoa,TRUE
+2024-02-17,Guyana,Dominican Republic,0,1,CONCACAF Gold Cup qualification,Carson,Guyana,FALSE
+2024-02-17,Haiti,Puerto Rico,0,1,CONCACAF Gold Cup qualification,Carson,Haiti,FALSE
+2024-02-17,El Salvador,Guatemala,3,1,CONCACAF Gold Cup qualification,Carson,El Salvador,FALSE
+2024-02-19,Solomon Islands,New Zealand,1,11,OFC Olympic Qualifying Tournament,Apia,Samoa,TRUE
+2024-02-23,Spain,Netherlands,3,0,UEFA Nations League,Seville,Spain,FALSE
+2024-02-23,France,Germany,2,1,UEFA Nations League,Décines-Charpieu,France,FALSE
+2024-02-23,Serbia,Iceland,1,1,UEFA Nations League,Stara Pazova,Serbia,FALSE
+2024-02-23,Hungary,Belgium,1,5,UEFA Nations League,Felcsút,Hungary,FALSE
+2024-02-23,Bosnia and Herzegovina,Sweden,0,5,UEFA Nations League,Zenica,Bosnia and Herzegovina,FALSE
+2024-02-23,Croatia,Norway,0,3,UEFA Nations League,Osijek,Croatia,FALSE
+2024-02-23,Latvia,Slovakia,0,3,UEFA Nations League,Riga,Latvia,FALSE
+2024-02-23,Montenegro,Northern Ireland,0,2,UEFA Nations League,Podgorica,Montenegro,FALSE
+2024-02-23,Bulgaria,Ukraine,0,4,UEFA Nations League,Kardzhali,Bulgaria,FALSE
+2024-02-27,Iceland,Serbia,NA,NA,UEFA Nations League,Kópavogur,Iceland,FALSE
+2024-02-27,Belgium,Hungary,NA,NA,UEFA Nations League,Leuven,Belgium,FALSE
+2024-02-27,Norway,Croatia,NA,NA,UEFA Nations League,Stavanger,Norway,FALSE
+2024-02-27,Slovakia,Latvia,NA,NA,UEFA Nations League,Trnava,Slovakia,FALSE
+2024-02-27,Northern Ireland,Montenegro,NA,NA,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2024-02-27,Ukraine,Bulgaria,NA,NA,UEFA Nations League,Antalya,Turkey,TRUE
+2024-02-28,Netherlands,Germany,NA,NA,UEFA Nations League,Heerenveen,Netherlands,FALSE
+2024-02-28,Spain,France,NA,NA,UEFA Nations League,Seville,Spain,FALSE
+2024-02-28,Sweden,Bosnia and Herzegovina,NA,NA,UEFA Nations League,Stockholm,Sweden,FALSE
