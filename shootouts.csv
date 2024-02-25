@@ -1,7 +1,9 @@
 date,home_team,away_team,winner
 1995-06-13,Sweden,China PR,China PR
+1998-12-15,North Korea,Taiwan,North Korea
 1999-07-10,Brazil,Norway,Brazil
 1999-07-10,United States,China PR,United States
+2006-12-13,Japan,North Korea,North Korea
 2009-03-12,France,New Zealand,France
 2011-06-15,Colombia,Denmark,Colombia
 2011-07-09,England,France,France
@@ -17,6 +19,7 @@ date,home_team,away_team,winner
 2017-03-08,Scotland,Wales,Scotland
 2018-03-06,Poland,Ukraine,Ukraine
 2018-03-07,Wales,Austria,Austria
+2018-08-24,Taiwan,Vietnam,Taiwan
 2019-03-05,India,Kazakhstan,Kazakhstan
 2019-03-06,Austria,Belgium,Belgium
 2019-03-06,North Korea,Italy,North Korea
