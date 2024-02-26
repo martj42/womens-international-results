@@ -898,9 +898,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1996-05-11,Croatia,Italy,0,0,UEFA Euro qualification,Poreč,Croatia,FALSE
 1996-05-11,Romania,Denmark,1,2,UEFA Euro qualification,Câmpina,Romania,FALSE
 1996-05-12,Sweden,Spain,1,1,UEFA Euro qualification,Visby,Sweden,FALSE
+1996-05-17,Lithuania,Estonia,2,1,Baltic Cup,Telsiai,Lithuania,FALSE
+1996-05-18,Estonia,Latvia,0,0,Baltic Cup,Telsiai,Lithuania,TRUE
 1996-05-18,Russia,Netherlands,0,1,UEFA Euro qualification,Selyatino,Russia,FALSE
 1996-05-18,Faroe Islands,Belgium,0,9,UEFA Euro qualification,Toftir,Faroe Islands,FALSE
 1996-05-18,Belarus,Poland,2,0,UEFA Euro qualification,Brest,Belarus,FALSE
+1996-05-19,Lithuania,Latvia,1,1,Baltic Cup,Telsiai,Lithuania,FALSE
 1996-05-19,England,Portugal,3,0,UEFA Euro qualification,Brentford,England,FALSE
 1996-05-19,Austria,Switzerland,4,3,UEFA Euro qualification,Austria,Austria,FALSE
 1996-05-19,Ukraine,Bulgaria,2,1,UEFA Euro qualification,Ukraine,Ukraine,FALSE
@@ -987,8 +990,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1997-06-30,Norway,Denmark,5,0,UEFA Euro,Lillestrøm,Norway,FALSE
 1997-07-02,Sweden,Spain,1,0,UEFA Euro,Karlskoga,Sweden,FALSE
 1997-07-02,Russia,France,1,3,UEFA Euro,Karlstad,Sweden,TRUE
+1997-07-03,Estonia,Latvia,0,1,Baltic Cup,Viljandi,Estonia,FALSE
 1997-07-03,Italy,Denmark,2,2,UEFA Euro,Lillestrøm,Norway,TRUE
 1997-07-03,Norway,Germany,0,0,UEFA Euro,Moss,Norway,FALSE
+1997-07-04,Latvia,Lithuania,3,1,Baltic Cup,Viljandi,Estonia,TRUE
+1997-07-05,Estonia,Lithuania,0,2,Baltic Cup,Viljandi,Estonia,FALSE
 1997-07-05,Sweden,France,3,0,UEFA Euro,Karlstad,Sweden,FALSE
 1997-07-05,Russia,Spain,0,1,UEFA Euro,Karlskoga,Sweden,TRUE
 1997-07-06,Denmark,Germany,0,2,UEFA Euro,Moss,Norway,TRUE
@@ -1103,6 +1109,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1998-09-04,Canada,Costa Rica,2,0,CONCACAF Championship,Toronto,Canada,FALSE
 1998-09-06,Costa Rica,Guatemala,4,0,CONCACAF Championship,Toronto,Canada,TRUE
 1998-09-06,Canada,Mexico,1,0,CONCACAF Championship,Toronto,Canada,FALSE
+1998-09-25,Latvia,Estonia,0,2,Baltic Cup,Riga,Latvia,FALSE
+1998-09-26,Lithuania,Estonia,2,1,Baltic Cup,Riga,Latvia,TRUE
+1998-09-27,Latvia,Lithuania,0,2,Baltic Cup,Riga,Latvia,FALSE
 1998-10-13,Fiji,Samoa,5,0,OFC Championship,Auckland,New Zealand,TRUE
 1998-10-13,Papua New Guinea,American Samoa,9,0,OFC Championship,Auckland,New Zealand,TRUE
 1998-10-15,New Zealand,Papua New Guinea,5,0,OFC Championship,Auckland,New Zealand,FALSE
@@ -1762,6 +1771,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2003-07-10,Kiribati,Vanuatu,0,11,Pacific Games,Nausori,Fiji,TRUE
 2003-07-10,Papua New Guinea,Tahiti,3,0,Pacific Games,Nausori,Fiji,TRUE
 2003-07-19,Finland,Italy,1,1,UEFA Euro qualification,Vaasa,Finland,FALSE
+2003-07-22,Estonia,Latvia,4,0,Baltic Cup,Pärnu,Estonia,FALSE
+2003-07-24,Lithuania,Latvia,1,0,Baltic Cup,Pärnu,Estonia,TRUE
+2003-07-26,Estonia,Lithuania,1,1,Baltic Cup,Pärnu,Estonia,FALSE
 2003-08-02,Haiti,Brazil,0,5,Pan American Games,San Cristóbal,Dominican Republic,TRUE
 2003-08-03,Costa Rica,Argentina,2,4,Pan American Games,San Cristóbal,Dominican Republic,TRUE
 2003-08-05,Canada,Haiti,4,1,Pan American Games,San Cristóbal,Dominican Republic,TRUE
@@ -1975,11 +1987,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2004-08-17,Germany,Mexico,2,0,Olympic Games,Athens,Greece,TRUE
 2004-08-17,Greece,Brazil,0,7,Olympic Games,Patras,Greece,FALSE
 2004-08-17,United States,Australia,1,1,Olympic Games,Thessaloniki,Greece,TRUE
+2004-08-20,Lithuania,Latvia,4,1,Baltic Cup,Ukmerge,Lithuania,FALSE
 2004-08-20,Germany,Nigeria,2,1,Olympic Games,Patras,Greece,TRUE
 2004-08-20,United States,Japan,2,1,Olympic Games,Thessaloniki,Greece,TRUE
 2004-08-20,Mexico,Brazil,0,5,Olympic Games,Heraklio,Greece,TRUE
 2004-08-20,Sweden,Australia,2,1,Olympic Games,Volos,Greece,TRUE
+2004-08-21,Estonia,Latvia,5,0,Baltic Cup,Ukmerge,Lithuania,TRUE
 2004-08-21,Slovakia,Austria,2,3,UEFA Euro qualification,Slovakia,Slovakia,FALSE
+2004-08-22,Lithuania,Estonia,2,3,Baltic Cup,Ukmerge,Lithuania,FALSE
 2004-08-22,Iceland,Russia,0,2,UEFA Euro qualification,Iceland,Iceland,FALSE
 2004-08-23,United States,Germany,2,1,Olympic Games,Heraklio,Greece,TRUE
 2004-08-23,Brazil,Sweden,1,0,Olympic Games,Patras,Greece,TRUE
@@ -2088,6 +2103,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2005-06-19,Germany,Norway,3,1,UEFA Euro,Blackburn,England,TRUE
 2005-06-19,Vietnam,Hong Kong,4,1,AFC Asian Cup qualification,Hanoi,Vietnam,FALSE
 2005-06-19,Taiwan,Singapore,3,0,AFC Asian Cup qualification,Hanoi,Vietnam,TRUE
+2005-08-29,Latvia,Lithuania,0,3,Baltic Cup,Ventspils,Latvia,FALSE
+2005-08-30,Estonia,Lithuania,4,1,Baltic Cup,Ventspils,Latvia,TRUE
+2005-08-31,Latvia,Estonia,2,1,Baltic Cup,Ventspils,Latvia,FALSE
 2005-11-22,Thailand,Indonesia,2,1,Southeast Asian Games,Marikina,Philippines,TRUE
 2005-11-22,Myanmar,Vietnam,1,0,Southeast Asian Games,Marikina,Philippines,TRUE
 2005-11-24,Indonesia,Myanmar,0,5,Southeast Asian Games,Marikina,Philippines,TRUE
@@ -2193,6 +2211,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2006-05-26,Panama,Costa Rica,2,0,CONCACAF Gold Cup qualification,Panama City,Panama,FALSE
 2006-05-28,Panama,Guatemala,3,0,CONCACAF Gold Cup qualification,Panama City,Panama,FALSE
 2006-05-29,Suriname,Haiti,0,3,CONCACAF Gold Cup qualification,Paramaribo,Suriname,FALSE
+2006-06-09,Estonia,Latvia,5,0,Baltic Cup,Pärnu,Estonia,FALSE
+2006-06-10,Lithuania,Latvia,3,0,Baltic Cup,Pärnu,Estonia,TRUE
+2006-06-11,Estonia,Lithuania,3,2,Baltic Cup,Pärnu,Estonia,FALSE
 2006-07-16,Myanmar,Thailand,1,2,AFC Asian Cup,Adelaide,Australia,TRUE
 2006-07-16,Australia,South Korea,4,0,AFC Asian Cup,Adelaide,Australia,FALSE
 2006-07-18,Thailand,North Korea,0,9,AFC Asian Cup,Adelaide,Australia,TRUE
@@ -2384,7 +2405,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2007-05-10,Wales,Germany,0,6,UEFA Euro qualification,Haverfordwest,Wales,FALSE
 2007-05-10,Israel,Poland,2,2,UEFA Euro qualification,Ramat Gan,Israel,FALSE
 2007-05-13,England,Northern Ireland,4,0,UEFA Euro qualification,Gillingham,England,FALSE
+2007-05-25,Lithuania,Latvia,6,0,Baltic Cup,Siauliai,Lithuania,FALSE
+2007-05-26,Latvia,Estonia,0,4,Baltic Cup,Siauliai,Lithuania,TRUE
 2007-05-26,Northern Ireland,Czech Republic,1,3,UEFA Euro qualification,Coleraine,Northern Ireland,FALSE
+2007-05-27,Lithuania,Estonia,5,1,Baltic Cup,Siauliai,Lithuania,FALSE
 2007-05-30,Belarus,Spain,0,3,UEFA Euro qualification,Bobruisk,Belarus,FALSE
 2007-05-30,Republic of Ireland,Italy,1,2,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
 2007-05-30,France,Slovenia,6,0,UEFA Euro qualification,Angoulême,France,FALSE
@@ -2671,7 +2695,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2008-06-25,Poland,Norway,0,3,UEFA Euro qualification,Kutno,Poland,FALSE
 2008-06-26,Czech Republic,Belarus,3,1,UEFA Euro qualification,Ludgeřovice,Czech Republic,FALSE
 2008-06-26,Iceland,Greece,7,0,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+2008-07-25,Latvia,Estonia,2,3,Baltic Cup,Valmiera,Latvia,FALSE
 2008-07-25,Northern Ireland,Belarus,1,1,UEFA Euro qualification,Newry,Northern Ireland,FALSE
+2008-07-26,Estonia,Lithuania,4,0,Baltic Cup,Valmiera,Latvia,TRUE
+2008-07-27,Latvia,Lithuania,2,4,Baltic Cup,Valmiera,Latvia,FALSE
 2008-08-06,Argentina,Canada,1,2,Olympic Games,Tianjin,China PR,TRUE
 2008-08-06,China PR,Sweden,2,1,Olympic Games,Tianjin,China PR,FALSE
 2008-08-06,Germany,Brazil,0,0,Olympic Games,Shenyang,China PR,TRUE
@@ -2787,8 +2814,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2009-03-12,Netherlands,South Africa,5,0,Cyprus Cup,Nicosia,Cyprus,TRUE
 2009-03-12,France,New Zealand,1,1,Cyprus Cup,Nicosia,Cyprus,TRUE
 2009-03-12,England,Canada,3,1,Cyprus Cup,Nicosia,Cyprus,TRUE
+2009-04-24,Estonia,Latvia,5,0,Baltic Cup,Põlva,Estonia,FALSE
+2009-04-25,Lithuania,Latvia,3,1,Baltic Cup,Põlva,Estonia,TRUE
 2009-04-25,Kyrgyzstan,Jordan,1,7,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE
 2009-04-25,Palestine,Maldives,4,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE
+2009-04-26,Estonia,Lithuania,1,0,Baltic Cup,Põlva,Estonia,FALSE
 2009-04-27,Maldives,Uzbekistan,0,5,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE
 2009-04-27,Palestine,Kyrgyzstan,1,4,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE
 2009-04-29,Uzbekistan,Palestine,5,0,AFC Asian Cup qualification,Kuala Lumpur,Malaysia,TRUE
@@ -3032,10 +3062,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2010-05-12,Trinidad and Tobago,Barbados,5,0,CONCACAF Gold Cup qualification,Macoya,Trinidad and Tobago,FALSE
 2010-05-13,Haiti,Cuba,3,0,CONCACAF Gold Cup qualification,Marabella,Trinidad and Tobago,TRUE
 2010-05-13,Puerto Rico,Antigua and Barbuda,8,0,CONCACAF Gold Cup qualification,Marabella,Trinidad and Tobago,TRUE
+2010-05-14,Lithuania,Latvia,2,1,Baltic Cup,Siauliai,Lithuania,FALSE
 2010-05-14,Barbados,Saint Lucia,4,3,CONCACAF Gold Cup qualification,Macoya,Trinidad and Tobago,TRUE
 2010-05-14,Trinidad and Tobago,Guyana,3,0,CONCACAF Gold Cup qualification,Macoya,Trinidad and Tobago,FALSE
+2010-05-15,Estonia,Latvia,7,1,Baltic Cup,Siauliai,Lithuania,TRUE
 2010-05-15,Haiti,Puerto Rico,2,0,CONCACAF Gold Cup qualification,Marabella,Trinidad and Tobago,TRUE
 2010-05-15,Cuba,Antigua and Barbuda,6,1,CONCACAF Gold Cup qualification,Marabella,Trinidad and Tobago,TRUE
+2010-05-16,Lithuania,Estonia,1,3,Baltic Cup,Siauliai,Lithuania,FALSE
 2010-05-19,Australia,Vietnam,2,0,AFC Asian Cup,Chengdu,China PR,TRUE
 2010-05-19,China PR,South Korea,0,0,AFC Asian Cup,Chengdu,China PR,FALSE
 2010-05-20,North Korea,Thailand,3,0,AFC Asian Cup,Chengdu,China PR,TRUE
@@ -3320,6 +3353,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2011-03-09,England,South Korea,2,0,Cyprus Cup,Larnaca,Cyprus,TRUE
 2011-03-09,Scotland,France,0,3,Cyprus Cup,Nicosia,Cyprus,TRUE
 2011-03-09,Canada,Netherlands,2,1,Cyprus Cup,Paralimni,Cyprus,TRUE
+2011-05-13,Latvia,Estonia,2,0,Baltic Cup,Staicele,Latvia,FALSE
+2011-05-14,Estonia,Lithuania,3,0,Baltic Cup,Staicele,Latvia,TRUE
+2011-05-15,Latvia,Lithuania,0,0,Baltic Cup,Staicele,Latvia,FALSE
 2011-05-19,Iceland,Bulgaria,6,0,UEFA Euro qualification,Reykjavík,Iceland,FALSE
 2011-06-15,New Zealand,Wales,2,0,Matchworld Women's Cup,Savièse,Switzerland,TRUE
 2011-06-15,Colombia,Denmark,1,1,Matchworld Women's Cup,Savièse,Switzerland,TRUE
@@ -3620,6 +3656,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2012-05-27,Zimbabwe,Nigeria,0,2,African Championship qualification,Zimbabwe,Zimbabwe,FALSE
 2012-05-28,United States,China PR,4,1,Friendly,Chester,United States,FALSE
 2012-05-31,Germany,Romania,5,0,UEFA Euro qualification,Bielefeld,Germany,FALSE
+2012-06-08,Estonia,Lithuania,3,0,Baltic Cup,Tartu,Estonia,FALSE
+2012-06-09,Lithuania,Latvia,1,1,Baltic Cup,Võru,Estonia,TRUE
+2012-06-10,Estonia,Latvia,6,0,Baltic Cup,Tartu,Estonia,FALSE
 2012-06-16,Sweden,United States,1,3,Friendly,Halmstad,Sweden,FALSE
 2012-06-16,Tanzania,Ethiopia,0,1,African Championship qualification,Tanzania,Tanzania,FALSE
 2012-06-16,Mozambique,Ivory Coast,0,5,African Championship qualification,Mozambique,Mozambique,FALSE
@@ -3886,6 +3925,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2013-07-24,Sweden,Germany,0,1,UEFA Euro,Gothenburg,Sweden,FALSE
 2013-07-25,Norway,Denmark,1,1,UEFA Euro,Norrköping,Sweden,TRUE
 2013-07-28,Germany,Norway,1,0,UEFA Euro,Solna,Sweden,TRUE
+2013-08-23,Lithuania,Latvia,2,0,Baltic Cup,Vilnius,Lithuania,FALSE
+2013-08-24,Estonia,Latvia,0,0,Baltic Cup,Vilnius,Lithuania,TRUE
+2013-08-25,Lithuania,Estonia,0,4,Baltic Cup,Vilnius,Lithuania,FALSE
 2013-09-04,United States,Mexico,7,0,Friendly,Washington,United States,FALSE
 2013-09-20,Macedonia,Romania,1,9,FIFA World Cup qualification,Strumica,Macedonia,FALSE
 2013-09-20,Estonia,Italy,1,5,FIFA World Cup qualification,Tallinn,Estonia,FALSE
@@ -4155,8 +4197,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-05-25,China PR,South Korea,2,1,AFC Asian Cup,Ho Chi Minh City,Vietnam,TRUE
 2014-05-25,Japan,Australia,1,0,AFC Asian Cup,Ho Chi Minh City,Vietnam,TRUE
 2014-05-26,Guatemala,Costa Rica,0,3,CONCACAF Championship qualification,Guatemala City,Guatemala,FALSE
+2014-06-06,Lithuania,Latvia,1,0,Baltic Cup,Siauliai,Lithuania,FALSE
+2014-06-07,Estonia,Latvia,4,0,Baltic Cup,Siauliai,Lithuania,TRUE
 2014-06-07,Equatorial Guinea,Ivory Coast,2,2,African Championship qualification,Malabo,Equatorial Guinea,FALSE
 2014-06-07,Nigeria,Rwanda,8,0,African Championship qualification,Abuja,Nigeria,FALSE
+2014-06-08,Lithuania,Estonia,0,3,Baltic Cup,Siauliai,Lithuania,FALSE
 2014-06-08,Tunisia,Algeria,2,3,African Championship qualification,Bizerte,Tunisia,FALSE
 2014-06-08,Ghana,Ethiopia,3,0,African Championship qualification,Tamale,Ghana,FALSE
 2014-06-08,Cameroon,Senegal,1,0,African Championship qualification,Yaoundé,Cameroon,FALSE
@@ -4503,6 +4548,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2015-07-25,Brazil,Colombia,4,0,Pan American Games,Hamilton,Canada,TRUE
 2015-08-16,United States,Costa Rica,8,0,Friendly,Pittsburgh,United States,FALSE
 2015-08-20,United States,Costa Rica,7,2,Friendly,Chattanooga,United States,FALSE
+2015-08-28,Estonia,Latvia,1,0,Baltic Cup,Tallinn,Estonia,FALSE
+2015-08-29,Lithuania,Latvia,3,0,Baltic Cup,Tallinn,Estonia,TRUE
+2015-08-30,Estonia,Lithuania,1,1,Baltic Cup,Tallinn,Estonia,FALSE
 2015-09-06,Congo,Nigeria,1,5,African Games,Brazzaville,Congo,FALSE
 2015-09-06,Tanzania,Ivory Coast,0,1,African Games,Brazzaville,Congo,TRUE
 2015-09-07,Cameroon,South Africa,1,1,African Games,Brazzaville,Congo,TRUE
@@ -4761,12 +4809,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-08-03,Zimbabwe,Germany,1,6,Olympic Games,São Paulo,Brazil,TRUE
 2016-08-03,United States,New Zealand,2,0,Olympic Games,Belo Horizonte,Brazil,TRUE
 2016-08-03,France,Colombia,4,0,Olympic Games,Belo Horizonte,Brazil,TRUE
+2016-08-04,Faroe,Estonia,2,2,Baltic Cup,Riga,Latvia,TRUE
+2016-08-04,Latvia,Lithuania,2,2,Baltic Cup,Riga,Latvia,FALSE
+2016-08-05,Faroe,Lithuania,1,0,Baltic Cup,Riga,Latvia,TRUE
+2016-08-05,Latvia,Estonia,2,0,Baltic Cup,Riga,Latvia,FALSE
 2016-08-06,South Africa,China PR,0,2,Olympic Games,Rio de Janeiro,Brazil,TRUE
 2016-08-06,Brazil,Sweden,5,1,Olympic Games,Rio de Janeiro,Brazil,FALSE
 2016-08-06,Canada,Zimbabwe,3,1,Olympic Games,São Paulo,Brazil,TRUE
 2016-08-06,Germany,Australia,2,2,Olympic Games,São Paulo,Brazil,TRUE
 2016-08-06,United States,France,1,0,Olympic Games,Belo Horizonte,Brazil,TRUE
 2016-08-06,Colombia,New Zealand,0,1,Olympic Games,Belo Horizonte,Brazil,TRUE
+2016-08-07,Latvia,Faroe,1,3,Baltic Cup,Riga,Latvia,FALSE
+2016-08-07,Lithuania,Estonia,1,1,Baltic Cup,Riga,Latvia,TRUE
 2016-08-09,Brazil,South Africa,0,0,Olympic Games,Manaus,Brazil,FALSE
 2016-08-09,China PR,Sweden,0,0,Olympic Games,Brasília,Brazil,TRUE
 2016-08-09,Germany,Canada,1,2,Olympic Games,Brasília,Brazil,TRUE
@@ -5020,6 +5074,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2017-08-03,Netherlands,England,3,0,UEFA Euro,Enschede,Netherlands,FALSE
 2017-08-03,Australia,Brazil,6,1,Tournament of Nations,Carson,United States,TRUE
 2017-08-03,United States,Japan,3,0,Tournament of Nations,Carson,United States,FALSE
+2017-08-04,Lithuania,Estonia,0,0,Baltic Cup,Siauliai,Lithuania,FALSE
+2017-08-05,Latvia,Estonia,3,0,Baltic Cup,Siauliai,Lithuania,TRUE
+2017-08-06,Lithuania,Latvia,1,1,Baltic Cup,Siauliai,Lithuania,FALSE
 2017-08-06,Netherlands,Denmark,4,2,UEFA Euro,Enschede,Netherlands,FALSE
 2017-08-15,Thailand,Myanmar,3,2,Southeast Asian Games,Mandalay,Malaysia,TRUE
 2017-08-15,Malaysia,Philippines,1,2,Southeast Asian Games,Shah Alam,Malaysia,FALSE
@@ -5399,6 +5456,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-08-30,Sweden,Ukraine,3,0,FIFA World Cup qualification,Gothenburg,Sweden,FALSE
 2018-08-30,Denmark,Croatia,1,1,FIFA World Cup qualification,Viborg,Denmark,FALSE
 2018-08-30,Moldova,Portugal,0,7,FIFA World Cup qualification,Chișinău,Moldova,FALSE
+2018-08-31,Estonia,Lithuania,0,0,Baltic Cup,Tallinn,Estonia,FALSE
 2018-08-31,El Salvador,Nicaragua,2,2,CONCACAF Championship qualification,Bradenton,United States,TRUE
 2018-08-31,Costa Rica,Panama,3,1,CONCACAF Championship qualification,Bradenton,United States,TRUE
 2018-08-31,Antigua and Barbuda,Bermuda,0,5,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
@@ -5412,8 +5470,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-08-31,Spain,Finland,5,1,FIFA World Cup qualification,Santander,Spain,FALSE
 2018-08-31,South Korea,Taiwan,4,0,Asian Games,Palembang,Indonesia,TRUE
 2018-08-31,Japan,China PR,1,0,Asian Games,Palembang,Indonesia,TRUE
+2018-09-01,Latvia,Lithuania,4,0,Baltic Cup,Tallinn,Estonia,TRUE
 2018-09-01,United States,Chile,3,0,Friendly,Carson,United States,FALSE
 2018-09-01,Iceland,Germany,0,2,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+2018-09-02,Estonia,Latvia,0,2,Baltic Cup,Tallinn,Estonia,FALSE
 2018-09-02,Bermuda,Trinidad and Tobago,0,3,CONCACAF Championship qualification,Kingston,Jamaica,TRUE
 2018-09-02,Jamaica,Cuba,6,1,CONCACAF Championship qualification,Kingston,Jamaica,FALSE
 2018-09-04,Russia,Bosnia and Herzegovina,3,0,FIFA World Cup qualification,Moscow,Russia,FALSE
@@ -5605,11 +5665,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-06-12,Germany,Spain,1,0,FIFA World Cup,Valenciennes,France,TRUE
 2019-06-13,South Africa,China PR,0,1,FIFA World Cup,Paris,France,TRUE
 2019-06-13,Australia,Brazil,3,2,FIFA World Cup,Montpellier,France,TRUE
+2019-06-14,Latvia,Estonia,3,0,Baltic Cup,Riga,Latvia,FALSE
 2019-06-14,Jamaica,Italy,0,5,FIFA World Cup,Reims,France,TRUE
 2019-06-14,Japan,Scotland,2,1,FIFA World Cup,Rennes,France,TRUE
 2019-06-14,England,Argentina,1,0,FIFA World Cup,Le Havre,France,TRUE
+2019-06-15,Lithuania,Estonia,2,0,Baltic Cup,Riga,Latvia,TRUE
 2019-06-15,Netherlands,Cameroon,3,1,FIFA World Cup,Valenciennes,France,TRUE
 2019-06-15,Canada,New Zealand,2,0,FIFA World Cup,Grenoble,France,TRUE
+2019-06-16,Latvia,Lithuania,2,0,Baltic Cup,Riga,Latvia,FALSE
 2019-06-16,Sweden,Thailand,5,1,FIFA World Cup,Nice,France,TRUE
 2019-06-16,United States,Chile,3,0,FIFA World Cup,Paris,France,TRUE
 2019-06-17,France,Nigeria,1,0,FIFA World Cup,Rennes,France,FALSE
