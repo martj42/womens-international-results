@@ -6759,7 +6759,31 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-02-23,Paraguay,Panama,0,1,FIFA World Cup qualification,Hamilton,New Zealand,TRUE
 2023-02-23,Taiwan,Papua New Guinea,5,0,Friendly,Auckland,New Zealand,TRUE
 2023-02-23,New Zealand,Argentina,0,1,Friendly,Auckland,New Zealand,FALSE
+2023-04-01,Thailand,Singapore,6,0,AFC Olympic Qualifying Tournament,Chonburi,Thailand,FALSE
+2023-04-04,Mongolia,Singapore,2,2,AFC Olympic Qualifying Tournament,Chonburi,Thailand,TRUE
+2023-04-04,Kyrgyzstan,India,0,5,AFC Olympic Qualifying Tournament,Bishkek,Kyrgyzstan,FALSE
+2023-04-05,Jordan,Timor-Leste,3,1,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,TRUE
+2023-04-05,Uzbekistan,Bhutan,9,0,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,FALSE
+2023-04-05,Myanmar,Iran,0,1,AFC Olympic Qualifying Tournament,Yangon,Myanmar,FALSE
+2023-04-05,Nepal,Vietnam,1,5,AFC Olympic Qualifying Tournament,Kathmandu,Nepal,FALSE
+2023-04-05,Philippines,Pakistan,4,0,AFC Olympic Qualifying Tournament,Hisor,Tajikistan,TRUE
+2023-04-05,Tajikistan,Hong Kong,0,3,AFC Olympic Qualifying Tournament,Hisor,Tajikistan,FALSE
+2023-04-05,Lebanon,Chinese Taipei,1,5,AFC Olympic Qualifying Tournament,Jounieh,Lebanon,FALSE
 2023-04-06,England,Brazil,1,1,Finalissima,London,England,FALSE
+2023-04-07,Thailand,Mongolia,6,0,AFC Olympic Qualifying Tournament,Chonburi,Thailand,FALSE
+2023-04-07,Kyrgyzstan,India,0,4,AFC Olympic Qualifying Tournament,Bishkek,Kyrgyzstan,FALSE
+2023-04-08,Bhutan,Jordan,2,1,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,TRUE
+2023-04-08,Uzbekistan,Timor-Leste,3,0,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,FALSE
+2023-04-08,Myanmar,Iran,1,1,AFC Olympic Qualifying Tournament,Yangon,Myanmar,FALSE
+2023-04-08,Nepal,Vietnam,0,2,AFC Olympic Qualifying Tournament,Kathmandu,Nepal,FALSE
+2023-04-08,Pakistan,Hong Kong,0,2,AFC Olympic Qualifying Tournament,Hisor,Tajikistan,TRUE
+2023-04-08,Tajikistan,Philippines,0,8,AFC Olympic Qualifying Tournament,Hisor,Tajikistan,FALSE
+2023-04-08,Lebanon,Indonesia,5,0,AFC Olympic Qualifying Tournament,Jounieh,Lebanon,FALSE
+2023-04-11,Timor-Leste,Bhutan,1,3,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,TRUE
+2023-04-11,Uzbekistan,Jordan,7,0,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,FALSE
+2023-04-11,Philippines,Hong Kong,4,0,AFC Olympic Qualifying Tournament,Hisor,Tajikistan,TRUE
+2023-04-11,Tajikistan,Pakistan,0,1,AFC Olympic Qualifying Tournament,Hisor,Tajikistan,FALSE
+2023-04-11,Chinese Taipei,Indonesia,4,0,AFC Olympic Qualifying Tournament,Jounieh,Lebanon,TRUE
 2023-05-03,Vietnam,Malaysia,3,0,Southeast Asian Games,Phnom Penh,Cambodia,TRUE
 2023-05-03,Philippines,Myanmar,0,1,Southeast Asian Games,Phnom Penh,Cambodia,TRUE
 2023-05-03,Thailand,Singapore,4,0,Southeast Asian Games,Phnom Penh,Cambodia,TRUE
@@ -6776,6 +6800,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-05-12,Thailand,Myanmar,2,4,Southeast Asian Games,Phnom Penh,Cambodia,TRUE
 2023-05-15,Cambodia,Thailand,0,6,Southeast Asian Games,Phnom Penh,Cambodia,FALSE
 2023-05-15,Vietnam,Myanmar,2,0,Southeast Asian Games,Phnom Penh,Cambodia,TRUE
+2023-07-12,Burkina Faso,Mali,0,1,CAF Olympic Qualifying Tournament,Cotonou,Benin,TRUE
+2023-07-12,Rwanda,Uganda,3,3,CAF Olympic Qualifying Tournament,Kigali,Rwanda,FALSE
+2023-07-13,Namibia,Equatorial Guinea,2,0,CAF Olympic Qualifying Tournament,Nasrec,South Africa,TRUE
+2023-07-13,Ethiopia,Chad,6,0,CAF Olympic Qualifying Tournament,Addis Ababa,Ethiopia,FALSE
+2023-07-14,Guinea-Bissau,Benin,2,2,CAF Olympic Qualifying Tournament,Bissau,Guinea-Bissau,FALSE
+2023-07-14,Guinea,Ghana,0,3,CAF Olympic Qualifying Tournament,Conakry,Guinea,FALSE
+2023-07-16,Rwanda,Uganda,0,1,CAF Olympic Qualifying Tournament,Kigali,Rwanda,FALSE
+2023-07-16,Chad,Ethiopia,0,4,CAF Olympic Qualifying Tournament,Addis Ababa,Chad,FALSE
+2023-07-18,Benin,Guinea-Bissau,3,2,CAF Olympic Qualifying Tournament,Cotonou,Benin,FALSE
+2023-07-18,Ghana,Guinea,4,0,CAF Olympic Qualifying Tournament,Accra,Ghana,FALSE
+2023-07-18,Mali,Burkina Faso,2,2,CAF Olympic Qualifying Tournament,Bamako,Mali,FALSE
+2023-07-18,Equatorial Guinea,Namibia,0,0,CAF Olympic Qualifying Tournament,Malabo,Equatorial Guinea,FALSE
 2023-07-20,New Zealand,Norway,1,0,FIFA World Cup,Auckland,New Zealand,FALSE
 2023-07-20,Australia,Republic of Ireland,1,0,FIFA World Cup,Sydney,Australia,FALSE
 2023-07-21,Philippines,Switzerland,0,2,FIFA World Cup,Dunedin,New Zealand,TRUE
@@ -6958,11 +6994,22 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-10-25,Paraguay,Jamaica,10,0,Pan American Games,Viña del Mar,Chile,TRUE
 2023-10-25,Chile,Mexico,1,3,Pan American Games,Viña del Mar,Chile,FALSE
 2023-10-25,Bolivia,Argentina,0,3,Pan American Games,Valparaíso,Chile,TRUE
+2023-10-25,Ethiopia,Nigeria,1,1,CAF Olympic Qualifying Tournament,Addis Ababa,Ethiopia,FALSE
+2023-10-25,DR Congo,South Africa,1,1,CAF Olympic Qualifying Tournament,Kinshasa,DR Congo,FALSE
 2023-10-26,Saint Kitts and Nevis,Haiti,0,11,CONCACAF Gold Cup qualification,Basseterre,Saint Kitts and Nevis,FALSE
 2023-10-26,Honduras,El Salvador,0,1,CONCACAF Gold Cup qualification,Tegucigalpa,Honduras,FALSE
 2023-10-26,Turks and Caicos Islands,Belize,0,6,CONCACAF Gold Cup qualification,Providenciales,Turks and Caicos Islands,FALSE
 2023-10-26,Bonaire,Aruba,3,1,CONCACAF Gold Cup qualification,Rincon,Bonaire,FALSE
 2023-10-26,Cayman Islands,Curaçao,0,2,CONCACAF Gold Cup qualification,George Town,Cayman Islands,FALSE
+2023-10-26,Chinese Taipei,Philippines,1,4,AFC Olympic Qualifying Tournament,Perth,Australia,TRUE
+2023-10-26,Australia,Iran,2,0,AFC Olympic Qualifying Tournament,Perth,Australia,FALSE
+2023-10-26,South Korea,Thailand,10,1,AFC Olympic Qualifying Tournament,Xiamen,China,TRUE
+2023-10-26,China,North Korea,1,2,AFC Olympic Qualifying Tournament,Xiamen,China,FALSE
+2023-10-26,Japan,India,7,0,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,TRUE
+2023-10-26,Uzbekistan,Vietnam,1,0,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,FALSE
+2023-10-26,Morocco,Namibia,2,0,CAF Olympic Qualifying Tournament,Marrakesh,Morocco,FALSE
+2023-10-26,Uganda,Cameroon,2,0,CAF Olympic Qualifying Tournament,Njeru,Uganda,FALSE
+2023-10-26,Tanzania,Botswana,2,0,CAF Olympic Qualifying Tournament,Dar es Salaam,Tanzania,FALSE
 2023-10-27,Trinidad and Tobago,Puerto Rico,1,2,CONCACAF Gold Cup qualification,Port of Spain,Trinidad and Tobago,TRUE
 2023-10-27,Saint Vincent and the Grenadines,Dominican Republic,0,8,CONCACAF Gold Cup qualification,Kingstown,Saint Vincent and the Grenadines,FALSE
 2023-10-27,Barbados,Bermuda,1,1,CONCACAF Gold Cup qualification,Bridgetown,Barbados,FALSE
@@ -6991,6 +7038,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-10-27,Cyprus,Montenegro,0,2,UEFA Nations League,Dasaki Achnas,Cyprus,FALSE
 2023-10-27,Armenia,Estonia,1,4,UEFA Nations League,Yerevan,Armenia,FALSE
 2023-10-27,North Macedonia,Kosovo,0,2,UEFA Nations League,Skopje,North Macedonia,FALSE
+2023-10-27,Benin,Ghana,0,3,CAF Olympic Qualifying Tournament,Cotonou,Benin,FALSE
 2023-10-28,Mexico,Paraguay,4,1,Pan American Games,Viña del Mar,Chile,TRUE
 2023-10-28,Chile,Jamaica,6,0,Pan American Games,Valparaíso,Chile,FALSE
 2023-10-28,Costa Rica,Bolivia,0,0,Pan American Games,Viña del Mar,Chile,TRUE
@@ -7000,10 +7048,17 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-10-29,El Salvador,Honduras,5,0,CONCACAF Gold Cup qualification,San Salvador,El Salvador,FALSE
 2023-10-29,Nicaragua,Martinique,1,1,CONCACAF Gold Cup qualification,Managua,Nicaragua,FALSE
 2023-10-29,United States Virgin Islands,Bahamas,0,0,CONCACAF Gold Cup qualification,Charlotte Amalie,United States Virgin Islands,FALSE
+2023-10-29,Australia,Philippines,8,0,AFC Olympic Qualifying Tournament,Perth,Australia,FALSE
+2023-10-29,Iran,Chinese Taipei,0,0,AFC Olympic Qualifying Tournament,Perth,Australia,TRUE
+2023-10-29,North Korea,South Korea,0,0,AFC Olympic Qualifying Tournament,Xiamen,China,TRUE
+2023-10-29,China,Thailand,3,0,AFC Olympic Qualifying Tournament,Xiamen,China,FALSE
+2023-10-29,India,Vietnam,1,3,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,TRUE
+2023-10-29,Uzbekistan,Japan,0,2,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,TRUE
 2023-10-30,Haiti,Saint Kitts and Nevis,13,0,CONCACAF Gold Cup qualification,Basseterre,Saint Kitts and Nevis,TRUE
 2023-10-30,Aruba,Bonaire,5,0,CONCACAF Gold Cup qualification,Oranjestad,Aruba,FALSE
 2023-10-30,Belize,Turks and Caicos Islands,3,0,CONCACAF Gold Cup qualification,Belmopan,Belize,FALSE
 2023-10-30,Curaçao,Anguilla,5,2,CONCACAF Gold Cup qualification,Willemstad,Curaçao,FALSE
+2023-10-30,South Africa,DR Congo,2,0,CAF Olympic Qualifying Tournament,Johannesburg,South Africa,FALSE
 2023-10-31,Puerto Rico,Trinidad and Tobago,0,0,CONCACAF Gold Cup qualification,Bayamón,Puerto Rico,TRUE
 2023-10-31,Bermuda,Barbados,4,2,CONCACAF Gold Cup qualification,Hamilton,Bermuda,FALSE
 2023-10-31,Dominican Republic,Saint Vincent and the Grenadines,4,0,CONCACAF Gold Cup qualification,Santo Domingo,Dominican Republic,FALSE
@@ -7035,6 +7090,17 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-10-31,Jamaica,Bolivia,1,2,Pan American Games,Valparaíso,Chile,TRUE
 2023-10-31,Paraguay,Costa Rica,3,1,Pan American Games,Viña del Mar,Chile,TRUE
 2023-10-31,Mexico,Argentina,2,0,Pan American Games,Valparaíso,Chile,TRUE
+2023-10-31,Ghana,Benin,2,0,CAF Olympic Qualifying Tournament,Accra,Ghana,FALSE
+2023-10-31,Morocco,Namibia,2,0,CAF Olympic Qualifying Tournament,Rabat,Morocco,FALSE
+2023-10-31,Cameroon,Uganda,3,0,CAF Olympic Qualifying Tournament,Douala,Cameroon,FALSE
+2023-10-31,Nigeria,Ethiopia,4,0,CAF Olympic Qualifying Tournament,Abeokuta,Nigeria,FALSE
+2023-10-31,Botswana,Tanzania,0,1,CAF Olympic Qualifying Tournament,Gaborone,Botswana,FALSE
+2023-11-01,Philippines,Iran,1,0,AFC Olympic Qualifying Tournament,Perth,Australia,TRUE
+2023-11-01,Australia,Chinese Taipei,3,0,AFC Olympic Qualifying Tournament,Perth,Australia,FALSE
+2023-11-01,Thailand,North Korea,0,7,AFC Olympic Qualifying Tournament,Xiamen,China,TRUE
+2023-11-01,China,South Korea,1,1,AFC Olympic Qualifying Tournament,Xiamen,China,FALSE
+2023-11-01,Japan,Vietnam,2,0,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,TRUE
+2023-11-01,Uzbekistan,India,3,0,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,FALSE
 2023-11-03,Chile,Mexico,0,1,Pan American Games,Valparaíso,Chile,FALSE
 2023-11-17,Cook Islands,New Caledonia,2,5,Pacific Games,Honiara,Solomon Islands,TRUE
 2023-11-17,Papua New Guinea,American Samoa,9,0,Pacific Games,Honiara,Solomon Islands,TRUE
@@ -7165,12 +7231,24 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-02-23,Latvia,Slovakia,0,3,UEFA Nations League,Riga,Latvia,FALSE
 2024-02-23,Montenegro,Northern Ireland,0,2,UEFA Nations League,Podgorica,Montenegro,FALSE
 2024-02-23,Bulgaria,Ukraine,0,4,UEFA Nations League,Kardzhali,Bulgaria,FALSE
-2024-02-27,Iceland,Serbia,NA,NA,UEFA Nations League,Kópavogur,Iceland,FALSE
-2024-02-27,Belgium,Hungary,NA,NA,UEFA Nations League,Leuven,Belgium,FALSE
-2024-02-27,Norway,Croatia,NA,NA,UEFA Nations League,Stavanger,Norway,FALSE
-2024-02-27,Slovakia,Latvia,NA,NA,UEFA Nations League,Trnava,Slovakia,FALSE
-2024-02-27,Northern Ireland,Montenegro,NA,NA,UEFA Nations League,Belfast,Northern Ireland,FALSE
-2024-02-27,Ukraine,Bulgaria,NA,NA,UEFA Nations League,Antalya,Turkey,TRUE
-2024-02-28,Netherlands,Germany,NA,NA,UEFA Nations League,Heerenveen,Netherlands,FALSE
-2024-02-28,Spain,France,NA,NA,UEFA Nations League,Seville,Spain,FALSE
-2024-02-28,Sweden,Bosnia and Herzegovina,NA,NA,UEFA Nations League,Stockholm,Sweden,FALSE
+2024-02-23,Ghana,Zambia,0,1,CAF Olympic Qualifying Tournament,Accra,Ghana,FALSE
+2024-02-23,Tunisia,Morocco,1,2,CAF Olympic Qualifying Tournament,Soliman,Tunisia,FALSE
+2024-02-23,Cameroon,Nigeria,0,0,CAF Olympic Qualifying Tournament,Douala,Cameroon,FALSE
+2024-02-23,Tanzania,South Africa,0,3,CAF Olympic Qualifying Tournament,Dar es Salaam,Tanzania,FALSE
+2024-02-24,Uzbekistan,Australia,0,3,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,FALSE
+2024-02-24,North Korea,Japan,0,0,AFC Olympic Qualifying Tournament,Jeddah,Saudi Arabia,TRUE
+2024-02-26,Nigeria,Cameroon,1,0,CAF Olympic Qualifying Tournament,Abuja,Nigeria,FALSE
+2024-02-27,Iceland,Serbia,2,1,UEFA Nations League,Kópavogur,Iceland,FALSE
+2024-02-27,Belgium,Hungary,5,1,UEFA Nations League,Leuven,Belgium,FALSE
+2024-02-27,Norway,Croatia,5,0,UEFA Nations League,Stavanger,Norway,FALSE
+2024-02-27,Slovakia,Latvia,6,0,UEFA Nations League,Trnava,Slovakia,FALSE
+2024-02-27,Northern Ireland,Montenegro,1,1,UEFA Nations League,Belfast,Northern Ireland,FALSE
+2024-02-27,Ukraine,Bulgaria,3,0,UEFA Nations League,Antalya,Turkey,TRUE
+2024-02-27,South Africa,Tanzania,1,0,CAF Olympic Qualifying Tournament,Mbombela,South Africa,FALSE
+2024-02-28,Netherlands,Germany,0,2,UEFA Nations League,Heerenveen,Netherlands,FALSE
+2024-02-28,Spain,France,2,0,UEFA Nations League,Seville,Spain,FALSE
+2024-02-28,Sweden,Bosnia and Herzegovina,5,0,UEFA Nations League,Stockholm,Sweden,FALSE
+2024-02-28,Australia,Uzbekistan,10,0,AFC Olympic Qualifying Tournament,Melbourne,Australia,FALSE
+2024-02-28,Japan,North Korea,2,1,AFC Olympic Qualifying Tournament,Tokyo,Japan,FALSE
+2024-02-28,Zambia,Ghana,3,3,CAF Olympic Qualifying Tournament,Ndola,Zambia,FALSE
+2024-02-28,Morocco,Tunisia,4,1,CAF Olympic Qualifying Tournament,Rabat,Morocco,FALSE
