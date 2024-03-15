@@ -23,6 +23,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1971-09-04,Italy,Argentina,4,0,World Cup,Guadalajara,Mexico,TRUE
 1971-09-05,Mexico,Denmark,0,3,World Cup,Mexico City,Mexico,FALSE
 1972-11-18,Scotland,England,2,3,Friendly,Greenock,Scotland,FALSE
+1974-07-26,Finland,Sweden,0,1,Nordic Championship,Mariehamn,Finland,FALSE
+1974-07-27,Denmark,Sweden,1,0,Nordic Championship,Finström,Finland,TRUE
+1974-07-28,Finland,Denmark,0,5,Nordic Championship,Mariehamn,Finland,FALSE
+1975-07-25,Finland,Sweden,0,4,Nordic Championship,Brande,Denmark,TRUE
+1975-07-26,Denmark,Finland,9,0,Nordic Championship,Vejen,Denmark,FALSE
+1975-07-27,Denmark,Sweden,3,0,Nordic Championship,Vejle,Denmark,FALSE
 1975-08-25,Thailand,Australia,3,2,AFC Championship,Hong Kong,Hong Kong,TRUE
 1975-08-25,Hong Kong,New Zealand,0,2,AFC Championship,Hong Kong,Hong Kong,FALSE
 1975-08-27,Thailand,Singapore,3,0,AFC Championship,Hong Kong,Hong Kong,TRUE
@@ -33,6 +39,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1975-08-31,Thailand,Malaysia,3,0,AFC Championship,Hong Kong,Hong Kong,TRUE
 1975-09-02,Australia,Malaysia,5,0,AFC Championship,Hong Kong,Hong Kong,TRUE
 1975-09-02,New Zealand,Thailand,3,1,AFC Championship,Hong Kong,Hong Kong,TRUE
+1976-07-09,Denmark,Finland,1,0,Nordic Championship,Fristad,Sweden,TRUE
+1976-07-10,Sweden,Finland,4,1,Nordic Championship,Öxabäck,Sweden,FALSE
+1976-07-11,Sweden,Denmark,0,1,Nordic Championship,Borås,Sweden,FALSE
+1977-07-08,Finland,Sweden,0,4,Nordic Championship,Mariehamn,Finland,FALSE
+1977-07-09,Denmark,Sweden,0,1,Nordic Championship,Mariehamn,Finland,TRUE
+1977-07-10,Finland,Denmark,0,1,Nordic Championship,Mariehamn,Finland,FALSE
 1977-08-02,Taiwan,Indonesia,5,0,AFC Championship,Taipei,Taiwan,FALSE
 1977-08-03,Thailand,Singapore,2,0,AFC Championship,Taipei,Taiwan,TRUE
 1977-08-05,Indonesia,Japan,1,0,AFC Championship,Taipei,Taiwan,TRUE
@@ -43,6 +55,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1977-08-09,Thailand,Indonesia,2,1,AFC Championship,Taipei,Taiwan,TRUE
 1977-08-11,Singapore,Indonesia,2,0,AFC Championship,Taipei,Taiwan,TRUE
 1977-08-11,Taiwan,Thailand,1,0,AFC Championship,Taipei,Taiwan,FALSE
+1978-07-07,Norway,Sweden,1,2,Nordic Championship,Kolding,Denmark,TRUE
+1978-07-07,Denmark,Finland,4,0,Nordic Championship,Kolding,Denmark,FALSE
+1978-07-08,Finland,Sweden,0,0,Nordic Championship,Horsens,Denmark,TRUE
+1978-07-08,Denmark,Norway,2,0,Nordic Championship,Brande,Denmark,FALSE
+1978-07-09,Finland,Norway,1,0,Nordic Championship,Vejle,Denmark,TRUE
+1978-07-09,Denmark,Sweden,0,1,Nordic Championship,Vejle,Denmark,FALSE
+1978-10-20,Australia,Thailand,5,0,Chunghua Cup,Taichung,Taiwan,TRUE
+1979-07-05,Denmark,Sweden,1,4,Nordic Championship,Fredrikstad,Norway,TRUE
+1979-07-06,Norway,Sweden,0,1,Nordic Championship,Setskog,Norway,FALSE
+1979-07-06,Denmark,Finland,4,0,Nordic Championship,Setskog,Norway,TRUE
+1979-07-08,Norway,Denmark,2,4,Nordic Championship,Oslo,Norway,FALSE
+1979-07-08,Finland,Sweden,1,1,Nordic Championship,Oslo,Norway,TRUE
 1979-07-18,Italy,Northern Ireland,4,0,Euro,Naples,Italy,FALSE
 1979-07-18,Denmark,France,3,1,Euro,Naples,Italy,TRUE
 1979-07-19,England,Finland,3,1,Euro,Sorrento,Italy,TRUE
@@ -77,6 +101,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1980-01-19,Taiwan,Western Australia,5,0,AFC Championship,Calicut,India,TRUE
 1980-01-19,India S,Hong Kong,3,1,AFC Championship,Calicut,India,FALSE
 1980-01-20,India S,Taiwan,0,2,AFC Championship,Calicut,India,FALSE
+1980-07-10,Denmark,Norway,4,0,Nordic Championship,Gothenburg,Sweden,TRUE
+1980-07-10,Sweden,Finland,7,0,Nordic Championship,Mölndal,Sweden,FALSE
+1980-07-11,Denmark,Finland,1,1,Nordic Championship,Öckerö,Sweden,TRUE
+1980-07-11,Sweden,Norway,2,2,Nordic Championship,Öckerö,Sweden,FALSE
+1980-07-13,Finland,Norway,0,0,Nordic Championship,Gothenburg,Sweden,TRUE
+1980-07-13,Sweden,Denmark,2,2,Nordic Championship,Gothenburg,Sweden,FALSE
 1981-06-07,Hong Kong,Philippines,2,0,AFC Championship,Hong Kong,Hong Kong,FALSE
 1981-06-07,Taiwan,Japan,1,0,AFC Championship,Hong Kong,Hong Kong,TRUE
 1981-06-08,India,Singapore,5,0,AFC Championship,Hong Kong,Hong Kong,TRUE
@@ -93,10 +123,28 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1981-06-15,Hong Kong,Taiwan,0,1,AFC Championship,Hong Kong,Hong Kong,FALSE
 1981-06-17,Hong Kong,India,0,2,AFC Championship,Hong Kong,Hong Kong,FALSE
 1981-06-17,Thailand,Taiwan,0,5,AFC Championship,Hong Kong,Hong Kong,TRUE
+1981-07-15,Norway,Sweden,0,2,Nordic Championship,Karis,Finland,TRUE
+1981-07-16,Finland,Denmark,0,0,Nordic Championship,Helsinki,Finland,FALSE
+1981-07-17,Denmark,Norway,0,0,Nordic Championship,Porvoo,Finland,TRUE
+1981-07-17,Finland,Sweden,0,2,Nordic Championship,Hyvinkää,Finland,FALSE
+1981-07-19,Denmark,Sweden,1,2,Nordic Championship,Helsinki,Finland,TRUE
+1981-07-19,Finland,Norway,3,2,Nordic Championship,Helsinki,Finland,FALSE
 1981-09-06,Denmark,Italy,1,1,Mundialito,Kobe,Japan,TRUE
 1981-09-06,Japan,England,0,4,Mundialito,Kobe,Japan,FALSE
 1981-09-09,Japan,Italy,0,9,Mundialito,Tokyo,Japan,FALSE
 1981-09-09,England,Denmark,0,1,Mundialito,Tokyo,Japan,TRUE
+1981-10-11,Taiwan,Philippines,14,0,Chunghua Cup,Taipei,Taiwan,FALSE
+1981-10-14,India,Haiti,2,2,Chunghua Cup,Taipei,Taiwan,TRUE
+1981-10-16,Taiwan,Thailand,2,0,Chunghua Cup,Taichung,Taiwan,FALSE
+1981-10-18,Taiwan,New Zealand,0,1,Chunghua Cup,Taipei,Taiwan,FALSE
+1981-10-18,Haiti,Philippines,7,0,Chunghua Cup,Kaohsiung,Taiwan,TRUE
+1981-10-22,New Zealand,Thailand,9,0,Chunghua Cup,Taipei,Taiwan,TRUE
+1982-07-14,Denmark,Norway,1,1,Nordic Championship,Kolding,Denmark,FALSE
+1982-07-14,Finland,Sweden,0,4,Nordic Championship,Kolding,Denmark,TRUE
+1982-07-16,Denmark,Finland,1,0,Nordic Championship,Herning,Denmark,FALSE
+1982-07-16,Norway,Sweden,1,1,Nordic Championship,Herning,Denmark,TRUE
+1982-07-18,Denmark,Sweden,2,1,Nordic Championship,Vejle,Denmark,FALSE
+1982-07-18,Finland,Norway,1,1,Nordic Championship,Vejle,Denmark,TRUE
 1982-08-18,Finland,Sweden,0,6,UEFA Euro qualification,Vammala,Finland,FALSE
 1982-08-28,Norway,Iceland,2,2,UEFA Euro qualification,Tønsberg,Norway,FALSE
 1982-09-04,Northern Ireland,Scotland,1,2,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
@@ -186,6 +234,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1984-09-26,Finland,Norway,0,0,UEFA Euro qualification,Tuusula,Finland,FALSE
 1984-10-03,Germany,Finland,1,0,UEFA Euro qualification,Lüdenscheid,Germany,FALSE
 1984-10-24,Denmark,Finland,1,1,UEFA Euro qualification,Odense,Denmark,FALSE
+1984-12-12,New Zealand,Australia,2,0,Chunghua Cup,Taipei,Taiwan,TRUE
+1984-12-13,Taiwan,Australia,2,0,Chunghua Cup,Taipei,Taiwan,FALSE
+1984-12-16,Taiwan,New Zealand,0,0,Chunghua Cup,Taipei,Taiwan,FALSE
 1985-03-16,Netherlands,France,1,0,UEFA Euro qualification,Leeuwarden,Netherlands,FALSE
 1985-03-17,England,Scotland,4,0,UEFA Euro qualification,England,England,FALSE
 1985-04-27,Hungary,Spain,1,0,UEFA Euro qualification,Hungary,Hungary,FALSE
@@ -288,7 +339,23 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1987-11-15,Germany,Italy,3,0,UEFA Euro qualification,Burghausen,Germany,FALSE
 1987-11-21,France,Bulgaria,5,0,UEFA Euro qualification,Lucé,France,FALSE
 1987-11-29,Republic of Ireland,Netherlands,0,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+1987-12-11,Canada,Hong Kong,2,0,Chunghua Cup,Kaohsiung,Taiwan,TRUE
+1987-12-12,United States,Japan,1,0,Chunghua Cup,Taipei,Taiwan,TRUE
+1987-12-12,Australia,Canada,2,0,Chunghua Cup,Kaohsiung,Taiwan,TRUE
+1987-12-13,Taiwan,New Zealand,3,1,Chunghua Cup,Taipei,Taiwan,FALSE
+1987-12-13,Australia,Hong Kong,6,0,Chunghua Cup,Kaohsiung,Taiwan,TRUE
+1987-12-15,New Zealand,United States,1,0,Chunghua Cup,Taipei,Taiwan,TRUE
+1987-12-15,Japan,Hong Kong,5,0,Chunghua Cup,Kaohsiung,Taiwan,TRUE
+1987-12-15,Taiwan,Australia,2,0,Chunghua Cup,Taipei,Taiwan,FALSE
+1987-12-16,United States,Australia,6,0,Chunghua Cup,Taipei,Taiwan,TRUE
+1987-12-16,Taiwan,Canada,2,0,Chunghua Cup,Taipei,Taiwan,FALSE
+1987-12-17,Canada,Australia,0,0,Chunghua Cup,Taipei,Taiwan,TRUE
+1987-12-17,Taiwan,New Zealand,1,0,Chunghua Cup,Taipei,Taiwan,FALSE
+1987-12-19,New Zealand,Australia,1,0,Chunghua Cup,Taipei,Taiwan,TRUE
+1987-12-19,United States,Canada,4,0,Chunghua Cup,Taipei,Taiwan,TRUE
 1987-12-19,Spain,Belgium,1,0,UEFA Euro qualification,Aranjuez,Spain,FALSE
+1987-12-20,New Zealand,Canada,1,0,Chunghua Cup,Taipei,Taiwan,TRUE
+1987-12-20,Taiwan,United States,2,1,Chunghua Cup,Taipei,Taiwan,FALSE
 1988-03-06,Spain,France,1,3,UEFA Euro qualification,Palma del Río,Spain,FALSE
 1988-03-12,Netherlands,Republic of Ireland,2,0,UEFA Euro qualification,Delft,Netherlands,FALSE
 1988-03-20,Spain,Bulgaria,1,0,UEFA Euro qualification,Torrent,Spain,FALSE
@@ -307,7 +374,33 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1988-05-22,France,Belgium,0,0,UEFA Euro qualification,Loison-sous-Lens,France,FALSE
 1988-05-26,Norway,Finland,0,2,UEFA Euro qualification,Nesbyen,Norway,FALSE
 1988-05-28,Denmark,Finland,3,1,UEFA Euro qualification,Copenhagen,Denmark,FALSE
+1988-06-01,China PR,Canada,2,0,FIFA Women's Invitation Tournament,Guangzhou,China PR,FALSE
+1988-06-01,Netherlands,Ivory Coast,3,0,FIFA Women's Invitation Tournament,Foshan,China PR,TRUE
+1988-06-01,Norway,Thailand,4,0,FIFA Women's Invitation Tournament,Jiangmen,China PR,TRUE
+1988-06-01,Australia,Brazil,1,0,FIFA Women's Invitation Tournament,Jiangmen,China PR,TRUE
+1988-06-01,United States,Japan,5,2,FIFA Women's Invitation Tournament,Panyu,China PR,TRUE
+1988-06-01,Sweden,Czechoslovakia,1,0,FIFA Women's Invitation Tournament,Panyu,China PR,TRUE
+1988-06-03,China PR,Netherlands,1,0,FIFA Women's Invitation Tournament,Guangzhou,China PR,FALSE
+1988-06-03,Canada,Ivory Coast,6,0,FIFA Women's Invitation Tournament,Foshan,China PR,TRUE
+1988-06-03,Brazil,Norway,2,1,FIFA Women's Invitation Tournament,Jiangmen,China PR,TRUE
+1988-06-03,Australia,Thailand,3,0,FIFA Women's Invitation Tournament,Jiangmen,China PR,TRUE
+1988-06-03,Sweden,United States,1,1,FIFA Women's Invitation Tournament,Panyu,China PR,TRUE
+1988-06-03,Czechoslovakia,Japan,2,1,FIFA Women's Invitation Tournament,Panyu,China PR,TRUE
+1988-06-06,China PR,Ivory Coast,8,1,FIFA Women's Invitation Tournament,Guangzhou,China PR,FALSE
+1988-06-06,Canada,Netherlands,1,1,FIFA Women's Invitation Tournament,Foshan,China PR,TRUE
+1988-06-06,Norway,Australia,3,0,FIFA Women's Invitation Tournament,Jiangmen,China PR,TRUE
+1988-06-06,Brazil,Thailand,9,0,FIFA Women's Invitation Tournament,Jiangmen,China PR,TRUE
+1988-06-06,Czechoslovakia,United States,0,0,FIFA Women's Invitation Tournament,Panyu,China PR,TRUE
+1988-06-06,Sweden,Japan,3,0,FIFA Women's Invitation Tournament,Panyu,China PR,TRUE
+1988-06-08,Sweden,Canada,1,0,FIFA Women's Invitation Tournament,Guangzhou,China PR,TRUE
+1988-06-08,China PR,Australia,7,0,FIFA Women's Invitation Tournament,Guangzhou,China PR,FALSE
+1988-06-08,Brazil,Netherlands,2,1,FIFA Women's Invitation Tournament,Foshan,China PR,TRUE
+1988-06-08,Norway,United States,1,0,FIFA Women's Invitation Tournament,Panyu,China PR,TRUE
+1988-06-10,China PR,Sweden,1,2,FIFA Women's Invitation Tournament,Panyu,China PR,FALSE
+1988-06-10,Norway,Brazil,2,1,FIFA Women's Invitation Tournament,Guangzhou,China PR,TRUE
 1988-06-11,Switzerland,Hungary,3,0,UEFA Euro qualification,Zürich,Switzerland,FALSE
+1988-06-12,China PR,Brazil,0,0,FIFA Women's Invitation Tournament,Guangzhou,China PR,FALSE
+1988-06-12,Sweden,Norway,0,1,FIFA Women's Invitation Tournament,Guangzhou,China PR,TRUE
 1988-06-18,Italy,Switzerland,5,0,UEFA Euro qualification,Levanto,Italy,FALSE
 1988-07-20,Italy,West Germany,1,0,Mundialito,Trento,Italy,FALSE
 1988-07-22,United States,West Germany,2,1,Mundialito,Trento,Italy,TRUE
@@ -5902,7 +5995,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2020-03-10,New Zealand,Norway,1,2,Algarve Cup,Faro/Loulé,Portugal,TRUE
 2020-03-10,Italy,Germany,0,3,Algarve Cup,Parchal,Portugal,TRUE
 2020-03-10,Romania,Hungary,1,7,Turkish Women's Cup,Alanya,Turkey,TRUE
-2020-03-10,Chile,Northern Ireland,5,0,Turkish Women's Cup,Alanya,Turkey,TRUE
 2020-03-10,Ghana,Kenya,3,1,Turkish Women's Cup,Antalya,Turkey,TRUE
 2020-03-10,Iceland,Ukraine,1,0,Pinatar Cup,San Pedro del Pinatar,Spain,TRUE
 2020-03-10,Northern Ireland,Scotland,1,2,Pinatar Cup,San Pedro del Pinatar,Spain,TRUE
@@ -6768,7 +6860,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-04-05,Nepal,Vietnam,1,5,AFC Olympic Qualifying Tournament,Kathmandu,Nepal,FALSE
 2023-04-05,Philippines,Pakistan,4,0,AFC Olympic Qualifying Tournament,Hisor,Tajikistan,TRUE
 2023-04-05,Tajikistan,Hong Kong,0,3,AFC Olympic Qualifying Tournament,Hisor,Tajikistan,FALSE
-2023-04-05,Lebanon,Chinese Taipei,1,5,AFC Olympic Qualifying Tournament,Jounieh,Lebanon,FALSE
+2023-04-05,Lebanon,Taiwan,1,5,AFC Olympic Qualifying Tournament,Jounieh,Lebanon,FALSE
 2023-04-06,England,Brazil,1,1,Finalissima,London,England,FALSE
 2023-04-07,Thailand,Mongolia,6,0,AFC Olympic Qualifying Tournament,Chonburi,Thailand,FALSE
 2023-04-07,Kyrgyzstan,India,0,4,AFC Olympic Qualifying Tournament,Bishkek,Kyrgyzstan,FALSE
@@ -6783,7 +6875,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-04-11,Uzbekistan,Jordan,7,0,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,FALSE
 2023-04-11,Philippines,Hong Kong,4,0,AFC Olympic Qualifying Tournament,Hisor,Tajikistan,TRUE
 2023-04-11,Tajikistan,Pakistan,0,1,AFC Olympic Qualifying Tournament,Hisor,Tajikistan,FALSE
-2023-04-11,Chinese Taipei,Indonesia,4,0,AFC Olympic Qualifying Tournament,Jounieh,Lebanon,TRUE
+2023-04-11,Taiwan,Indonesia,4,0,AFC Olympic Qualifying Tournament,Jounieh,Lebanon,TRUE
 2023-05-03,Vietnam,Malaysia,3,0,Southeast Asian Games,Phnom Penh,Cambodia,TRUE
 2023-05-03,Philippines,Myanmar,0,1,Southeast Asian Games,Phnom Penh,Cambodia,TRUE
 2023-05-03,Thailand,Singapore,4,0,Southeast Asian Games,Phnom Penh,Cambodia,TRUE
@@ -7001,10 +7093,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-10-26,Turks and Caicos Islands,Belize,0,6,CONCACAF Gold Cup qualification,Providenciales,Turks and Caicos Islands,FALSE
 2023-10-26,Bonaire,Aruba,3,1,CONCACAF Gold Cup qualification,Rincon,Bonaire,FALSE
 2023-10-26,Cayman Islands,Curaçao,0,2,CONCACAF Gold Cup qualification,George Town,Cayman Islands,FALSE
-2023-10-26,Chinese Taipei,Philippines,1,4,AFC Olympic Qualifying Tournament,Perth,Australia,TRUE
+2023-10-26,Taiwan,Philippines,1,4,AFC Olympic Qualifying Tournament,Perth,Australia,TRUE
 2023-10-26,Australia,Iran,2,0,AFC Olympic Qualifying Tournament,Perth,Australia,FALSE
-2023-10-26,South Korea,Thailand,10,1,AFC Olympic Qualifying Tournament,Xiamen,China,TRUE
-2023-10-26,China,North Korea,1,2,AFC Olympic Qualifying Tournament,Xiamen,China,FALSE
+2023-10-26,South Korea,Thailand,10,1,AFC Olympic Qualifying Tournament,Xiamen,China PR,TRUE
+2023-10-26,China PR,North Korea,1,2,AFC Olympic Qualifying Tournament,Xiamen,China PR,FALSE
 2023-10-26,Japan,India,7,0,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,TRUE
 2023-10-26,Uzbekistan,Vietnam,1,0,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,FALSE
 2023-10-26,Morocco,Namibia,2,0,CAF Olympic Qualifying Tournament,Marrakesh,Morocco,FALSE
@@ -7049,9 +7141,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-10-29,Nicaragua,Martinique,1,1,CONCACAF Gold Cup qualification,Managua,Nicaragua,FALSE
 2023-10-29,United States Virgin Islands,Bahamas,0,0,CONCACAF Gold Cup qualification,Charlotte Amalie,United States Virgin Islands,FALSE
 2023-10-29,Australia,Philippines,8,0,AFC Olympic Qualifying Tournament,Perth,Australia,FALSE
-2023-10-29,Iran,Chinese Taipei,0,0,AFC Olympic Qualifying Tournament,Perth,Australia,TRUE
-2023-10-29,North Korea,South Korea,0,0,AFC Olympic Qualifying Tournament,Xiamen,China,TRUE
-2023-10-29,China,Thailand,3,0,AFC Olympic Qualifying Tournament,Xiamen,China,FALSE
+2023-10-29,Iran,Taiwan,0,0,AFC Olympic Qualifying Tournament,Perth,Australia,TRUE
+2023-10-29,North Korea,South Korea,0,0,AFC Olympic Qualifying Tournament,Xiamen,China PR,TRUE
+2023-10-29,China PR,Thailand,3,0,AFC Olympic Qualifying Tournament,Xiamen,China PR,FALSE
 2023-10-29,India,Vietnam,1,3,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,TRUE
 2023-10-29,Uzbekistan,Japan,0,2,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,TRUE
 2023-10-30,Haiti,Saint Kitts and Nevis,13,0,CONCACAF Gold Cup qualification,Basseterre,Saint Kitts and Nevis,TRUE
@@ -7096,9 +7188,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2023-10-31,Nigeria,Ethiopia,4,0,CAF Olympic Qualifying Tournament,Abeokuta,Nigeria,FALSE
 2023-10-31,Botswana,Tanzania,0,1,CAF Olympic Qualifying Tournament,Gaborone,Botswana,FALSE
 2023-11-01,Philippines,Iran,1,0,AFC Olympic Qualifying Tournament,Perth,Australia,TRUE
-2023-11-01,Australia,Chinese Taipei,3,0,AFC Olympic Qualifying Tournament,Perth,Australia,FALSE
-2023-11-01,Thailand,North Korea,0,7,AFC Olympic Qualifying Tournament,Xiamen,China,TRUE
-2023-11-01,China,South Korea,1,1,AFC Olympic Qualifying Tournament,Xiamen,China,FALSE
+2023-11-01,Australia,Taiwan,3,0,AFC Olympic Qualifying Tournament,Perth,Australia,FALSE
+2023-11-01,Thailand,North Korea,0,7,AFC Olympic Qualifying Tournament,Xiamen,China PR,TRUE
+2023-11-01,China PR,South Korea,1,1,AFC Olympic Qualifying Tournament,Xiamen,China PR,FALSE
 2023-11-01,Japan,Vietnam,2,0,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,TRUE
 2023-11-01,Uzbekistan,India,3,0,AFC Olympic Qualifying Tournament,Tashkent,Uzbekistan,FALSE
 2023-11-03,Chile,Mexico,0,1,Pan American Games,Valparaíso,Chile,FALSE
