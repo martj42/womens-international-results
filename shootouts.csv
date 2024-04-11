@@ -22,6 +22,7 @@ date,home_team,away_team,winner,first_shooter
 2011-07-09,England,France,France,France
 2011-07-10,Brazil,United States,United States,United States
 2011-07-17,Japan,United States,Japan,United States
+2011-10-12,United Arab Emirates,Iran,United Arab Emirates,
 2011-10-27,Brazil,Canada,Canada,
 2012-03-06,New Zealand,Netherlands,Netherlands,
 2012-03-06,South Korea,Finland,South Korea,
@@ -45,6 +46,7 @@ date,home_team,away_team,winner,first_shooter
 2017-12-12,Nicaragua,Panama,Nicaragua,
 2017-12-14,El Salvador,Panama,Panama,
 2017-12-14,Nicaragua,Costa Rica,Costa Rica,
+2018-02-22,Nigeria,Ghana,Ghana,
 2018-03-06,Poland,Ukraine,Ukraine,
 2018-03-07,Wales,Austria,Austria,
 2018-08-24,Taiwan,Vietnam,Taiwan,
@@ -53,10 +55,14 @@ date,home_team,away_team,winner,first_shooter
 2019-03-05,India,Kazakhstan,Kazakhstan,
 2019-03-06,Austria,Belgium,Belgium,
 2019-03-06,North Korea,Italy,North Korea,
+2019-05-16,Ghana,Nigeria,Nigeria,
+2019-05-18,Ghana,Mali,Ghana,
+2019-05-18,Ivory Coast,Nigeria,Nigeria,
 2019-06-22,Norway,Australia,Norway,Norway
 2019-08-09,Argentina,Colombia,Colombia,
 2019-09-01,Brazil,Chile,Chile,
 2019-11-10,China PR,Brazil,China PR,
+2020-02-28,Equatorial Guinea,DR Congo,Equatorial Guinea,
 2021-04-13,Switzerland,Czech Republic,Switzerland,
 2021-06-10,Estonia,Faroe Islands,Faroe Islands,
 2021-07-30,Canada,Brazil,Canada,
@@ -86,3 +92,7 @@ date,home_team,away_team,winner,first_shooter
 2023-09-27,Lebanon,Malaysia,Lebanon,
 2023-09-28,Pakistan,Laos,Pakistan,
 2024-02-27,Scotland,Finland,Finland,
+2024-02-29,Jordan,Nepal,Jordan,Jordan
+2024-04-06,Brazil,Canada,Canada,Canada
+2024-04-09,Japan,Brazil,Brazil,Japan
+2024-04-09,United States,Canada,United States,Canada
