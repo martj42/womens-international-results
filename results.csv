@@ -874,7 +874,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1995-08-02,Norway,Taiwan,12,1,U.S. Cup,Philadelphia,United States,TRUE
 1995-08-03,United States,Australia,4,2,U.S. Cup,Piscataway,United States,FALSE
 1995-08-05,Australia,Taiwan,3,2,U.S. Cup,Richmond,United States,TRUE
-1995-08-06,United States,Norway,2,1,U.S. Cup,Washington,United States,FALSE
+1995-08-06,United States,Norway,2,1,U.S. Cup,"Washington, D.C.",United States,FALSE
 1995-09-12,Poland,Estonia,9,0,UEFA Euro qualification,Gorlice,Poland,FALSE
 1995-09-16,Bulgaria,Ukraine,0,1,UEFA Euro qualification,Bulgaria,Bulgaria,FALSE
 1995-09-17,Iceland,Russia,1,4,UEFA Euro qualification,Reykjavík,Iceland,FALSE
@@ -999,8 +999,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1996-05-18,Russia,Netherlands,0,1,UEFA Euro qualification,Selyatino,Russia,FALSE
 1996-05-18,Faroe Islands,Belgium,0,9,UEFA Euro qualification,Toftir,Faroe Islands,FALSE
 1996-05-18,Belarus,Poland,2,0,UEFA Euro qualification,Brest,Belarus,FALSE
-1996-05-18,Japan,Canada,0,0,U.S. Cup,Washington,United States,TRUE
-1996-05-18,United States,China PR,1,0,U.S. Cup,Washington,United States,FALSE
+1996-05-18,Japan,Canada,0,0,U.S. Cup,"Washington, D.C.",United States,TRUE
+1996-05-18,United States,China PR,1,0,U.S. Cup,"Washington, D.C.",United States,FALSE
 1996-05-19,Lithuania,Latvia,1,1,Baltic Cup,Telsiai,Lithuania,FALSE
 1996-05-19,England,Portugal,3,0,UEFA Euro qualification,Brentford,England,FALSE
 1996-05-19,Austria,Switzerland,4,3,UEFA Euro qualification,Austria,Austria,FALSE
@@ -1087,7 +1087,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 1997-06-04,Italy,Canada,2,1,U.S. Cup,Worcester,United States,TRUE
 1997-06-05,United States,Australia,9,1,U.S. Cup,Ambler,United States,FALSE
 1997-06-07,Australia,Canada,3,2,U.S. Cup,Oakford,United States,TRUE
-1997-06-08,United States,Italy,2,0,U.S. Cup,Washington,United States,FALSE
+1997-06-08,United States,Italy,2,0,U.S. Cup,"Washington, D.C.",United States,FALSE
 1997-06-29,France,Spain,1,1,UEFA Euro,Karlskoga,Sweden,TRUE
 1997-06-29,Sweden,Russia,2,1,UEFA Euro,Karlstad,Sweden,FALSE
 1997-06-30,Germany,Italy,1,1,UEFA Euro,Moss,Norway,TRUE
@@ -4672,7 +4672,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2013-08-23,Lithuania,Latvia,2,0,Baltic Cup,Vilnius,Lithuania,FALSE
 2013-08-24,Estonia,Latvia,0,0,Baltic Cup,Vilnius,Lithuania,TRUE
 2013-08-25,Lithuania,Estonia,0,4,Baltic Cup,Vilnius,Lithuania,FALSE
-2013-09-04,United States,Mexico,7,0,Friendly,Washington,United States,FALSE
+2013-09-04,United States,Mexico,7,0,Friendly,"Washington, D.C.",United States,FALSE
 2013-09-09,Thailand,Vietnam,0,0,AFF Championship,Yangon,Myanmar,TRUE
 2013-09-09,Jordan,Malaysia,1,0,AFF Championship,Yangon,Myanmar,TRUE
 2013-09-10,Myanmar,Laos,5,0,AFF Championship,Yangon,Myanmar,FALSE
@@ -5102,10 +5102,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2014-10-18,Cameroon,Ghana,0,1,African Championship,Windhoek,Namibia,TRUE
 2014-10-18,Costa Rica,Jamaica,2,1,CONCACAF Championship,Bridgeview,United States,TRUE
 2014-10-18,Martinique,Mexico,0,10,CONCACAF Championship,Bridgeview,United States,TRUE
-2014-10-20,Trinidad and Tobago,Guatemala,2,1,CONCACAF Championship,Washington,United States,TRUE
-2014-10-20,United States,Haiti,6,0,CONCACAF Championship,Washington,United States,FALSE
-2014-10-21,Martinique,Costa Rica,1,6,CONCACAF Championship,Washington,United States,TRUE
-2014-10-21,Mexico,Jamaica,3,1,CONCACAF Championship,Washington,United States,TRUE
+2014-10-20,Trinidad and Tobago,Guatemala,2,1,CONCACAF Championship,"Washington, D.C.",United States,TRUE
+2014-10-20,United States,Haiti,6,0,CONCACAF Championship,"Washington, D.C.",United States,FALSE
+2014-10-21,Martinique,Costa Rica,1,6,CONCACAF Championship,"Washington, D.C.",United States,TRUE
+2014-10-21,Mexico,Jamaica,3,1,CONCACAF Championship,"Washington, D.C.",United States,TRUE
 2014-10-22,Nigeria,South Africa,2,1,African Championship,Windhoek,Namibia,TRUE
 2014-10-22,Cameroon,Ivory Coast,2,1,African Championship,Windhoek,Namibia,TRUE
 2014-10-24,Costa Rica,Trinidad and Tobago,1,1,CONCACAF Championship,Chester,United States,TRUE
@@ -8516,7 +8516,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-09-06,Azerbaijan,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,Viborg,Denmark,TRUE
 2022-09-06,Malta,Montenegro,2,0,FIFA World Cup qualification,Ta' Qali,Malta,FALSE
 2022-09-06,Australia,Canada,1,2,Friendly,Sydney,Australia,FALSE
-2022-09-06,United States,Nigeria,2,1,Friendly,Washington,United States,FALSE
+2022-09-06,United States,Nigeria,2,1,Friendly,"Washington, D.C.",United States,FALSE
 2022-09-06,Nepal,Bhutan,4,0,SAFF Championship,Kathmandu,Nepal,FALSE
 2022-09-07,New Zealand,Philippines,2,1,Friendly,Fullerton,United States,TRUE
 2022-09-07,Colombia,Costa Rica,2,0,Friendly,Cali,Colombia,FALSE
@@ -9582,7 +9582,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-06-05,United States,South Korea,3,0,Friendly,Saint Paul,United States,FALSE
 2024-06-05,Nicaragua,Peru,1,0,Friendly,Esteli,Nicaragua,FALSE
 2024-06-08,Bahrain,Indonesia,2,3,Friendly,Manama,Bahrain,FALSE
-2024-06-11,Bahrain,Indonesia,NA,NA,Friendly,Manama,Bahrain,FALSE
-2024-07-13,Japan,Ghana,NA,NA,Friendly,Kanzawa,Japan,FALSE
+2024-06-11,Bahrain,Indonesia,0,3,Friendly,Manama,Bahrain,FALSE
+2024-07-10,Argentina,Uruguay,0,2,Friendly,Buenos Aires,Argentina,FALSE
+2024-07-11,Hong Kong,Indonesia,3,2,Friendly,Hong Kong,Hong Kong,FALSE
+2024-07-11,Liechtenstein,Namibia,1,1,Friendly,Ruggell,Liechtenstein,FALSE
+2024-07-11,Tunisia,Tanzania,0,5,Friendly,Ariana,Tunisia,FALSE
+2024-07-12,Myanmar,India,1,1,Friendly,Yangon,Myanmar,FALSE
+2024-07-12,Russia,North Korea,0,3,Friendly,Moscow,Russia,FALSE
+2024-07-12,Senegal,DR Congo,1,0,Friendly,Thiès,Senegal,FALSE
+2024-07-12,Paraguay,Chile,1,4,Friendly,Ypané,Paraguay,FALSE
+2024-07-13,Japan,Ghana,4,0,Friendly,Kanzawa,Japan,FALSE
 2024-07-13,United States,Mexico,NA,NA,Friendly,Harrison,United States,FALSE
 2024-07-16,United States,Costa Rica,NA,NA,Friendly,"Washington, D.C.",United States,FALSE
