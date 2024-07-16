@@ -9511,7 +9511,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-05-31,Portugal,Northern Ireland,4,0,UEFA Euro qualification,Leiria,Portugal,FALSE
 2024-05-31,Kosovo,Croatia,0,1,UEFA Euro qualification,Podujevo,Kosovo,FALSE
 2024-05-31,Wales,Ukraine,1,1,UEFA Euro qualification,Llanelli,Wales,FALSE
-2024-05-31,Lithuania,Belarus,0,3,UEFA Euro qualification,Kathmandu,Lithuania,FALSE
+2024-05-31,Lithuania,Belarus,0,3,UEFA Euro qualification,Vilnius,Lithuania,FALSE
 2024-05-31,Cyprus,Georgia,0,2,UEFA Euro qualification,Dasaki Achnas,Cyprus,FALSE
 2024-05-31,North Macedonia,Moldova,1,1,UEFA Euro qualification,Skopje,North Macedonia,FALSE
 2024-05-31,Slovenia,Latvia,6,0,UEFA Euro qualification,Murska Sobota,Slovenia,FALSE
@@ -9550,6 +9550,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-06-03,Uruguay,Russia,2,1,Friendly,Montevideo,Uruguay,FALSE
 2024-06-03,Curacao,Trinidad and Tobago,3,0,Caribbean Queen's Friendly Tournament,Willemstad,Curacao,FALSE
 2024-06-04,Finland,Netherlands,1,1,UEFA Euro qualification,Tampere,Finland,FALSE
+2024-06-04,Belarus,Lithuania,3,0,UEFA Euro qualification,NA,NA,FALSE
 2024-06-04,Italy,Norway,1,1,UEFA Euro qualification,Ferrara,Italy,FALSE
 2024-06-04,Belgium,Czech Republic,1,1,UEFA Euro qualification,Sint-Truiden,Belgium,FALSE
 2024-06-04,Spain,Denmark,3,2,UEFA Euro qualification,Santa Cruz de Tenerife,Spain,FALSE
@@ -9565,7 +9566,6 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-06-04,Northern Ireland,Portugal,1,2,UEFA Euro qualification,Lurgan,Northern Ireland,FALSE
 2024-06-04,Ukraine,Wales,2,2,UEFA Euro qualification,Grodzisk Wielkopolski,Poland,TRUE
 2024-06-04,Croatia,Kosovo,2,0,UEFA Euro qualification,Karlovac,Croatia,FALSE
-2024-06-04,Belarus,Lithuania,3,0,UEFA Euro qualification,Kathmandu,Belarus,FALSE
 2024-06-04,Georgia,Cyprus,1,0,UEFA Euro qualification,Tbilisi,Georgia,FALSE
 2024-06-04,Latvia,Slovenia,0,4,UEFA Euro qualification,Jūrmala,Latvia,FALSE
 2024-06-04,Moldova,North Macedonia,2,4,UEFA Euro qualification,Chișinău,Moldova,FALSE
@@ -9591,14 +9591,63 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-07-12,Russia,North Korea,0,3,Friendly,Moscow,Russia,FALSE
 2024-07-12,Senegal,DR Congo,1,0,Friendly,Thiès,Senegal,FALSE
 2024-07-12,Paraguay,Chile,1,4,Friendly,Ypané,Paraguay,FALSE
+2024-07-12,Finland,Norway,1,1,UEFA Euro qualification,Turku,Finland,FALSE
+2024-07-12,Netherlands,Italy,0,0,UEFA Euro qualification,Sittard,Netherlands,FALSE
+2024-07-12,Czech Republic,Spain,2,1,UEFA Euro qualification,Chomutov,Czech Republic,FALSE
+2024-07-12,Belgium,Denmark,0,3,UEFA Euro qualification,Sint-Truiden,Belgium,FALSE
+2024-07-12,England,Republic of Ireland,2,1,UEFA Euro qualification,Norwich,England,FALSE
+2024-07-12,France,Sweden,2,1,UEFA Euro qualification,Dijon,France,FALSE
+2024-07-12,Austria,Poland,3,1,UEFA Euro qualification,Altach,Austria,FALSE
+2024-07-12,Iceland,Germany,3,0,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+2024-07-12,Azerbaijan,Hungary,0,5,UEFA Euro qualification,Baku,Azerbaijan,FALSE
+2024-07-12,Turkey,Switzerland,0,2,UEFA Euro qualification,İzmit,Turkey,FALSE
+2024-07-12,Slovakia,Scotland,0,2,UEFA Euro qualification,Nitra,Slovakia,FALSE
+2024-07-12,Serbia,Israel,1,0,UEFA Euro qualification,Stara Pazova,Serbia,FALSE
+2024-07-12,Bosnia and Herzegovina,Portugal,0,0,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
+2024-07-12,Malta,Northern Ireland,0,2,UEFA Euro qualification,Ta' Qali,Malta,FALSE
+2024-07-12,Kosovo,Ukraine,0,4,UEFA Euro qualification,Pristina,Kosovo,FALSE
+2024-07-12,Croatia,Wales,0,3,UEFA Euro qualification,Karlovac,Croatia,FALSE
+2024-07-12,Georgia,Belarus,0,2,UEFA Euro qualification,Tbilisi,Georgia,FALSE
+2024-07-12,Cyprus,Lithuania,1,2,UEFA Euro qualification,Dasaki Achnas,Cyprus,FALSE
+2024-07-12,North Macedonia,Latvia,1,2,UEFA Euro qualification,Skopje,North Macedonia,FALSE
+2024-07-12,Moldova,Slovenia,0,5,UEFA Euro qualification,Chișinău,Moldova,FALSE
+2024-07-12,Faroe Islands,Montenegro,2,1,UEFA Euro qualification,Tórshavn,Faroe Islands,FALSE
+2024-07-12,Greece,Andorra,6,0,UEFA Euro qualification,Heraklion,Greece,FALSE
+2024-07-12,Kazakhstan,Romania,0,3,UEFA Euro qualification,Almaty,Kazakhstan,FALSE
+2024-07-12,Armenia,Bulgaria,1,3,UEFA Euro qualification,Yerevan,Armenia,FALSE
+2024-07-12,Luxembourg,Estonia,1,1,UEFA Euro qualification,Esch-sur-Alzette,Luxembourg,FALSE
 2024-07-13,Japan,Ghana,4,0,Friendly,Kanzawa,Japan,FALSE
 2024-07-13,United States,Mexico,1,0,Friendly,Harrison,United States,FALSE
 2024-07-13,Argentina,Uruguay,1,1,Friendly,Ezeiza,Argentina,FALSE
 2024-07-13,New Zealand,Zambia,1,1,Friendly,Vichy,France,TRUE
 2024-07-13,Botswana,Tanzania,0,0,Friendly,Ariana,Tunisia,TRUE
-2024-07-13,Australia,Canada,1,2,Friendly,San Pedro de Alcántara,Spain,TRUE
 2024-07-13,Colombia,Ecuador,1,2,Friendly,Cartagena,Colombia,FALSE
 2024-07-14,Liechtenstein,Namibia,0,2,Friendly,Ruggell,Liechtenstein,FALSE
 2024-07-14,Hong Kong,Indonesia,4,1,Friendly,Hong Kong,Hong Kong,FALSE
-2024-07-15,Paraguay,Chile,NA,NA,Friendly,Ypané,Paraguay,FALSE
+2024-07-15,Paraguay,Chile,0,5,Friendly,Ypané,Paraguay,FALSE
 2024-07-16,United States,Costa Rica,NA,NA,Friendly,"Washington, D.C.",United States,FALSE
+2024-07-16,Norway,Netherlands,1,1,UEFA Euro qualification,Bergen,Norway,FALSE
+2024-07-16,Italy,Finland,4,0,UEFA Euro qualification,Bolzano,Italy,FALSE
+2024-07-16,Spain,Belgium,2,0,UEFA Euro qualification,A Coruña,Spain,FALSE
+2024-07-16,Denmark,Czech Republic,2,0,UEFA Euro qualification,Vejle,Denmark,FALSE
+2024-07-16,Sweden,England,0,0,UEFA Euro qualification,Gothenburg,Sweden,FALSE
+2024-07-16,Republic of Ireland,France,3,1,UEFA Euro qualification,Cork,Republic of Ireland,FALSE
+2024-07-16,Germany,Austria,4,0,UEFA Euro qualification,Hanover,Germany,FALSE
+2024-07-16,Poland,Iceland,0,1,UEFA Euro qualification,Sosnowiec,Poland,FALSE
+2024-07-16,Switzerland,Azerbaijan,3,0,UEFA Euro qualification,Lausanne,Switzerland,FALSE
+2024-07-16,Hungary,Turkey,1,4,UEFA Euro qualification,Győr,Hungary,FALSE
+2024-07-16,Scotland,Serbia,1,0,UEFA Euro qualification,Glasgow,Scotland,FALSE
+2024-07-16,Israel,Slovakia,2,2,UEFA Euro qualification,Budaörs,Hungary,TRUE
+2024-07-16,Portugal,Malta,3,1,UEFA Euro qualification,Leiria,Portugal,FALSE
+2024-07-16,Northern Ireland,Bosnia and Herzegovina,2,0,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+2024-07-16,Wales,Kosovo,2,0,UEFA Euro qualification,Llanelli,Wales,FALSE
+2024-07-16,Ukraine,Croatia,2,0,UEFA Euro qualification,Skopje,North Macedonia,TRUE
+2024-07-16,Belarus,Cyprus,5,0,UEFA Euro qualification,Tbilisi,Georgia,TRUE
+2024-07-16,Lithuania,Georgia,0,1,UEFA Euro qualification,Druskininkai,Lithuania,FALSE
+2024-07-16,Slovenia,North Macedonia,4,0,UEFA Euro qualification,Kidričevo,Slovenia,FALSE
+2024-07-16,Latvia,Moldova,2,1,UEFA Euro qualification,Riga,Latvia,FALSE
+2024-07-16,Montenegro,Greece,2,3,UEFA Euro qualification,Podgorica,Montenegro,FALSE
+2024-07-16,Andorra,Faroe Islands,0,4,UEFA Euro qualification,Andorra la Vella,Andorra,FALSE
+2024-07-16,Romania,Armenia,3,1,UEFA Euro qualification,Bucharest,Romania,FALSE
+2024-07-16,Bulgaria,Kazakhstan,0,0,UEFA Euro qualification,Sofia,Bulgaria,FALSE
+2024-07-16,Estonia,Luxembourg,1,1,UEFA Euro qualification,Tartu,Estonia,FALSE
