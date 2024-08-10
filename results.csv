@@ -9625,7 +9625,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-07-14,Liechtenstein,Namibia,0,2,Friendly,Ruggell,Liechtenstein,FALSE
 2024-07-14,Hong Kong,Indonesia,4,1,Friendly,Hong Kong,Hong Kong,FALSE
 2024-07-15,Paraguay,Chile,0,5,Friendly,Ypané,Paraguay,FALSE
-2024-07-16,United States,Costa Rica,NA,NA,Friendly,"Washington, D.C.",United States,FALSE
+2024-07-16,United States,Costa Rica,0,0,Friendly,"Washington, D.C.",United States,FALSE
 2024-07-16,Norway,Netherlands,1,1,UEFA Euro qualification,Bergen,Norway,FALSE
 2024-07-16,Italy,Finland,4,0,UEFA Euro qualification,Bolzano,Italy,FALSE
 2024-07-16,Spain,Belgium,2,0,UEFA Euro qualification,A Coruña,Spain,FALSE
@@ -9651,3 +9651,33 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-07-16,Romania,Armenia,3,1,UEFA Euro qualification,Bucharest,Romania,FALSE
 2024-07-16,Bulgaria,Kazakhstan,0,0,UEFA Euro qualification,Sofia,Bulgaria,FALSE
 2024-07-16,Estonia,Luxembourg,1,1,UEFA Euro qualification,Tartu,Estonia,FALSE
+2024-07-17,El Salvador,Peru,3,0,Friendly,Santa Tecla,El Salvador,FALSE
+2024-07-24,Bhutan,Bangladesh,1,5,Friendly,Thimphu,Bhutan,FALSE
+2024-07-25,Canada,New Zealand,2,1,Olympic Games,Saint-Étienne,France,TRUE
+2024-07-25,France,Colombia,3,2,Olympic Games,Décines-Charpieu,France,FALSE
+2024-07-25,Germany,Australia,3,0,Olympic Games,Marseille,France,TRUE
+2024-07-25,United States,Zambia,3,0,Olympic Games,Nice,France,TRUE
+2024-07-25,Spain,Japan,2,1,Olympic Games,Nantes,France,TRUE
+2024-07-25,Nigeria,Brazil,0,1,Olympic Games,Bordeaux,France,TRUE
+2024-07-27,Bhutan,Bangladesh,2,4,Friendly,Thimphu,Bhutan,FALSE
+2024-07-28,New Zealand,Colombia,0,2,Olympic Games,Décines-Charpieu,France,TRUE
+2024-07-28,France,Canada,1,2,Olympic Games,Saint-Étienne,France,FALSE
+2024-07-28,Australia,Zambia,6,5,Olympic Games,Nice,France,TRUE
+2024-07-28,United States,Germany,4,1,Olympic Games,Marseille,France,TRUE
+2024-07-28,Brazil,Japan,1,2,Olympic Games,Paris,France,TRUE
+2024-07-28,Spain,Nigeria,1,0,Olympic Games,Nantes,France,TRUE
+2024-07-31,France,New Zealand,2,1,Olympic Games,Décines-Charpieu,France,FALSE
+2024-07-31,Colombia,Canada,0,1,Olympic Games,Nice,France,TRUE
+2024-07-31,Australia,United States,1,2,Olympic Games,Marseille,France,TRUE
+2024-07-31,Zambia,Germany,1,4,Olympic Games,Saint-Étienne,France,TRUE
+2024-07-31,Brazil,Spain,0,2,Olympic Games,Bordeaux,France,TRUE
+2024-07-31,Japan,Nigeria,3,1,Olympic Games,Nantes,France,TRUE
+2024-08-03,United States,Japan,1,0,Olympic Games,Paris,France,TRUE
+2024-08-03,Spain,Colombia,2,2,Olympic Games,Décines-Charpieu,France,TRUE
+2024-08-03,Canada,Germany,0,0,Olympic Games,Marseille,France,TRUE
+2024-08-03,France,Brazil,0,1,Olympic Games,Nantes,France,FALSE
+2024-08-04,Thailand,Taiwan,2,1,Friendly,Bangkok,Thailand,FALSE
+2024-08-06,United States,Germany,1,0,Olympic Games,Décines-Charpieu,France,TRUE
+2024-08-06,Brazil,Spain,4,2,Olympic Games,Marseille,France,TRUE
+2024-08-09,Spain,Germany,0,1,Olympic Games,Décines-Charpieu,France,TRUE
+2024-08-10,Brazil,United States,0,1,Olympic Games,Paris,France,TRUE

@@ -2474,3 +2474,79 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-07-16,Ukraine,Croatia,Ukraine,Roksolana Kravchuk,35,FALSE,FALSE
 2024-07-16,Wales,Kosovo,Wales,Jess Fishlock,8,FALSE,FALSE
 2024-07-16,Wales,Kosovo,Wales,Mary McAteer,27,FALSE,FALSE
+2024-07-25,Canada,New Zealand,New Zealand,Mackenzie Barry,13,FALSE,FALSE
+2024-07-25,Canada,New Zealand,Canada,Cloé Lacasse,45,FALSE,FALSE
+2024-07-25,Canada,New Zealand,Canada,Evelyne Viens,79,FALSE,FALSE
+2024-07-25,France,Colombia,France,Marie-Antoinette Katoto,6,FALSE,FALSE
+2024-07-25,France,Colombia,France,Kenza Dali,18,FALSE,FALSE
+2024-07-25,France,Colombia,France,Marie-Antoinette Katoto,42,FALSE,FALSE
+2024-07-25,France,Colombia,Colombia,Catalina Usme,54,FALSE,TRUE
+2024-07-25,France,Colombia,Colombia,Manuela Paví,64,FALSE,FALSE
+2024-07-25,Germany,Australia,Germany,Marina Hegering,24,FALSE,FALSE
+2024-07-25,Germany,Australia,Germany,Lea Schüller,64,FALSE,FALSE
+2024-07-25,Germany,Australia,Germany,Jule Brand,68,FALSE,FALSE
+2024-07-25,Nigeria,Brazil,Brazil,Gabi Nunes,37,FALSE,FALSE
+2024-07-25,Spain,Japan,Japan,Aoba Fujino,13,FALSE,FALSE
+2024-07-25,Spain,Japan,Spain,Aitana Bonmatí,22,FALSE,FALSE
+2024-07-25,Spain,Japan,Spain,Mariona Caldentey,74,FALSE,FALSE
+2024-07-25,United States,Zambia,United States,Trinity Rodman,17,FALSE,FALSE
+2024-07-25,United States,Zambia,United States,Mallory Swanson,24,FALSE,FALSE
+2024-07-25,United States,Zambia,United States,Mallory Swanson,25,FALSE,FALSE
+2024-07-28,Australia,Zambia,Zambia,Barbra Banda,1,FALSE,FALSE
+2024-07-28,Australia,Zambia,Australia,Alanna Kennedy,7,FALSE,FALSE
+2024-07-28,Australia,Zambia,Zambia,Racheal Kundananji,21,FALSE,FALSE
+2024-07-28,Australia,Zambia,Zambia,Barbra Banda,33,FALSE,FALSE
+2024-07-28,Australia,Zambia,Australia,Hayley Raso,35,FALSE,FALSE
+2024-07-28,Australia,Zambia,Zambia,Barbra Banda,45,FALSE,FALSE
+2024-07-28,Australia,Zambia,Zambia,Racheal Kundananji,56,FALSE,FALSE
+2024-07-28,Australia,Zambia,Australia,Ngambo Musole,58,TRUE,FALSE
+2024-07-28,Australia,Zambia,Australia,Steph Catley,65,FALSE,FALSE
+2024-07-28,Australia,Zambia,Australia,Steph Catley,78,FALSE,TRUE
+2024-07-28,Australia,Zambia,Australia,Michelle Heyman,90,FALSE,FALSE
+2024-07-28,Brazil,Japan,Brazil,Jheniffer,56,FALSE,FALSE
+2024-07-28,Brazil,Japan,Japan,Saki Kumagai,90,FALSE,TRUE
+2024-07-28,Brazil,Japan,Japan,Momoko Tanikawa,90,FALSE,FALSE
+2024-07-28,France,Canada,France,Marie-Antoinette Katoto,42,FALSE,FALSE
+2024-07-28,France,Canada,Canada,Jessie Fleming,58,FALSE,FALSE
+2024-07-28,France,Canada,Canada,Vanessa Gilles,90,FALSE,FALSE
+2024-07-28,New Zealand,Colombia,Colombia,Marcela Restrepo,27,FALSE,FALSE
+2024-07-28,New Zealand,Colombia,Colombia,Leicy Santos,72,FALSE,FALSE
+2024-07-28,Spain,Nigeria,Spain,Alexia Putellas,85,FALSE,FALSE
+2024-07-28,United States,Germany,United States,Sophia Smith,11,FALSE,FALSE
+2024-07-28,United States,Germany,Germany,Giulia Gwinn,22,FALSE,FALSE
+2024-07-28,United States,Germany,United States,Mallory Swanson,26,FALSE,FALSE
+2024-07-28,United States,Germany,United States,Sophia Smith,44,FALSE,FALSE
+2024-07-28,United States,Germany,United States,Lynn Williams,89,FALSE,FALSE
+2024-07-31,Australia,United States,United States,Trinity Rodman,43,FALSE,FALSE
+2024-07-31,Australia,United States,United States,Korbin Albert,77,FALSE,FALSE
+2024-07-31,Australia,United States,Australia,Alanna Kennedy,90,FALSE,FALSE
+2024-07-31,Brazil,Spain,Spain,Athenea del Castillo,68,FALSE,FALSE
+2024-07-31,Brazil,Spain,Spain,Alexia Putellas,90,FALSE,FALSE
+2024-07-31,Colombia,Canada,Canada,Vanessa Gilles,61,FALSE,FALSE
+2024-07-31,Japan,Nigeria,Japan,Maika Hamano,22,FALSE,FALSE
+2024-07-31,Japan,Nigeria,Japan,Mina Tanaka,32,FALSE,FALSE
+2024-07-31,Japan,Nigeria,Nigeria,Jennifer Echegini,42,FALSE,FALSE
+2024-07-31,Japan,Nigeria,Japan,Hikaru Kitagawa,45,FALSE,FALSE
+2024-07-31,New Zealand,France,France,Marie-Antoinette Katoto,22,FALSE,FALSE
+2024-07-31,New Zealand,France,New Zealand,Kate Taylor,43,FALSE,FALSE
+2024-07-31,New Zealand,France,France,Marie-Antoinette Katoto,49,FALSE,FALSE
+2024-07-31,Zambia,Germany,Germany,Lea Schüller,10,FALSE,FALSE
+2024-07-31,Zambia,Germany,Germany,Klara Bühl,47,FALSE,FALSE
+2024-07-31,Zambia,Germany,Zambia,Barbra Banda,49,FALSE,FALSE
+2024-07-31,Zambia,Germany,Germany,Lea Schüller,61,FALSE,FALSE
+2024-07-31,Zambia,Germany,Germany,Elisa Senß,90,FALSE,FALSE
+2024-08-03,France,Brazil,Brazil,Gabi Portilho,82,FALSE,FALSE
+2024-08-03,Spain,Colombia,Colombia,Mayra Ramírez,12,FALSE,FALSE
+2024-08-03,Spain,Colombia,Colombia,Leicy Santos,52,FALSE,FALSE
+2024-08-03,Spain,Colombia,Spain,Jenni Hermoso,79,FALSE,FALSE
+2024-08-03,Spain,Colombia,Spain,Irene Paredes,90,FALSE,FALSE
+2024-08-03,United States,Japan,United States,Trinity Rodman,105,FALSE,FALSE
+2024-08-06,Brazil,Spain,Brazil,Irene Paredes,6,TRUE,FALSE
+2024-08-06,Brazil,Spain,Brazil,Gabi Portilho,45,FALSE,FALSE
+2024-08-06,Brazil,Spain,Brazil,Adriana,71,FALSE,FALSE
+2024-08-06,Brazil,Spain,Spain,Duda Sampaio,85,TRUE,FALSE
+2024-08-06,Brazil,Spain,Brazil,Kerolin,90,FALSE,FALSE
+2024-08-06,Brazil,Spain,Spain,Salma Paralluelo,90,FALSE,FALSE
+2024-08-06,United States,Germany,United States,Sophia Smith,95,FALSE,FALSE
+2024-08-09,Spain,Germany,Germany,Giulia Gwinn,65,FALSE,TRUE
+2024-08-10,Brazil,United States,United States,Mallory Swanson,57,FALSE,FALSE
