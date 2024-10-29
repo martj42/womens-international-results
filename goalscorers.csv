@@ -2527,9 +2527,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-07-31,Japan,Nigeria,Japan,Mina Tanaka,32,FALSE,FALSE
 2024-07-31,Japan,Nigeria,Nigeria,Jennifer Echegini,42,FALSE,FALSE
 2024-07-31,Japan,Nigeria,Japan,Hikaru Kitagawa,45,FALSE,FALSE
-2024-07-31,New Zealand,France,France,Marie-Antoinette Katoto,22,FALSE,FALSE
-2024-07-31,New Zealand,France,New Zealand,Kate Taylor,43,FALSE,FALSE
-2024-07-31,New Zealand,France,France,Marie-Antoinette Katoto,49,FALSE,FALSE
+2024-07-31,France,New Zealand,France,Marie-Antoinette Katoto,22,FALSE,FALSE
+2024-07-31,France,New Zealand,New Zealand,Kate Taylor,43,FALSE,FALSE
+2024-07-31,France,New Zealand,France,Marie-Antoinette Katoto,49,FALSE,FALSE
 2024-07-31,Zambia,Germany,Germany,Lea Schüller,10,FALSE,FALSE
 2024-07-31,Zambia,Germany,Germany,Klara Bühl,47,FALSE,FALSE
 2024-07-31,Zambia,Germany,Zambia,Barbra Banda,49,FALSE,FALSE
@@ -2550,3 +2550,107 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2024-08-06,United States,Germany,United States,Sophia Smith,95,FALSE,FALSE
 2024-08-09,Spain,Germany,Germany,Giulia Gwinn,65,FALSE,TRUE
 2024-08-10,Brazil,United States,United States,Mallory Swanson,57,FALSE,FALSE
+2024-10-25,Albania,Norway,Norway,Frida Maanum,9,FALSE,FALSE
+2024-10-25,Albania,Norway,Norway,Guro Bergsvand,23,FALSE,FALSE
+2024-10-25,Albania,Norway,Norway,Guro Bergsvand,44,FALSE,FALSE
+2024-10-25,Albania,Norway,Norway,Ada Hegerberg,62,FALSE,FALSE
+2024-10-25,Albania,Norway,Norway,Kristina Hoxhaj,74,TRUE,FALSE
+2024-10-25,Azerbaijan,Portugal,Portugal,Ana Capeta,5,FALSE,FALSE
+2024-10-25,Azerbaijan,Portugal,Portugal,Tatiana Pinto,10,FALSE,FALSE
+2024-10-25,Azerbaijan,Portugal,Portugal,Diana Gomes,26,FALSE,FALSE
+2024-10-25,Azerbaijan,Portugal,Azerbaijan,Nazlican Parlak,58,FALSE,FALSE
+2024-10-25,Azerbaijan,Portugal,Portugal,Diana Silva,89,FALSE,FALSE
+2024-10-25,Belarus,Czech Republic,Czech Republic,Michaela Khýrová,2,FALSE,FALSE
+2024-10-25,Belarus,Czech Republic,Czech Republic,Kateřina Svitková,6,FALSE,FALSE
+2024-10-25,Belarus,Czech Republic,Belarus,Anastasiya Shlapakova,16,FALSE,FALSE
+2024-10-25,Belarus,Czech Republic,Czech Republic,Kateřina Svitková,20,FALSE,FALSE
+2024-10-25,Belarus,Czech Republic,Czech Republic,Kamila Dubcová,34,FALSE,FALSE
+2024-10-25,Belarus,Czech Republic,Czech Republic,Kamila Dubcová,38,FALSE,FALSE
+2024-10-25,Belarus,Czech Republic,Czech Republic,Andrea Stašková,48,FALSE,FALSE
+2024-10-25,Belarus,Czech Republic,Czech Republic,Eva Bartoňová,52,FALSE,FALSE
+2024-10-25,Belarus,Czech Republic,Czech Republic,Franny Černá,75,FALSE,FALSE
+2024-10-25,Bosnia and Herzegovina,Serbia,Bosnia and Herzegovina,Emina Ekic,20,FALSE,FALSE
+2024-10-25,Bosnia and Herzegovina,Serbia,Serbia,Nina Matejić,28,FALSE,FALSE
+2024-10-25,Bosnia and Herzegovina,Serbia,Bosnia and Herzegovina,Milena Nikolić,52,FALSE,FALSE
+2024-10-25,Bosnia and Herzegovina,Serbia,Serbia,Vesna Milivojević,87,FALSE,FALSE
+2024-10-25,Croatia,Northern Ireland,Croatia,Izabela Lojna,4,FALSE,TRUE
+2024-10-25,Croatia,Northern Ireland,Northern Ireland,Izabela Lojna,90,TRUE,FALSE
+2024-10-25,Georgia,Republic of Ireland,Republic of Ireland,Katie McCabe,37,FALSE,TRUE
+2024-10-25,Georgia,Republic of Ireland,Republic of Ireland,Kyra Carusa,59,FALSE,FALSE
+2024-10-25,Georgia,Republic of Ireland,Republic of Ireland,Katie McCabe,67,FALSE,FALSE
+2024-10-25,Georgia,Republic of Ireland,Republic of Ireland,Jessie Stapleton,82,FALSE,FALSE
+2024-10-25,Georgia,Republic of Ireland,Republic of Ireland,Marissa Sheva,90,FALSE,FALSE
+2024-10-25,Georgia,Republic of Ireland,Republic of Ireland,Aoife Mannion,90,FALSE,FALSE
+2024-10-25,Hungary,Scotland,Scotland,Martha Thomas,60,FALSE,FALSE
+2024-10-25,Luxembourg,Sweden,Sweden,Filippa Angeldal,26,FALSE,FALSE
+2024-10-25,Luxembourg,Sweden,Sweden,Johanna Rytting Kaneryd,31,FALSE,FALSE
+2024-10-25,Luxembourg,Sweden,Sweden,Stina Blackstenius,81,FALSE,FALSE
+2024-10-25,Luxembourg,Sweden,Sweden,Evelyn Ijeh,90,FALSE,FALSE
+2024-10-25,Montenegro,Finland,Finland,Linda Sällström,3,FALSE,FALSE
+2024-10-25,Romania,Poland,Romania,Ioana Bălăceanu,18,FALSE,FALSE
+2024-10-25,Romania,Poland,Poland,Natalia Padilla,73,FALSE,FALSE
+2024-10-25,Romania,Poland,Poland,Ewa Pajor,89,FALSE,TRUE
+2024-10-25,Slovakia,Wales,Slovakia,Martina Šurnovská,49,FALSE,FALSE
+2024-10-25,Slovakia,Wales,Slovakia,Mária Mikolajová,58,FALSE,FALSE
+2024-10-25,Slovakia,Wales,Wales,Ffion Morgan,89,FALSE,FALSE
+2024-10-25,Slovenia,Austria,Austria,Barbara Dunst,69,FALSE,FALSE
+2024-10-25,Slovenia,Austria,Austria,Sarah Puntigam,73,FALSE,TRUE
+2024-10-25,Slovenia,Austria,Austria,Lilli Purtscheller,75,FALSE,FALSE
+2024-10-25,Turkey,Ukraine,Ukraine,Daryna Apanaschenko,31,FALSE,FALSE
+2024-10-25,Turkey,Ukraine,Turkey,Elif Keskin,51,FALSE,FALSE
+2024-10-29,Austria,Slovenia,Austria,Sarah Puntigam,62,FALSE,TRUE
+2024-10-29,Austria,Slovenia,Austria,Sarah Puntigam,74,FALSE,TRUE
+2024-10-29,Austria,Slovenia,Slovenia,Lara Prašnikar,90,FALSE,TRUE
+2024-10-29,Belgium,Greece,Belgium,Ella Van Kerkhoven,36,FALSE,FALSE
+2024-10-29,Belgium,Greece,Belgium,Tessa Wullaert,39,FALSE,FALSE
+2024-10-29,Belgium,Greece,Belgium,Tessa Wullaert,45,FALSE,FALSE
+2024-10-29,Belgium,Greece,Belgium,Kassandra Missipo,55,FALSE,FALSE
+2024-10-29,Belgium,Greece,Belgium,Ella Van Kerkhoven,57,FALSE,FALSE
+2024-10-29,Finland,Montenegro,Finland,Ria Öling,7,FALSE,FALSE
+2024-10-29,Finland,Montenegro,Finland,Nea Lehtola,12,FALSE,FALSE
+2024-10-29,Finland,Montenegro,Finland,Vilma Koivisto,31,FALSE,FALSE
+2024-10-29,Finland,Montenegro,Finland,Linda Sällström,65,FALSE,FALSE
+2024-10-29,Finland,Montenegro,Finland,Lilli Halttunen,80,FALSE,FALSE
+2024-10-29,Northern Ireland,Croatia,Northern Ireland,Lauren Wade,114,FALSE,FALSE
+2024-10-29,Norway,Albania,Norway,Frida Maanum,18,FALSE,FALSE
+2024-10-29,Norway,Albania,Norway,Lisa Naalsund,29,FALSE,FALSE
+2024-10-29,Norway,Albania,Norway,Ada Hegerberg,44,FALSE,FALSE
+2024-10-29,Norway,Albania,Norway,Frida Maanum,52,FALSE,FALSE
+2024-10-29,Norway,Albania,Norway,Frida Maanum,62,FALSE,FALSE
+2024-10-29,Norway,Albania,Norway,Frida Maanum,65,FALSE,FALSE
+2024-10-29,Norway,Albania,Norway,Signe Gaupset,75,FALSE,FALSE
+2024-10-29,Norway,Albania,Norway,Guro Reiten,81,FALSE,TRUE
+2024-10-29,Norway,Albania,Norway,Vilde Bøe Risa,90,FALSE,TRUE
+2024-10-29,Poland,Romania,Poland,Ewa Pajor,19,FALSE,FALSE
+2024-10-29,Poland,Romania,Poland,Natalia Padilla,41,FALSE,FALSE
+2024-10-29,Poland,Romania,Poland,Ewa Pajor,49,FALSE,FALSE
+2024-10-29,Poland,Romania,Poland,Nadia Krezyman,85,FALSE,FALSE
+2024-10-29,Poland,Romania,Romania,Ana Maria Stanciu,90,FALSE,FALSE
+2024-10-29,Portugal,Azerbaijan,Portugal,Diana Silva,15,FALSE,FALSE
+2024-10-29,Portugal,Azerbaijan,Portugal,Diana Silva,26,FALSE,FALSE
+2024-10-29,Portugal,Azerbaijan,Portugal,Dolores Silva,57,FALSE,TRUE
+2024-10-29,Portugal,Azerbaijan,Portugal,Fátima Pinto,86,FALSE,FALSE
+2024-10-29,Republic of Ireland,Georgia,Republic of Ireland,Julie-Ann Russell,3,FALSE,FALSE
+2024-10-29,Republic of Ireland,Georgia,Republic of Ireland,Kyra Carusa,31,FALSE,FALSE
+2024-10-29,Republic of Ireland,Georgia,Republic of Ireland,Katie McCabe,55,FALSE,FALSE
+2024-10-29,Scotland,Hungary,Scotland,Caroline Weir,31,FALSE,FALSE
+2024-10-29,Scotland,Hungary,Scotland,Samantha Kerr,51,FALSE,FALSE
+2024-10-29,Scotland,Hungary,Scotland,Erin Cuthbert,55,FALSE,FALSE
+2024-10-29,Scotland,Hungary,Scotland,Martha Thomas,65,FALSE,FALSE
+2024-10-29,Serbia,Bosnia and Herzegovina,Serbia,Sara Stokić,10,FALSE,FALSE
+2024-10-29,Serbia,Bosnia and Herzegovina,Bosnia and Herzegovina,Milena Nikolić,29,FALSE,FALSE
+2024-10-29,Serbia,Bosnia and Herzegovina,Serbia,Nina Matejić,42,FALSE,FALSE
+2024-10-29,Serbia,Bosnia and Herzegovina,Serbia,Nina Matejić,62,FALSE,FALSE
+2024-10-29,Serbia,Bosnia and Herzegovina,Serbia,Tijana Filipović,75,FALSE,FALSE
+2024-10-29,Sweden,Luxembourg,Sweden,Filippa Angeldal,9,FALSE,FALSE
+2024-10-29,Sweden,Luxembourg,Sweden,Johanna Rytting Kaneryd,11,FALSE,FALSE
+2024-10-29,Sweden,Luxembourg,Sweden,Filippa Angeldal,30,FALSE,TRUE
+2024-10-29,Sweden,Luxembourg,Sweden,Julia Zigiotti Olme,40,FALSE,FALSE
+2024-10-29,Sweden,Luxembourg,Sweden,Stina Blackstenius,45,FALSE,FALSE
+2024-10-29,Sweden,Luxembourg,Sweden,Leila Schmit,45,TRUE,FALSE
+2024-10-29,Sweden,Luxembourg,Sweden,Rebecka Blomqvist,63,FALSE,FALSE
+2024-10-29,Sweden,Luxembourg,Sweden,Rebecka Blomqvist,87,FALSE,FALSE
+2024-10-29,Ukraine,Turkey,Ukraine,Eda Karataş,14,TRUE,FALSE
+2024-10-29,Ukraine,Turkey,Ukraine,Lyubov Shmatko,34,FALSE,FALSE
+2024-10-29,Wales,Slovakia,Wales,Jessica Fishlock,39,FALSE,FALSE
+2024-10-29,Wales,Slovakia,Wales,Ceri Holland,112,FALSE,FALSE
