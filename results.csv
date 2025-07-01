@@ -10276,7 +10276,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-05-26,Mali,Liberia,1,1,WAFU Zone A Cup,Nouakchott,Mauritania,TRUE
 2025-05-26,Mauritania,Guinea-Bissau,2,0,WAFU Zone A Cup,Nouakchott,Mauritania,FALSE
 2025-05-26,Senegal,Sierra Leone,1,1,WAFU Zone A Cup,Nouakchott,Mauritania,TRUE
-2025-05-28,Bhutan,Hong Kong,0,0,Friendly,Thimphu,Bhutan,FALSE
+2025-05-28,Bhutan,Hong Kong,0,0,Tri-Nation Cup,Thimphu,Bhutan,FALSE
 2025-05-28,Guatemala,Puerto Rico,0,1,Friendly,Ciudad de Guatemala,Guatemala,FALSE
 2025-05-28,Jordan,Indonesia,1,1,Friendly,Amman,Jordan,FALSE
 2025-05-28,Kazakhstan,Kyrgyzstan,2,1,Friendly,Almaty,Kazakhstan,FALSE
@@ -10325,7 +10325,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-05-31,Bangladesh,Indonesia,0,0,Friendly,Amman,Jordan,TRUE
 2025-05-31,Brazil,Japan,3,1,Friendly,Sao Paulo,Brazil,FALSE
 2025-05-31,Canada,Haiti,4,1,Friendly,Winnipeg,Canada,FALSE
-2025-05-31,Malaysia,Hong Kong,1,2,Friendly,Thimphu,Bhutan,TRUE
+2025-05-31,Malaysia,Hong Kong,1,2,Tri-Nation Cup,Thimphu,Bhutan,TRUE
 2025-05-31,Mali,Liberia,0,1,WAFU Zone A Cup,Nouakchott,Mauritania,TRUE
 2025-05-31,Mexico,Uruguay,2,2,Friendly,Puebla,Mexico,FALSE
 2025-05-31,New Zealand,Venezuela,1,3,Friendly,Malaga,Spain,TRUE
@@ -10344,7 +10344,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-06-03,Albania,Czech Republic,1,2,UEFA Nations League,Shkodër,Albania,FALSE
 2025-06-03,Andorra,Malta,0,0,UEFA Nations League,Encamp,Andorra,FALSE
 2025-06-03,Austria,Germany,0,6,UEFA Nations League,Vienna,Austria,FALSE
-2025-06-03,Bhutan,Malaysia,1,3,Friendly,Thimphu,Bhutan,FALSE
+2025-06-03,Bhutan,Malaysia,1,3,Tri-Nation Cup,Thimphu,Bhutan,FALSE
 2025-06-03,Bosnia and Herzegovina,Northern Ireland,1,1,UEFA Nations League,Zenica,Bosnia and Herzegovina,FALSE
 2025-06-03,Bulgaria,Estonia,0,1,UEFA Nations League,Sofia,Bulgaria,FALSE
 2025-06-03,Canada,Haiti,3,1,Friendly,Montreal,Canada,FALSE
@@ -10380,3 +10380,33 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-06-04,Mexico,Uruguay,1,0,Friendly,Tlaxcala,Mexico,FALSE
 2025-06-04,Morocco,Kenya,5,1,Friendly,Tangier,Morocco,FALSE
 2025-06-04,United States,Jamaica,4,0,Friendly,St. Louis,United States,FALSE
+2025-06-18,United Arab Emirates,Malaysia,1,3,Friendly,Dubai,United Arab Emirates,FALSE
+2025-06-20,France,Belgium,5,0,Friendly,Valenciennes,France,FALSE
+2025-06-22,United Arab Emirates,Malaysia,0,2,Friendly,Dubai,United Arab Emirates,FALSE
+2025-06-23,Portugal,Nigeria,0,0,Friendly,Amadora,Portugal,FALSE
+2025-06-25,Cambodia,Guam,1,0,Friendly,Phnom Penh,Cambodia,FALSE
+2025-06-25,Ghana,Benin,4,2,Friendly,Benslimane,Morocco,TRUE
+2025-06-26,Australia,Slovenia,3,0,Friendly,Perth,Australia,FALSE
+2025-06-26,Norway,Sweden,0,2,Friendly,Oslo,Norway,FALSE
+2025-06-26,Switzerland,Czech Republic,4,1,Friendly,Winterthur,Switzerland,FALSE
+2025-06-26,Netherlands,Finland,2,1,Friendly,Leeuwarden,Netherlands,FALSE
+2025-06-26,Belgium,Greece,2,0,Friendly,Brussels,Belgium,FALSE
+2025-06-27,Serbia,Iceland,1,3,Friendly,Stara Pazova,Serbia,FALSE
+2025-06-27,United States,Republic of Ireland,4,0,Friendly,Commerce City,United States,TRUE
+2025-06-27,Poland,Ukraine,4,0,Friendly,Mielec,Poland,FALSE
+2025-06-27,Spain,Japan,3,1,Friendly,Madrid,Spain,FALSE
+2025-06-27,France,Brazil,3,2,Friendly,Grenoble,France,FALSE
+2025-06-27,Canada,Costa Rica,4,1,Friendly,New York,United States,FALSE
+2025-06-28,Estonia,Kosovo,0,1,Friendly,Tallinn,Estonia,FALSE
+2025-06-28,Belarus,Azerbaijan,3,0,Friendly,Zhodzina,Belarus,FALSE
+2025-06-28,Morocco,Tanzania,4,0,Friendly,Rabat,Morocco,FALSE
+2025-06-28,Ecuador,Guatemala,4,0,Friendly,Quito,Ecuador,FALSE
+2025-06-28,Mexico,Colombia,0,0,Friendly,Ciudad Juárez,Mexico,FALSE
+2025-06-29,Nigeria,Ghana,3,1,Friendly,Casablanca,Morocco,FALSE
+2025-06-29,Algeria,DR Congo,1,0,Friendly,Blida,Algeria,FALSE
+2025-06-29,Australia,Slovenia,1,1,Friendly,Perth,Australia,FALSE
+2025-06-29,England,Jamaica,7,0,Friendly,Leicester,England,FALSE
+2025-06-29,United States,Republic of Ireland,4,0,Friendly,Cincinnati,United States,TRUE
+2025-07-01,Belarus,Azerbaijan,2,0,Friendly,Minsk,Belarus,FALSE
+2025-07-01,Estonia,Kosovo,2,2,Friendly,Tallinn,Estonia,FALSE
+2025-07-01,Serbia,Russia,0,3,Friendly,Stara Pazova,Serbia,FALSE
