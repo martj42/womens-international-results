@@ -20,6 +20,7 @@ date,home_team,away_team,winner,first_shooter
 2009-03-12,France,New Zealand,France,
 2009-12-16,Thailand,Vietnam,Vietnam,
 2011-06-15,Colombia,Denmark,Colombia,
+2011-07-06,Zimbabwe,Tanzania,Zimbabwe,
 2011-07-09,England,France,France,France
 2011-07-10,Brazil,United States,United States,United States
 2011-07-17,Japan,United States,Japan,United States
@@ -47,6 +48,8 @@ date,home_team,away_team,winner,first_shooter
 2017-03-15,Latvia,Estonia,Latvia,
 2017-03-15,Lithuania,Malta,Lithuania,
 2017-06-29,Åland,Menorca,Åland,
+2017-09-21,Zambia,South Africa,South Africa,
+2017-09-23,Zambia,Kenya,Zambia,
 2017-12-12,Nicaragua,Panama,Nicaragua,
 2017-12-14,El Salvador,Panama,Panama,
 2017-12-14,Nicaragua,Costa Rica,Costa Rica,
@@ -75,6 +78,8 @@ date,home_team,away_team,winner,first_shooter
 2021-07-30,Netherlands,United States,United States,
 2021-08-06,Sweden,Canada,Canada,Sweden
 2021-09-25,Jordan,Iran,Iran,
+2021-10-07,Tanzania,Zambia,Tanzania,
+2021-10-09,South Africa,Zambia,Zambia,
 2021-10-26,Ethiopia,Uganda,Uganda,
 2022-01-30,Taiwan,Philippines,Philippines,
 2022-02-03,China PR,Japan,China PR,
@@ -98,8 +103,6 @@ date,home_team,away_team,winner,first_shooter
 2023-09-27,Lebanon,Malaysia,Lebanon,
 2023-09-28,Pakistan,Laos,Pakistan,
 2023-12-06,Hong Kong,Guam,Hong Kong,
-2025-02-26,Zimbabwe,Angola,Angola,
-2025-02-26,Ethiopia,Uganda,Ethiopia,
 2024-02-27,Scotland,Finland,Finland,
 2024-02-29,Jordan,Nepal,Jordan,Jordan
 2024-04-06,Brazil,Canada,Canada,Canada
@@ -109,18 +112,15 @@ date,home_team,away_team,winner,first_shooter
 2024-08-03,Canada,Germany,Germany,Germany
 2024-10-24,Estonia,Lithuania,Estonia,Estonia
 2024-10-27,Nepal,India,Nepal,India
-2021-10-07,Tanzania,Zambia,Tanzania,
-2021-10-09,South Africa,Zambia,Zambia,
 2024-10-31,South Africa,Mozambique,South Africa,
 2024-11-02,South Africa,Zambia,Zambia,
-2011-07-06,Zimbabwe,Tanzania,Zimbabwe,
-2017-09-21,Zambia,South Africa,South Africa,
-2017-09-23,Zambia,Kenya,Zambia,
+2025-02-26,Zimbabwe,Angola,Angola,
+2025-02-26,Ethiopia,Uganda,Ethiopia,
+2025-07-17,Sweden,England,England,England
 2025-07-19,Algeria,Ghana,Ghana,Algeria
 2025-07-19,South Africa,Senegal,South Africa,South Africa
+2025-07-19,France,Germany,Germany,Germany
 2025-07-22,Morocco,Ghana,Morocco,Morocco
 2025-07-25,Ghana,South Africa,Ghana,South Africa
-2025-07-17,Sweden,England,England,England
-2025-07-19,France,Germany,Germany,Germany
 2025-07-27,England,Spain,England,England
 2025-07-28,Argentina,Colombia,Colombia,Colombia
