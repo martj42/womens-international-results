@@ -5830,13 +5830,13 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2016-07-23,France,Canada,1,0,Friendly,Auxerre,France,FALSE
 2016-07-26,Thailand,Philippines,4,0,AFF Championship,Mandalay,Myanmar,TRUE
 2016-07-26,Vietnam,Singapore,14,0,AFF Championship,Mandalay,Myanmar,TRUE
-2016-07-27,Myanmar,East Timor,17,0,AFF Championship,Mandalay,Myanmar,FALSE
+2016-07-27,Myanmar,Timor-Leste,17,0,AFF Championship,Mandalay,Myanmar,FALSE
 2016-07-28,Philippines,Vietnam,0,4,AFF Championship,Mandalay,Myanmar,TRUE
 2016-07-28,Singapore,Thailand,0,8,AFF Championship,Mandalay,Myanmar,TRUE
 2016-07-29,Myanmar,Malaysia,2,1,AFF Championship,Mandalay,Myanmar,FALSE
 2016-07-30,Philippines,Singapore,2,0,AFF Championship,Mandalay,Myanmar,TRUE
 2016-07-30,Thailand,Vietnam,0,2,AFF Championship,Mandalay,Myanmar,TRUE
-2016-07-31,East Timor,Malaysia,0,13,AFF Championship,Mandalay,Myanmar,TRUE
+2016-07-31,Timor-Leste,Malaysia,0,13,AFF Championship,Mandalay,Myanmar,TRUE
 2016-08-02,Myanmar,Vietnam,3,3,AFF Championship,Mandalay,Myanmar,FALSE
 2016-08-03,Northern Ireland,Czech Republic,1,1,UEFA Euro qualification,Lurgan,Northern Ireland,FALSE
 2016-08-03,Sweden,South Africa,1,0,Olympic Games,Rio de Janeiro,Brazil,TRUE
@@ -6630,10 +6630,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-06-12,Israel,Austria,0,6,FIFA World Cup qualification,Ramat Gan,Israel,FALSE
 2018-06-12,Chile,Costa Rica,2,2,Friendly,Peñalolén,Chile,FALSE
 2018-06-13,United States,China PR,2,1,Friendly,Cleveland,United States,FALSE
-2018-06-30,Cambodia,East Timor,12,0,AFF Championship,Palembang,Indonesia,TRUE
+2018-06-30,Cambodia,Timor-Leste,12,0,AFF Championship,Palembang,Indonesia,TRUE
 2018-07-01,Philippines,Myanmar,0,4,AFF Championship,Palembang,Indonesia,TRUE
 2018-07-01,Indonesia,Singapore,0,0,AFF Championship,Palembang,Indonesia,FALSE
-2018-07-02,East Timor,Thailand,0,8,AFF Championship,Palembang,Indonesia,TRUE
+2018-07-02,Timor-Leste,Thailand,0,8,AFF Championship,Palembang,Indonesia,TRUE
 2018-07-02,Cambodia,Malaysia,0,4,AFF Championship,Palembang,Indonesia,TRUE
 2018-07-03,Indonesia,Vietnam,0,6,AFF Championship,Palembang,Indonesia,FALSE
 2018-07-03,Singapore,Philippines,0,3,AFF Championship,Palembang,Indonesia,TRUE
@@ -6643,7 +6643,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2018-07-06,Malaysia,Thailand,0,8,AFF Championship,Palembang,Indonesia,TRUE
 2018-07-07,Myanmar,Singapore,7,0,AFF Championship,Palembang,Indonesia,TRUE
 2018-07-07,Philippines,Vietnam,0,5,AFF Championship,Palembang,Indonesia,TRUE
-2018-07-08,East Timor,Malaysia,0,4,AFF Championship,Palembang,Indonesia,TRUE
+2018-07-08,Timor-Leste,Malaysia,0,4,AFF Championship,Palembang,Indonesia,TRUE
 2018-07-09,Indonesia,Philippines,3,3,AFF Championship,Palembang,Indonesia,FALSE
 2018-07-09,Vietnam,Myanmar,4,3,AFF Championship,Palembang,Indonesia,TRUE
 2018-07-11,Thailand,Myanmar,3,1,AFF Championship,Palembang,Indonesia,TRUE
@@ -7252,18 +7252,18 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2019-08-10,Botswana,Zimbabwe,0,3,COSAFA Championship,KwaZakele,South Africa,TRUE
 2019-08-11,South Africa,Zambia,1,0,COSAFA Championship,KwaZakele,South Africa,FALSE
 2019-08-15,Philippines,Malaysia,3,0,AFF Championship,Chonburi,Thailand,TRUE
-2019-08-15,East Timor,Singapore,2,1,AFF Championship,Chonburi,Thailand,TRUE
+2019-08-15,Timor-Leste,Singapore,2,1,AFF Championship,Chonburi,Thailand,TRUE
 2019-08-16,Myanmar,Indonesia,7,0,AFF Championship,Chonburi,Thailand,TRUE
 2019-08-16,Vietnam,Cambodia,10,0,AFF Championship,Chonburi,Thailand,TRUE
-2019-08-17,East Timor,Philippines,0,7,AFF Championship,Chonburi,Thailand,TRUE
+2019-08-17,Timor-Leste,Philippines,0,7,AFF Championship,Chonburi,Thailand,TRUE
 2019-08-17,Thailand,Singapore,8,0,AFF Championship,Chonburi,Thailand,FALSE
 2019-08-18,Indonesia,Vietnam,0,7,AFF Championship,Chonburi,Thailand,TRUE
 2019-08-18,Cambodia,Myanmar,1,10,AFF Championship,Chonburi,Thailand,TRUE
 2019-08-19,Malaysia,Singapore,4,0,AFF Championship,Chonburi,Thailand,TRUE
-2019-08-19,Thailand,East Timor,9,0,AFF Championship,Chonburi,Thailand,FALSE
+2019-08-19,Thailand,Timor-Leste,9,0,AFF Championship,Chonburi,Thailand,FALSE
 2019-08-20,Myanmar,Vietnam,0,4,AFF Championship,Chonburi,Thailand,TRUE
 2019-08-20,Cambodia,Indonesia,0,4,AFF Championship,Chonburi,Thailand,TRUE
-2019-08-21,Malaysia,East Timor,5,0,AFF Championship,Chonburi,Thailand,TRUE
+2019-08-21,Malaysia,Timor-Leste,5,0,AFF Championship,Chonburi,Thailand,TRUE
 2019-08-21,Thailand,Philippines,4,2,AFF Championship,Chonburi,Thailand,FALSE
 2019-08-23,Singapore,Philippines,0,4,AFF Championship,Chonburi,Thailand,TRUE
 2019-08-23,Thailand,Malaysia,7,0,AFF Championship,Chonburi,Thailand,FALSE
@@ -8442,7 +8442,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-07-05,Canada,Trinidad and Tobago,6,0,CONCACAF Championship,Guadalupe,Mexico,TRUE
 2022-07-05,Burkina Faso,Senegal,0,1,African Cup of Nations,Rabat,Morocco,TRUE
 2022-07-05,Morocco,Uganda,3,1,African Cup of Nations,Rabat,Morocco,FALSE
-2022-07-05,East Timor,Myanmar,0,7,AFF Championship,Biñan,Philippines,TRUE
+2022-07-05,Timor-Leste,Myanmar,0,7,AFF Championship,Biñan,Philippines,TRUE
 2022-07-05,Laos,Cambodia,1,1,AFF Championship,Biñan,Philippines,TRUE
 2022-07-06,England,Austria,1,0,UEFA Euro,Manchester,England,FALSE
 2022-07-06,Zambia,Tunisia,1,0,African Cup of Nations,Casablanca,Morocco,TRUE
@@ -8454,7 +8454,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-07-07,Mexico,Haiti,0,3,CONCACAF Championship,Guadalupe,Mexico,FALSE
 2022-07-07,South Africa,Burundi,3,1,African Cup of Nations,Rabat,Morocco,TRUE
 2022-07-07,Botswana,Nigeria,0,2,African Cup of Nations,Rabat,Morocco,TRUE
-2022-07-07,Laos,East Timor,2,0,AFF Championship,Biñan,Philippines,TRUE
+2022-07-07,Laos,Timor-Leste,2,0,AFF Championship,Biñan,Philippines,TRUE
 2022-07-07,Cambodia,Vietnam,0,3,AFF Championship,Biñan,Philippines,TRUE
 2022-07-08,Spain,Finland,4,1,UEFA Euro,Milton Keynes,England,TRUE
 2022-07-08,Germany,Denmark,4,0,UEFA Euro,London,England,TRUE
@@ -8493,7 +8493,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-07-11,Turkmenistan,Kyrgyzstan,0,0,CAFA Championship,Dushanbe,Tajikistan,TRUE
 2022-07-11,Tajikistan,Uzbekistan,0,6,CAFA Championship,Dushanbe,Tajikistan,FALSE
 2022-07-11,Myanmar,Laos,3,1,AFF Championship,Biñan,Philippines,TRUE
-2022-07-11,East Timor,Vietnam,0,6,AFF Championship,Biñan,Philippines,TRUE
+2022-07-11,Timor-Leste,Vietnam,0,6,AFF Championship,Biñan,Philippines,TRUE
 2022-07-12,Denmark,Finland,1,0,UEFA Euro,Milton Keynes,England,TRUE
 2022-07-12,Germany,Spain,2,0,UEFA Euro,London,England,TRUE
 2022-07-12,Uruguay,Brazil,0,3,Copa América,Armenia,Colombia,TRUE
@@ -8505,7 +8505,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-07-13,Samoa,Tonga,2,0,OFC Nations Cup,Suva,Fiji,TRUE
 2022-07-13,Zambia,Senegal,1,1,African Cup of Nations,Casablanca,Morocco,TRUE
 2022-07-13,Morocco,Botswana,2,1,African Cup of Nations,Rabat,Morocco,FALSE
-2022-07-13,Cambodia,East Timor,3,1,AFF Championship,Imus,Philippines,TRUE
+2022-07-13,Cambodia,Timor-Leste,3,1,AFF Championship,Imus,Philippines,TRUE
 2022-07-13,Vietnam,Myanmar,4,0,AFF Championship,Manila,Philippines,TRUE
 2022-07-14,Italy,Iceland,1,1,UEFA Euro,Manchester,England,TRUE
 2022-07-14,France,Belgium,2,1,UEFA Euro,Rotherham,England,TRUE
@@ -9988,7 +9988,11 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-10-31,Malawi,Zambia,0,2,COSAFA Championship,Ibhayi,South Africa,TRUE
 2024-10-31,South Africa,Mozambique,1,1,COSAFA Championship,Ibhayi,South Africa,FALSE
 2024-11-02,South Africa,Zambia,0,0,COSAFA Championship,Ibhayi,South Africa,FALSE
+2024-11-23,Laos,Timor-Leste,0,0,AFF Women's Cup,Vientiane,Laos,FALSE
+2024-11-23,Indonesia,Cambodia,0,0,AFF Women's Cup,Vientiane,Laos,TRUE
 2024-11-25,Guatemala,Honduras,1,0,Friendly,Ciudad de Guatemala,Guatemala,FALSE
+2024-11-26,Singapore,Timor-Leste,1,1,AFF Women's Cup,Vientiane,Laos,TRUE
+2024-11-26,Malaysia,Indonesia,0,1,AFF Women's Cup,Vientiane,Laos,TRUE
 2024-11-27,Costa Rica,Panama,1,2,Friendly,Cancún,Mexico,TRUE
 2024-11-27,Algeria,Uganda,2,1,Friendly,Blida,Algeria,FALSE
 2024-11-28,Australia,Brazil,1,3,Friendly,Brisbane,Australia,FALSE
@@ -10012,6 +10016,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-11-29,Northern Ireland,Norway,0,4,UEFA Euro qualification,Larne,Northern Ireland,FALSE
 2024-11-29,Kosovo,Estonia,8,0,Friendly,Pristina,Kosovo,FALSE
 2024-11-29,Saudi Arabia,Palestine,0,1,Friendly,Doha,Qatar,TRUE
+2024-11-29,Laos,Singapore,0,1,AFF Women's Cup,Vientiane,Laos,FALSE
+2024-11-29,Cambodia,Malaysia,2,0,AFF Women's Cup,Vientiane,Laos,TRUE
 2024-11-30,England,United States,0,0,Friendly,London,England,FALSE
 2024-11-30,France,Nigeria,2,1,Friendly,Angers,France,FALSE
 2024-11-30,Chile,Uruguay,1,0,Friendly,Valparaiso,Chile,FALSE
@@ -10030,6 +10036,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-12-02,Germany,Italy,1,2,Friendly,Bochum,Germany,FALSE
 2024-12-02,Kosovo,Estonia,1,2,Friendly,Pristina,Kosovo,FALSE
 2024-12-02,Russia,Azerbaijan,1,0,Friendly,Sochi,Russia,FALSE
+2024-12-02,Cambodia,Timor-Leste,3,0,AFF Women's Cup,Vientiane,Laos,TRUE
+2024-12-02,Singapore,Indonesia,0,3,AFF Women's Cup,Vientiane,Laos,TRUE
 2024-12-03,Malta,Hungary,1,1,Friendly,Ta' Qali,Malta,FALSE
 2024-12-03,Canada,South Korea,5,1,Friendly,Murcia,Spain,TRUE
 2024-12-03,England,Switzerland,1,0,Friendly,Sheffield,England,FALSE
@@ -10051,6 +10059,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2024-12-03,Morocco,Mali,1,0,Friendly,Tétouan,Morocco,FALSE
 2024-12-04,Mexico,Panama,1,1,Friendly,Mérida,Mexico,FALSE
 2024-12-04,Australia,Taiwan,3,1,Friendly,Melbourne,Australia,FALSE
+2024-12-05,Timor-Leste,Singapore,0,1,AFF Women's Cup,Vientiane,Laos,TRUE
+2024-12-05,Cambodia,Indonesia,1,3,AFF Women's Cup,Vientiane,Laos,TRUE
 2024-12-07,Australia,Taiwan,6,0,Friendly,Geelong,Australia,FALSE
 2024-12-07,Saudi Arabia,Pakistan,1,1,Friendly,Doha,Qatar,TRUE
 2024-12-30,India,Maldives,14,0,Friendly,Bengaluru,India,FALSE
@@ -10552,4 +10562,4 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-07-28,Argentina,Colombia,0,0,Copa América,Quito,Ecuador,TRUE
 2025-07-29,Brazil,Uruguay,5,1,Copa América,Quito,Ecuador,TRUE
 2025-08-01,Argentina,Uruguay,2,2,Copa América,Quito,Ecuador,TRUE
-2025-08-02,Colombia,Brazil,NA,NA,Copa América,Quito,Ecuador,TRUE
+2025-08-02,Colombia,Brazil,4,4,Copa América,Quito,Ecuador,TRUE

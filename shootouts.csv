@@ -83,12 +83,12 @@ date,home_team,away_team,winner,first_shooter
 2021-10-26,Ethiopia,Uganda,Uganda,
 2022-01-30,Taiwan,Philippines,Philippines,
 2022-02-03,China PR,Japan,China PR,
-2022-02-16,Hungary,Russia,Russia,
-2022-02-19,Wales,Belgium,Belgium,
-2022-02-22,Scotland,Hungary,Scotland,
-2022-02-22,Belgium,Russia,Belgium,
+2022-02-16,Hungary,Russia,Russia,Russia
+2022-02-19,Wales,Belgium,Belgium,Belgium
+2022-02-22,Scotland,Hungary,Scotland,Hungary
+2022-02-22,Belgium,Russia,Belgium,Belgium
 2022-02-22,Mali,Senegal,Senegal,
-2022-02-23,Sweden,Italy,Sweden,
+2022-02-23,Sweden,Italy,Sweden,Sweden
 2022-07-13,Zambia,Senegal,Zambia,
 2022-07-17,Senegal,Tunisia,Senegal,
 2022-07-18,Morocco,Nigeria,Morocco,
@@ -125,3 +125,4 @@ date,home_team,away_team,winner,first_shooter
 2025-07-27,England,Spain,England,England
 2025-07-28,Argentina,Colombia,Colombia,Colombia
 2025-08-01,Argentina,Uruguay,Argentina,Uruguay
+2025-08-02,Colombia,Brazil,Brazil,Brazil
