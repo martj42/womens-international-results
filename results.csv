@@ -10563,3 +10563,14 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-07-29,Brazil,Uruguay,5,1,Copa América,Quito,Ecuador,TRUE
 2025-08-01,Argentina,Uruguay,2,2,Copa América,Quito,Ecuador,TRUE
 2025-08-02,Colombia,Brazil,4,4,Copa América,Quito,Ecuador,TRUE
+2025-08-06,Thailand,Indonesia,7,0,ASEAN Championship,Haiphong,Vietnam,TRUE
+2025-08-06,Vietnam,Cambodia,6,0,ASEAN Championship,Haiphong,Vietnam,FALSE
+2025-08-07,Philippines,Timor-Leste,7,0,ASEAN Championship,Phú Thọ,Vietnam,TRUE
+2025-08-09,Cambodia,Thailand,0,7,ASEAN Championship,Haiphong,Vietnam,TRUE
+2025-08-09,Vietnam,Indonesia,7,0,ASEAN Championship,Haiphong,Vietnam,FALSE
+2025-08-10,Timor-Leste,Myanmar,0,3,ASEAN Championship,Phú Thọ,Vietnam,TRUE
+2025-08-12,Vietnam,Thailand,1,0,ASEAN Championship,Haiphong,Vietnam,FALSE
+2025-08-12,Indonesia,Cambodia,1,1,ASEAN Championship,Phú Thọ,Vietnam,TRUE
+2025-08-13,Philippines,Myanmar,1,1,ASEAN Championship,Haiphong,Vietnam,TRUE
+2025-08-16,Myanmar,Thailand,2,1,ASEAN Championship,Haiphong,Vietnam,TRUE
+2025-08-19,Vietnam,Thailand,3,1,ASEAN Championship,Haiphong,Vietnam,FALSE
