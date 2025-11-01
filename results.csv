@@ -8362,6 +8362,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2022-05-18,Vietnam,Myanmar,1,0,Southeast Asian Games,Quảng Ninh,Vietnam,FALSE
 2022-05-21,Myanmar,Philippines,1,2,Southeast Asian Games,Quảng Ninh,Vietnam,TRUE
 2022-05-21,Vietnam,Thailand,1,0,Southeast Asian Games,Quảng Ninh,Vietnam,FALSE
+2022-05-29,Surrey,Afghanistan,4,0,Friendly,Dorking,England,FALSE
 2022-06-01,Burundi,Djibouti,3,0,CECAFA Championship,Njeru,Uganda,TRUE
 2022-06-01,Uganda,Rwanda,2,0,CECAFA Championship,Njeru,Uganda,FALSE
 2022-06-02,Zanzibar,Ethiopia,0,5,CECAFA Championship,Njeru,Uganda,TRUE
@@ -10441,10 +10442,15 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-07-01,Belarus,Azerbaijan,2,0,Friendly,Minsk,Belarus,FALSE
 2025-07-01,Estonia,Kosovo,2,2,Friendly,Tallinn,Estonia,FALSE
 2025-07-01,Serbia,Russia,0,3,Friendly,Stara Pazova,Serbia,FALSE
+2025-07-01,Algeria,Senegal,0,3,Friendly,Blida,Algeria,FALSE
+2025-07-01,Ecuador,Guatemala,1,0,Friendly,Quito,Ecuador,FALSE
 2025-07-02,Iceland,Finland,0,1,UEFA Euro,Thun,Switzerland,TRUE
 2025-07-02,Switzerland,Norway,1,2,UEFA Euro,Basel,Switzerland,FALSE
+2025-07-02,United States,Canada,3,0,Friendly,"Washington, D.C.",United States,FALSE
+2025-07-02,Mexico,Colombia,1,0,Friendly,Hidalgo,Mexico,FALSE
 2025-07-03,Belgium,Italy,0,1,UEFA Euro,Sion,Switzerland,TRUE
 2025-07-03,Spain,Portugal,5,0,UEFA Euro,Bern,Switzerland,TRUE
+2025-07-03,Chile,Bolivia,5,0,Friendly,Santiago,Chile,FALSE
 2025-07-04,Tahiti,Cook Islands,1,1,OFC Nations Cup,Lautoka,Fiji,TRUE
 2025-07-04,Papua New Guinea,Samoa,2,1,OFC Nations Cup,Lautoka,Fiji,TRUE
 2025-07-04,Denmark,Sweden,0,1,UEFA Euro,Geneva,Switzerland,TRUE
@@ -10454,6 +10460,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-07-05,Morocco,Zambia,2,2,African Cup of Nations,Rabat,Morocco,FALSE
 2025-07-05,Wales,Netherlands,0,3,UEFA Euro,Lucerne,Switzerland,TRUE
 2025-07-05,France,England,2,1,UEFA Euro,Zurich,Switzerland,TRUE
+2025-07-05,Australia,Panama,0,1,Friendly,Bunbury,Australia,FALSE
 2025-07-06,Senegal,DR Congo,4,0,African Cup of Nations,Mohammedia,Morocco,TRUE
 2025-07-06,Nigeria,Tunisia,3,0,African Cup of Nations,Casablanca,Morocco,TRUE
 2025-07-06,Algeria,Botswana,1,0,African Cup of Nations,Casablanca,Morocco,TRUE
@@ -10469,6 +10476,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-07-08,Fiji,Tonga,3,0,OFC Nations Cup,Suva,Fiji,FALSE
 2025-07-08,Germany,Denmark,2,1,UEFA Euro,Basel,Switzerland,TRUE
 2025-07-08,Poland,Sweden,0,3,UEFA Euro,Lucerne,Switzerland,TRUE
+2025-07-08,Australia,Panama,3,2,Friendly,Perth,Australia,FALSE
 2025-07-09,Zambia,Senegal,3,2,African Cup of Nations,Mohammedia,Morocco,TRUE
 2025-07-09,Morocco,DR Congo,4,2,African Cup of Nations,Rabat,Morocco,FALSE
 2025-07-09,England,Netherlands,4,0,UEFA Euro,Zurich,Switzerland,TRUE
@@ -10502,6 +10510,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-07-13,England,Wales,6,1,UEFA Euro,St. Gallen,Switzerland,TRUE
 2025-07-13,Bolivia,Paraguay,0,4,Copa América,Quito,Ecuador,TRUE
 2025-07-13,Brazil,Venezuela,2,0,Copa América,Quito,Ecuador,TRUE
+2025-07-13,Dominican Republic,Cayman Islands,2,0,Friendly,San Cristóbal,Dominican Republic,FALSE
 2025-07-14,Orkney,Gozo,0,2,Island Games,Kirkwall,Scotland,FALSE
 2025-07-14,Isle of Man,Froya,6,0,Island Games,Holm,Scotland,TRUE
 2025-07-14,Bermuda,Isle of Wight,2,0,Island Games,Stromness,Scotland,TRUE
@@ -10518,6 +10527,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-07-15,Hitra,Ynys Môn,1,6,Island Games,Stromness,Scotland,TRUE
 2025-07-15,Uruguay,Argentina,0,1,Copa América,Quito,Ecuador,TRUE
 2025-07-15,Ecuador,Peru,3,1,Copa América,Quito,Ecuador,FALSE
+2025-07-15,Dominican Republic,Cayman Islands,3,0,Friendly,San Cristóbal,Dominican Republic,FALSE
 2025-07-16,Fiji,Papua New Guinea,1,2,OFC Nations Cup,Suva,Fiji,FALSE
 2025-07-16,Solomon Islands,Samoa,2,1,OFC Nations Cup,Suva,Fiji,TRUE
 2025-07-16,Norway,Italy,1,2,UEFA Euro,Geneva,Switzerland,TRUE
@@ -10574,3 +10584,62 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2025-08-13,Philippines,Myanmar,1,1,ASEAN Championship,Haiphong,Vietnam,TRUE
 2025-08-16,Myanmar,Thailand,2,1,ASEAN Championship,Haiphong,Vietnam,TRUE
 2025-08-19,Vietnam,Thailand,3,1,ASEAN Championship,Haiphong,Vietnam,FALSE
+2025-08-29,Malawi,Lesotho,3,0,Friendly,Blantyre,Malawi,FALSE
+2025-08-31,Malawi,Lesotho,3,0,Friendly,Blantyre,Malawi,FALSE
+2025-09-14,Barbados,Saint Lucia,1,2,Windward Islands Tournament,Arnos Vale,Saint Vincent and the Grenadines,TRUE
+2025-09-14,Saint Vincent and the Grenadines,Dominica,2,0,Windward Islands Tournament,Arnos Vale,Saint Vincent and the Grenadines,FALSE
+2025-09-16,Saint Lucia,Dominica,5,0,Windward Islands Tournament,Arnos Vale,Saint Vincent and the Grenadines,TRUE
+2025-09-16,Saint Vincent and the Grenadines,Barbados,0,2,Windward Islands Tournament,Arnos Vale,Saint Vincent and the Grenadines,FALSE
+2025-09-18,Barbados,Dominica,7,0,Windward Islands Tournament,Arnos Vale,Saint Vincent and the Grenadines,TRUE
+2025-09-18,Saint Vincent and the Grenadines,Saint Lucia,0,0,Windward Islands Tournament,Arnos Vale,Saint Vincent and the Grenadines,FALSE
+2025-09-20,Saint Vincent and the Grenadines,Dominica,3,0,Windward Islands Tournament,Arnos Vale,Saint Vincent and the Grenadines,FALSE
+2025-09-20,Saint Lucia,Barbados,1,2,Windward Islands Tournament,Arnos Vale,Saint Vincent and the Grenadines,TRUE
+2025-10-21,India,Iran,0,2,Friendly,Shillong,India,FALSE
+2025-10-21,Guatemala,Nicaragua,0,0,Central American Games,Guatemala City,Guatemala,FALSE
+2025-10-21,Panama,Costa Rica,1,2,Central American Games,Guatemala City,Guatemala,TRUE
+2025-10-22,Andorra,Gibraltar,2,0,Friendly,Andorra la Vella,Andorra,FALSE
+2025-10-23,Guatemala,Nicaragua,1,3,Central American Games,Guatemala City,Guatemala,FALSE
+2025-10-23,El Salvador,Panama,5,0,Central American Games,Guatemala City,Guatemala,TRUE
+2025-10-24,Estonia,Latvia,0,1,Baltic Cup,Raudondvaris,Lithuania,TRUE
+2025-10-24,North Macedonia,Russia,0,2,Friendly,Strumica,North Macedonia,FALSE
+2025-10-24,Thailand,Bangladesh,3,0,Friendly,Bangkok,Thailand,FALSE
+2025-10-24,Iran,Nepal,3,0,Friendly,Shillong,India,TRUE
+2025-10-24,Croatia,Montenegro,1,3,Friendly,Zmijavci,Croatia,FALSE
+2025-10-24,Kazakhstan,Azerbaijan,1,2,Friendly,Shymkent,Kazakhstan,FALSE
+2025-10-24,Georgia,Moldova,0,0,Friendly,Tbilisi,Georgia,FALSE
+2025-10-24,Lithuania,Faroe Islands,1,0,Baltic Cup,Raudondvaris,Lithuania,FALSE
+2025-10-24,United States Virgin Islands,British Virgin Islands,8,0,Friendly,Saint Croix,United States Virgin Islands,FALSE
+2025-10-24,Costa Rica,El Salvador,1,0,Central American Games,Guatemala City,Guatemala,TRUE
+2025-10-25,Andorra,Gibraltar,3,1,Friendly,Andorra la Vella,Andorra,FALSE
+2025-10-25,Hong Kong,Malaysia,5,0,Friendly,Hong Kong,Hong Kong,FALSE
+2025-10-25,Singapore,Saudi Arabia,0,1,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2025-10-25,Slovakia,Ukraine,1,2,Friendly,Senec,Slovakia,FALSE
+2025-10-25,Malta,Belarus,0,2,Friendly,Ta' Qali,Malta,FALSE
+2025-10-25,United States Virgin Islands,British Virgin Islands,6,0,Friendly,Saint Croix,United States Virgin Islands,FALSE
+2025-10-26,Afghanistan,Chad,1,6,FIFA Unites Women's Series,Berrechid,Morocco,TRUE
+2025-10-26,Tunisia,Libya,16,0,FIFA Unites Women's Series,Berrechid,Morocco,TRUE
+2025-10-27,Kazakhstan,Azerbaijan,0,1,Friendly,Shymkent,Kazakhstan,FALSE
+2025-10-27,Estonia,Faroe Islands,2,0,Baltic Cup,Raudondvaris,Lithuania,TRUE
+2025-10-27,Croatia,Montenegro,2,1,Friendly,Dugopolje,Croatia,FALSE
+2025-10-27,Thailand,Bangladesh,5,1,Friendly,Bangkok,Thailand,FALSE
+2025-10-27,North Macedonia,Russia,0,5,Friendly,Strumica,North Macedonia,FALSE
+2025-10-27,India,Nepal,1,2,Friendly,Shillong,India,FALSE
+2025-10-27,Slovenia,Serbia,2,4,Friendly,Radomlje,Slovenia,FALSE
+2025-10-27,Georgia,Moldova,3,0,Friendly,Tbilisi,Georgia,FALSE
+2025-10-27,Lithuania,Latvia,0,3,Baltic Cup,Raudondvaris,Lithuania,FALSE
+2025-10-27,Nicaragua,El Salvador,0,2,Central American Games,Guatemala City,Guatemala,TRUE
+2025-10-27,Guatemala,Costa Rica,0,0,Central American Games,Guatemala City,Guatemala,FALSE
+2025-10-28,Romania,Ukraine,1,1,Friendly,Bucharest,Romania,FALSE
+2025-10-28,Malta,Belarus,0,1,Friendly,Ta' Qali,Malta,FALSE
+2025-10-28,Morocco,Haiti,3,0,Friendly,Casablanca,Morocco,FALSE
+2025-10-28,Peru,Panama,0,3,Friendly,Chincha,Peru,FALSE
+2025-10-28,Trinidad and Tobago,Jamaica,1,4,Friendly,Couva,Trinidad and Tobago,FALSE
+2025-10-29,Philippines,Uzbekistan,2,2,Friendly,Manila,Philippines,FALSE
+2025-10-29,India,Nepal,1,1,Friendly,Gangtok,India,FALSE
+2025-10-29,Singapore,Saudi Arabia,0,5,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+2025-10-29,Chad,Libya,16,0,FIFA Unites Women's Series,Berrechid,Morocco,TRUE
+2025-10-29,Tunisia,Afghanistan,4,0,FIFA Unites Women's Series,Berrechid,Morocco,TRUE
+2025-10-29,Guatemala,Nicaragua,4,0,Central American Games,Guatemala City,Guatemala,FALSE
+2025-10-29,El Salvador,Costa Rica,0,1,Central American Games,Guatemala City,Guatemala,TRUE
+2025-11-01,Chad,Tunisia,NA,NA,FIFA Unites Women's Series,Berrechid,Morocco,TRUE
+2025-11-01,Libya,Afghanistan,NA,NA,FIFA Unites Women's Series,Berrechid,Morocco,TRUE
