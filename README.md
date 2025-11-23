@@ -1,6 +1,7 @@
 Context
 
 This is a work-in-progress sister data set to the men's international football results dataset. If you're interested in helping out, submit a pull request here.
+
 Content
 
 Currently, the dataset includes 11,020 women's international football results. All major tournament results should be complete. Some international friendlies, particularly tournaments, are included. A LOT of results are not yet in the dataset.
