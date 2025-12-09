@@ -2737,8 +2737,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-07-09,France,Wales,France,Kadidiatou Diani,45,FALSE,TRUE
 2025-07-09,France,Wales,France,Amel Majri,53,FALSE,FALSE
 2025-07-09,France,Wales,France,Grace Geyoro,63,FALSE,FALSE
-2025-07-10,Finland,Switzerland,Finland,Natalia Kuikka,79,FALSE,TRUE
-2025-07-10,Finland,Switzerland,Switzerland,Riola Xhemaili,90,FALSE,FALSE
+2025-07-10,Switzerland,Finland,Finland,Natalia Kuikka,79,FALSE,TRUE
+2025-07-10,Switzerland,Finland,Switzerland,Riola Xhemaili,90,FALSE,FALSE
 2025-07-10,Norway,Iceland,Iceland,Sveindís Jane Jónsdóttir,6,FALSE,FALSE
 2025-07-10,Norway,Iceland,Norway,Signe Gaupset,15,FALSE,FALSE
 2025-07-10,Norway,Iceland,Norway,Signe Gaupset,26,FALSE,FALSE
@@ -2784,8 +2784,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2025-07-17,Sweden,England,Sweden,Stina Blackstenius,25,FALSE,FALSE
 2025-07-17,Sweden,England,England,Lucy Bronze,79,FALSE,FALSE
 2025-07-17,Sweden,England,England,Michelle Agyemang,81,FALSE,FALSE
-2025-07-18,Spain,Switzerland,Spain,Athenea del Castillo,66,FALSE,FALSE
-2025-07-18,Spain,Switzerland,Spain,Clàudia Pina,71,FALSE,FALSE
+2025-07-18,Switzerland,Spain,Spain,Athenea del Castillo,66,FALSE,FALSE
+2025-07-18,Switzerland,Spain,Spain,Clàudia Pina,71,FALSE,FALSE
 2025-07-19,France,Germany,France,Grace Geyoro,15,FALSE,TRUE
 2025-07-19,France,Germany,Germany,Sjoeke Nüsken,25,FALSE,FALSE
 2025-07-22,England,Italy,Italy,Barbara Bonansea,33,FALSE,FALSE
