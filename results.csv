@@ -11273,6 +11273,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-02-27,Solomon Islands,American Samoa,0,1,FIFA World Cup qualification,Honiara,Solomon Islands,FALSE
 2026-02-27,Papua New Guinea,Vanuatu,5,0,FIFA World Cup qualification,Ba,Papua New Guinea,FALSE
 2026-02-27,Fiji,New Caledonia,5,0,FIFA World Cup qualification,Ba,Fiji,FALSE
+2026-02-27,Morocco,Burkina Faso,3,0,Friendly,Rabat,Morocco,FALSE
 2026-02-28,Ghana,Hong Kong,4,0,Pink Ladies Cup,Al Hamriyah,United Arab Emirates,TRUE
 2026-02-28,Russia,Tanzania,4,1,Pink Ladies Cup,Al Hamriyah,United Arab Emirates,TRUE
 2026-02-28,Costa Rica,Brazil,2,5,Friendly,Alajuela,Costa Rica,FALSE
@@ -11286,6 +11287,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-03-02,New Caledonia,Vanuatu,2,1,FIFA World Cup qualification,Ba,New Caledonia,FALSE
 2026-03-02,Cyprus,Faroe Islands,1,1,Friendly,Dasaki Achnas,Cyprus,FALSE
 2026-03-02,Egypt,Algeria,2,3,Friendly,Cairo,Egypt,FALSE
+2026-03-02,Saudi Arabia,Kyrgyzstan,2,0,Friendly,Al-Khobar,Saudi Arabia,FALSE
 2026-03-03,Ghana,Russia,4,0,Pink Ladies Cup,Al Hamriyah,United Arab Emirates,TRUE
 2026-03-03,North Korea,Uzbekistan,3,0,AFC Asian Cup,Sydney,Australia,TRUE
 2026-03-03,China PR,Bangladesh,2,0,AFC Asian Cup,Sydney,Australia,TRUE
@@ -11315,6 +11317,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-03-03,Romania,Moldova,1,0,FIFA World Cup qualification,Bucharest,Romania,FALSE
 2026-03-03,Kazakhstan,Armenia,3,0,FIFA World Cup qualification,Astana,Kazakhstan,FALSE
 2026-03-03,Cameroon,Nigeria,1,3,Friendly,Montpellier,France,TRUE
+2026-03-03,Morocco,Burkina Faso,1,1,Friendly,Rabat,Morocco,FALSE
 2026-03-04,Argentina,Colombia,0,1,SheBelieves Cup,Columbus,United States,TRUE
 2026-03-04,United States,Canada,1,0,SheBelieves Cup,Columbus,United States,FALSE
 2026-03-04,Japan,Taiwan,2,0,AFC Asian Cup,Perth,Australia,TRUE
@@ -11332,6 +11335,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-03-05,Vanuatu,Fiji,0,1,FIFA World Cup qualification,Ba,Vanuatu,FALSE
 2026-03-06,Bangladesh,North Korea,0,5,AFC Asian Cup,Sydney,Australia,TRUE
 2026-03-06,Uzbekistan,China PR,0,3,AFC Asian Cup,Sydney,Australia,TRUE
+2026-03-06,Saudi Arabia,Kyrgyzstan,3,0,Friendly,Al-Khobar,Saudi Arabia,FALSE
 2026-03-07,Canada,Argentina,0,0,SheBelieves Cup,Harrison,United States,TRUE
 2026-03-07,United States,Colombia,1,0,SheBelieves Cup,Harrison,United States,FALSE
 2026-03-07,Taiwan,Vietnam,1,0,AFC Asian Cup,Perth,Australia,TRUE
@@ -11381,3 +11385,106 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-03-19,Uzbekistan,Philippines,0,2,AFC Asian Cup,Gold Coast,Australia,TRUE
 2026-03-19,Taiwan,North Korea,0,4,AFC Asian Cup,Gold Coast,Australia,TRUE
 2026-03-21,Australia,Japan,0,1,AFC Asian Cup,Sydney,Australia,FALSE
+2026-04-07,Bhutan,Macau,7,0,Friendly,Thimphu,Bhutan,FALSE
+2026-04-09,Pakistan,Turks and Caicos,8,0,FIFA Series,Abidjan,Ivory Coast,TRUE
+2026-04-09,Ivory Coast,Mauritania,8,0,FIFA Series,Abidjan,Ivory Coast,FALSE
+2026-04-10,Peru,Uruguay,2,1,CONMEBOL Nations League,Cusco,Peru,FALSE
+2026-04-10,Paraguay,Ecuador,2,0,CONMEBOL Nations League,Asunción,Paraguay,FALSE
+2026-04-10,Chile,Argentina,0,1,CONMEBOL Nations League,Valparaíso,Chile,FALSE
+2026-04-10,Colombia,Venezuela,2,1,CONMEBOL Nations League,Cali,Colombia,FALSE
+2026-04-10,Saudi Arabia,Botswana,1,1,Friendly,Abha,Saudi Arabia,FALSE
+2026-04-10,Bahrain,Saudi Arabia,0,3,Friendly,Manama,Bahrain,FALSE
+2026-04-11,Papua New Guinea,American Samoa,1,0,FIFA World Cup qualification,Hamilton,New Zealand,TRUE
+2026-04-11,New Zealand,Fiji,5,0,FIFA World Cup qualification,Hamilton,New Zealand,FALSE
+2026-04-11,Canada,Zambia,4,0,FIFA Series,Cuiabá,Brazil,TRUE
+2026-04-11,Brazil,South Korea,5,1,FIFA Series,Cuiabá,Brazil,FALSE
+2026-04-11,Australia,Malawi,5,0,FIFA Series,Nairobi,Kenya,TRUE
+2026-04-11,Kenya,India,2,0,FIFA Series,Nairobi,Kenya,FALSE
+2026-04-11,United States,Japan,2,1,Friendly,San Jose,United States,FALSE
+2026-04-12,Mauritania,Pakistan,1,0,FIFA Series,Abidjan,Ivory Coast,TRUE
+2026-04-12,Ivory Coast,Turks and Caicos,15,1,FIFA Series,Abidjan,Ivory Coast,FALSE
+2026-04-12,Indonesia,DR Congo,1,7,FIFA Series,Ratchaburi,Thailand,TRUE
+2026-04-12,Thailand,New Caledonia,4,0,FIFA Series,Ratchaburi,Thailand,FALSE
+2026-04-12,Tunisia,Benin,1,0,Three Nations,Tunis,Tunisia,FALSE
+2026-04-12,Senegal,Burkina Faso,1,0,Friendly,Dakar,Senegal,FALSE
+2026-04-13,Morocco,Tanzania,3,0,Friendly,Rabat,Morocco,FALSE
+2026-04-14,Peru,Paraguay,1,1,CONMEBOL Nations League,Cusco,Peru,FALSE
+2026-04-14,Bolivia,Uruguay,1,2,CONMEBOL Nations League,El Alto,Bolivia,FALSE
+2026-04-14,Venezuela,Argentina,1,2,CONMEBOL Nations League,Cabudare,Venezuela,FALSE
+2026-04-14,Colombia,Chile,2,0,CONMEBOL Nations League,Cali,Colombia,FALSE
+2026-04-14,Serbia,Italy,0,6,FIFA World Cup qualification,Leskovac,Serbia,FALSE
+2026-04-14,Sweden,Denmark,1,2,FIFA World Cup qualification,Gothenburg,Sweden,FALSE
+2026-04-14,Poland,Republic of Ireland,2,3,FIFA World Cup qualification,Gdańsk,Poland,FALSE
+2026-04-14,Netherlands,France,2,1,FIFA World Cup qualification,Breda,Netherlands,FALSE
+2026-04-14,England,Spain,1,0,FIFA World Cup qualification,London,England,FALSE
+2026-04-14,Iceland,Ukraine,1,0,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+2026-04-14,Norway,Slovenia,5,0,FIFA World Cup qualification,Lillestrøm,Norway,FALSE
+2026-04-14,Germany,Austria,5,1,FIFA World Cup qualification,Nuremberg,Germany,FALSE
+2026-04-14,Czech Republic,Montenegro,5,0,FIFA World Cup qualification,Chomutov,Czech Republic,FALSE
+2026-04-14,Wales,Albania,4,0,FIFA World Cup qualification,Wrexham,Wales,FALSE
+2026-04-14,Switzerland,Turkey,3,1,FIFA World Cup qualification,Zurich,Switzerland,FALSE
+2026-04-14,Northern Ireland,Malta,4,0,FIFA World Cup qualification,Lurgan,Northern Ireland,FALSE
+2026-04-14,Finland,Slovakia,4,2,FIFA World Cup qualification,Helsinki,Finland,FALSE
+2026-04-14,Latvia,Portugal,0,3,FIFA World Cup qualification,Riga,Latvia,FALSE
+2026-04-14,Israel,Luxembourg,6,0,FIFA World Cup qualification,Budaörs,Hungary,TRUE
+2026-04-14,Scotland,Belgium,1,1,FIFA World Cup qualification,Edinburgh,Scotland,FALSE
+2026-04-14,Estonia,Liechtenstein,2,1,FIFA World Cup qualification,Tallinn,Estonia,FALSE
+2026-04-14,Lithuania,Bosnia and Herzegovina,2,0,FIFA World Cup qualification,Druskininkai,Lithuania,FALSE
+2026-04-14,Bulgaria,Kosovo,1,3,FIFA World Cup qualification,Sofia,Bulgaria,FALSE
+2026-04-14,Gibraltar,Croatia,0,1,FIFA World Cup qualification,Europa Sports Park,Gibraltar,FALSE
+2026-04-14,North Macedonia,Hungary,0,5,FIFA World Cup qualification,Bitola,North Macedonia,FALSE
+2026-04-14,Andorra,Azerbaijan,1,3,FIFA World Cup qualification,Andorra la Vella,Andorra,FALSE
+2026-04-14,Faroe Islands,Greece,2,3,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
+2026-04-14,Moldova,Cyprus,0,0,FIFA World Cup qualification,Nisporeni,Moldova,FALSE
+2026-04-14,Armenia,Belarus,0,3,FIFA World Cup qualification,Yerevan,Armenia,FALSE
+2026-04-14,Canada,South Korea,3,1,FIFA Series,Cuiabá,Brazil,TRUE
+2026-04-14,Brazil,Zambia,6,1,FIFA Series,Cuiabá,Brazil,FALSE
+2026-04-14,Comoros,Benin,0,2,Three Nations,Tunis,Tunisia,TRUE
+2026-04-14,South Africa,Algeria,1,0,Friendly,KwaMashu,South Africa,FALSE
+2026-04-14,Saudi Arabia,Egypt,1,2,Friendly,Abha,Saudi Arabia,FALSE
+2026-04-15,New Zealand,Papua New Guinea,1,0,FIFA World Cup qualification,Auckland,New Zealand,FALSE
+2026-04-15,New Caledonia,Indonesia,2,4,FIFA Series,Ratchaburi,Thailand,TRUE
+2026-04-15,Thailand,DR Congo,2,0,FIFA Series,Ratchaburi,Thailand,FALSE
+2026-04-15,India,Malawi,3,2,FIFA Series,Nairobi,Kenya,TRUE
+2026-04-15,Kenya,Australia,0,2,FIFA Series,Nairobi,Kenya,FALSE
+2026-04-15,United States,Japan,0,1,Friendly,Seattle,United States,FALSE
+2026-04-16,Turks and Caicos,Mauritania,0,6,FIFA Series,Abidjan,Ivory Coast,TRUE
+2026-04-16,Ivory Coast,Pakistan,2,0,FIFA Series,Abidjan,Ivory Coast,FALSE
+2026-04-16,Tunisia,Comoros,2,1,Three Nations,Tunis,Tunisia,FALSE
+2026-04-16,Senegal,Burkina Faso,3,3,Friendly,Dakar,Senegal,FALSE
+2026-04-17,South Africa,Algeria,2,0,Friendly,Umlazi,South Africa,FALSE
+2026-04-17,Morocco,Mali,1,1,Friendly,Rabat,Morocco,FALSE
+2026-04-18,Uruguay,Chile,1,3,CONMEBOL Nations League,Montevideo,Uruguay,FALSE
+2026-04-18,Ecuador,Peru,1,0,CONMEBOL Nations League,Quito,Ecuador,FALSE
+2026-04-18,Venezuela,Bolivia,8,0,CONMEBOL Nations League,Cabudare,Venezuela,FALSE
+2026-04-18,Argentina,Colombia,0,0,CONMEBOL Nations League,Lanús,Argentina,FALSE
+2026-04-18,Denmark,Italy,0,0,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
+2026-04-18,Sweden,Serbia,1,0,FIFA World Cup qualification,Solna,Sweden,FALSE
+2026-04-18,Republic of Ireland,Poland,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+2026-04-18,France,Netherlands,1,1,FIFA World Cup qualification,Auxerre,France,FALSE
+2026-04-18,Spain,Ukraine,5,0,FIFA World Cup qualification,Córdoba,Spain,FALSE
+2026-04-18,Iceland,England,0,1,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+2026-04-18,Slovenia,Norway,2,3,FIFA World Cup qualification,Ptuj,Slovenia,FALSE
+2026-04-18,Austria,Germany,0,0,FIFA World Cup qualification,Ried im Innkreis,Austria,FALSE
+2026-04-18,Montenegro,Czech Republic,1,4,FIFA World Cup qualification,Nikšić,Montenegro,FALSE
+2026-04-18,Albania,Wales,0,1,FIFA World Cup qualification,Elbasan,Albania,FALSE
+2026-04-18,Turkey,Switzerland,1,1,FIFA World Cup qualification,Sinop,Turkey,FALSE
+2026-04-18,Malta,Northern Ireland,2,4,FIFA World Cup qualification,Ta' Qali,Malta,FALSE
+2026-04-18,Slovakia,Portugal,1,2,FIFA World Cup qualification,Prešov,Slovakia,FALSE
+2026-04-18,Latvia,Finland,0,1,FIFA World Cup qualification,Riga,Latvia,FALSE
+2026-04-18,Luxembourg,Israel,1,3,FIFA World Cup qualification,Budaörs,Hungary,TRUE
+2026-04-18,Belgium,Scotland,0,0,FIFA World Cup qualification,Leuven,Belgium,FALSE
+2026-04-18,Estonia,Lithuania,2,1,FIFA World Cup qualification,Tallinn,Estonia,FALSE
+2026-04-18,Liechtenstein,Bosnia and Herzegovina,0,6,FIFA World Cup qualification,Vaduz,Liechtenstein,FALSE
+2026-04-18,Croatia,Gibraltar,9,0,FIFA World Cup qualification,Sinj,Croatia,FALSE
+2026-04-18,Kosovo,Bulgaria,2,1,FIFA World Cup qualification,Pristina,Kosovo,FALSE
+2026-04-18,Hungary,North Macedonia,7,0,FIFA World Cup qualification,Felcsút,Hungary,FALSE
+2026-04-18,Azerbaijan,Andorra,2,0,FIFA World Cup qualification,Absheron,Azerbaijan,FALSE
+2026-04-18,Faroe Islands,Georgia,1,0,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
+2026-04-18,Romania,Cyprus,3,0,FIFA World Cup qualification,Bucharest,Romania,FALSE
+2026-04-18,Belarus,Kazakhstan,0,1,FIFA World Cup qualification,Gori,Georgia,TRUE
+2026-04-18,South Korea,Zambia,1,1,FIFA Series,Cuiabá,Brazil,TRUE
+2026-04-18,Brazil,Canada,1,0,FIFA Series,Cuiabá,Brazil,FALSE
+2026-04-18,United States,Japan,3,0,Friendly,Commerce City,United States,FALSE
+2026-04-18,Greece,Moldova,1,1,Friendly,Athens,Greece,FALSE
+2026-04-18,Saudi Arabia,Egypt,0,2,Friendly,Abha,Saudi Arabia,FALSE
