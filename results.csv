@@ -11293,18 +11293,25 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-01-30,Vietnam,Uzbekistan,2,6,Friendly,Hanoi,Vietnam,FALSE
 2026-02-10,China,Vietnam,2,0,Friendly,Shenzhen,China,FALSE
 2026-02-13,China,Vietnam,1,0,Friendly,Shenzhen,China,FALSE
+2026-02-26,Bahrain,Saudi Arabia,0,3,Friendly,Manama,Bahrain,FALSE
 2026-02-27,New Zealand,Samoa,8,0,FIFA World Cup qualification,Honiara,New Zealand,FALSE
 2026-02-27,Solomon Islands,American Samoa,0,1,FIFA World Cup qualification,Honiara,Solomon Islands,FALSE
 2026-02-27,Papua New Guinea,Vanuatu,5,0,FIFA World Cup qualification,Ba,Fiji,TRUE
 2026-02-27,Fiji,New Caledonia,5,0,FIFA World Cup qualification,Ba,Fiji,FALSE
 2026-02-27,Morocco,Burkina Faso,3,0,Friendly,Rabat,Morocco,FALSE
+2026-02-27,Puerto Rico,Saint Vincent and the Grenadines,10,0,CONCACAF Championship qualification,Bayamón,Puerto Rico,FALSE
+2026-02-27,Guyana,Dominica,3,0,CONCACAF Championship qualification,West Coast Demerara,Guyana,FALSE
 2026-02-28,Ghana,Hong Kong,4,0,Pink Ladies Cup,Al Hamriyah,United Arab Emirates,TRUE
 2026-02-28,Russia,Tanzania,4,1,Pink Ladies Cup,Al Hamriyah,United Arab Emirates,TRUE
 2026-02-28,Costa Rica,Brazil,2,5,Friendly,Alajuela,Costa Rica,FALSE
 2026-02-28,Ivory Coast,Benin,2,1,Friendly,Abidjan,Ivory Coast,FALSE
+2026-02-28,Guatemala,Grenada,6,0,CONCACAF Championship qualification,Guatemala City,Guatemala,FALSE
+2026-02-28,Dominican Republic,Belize,6,1,CONCACAF Championship qualification,Santiago,Dominican Republic,FALSE
 2026-03-01,Canada,Colombia,4,1,SheBelieves Cup,Nashville,United States,TRUE
 2026-03-01,United States,Argentina,2,0,SheBelieves Cup,Nashville,United States,FALSE
 2026-03-01,Australia,Philippines,1,0,AFC Asian Cup,Perth,Australia,FALSE
+2026-03-01,Cuba,Curaçao,3,0,CONCACAF Championship qualification,Santiago de Cuba,Cuba,FALSE
+2026-03-01,El Salvador,Barbados,13,0,CONCACAF Championship qualification,San Salvador,El Salvador,FALSE
 2026-03-02,South Korea,Iran,3,0,AFC Asian Cup,Gold Coast,Australia,TRUE
 2026-03-02,American Samoa,Samoa,1,0,FIFA World Cup qualification,Honiara,American Samoa,FALSE
 2026-03-02,New Zealand,Solomon Islands,8,0,FIFA World Cup qualification,Honiara,New Zealand,FALSE
@@ -11312,6 +11319,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-03-02,Cyprus,Faroe Islands,1,1,Friendly,Dasaki Achnas,Cyprus,FALSE
 2026-03-02,Egypt,Algeria,2,3,Friendly,Cairo,Egypt,FALSE
 2026-03-02,Saudi Arabia,Kyrgyzstan,2,0,Friendly,Al-Khobar,Saudi Arabia,FALSE
+2026-03-02,Saint Lucia,Mexico,0,7,CONCACAF Championship qualification,Gros Islet,Saint Lucia,FALSE
+2026-03-02,Nicaragua,Jamaica,2,3,CONCACAF Championship qualification,Managua,Nicaragua,FALSE
 2026-03-03,Ghana,Russia,4,0,Pink Ladies Cup,Al Hamriyah,United Arab Emirates,TRUE
 2026-03-03,North Korea,Uzbekistan,3,0,AFC Asian Cup,Sydney,Australia,TRUE
 2026-03-03,China,Bangladesh,2,0,AFC Asian Cup,Sydney,Australia,TRUE
@@ -11342,6 +11351,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-03-03,Kazakhstan,Armenia,3,0,FIFA World Cup qualification,Astana,Kazakhstan,FALSE
 2026-03-03,Cameroon,Nigeria,1,3,Friendly,Montpellier,France,TRUE
 2026-03-03,Morocco,Burkina Faso,1,1,Friendly,Rabat,Morocco,FALSE
+2026-03-03,Bermuda,Costa Rica,0,8,CONCACAF Championship qualification,Devonshire Parish,Bermuda,FALSE
+2026-03-03,Suriname,Haiti,0,2,CONCACAF Championship qualification,Paramaribo,Suriname,FALSE
 2026-03-04,Argentina,Colombia,0,1,SheBelieves Cup,Columbus,United States,TRUE
 2026-03-04,United States,Canada,1,0,SheBelieves Cup,Columbus,United States,FALSE
 2026-03-04,Japan,Taiwan,2,0,AFC Asian Cup,Perth,Australia,TRUE
@@ -11351,15 +11362,21 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-03-04,Ivory Coast,Kenya,1,0,Friendly,Abidjan,Ivory Coast,FALSE
 2026-03-04,Ecuador,Uruguay,2,3,Friendly,Quito,Ecuador,FALSE
 2026-03-04,Peru,El Salvador,0,4,Friendly,Chincha,Peru,FALSE
+2026-03-04,Saint Kitts and Nevis,Panama,0,3,CONCACAF Championship qualification,St. Peter's,Saint Kitts and Nevis,FALSE
+2026-03-04,Honduras,Trinidad and Tobago,2,2,CONCACAF Championship qualification,Tegucigalpa,Honduras,FALSE
 2026-03-05,Philippines,South Korea,0,3,AFC Asian Cup,Gold Coast,Australia,TRUE
 2026-03-05,Australia,Iran,4,0,AFC Asian Cup,Gold Coast,Australia,FALSE
 2026-03-05,American Samoa,New Zealand,0,3,FIFA World Cup qualification,Honiara,American Samoa,FALSE
 2026-03-05,Samoa,Solomon Islands,2,1,FIFA World Cup qualification,Honiara,Samoa,FALSE
 2026-03-05,New Caledonia,Papua New Guinea,0,4,FIFA World Cup qualification,Ba,New Caledonia,FALSE
 2026-03-05,Fiji,Vanuatu,1,0,FIFA World Cup qualification,Ba,Fiji,FALSE
+2026-03-05,U.S. Virgin Islands,Puerto Rico,0,9,CONCACAF Championship qualification,St. Croix,U.S. Virgin Islands,FALSE
+2026-03-05,Antigua and Barbuda,Guyana,0,4,CONCACAF Championship qualification,St. John’s,Antigua and Barbuda,FALSE
 2026-03-06,Bangladesh,North Korea,0,5,AFC Asian Cup,Sydney,Australia,TRUE
 2026-03-06,Uzbekistan,China,0,3,AFC Asian Cup,Sydney,Australia,TRUE
 2026-03-06,Saudi Arabia,Kyrgyzstan,3,0,Friendly,Al-Khobar,Saudi Arabia,FALSE
+2026-03-06,Cayman Islands,Guatemala,0,13,CONCACAF Championship qualification,George Town,Cayman Islands,FALSE
+2026-03-06,Anguilla,Dominican Republic,0,8,CONCACAF Championship qualification,The Valley,Anguilla,FALSE
 2026-03-07,Canada,Argentina,0,0,SheBelieves Cup,Harrison,United States,TRUE
 2026-03-07,United States,Colombia,1,0,SheBelieves Cup,Harrison,United States,FALSE
 2026-03-07,Taiwan,Vietnam,1,0,AFC Asian Cup,Perth,Australia,TRUE
@@ -11393,6 +11410,7 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-03-07,Mexico,Brazil,1,0,Friendly,Mexico City,Mexico,FALSE
 2026-03-07,Ecuador,Uruguay,1,1,Friendly,Quito,Ecuador,FALSE
 2026-03-07,Peru,El Salvador,0,1,Friendly,Chincha,Peru,FALSE
+2026-03-07,Aruba,Cuba,0,1,CONCACAF Championship qualification,Oranjestad,Aruba,FALSE
 2026-03-08,Iran,Philippines,0,2,AFC Asian Cup,Gold Coast,Australia,TRUE
 2026-03-08,Australia,South Korea,3,3,AFC Asian Cup,Sydney,Australia,FALSE
 2026-03-08,Papua New Guinea,Fiji,1,0,FIFA World Cup qualification,Ba,Papua New Guinea,FALSE
@@ -11412,12 +11430,16 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-04-07,Bhutan,Macau,7,0,Friendly,Thimphu,Bhutan,FALSE
 2026-04-09,Pakistan,Turks and Caicos,8,0,FIFA Series,Abidjan,Ivory Coast,TRUE
 2026-04-09,Ivory Coast,Mauritania,8,0,FIFA Series,Abidjan,Ivory Coast,FALSE
+2026-04-09,Haiti,Anguilla,5,0,CONCACAF Championship qualification,Le Gosier,Guadeloupe,TRUE
+2026-04-09,Panama,Aruba,3,1,CONCACAF Championship qualification,Penonomé,Panama,FALSE
 2026-04-10,Peru,Uruguay,2,1,CONMEBOL Nations League,Cusco,Peru,FALSE
 2026-04-10,Paraguay,Ecuador,2,0,CONMEBOL Nations League,Asunción,Paraguay,FALSE
 2026-04-10,Chile,Argentina,0,1,CONMEBOL Nations League,Valparaíso,Chile,FALSE
 2026-04-10,Colombia,Venezuela,2,1,CONMEBOL Nations League,Cali,Colombia,FALSE
 2026-04-10,Saudi Arabia,Botswana,1,1,Friendly,Abha,Saudi Arabia,FALSE
-2026-04-10,Bahrain,Saudi Arabia,0,3,Friendly,Manama,Bahrain,FALSE
+2026-04-10,Mexico,U.S. Virgin Islands,9,0,CONCACAF Championship qualification,Zacatecas,Mexico,FALSE
+2026-04-10,Jamaica,Antigua and Barbuda,4,0,CONCACAF Championship qualification,Kingstown,Jamaica,FALSE
+2026-04-10,Costa Rica,Cayman Islands,21,0,CONCACAF Championship qualification,Alajuela,Costa Rica,FALSE
 2026-04-11,Papua New Guinea,American Samoa,1,0,FIFA World Cup qualification,Hamilton,New Zealand,TRUE
 2026-04-11,New Zealand,Fiji,5,0,FIFA World Cup qualification,Hamilton,New Zealand,FALSE
 2026-04-11,Canada,Zambia,4,0,FIFA Series,Cuiabá,Brazil,TRUE
@@ -11432,6 +11454,8 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-04-12,Tunisia,Benin,1,0,Three Nations,Tunis,Tunisia,FALSE
 2026-04-12,Senegal,Burkina Faso,1,0,Friendly,Dakar,Senegal,FALSE
 2026-04-13,Morocco,Tanzania,3,0,Friendly,Rabat,Morocco,FALSE
+2026-04-13,Belize,Anguilla,2,0,CONCACAF Championship qualification,Belmopan,Belize,FALSE
+2026-04-13,Curaçao,Aruba,1,6,CONCACAF Championship qualification,Willemstad,Curaçao,FALSE
 2026-04-14,Peru,Paraguay,1,1,CONMEBOL Nations League,Cusco,Peru,FALSE
 2026-04-14,Bolivia,Uruguay,1,2,CONMEBOL Nations League,El Alto,Bolivia,FALSE
 2026-04-14,Venezuela,Argentina,1,2,CONMEBOL Nations League,Cabudare,Venezuela,FALSE
@@ -11466,6 +11490,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-04-14,Comoros,Benin,0,2,Three Nations,Tunis,Tunisia,TRUE
 2026-04-14,South Africa,Algeria,1,0,Friendly,KwaMashu,South Africa,FALSE
 2026-04-14,Saudi Arabia,Egypt,1,2,Friendly,Abha,Saudi Arabia,FALSE
+2026-04-14,Saint Vincent and the Grenadines,U.S. Virgin Islands,1,0,CONCACAF Championship qualification,Kingstown,Saint Vincent and the Grenadines,FALSE
+2026-04-14,Dominica,Antigua and Barbuda,1,1,CONCACAF Championship qualification,Gros Islet,Saint Lucia,TRUE
+2026-04-14,Grenada,Cayman Islands,3,1,CONCACAF Championship qualification,St. George’s,Grenada,FALSE
 2026-04-15,New Zealand,Papua New Guinea,1,0,FIFA World Cup qualification,Auckland,New Zealand,FALSE
 2026-04-15,New Caledonia,Indonesia,2,4,FIFA Series,Ratchaburi,Thailand,TRUE
 2026-04-15,Thailand,DR Congo,2,0,FIFA Series,Ratchaburi,Thailand,FALSE
@@ -11478,6 +11505,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-04-16,Senegal,Burkina Faso,3,3,Friendly,Dakar,Senegal,FALSE
 2026-04-17,South Africa,Algeria,2,0,Friendly,Umlazi,South Africa,FALSE
 2026-04-17,Morocco,Mali,1,1,Friendly,Rabat,Morocco,FALSE
+2026-04-17,Suriname,Belize,0,2,CONCACAF Championship qualification,Paramaribo,Suriname,FALSE
+2026-04-17,Haiti,Dominican Republic,1,1,CONCACAF Championship qualification,Le Gosier,Guadeloupe,TRUE
+2026-04-17,Saint Kitts and Nevis,Curaçao,1,2,CONCACAF Championship qualification,St. Peter's,Saint Kitts and Nevis,FALSE
+2026-04-17,Panama,Cuba,3,0,CONCACAF Championship qualification,Penonomé,Panama,FALSE
+2026-04-17,Trinidad and Tobago,El Salvador,0,2,CONCACAF Championship qualification,Port of Spain,Trinidad and Tobago,FALSE
+2026-04-17,Honduras,Barbados,4,0,CONCACAF Championship qualification,Tegucigalpa,Honduras,FALSE
 2026-04-18,Uruguay,Chile,1,3,CONMEBOL Nations League,Montevideo,Uruguay,FALSE
 2026-04-18,Ecuador,Peru,1,0,CONMEBOL Nations League,Quito,Ecuador,FALSE
 2026-04-18,Venezuela,Bolivia,8,0,CONMEBOL Nations League,Cabudare,Venezuela,FALSE
@@ -11512,6 +11545,12 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-04-18,United States,Japan,3,0,Friendly,Commerce City,United States,FALSE
 2026-04-18,Greece,Moldova,1,1,Friendly,Athens,Greece,FALSE
 2026-04-18,Saudi Arabia,Egypt,0,2,Friendly,Abha,Saudi Arabia,FALSE
+2026-04-18,Saint Lucia,Saint Vincent and the Grenadines,0,1,CONCACAF Championship qualification,Gros Islet,Saint Lucia,FALSE
+2026-04-18,Mexico,Puerto Rico,6,0,CONCACAF Championship qualification,Toluca,Mexico,FALSE
+2026-04-18,Jamaica,Guyana,2,0,CONCACAF Championship qualification,Kingstown,Jamaica,FALSE
+2026-04-18,Nicaragua,Dominica,14,0,CONCACAF Championship qualification,Managua,Nicaragua,FALSE
+2026-04-18,Bermuda,Grenada,5,3,CONCACAF Championship qualification,Devonshire Parish,Bermuda,FALSE
+2026-04-18,Costa Rica,Guatemala,3,0,CONCACAF Championship qualification,San José,Costa Rica,FALSE
 2026-06-03,China,Russia,1,2,Friendly,Wuhan,China,FALSE
 2026-06-03,Myanmar,Uzbekistan,0,1,Tri-Nations Cup,Yangon,Myanmar,FALSE
 2026-06-03,Indonesia,Singapore,0,2,Friendly,Bandung,Indonesia,FALSE
@@ -11545,6 +11584,10 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-06-05,Georgia,Faroe Islands,2,3,FIFA World Cup qualification,Tbilisi,Georgia,FALSE
 2026-06-05,Moldova,Romania,0,0,FIFA World Cup qualification,Nisporeni,Moldova,FALSE
 2026-06-05,Armenia,Kazakhstan,1,1,FIFA World Cup qualification,Yerevan,Armenia,FALSE
+2026-06-05,Bolivia,Paraguay,0,8,CONMEBOL Nations League,El Alto,Bolivia,FALSE
+2026-06-05,Argentina,Peru,1,1,CONMEBOL Nations League,Lanús,Argentina,FALSE
+2026-06-05,Colombia,Uruguay,1,0,CONMEBOL Nations League,Cali,Colombia,FALSE
+2026-06-05,Chile,Ecuador,1,2,CONMEBOL Nations League,Santiago,Chile,FALSE
 2026-06-06,El Salvador,Costa Rica,1,1,Friendly,Santa Tecla,El Salvador,FALSE
 2026-06-06,Japan,South Africa,5,0,Friendly,Nagai,Japan,FALSE
 2026-06-06,Australia,Mexico,0,1,Friendly,Newcastle,Australia,FALSE
@@ -11600,5 +11643,9 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-06-09,Georgia,Greece,2,3,FIFA World Cup qualification,Tbilisi,Georgia,FALSE
 2026-06-09,Cyprus,Moldova,0,2,FIFA World Cup qualification,Larnaca,Cyprus,FALSE
 2026-06-09,Belarus,Armenia,6,0,FIFA World Cup qualification,Gori,Georgia,TRUE
+2026-06-09,Peru,Bolivia,4,0,CONMEBOL Nations League,Callao,Peru,FALSE
+2026-06-09,Paraguay,Colombia,3,4,CONMEBOL Nations League,Asunción,Paraguay,FALSE
+2026-06-09,Uruguay,Venezuela,1,1,CONMEBOL Nations League,Montevideo,Uruguay,FALSE
+2026-06-09,Ecuador,Argentina,0,1,CONMEBOL Nations League,Quito,Ecuador,FALSE
 2026-06-10,Brazil,United States,0,1,Friendly,Fortaleza,Brazil,FALSE
 2026-06-10,Costa Rica,Canada,0,6,Friendly,Santa Ana,Costa Rica,FALSE
