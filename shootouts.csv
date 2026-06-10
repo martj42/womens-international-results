@@ -1,14 +1,14 @@
 date,home_team,away_team,winner,first_shooter
 1984-05-27,England,Sweden,Sweden,
-1988-06-12,China PR,Brazil,Brazil,Brazil
-1995-06-13,Sweden,China PR,China PR,China PR
+1988-06-12,China,Brazil,Brazil,Brazil
+1995-06-13,Sweden,China,China,China
 1996-05-18,Japan,Canada,Japan,
-1998-07-25,China PR,Norway,China PR,
+1998-07-25,China,Norway,China,
 1998-07-27,Denmark,Norway,Norway,
 1998-12-15,North Korea,Taiwan,North Korea,
 1999-01-09,Australia,Italy,Italy,
 1999-07-10,Brazil,Norway,Brazil,Norway
-1999-07-10,United States,China PR,United States,China PR
+1999-07-10,United States,China,United States,China
 1999-08-02,Canada,Mexico,Mexico,
 1999-08-04,Canada,Costa Rica,Costa Rica,
 2001-09-12,Vietnam,Myanmar,Vietnam,
@@ -70,7 +70,7 @@ date,home_team,away_team,winner,first_shooter
 2019-08-09,Argentina,Colombia,Colombia,
 2019-09-01,Brazil,Chile,Chile,
 2019-09-03,South Africa,Botswana,Botswana,
-2019-11-10,China PR,Brazil,China PR,
+2019-11-10,China,Brazil,China,
 2020-02-28,Equatorial Guinea,DR Congo,Equatorial Guinea,
 2021-04-13,Switzerland,Czech Republic,Switzerland,
 2021-06-10,Estonia,Faroe Islands,Faroe Islands,
@@ -82,7 +82,7 @@ date,home_team,away_team,winner,first_shooter
 2021-10-09,South Africa,Zambia,Zambia,
 2021-10-26,Ethiopia,Uganda,Uganda,
 2022-01-30,Taiwan,Philippines,Philippines,
-2022-02-03,China PR,Japan,China PR,
+2022-02-03,China,Japan,China,
 2022-02-16,Hungary,Russia,Russia,Russia
 2022-02-19,Wales,Belgium,Belgium,Belgium
 2022-02-22,Scotland,Hungary,Scotland,Hungary

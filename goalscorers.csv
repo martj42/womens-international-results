@@ -49,10 +49,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1991-07-14,Germany,Norway,Germany,Heidi Mohr,62,FALSE,FALSE
 1991-07-14,Germany,Norway,Germany,Heidi Mohr,100,FALSE,FALSE
 1991-07-14,Germany,Norway,Germany,Silvia Neid,110,FALSE,FALSE
-1991-11-16,China PR,Norway,China PR,Ma Li,22,FALSE,FALSE
-1991-11-16,China PR,Norway,China PR,Liu Ailing,45,FALSE,FALSE
-1991-11-16,China PR,Norway,China PR,Liu Ailing,50,FALSE,FALSE
-1991-11-16,China PR,Norway,China PR,Sun Qingmei,75,FALSE,FALSE
+1991-11-16,China,Norway,China,Ma Li,22,FALSE,FALSE
+1991-11-16,China,Norway,China,Liu Ailing,45,FALSE,FALSE
+1991-11-16,China,Norway,China,Liu Ailing,50,FALSE,FALSE
+1991-11-16,China,Norway,China,Sun Qingmei,75,FALSE,FALSE
 1991-11-17,Denmark,New Zealand,Denmark,Helle Jensen,15,FALSE,FALSE
 1991-11-17,Denmark,New Zealand,Denmark,Helle Jensen,40,FALSE,FALSE
 1991-11-17,Denmark,New Zealand,Denmark,Susan Mackensie,42,FALSE,FALSE
@@ -76,10 +76,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1991-11-19,Brazil,United States,United States,Carin Jennings-Gabarra,38,FALSE,FALSE
 1991-11-19,Brazil,United States,United States,Michelle Akers,39,FALSE,FALSE
 1991-11-19,Brazil,United States,United States,Mia Hamm,63,FALSE,FALSE
-1991-11-19,China PR,Denmark,Denmark,Lisbet Kolding,24,FALSE,FALSE
-1991-11-19,China PR,Denmark,China PR,Sun Wen,37,FALSE,FALSE
-1991-11-19,China PR,Denmark,Denmark,Hanne Nissen,55,FALSE,FALSE
-1991-11-19,China PR,Denmark,China PR,Wei Haiying,76,FALSE,FALSE
+1991-11-19,China,Denmark,Denmark,Lisbet Kolding,24,FALSE,FALSE
+1991-11-19,China,Denmark,China,Sun Wen,37,FALSE,FALSE
+1991-11-19,China,Denmark,Denmark,Hanne Nissen,55,FALSE,FALSE
+1991-11-19,China,Denmark,China,Wei Haiying,76,FALSE,FALSE
 1991-11-19,Italy,Nigeria,Italy,Carolina Morace,68,FALSE,FALSE
 1991-11-19,Japan,Sweden,Sweden,Lena Videkull,1,FALSE,FALSE
 1991-11-19,Japan,Sweden,Sweden,Lena Videkull,11,FALSE,FALSE
@@ -98,11 +98,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1991-11-19,Taiwan,Germany,Germany,Heidi Mohr,50,FALSE,FALSE
 1991-11-21,Brazil,Sweden,Sweden,Pia Sundhage,42,FALSE,TRUE
 1991-11-21,Brazil,Sweden,Sweden,Susanne Hedberg,56,FALSE,FALSE
-1991-11-21,China PR,New Zealand,China PR,Zhou Yang,20,FALSE,FALSE
-1991-11-21,China PR,New Zealand,China PR,Liu Ailing,22,FALSE,FALSE
-1991-11-21,China PR,New Zealand,China PR,Wu Weiying,24,FALSE,FALSE
-1991-11-21,China PR,New Zealand,China PR,Liu Ailing,60,FALSE,FALSE
-1991-11-21,China PR,New Zealand,New Zealand,Kim Nye,65,FALSE,FALSE
+1991-11-21,China,New Zealand,China,Zhou Yang,20,FALSE,FALSE
+1991-11-21,China,New Zealand,China,Liu Ailing,22,FALSE,FALSE
+1991-11-21,China,New Zealand,China,Wu Weiying,24,FALSE,FALSE
+1991-11-21,China,New Zealand,China,Liu Ailing,60,FALSE,FALSE
+1991-11-21,China,New Zealand,New Zealand,Kim Nye,65,FALSE,FALSE
 1991-11-21,Italy,Germany,Germany,Heidi Mohr,67,FALSE,FALSE
 1991-11-21,Italy,Germany,Germany,Britta Unsleber,79,FALSE,FALSE
 1991-11-21,Japan,United States,United States,Michelle Akers,20,FALSE,FALSE
@@ -113,7 +113,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1991-11-21,Norway,Denmark,Norway,Linda Medalen,56,FALSE,FALSE
 1991-11-21,Taiwan,Nigeria,Taiwan,Lin Mei-chun,38,FALSE,FALSE
 1991-11-21,Taiwan,Nigeria,Taiwan,Chou Tai-ying,55,FALSE,FALSE
-1991-11-24,China PR,Sweden,Sweden,Pia Sundhage,3,FALSE,FALSE
+1991-11-24,China,Sweden,Sweden,Pia Sundhage,3,FALSE,FALSE
 1991-11-24,Denmark,Germany,Germany,Bettina Wiegmann,17,FALSE,TRUE
 1991-11-24,Denmark,Germany,Denmark,Susan Mackensie,25,FALSE,TRUE
 1991-11-24,Denmark,Germany,Germany,Heidi Mohr,98,FALSE,FALSE
@@ -201,12 +201,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1995-06-06,Norway,Nigeria,Norway,Tina Svensson,76,FALSE,TRUE
 1995-06-06,Norway,Nigeria,Norway,Kristin Sandberg,82,FALSE,FALSE
 1995-06-06,Norway,Nigeria,Norway,Ann Kristin Aarønes,90,FALSE,FALSE
-1995-06-06,United States,China PR,United States,Tisha Venturini,22,FALSE,FALSE
-1995-06-06,United States,China PR,United States,Tiffeny Milbrett,34,FALSE,FALSE
-1995-06-06,United States,China PR,China PR,Wang Liping,38,FALSE,FALSE
-1995-06-06,United States,China PR,United States,Mia Hamm,51,FALSE,FALSE
-1995-06-06,United States,China PR,China PR,Wei Haiying,74,FALSE,FALSE
-1995-06-06,United States,China PR,China PR,Sun Wen,79,FALSE,FALSE
+1995-06-06,United States,China,United States,Tisha Venturini,22,FALSE,FALSE
+1995-06-06,United States,China,United States,Tiffeny Milbrett,34,FALSE,FALSE
+1995-06-06,United States,China,China,Wang Liping,38,FALSE,FALSE
+1995-06-06,United States,China,United States,Mia Hamm,51,FALSE,FALSE
+1995-06-06,United States,China,China,Wei Haiying,74,FALSE,FALSE
+1995-06-06,United States,China,China,Sun Wen,79,FALSE,FALSE
 1995-06-07,Brazil,Japan,Brazil,Pretinha,7,FALSE,FALSE
 1995-06-07,Brazil,Japan,Japan,Akemi Noda,13,FALSE,FALSE
 1995-06-07,Brazil,Japan,Japan,Akemi Noda,45,FALSE,FALSE
@@ -215,12 +215,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1995-06-07,Sweden,Germany,Sweden,Malin Andersson,65,FALSE,TRUE
 1995-06-07,Sweden,Germany,Sweden,Pia Sundhage,80,FALSE,FALSE
 1995-06-07,Sweden,Germany,Sweden,Malin Andersson,86,FALSE,FALSE
-1995-06-08,China PR,Australia,China PR,Zhou Yang,23,FALSE,FALSE
-1995-06-08,China PR,Australia,Australia,Angela Iannotta,25,FALSE,FALSE
-1995-06-08,China PR,Australia,China PR,Shi Guihong,54,FALSE,FALSE
-1995-06-08,China PR,Australia,China PR,Shi Guihong,78,FALSE,FALSE
-1995-06-08,China PR,Australia,Australia,Sunni Hughes,89,FALSE,FALSE
-1995-06-08,China PR,Australia,China PR,Liu Ailing,90,FALSE,FALSE
+1995-06-08,China,Australia,China,Zhou Yang,23,FALSE,FALSE
+1995-06-08,China,Australia,Australia,Angela Iannotta,25,FALSE,FALSE
+1995-06-08,China,Australia,China,Shi Guihong,54,FALSE,FALSE
+1995-06-08,China,Australia,China,Shi Guihong,78,FALSE,FALSE
+1995-06-08,China,Australia,Australia,Sunni Hughes,89,FALSE,FALSE
+1995-06-08,China,Australia,China,Liu Ailing,90,FALSE,FALSE
 1995-06-08,Nigeria,Canada,Canada,Silvana Burtini,12,FALSE,FALSE
 1995-06-08,Nigeria,Canada,Canada,Geri Donnelly,20,FALSE,FALSE
 1995-06-08,Nigeria,Canada,Nigeria,Rita Nwadike,26,FALSE,FALSE
@@ -240,10 +240,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1995-06-09,Brazil,Germany,Germany,Anouschka Bernhard,90,FALSE,FALSE
 1995-06-09,Sweden,Japan,Sweden,Lena Videkull,66,FALSE,FALSE
 1995-06-09,Sweden,Japan,Sweden,Anneli Andelén,88,FALSE,FALSE
-1995-06-10,China PR,Denmark,China PR,Shi Guihong,21,FALSE,FALSE
-1995-06-10,China PR,Denmark,Denmark,Christina Bonde,44,FALSE,FALSE
-1995-06-10,China PR,Denmark,China PR,Sun Wen,76,FALSE,FALSE
-1995-06-10,China PR,Denmark,China PR,Wei Haiying,90,FALSE,FALSE
+1995-06-10,China,Denmark,China,Shi Guihong,21,FALSE,FALSE
+1995-06-10,China,Denmark,Denmark,Christina Bonde,44,FALSE,FALSE
+1995-06-10,China,Denmark,China,Sun Wen,76,FALSE,FALSE
+1995-06-10,China,Denmark,China,Wei Haiying,90,FALSE,FALSE
 1995-06-10,Nigeria,England,England,Karen Farley,10,FALSE,FALSE
 1995-06-10,Nigeria,England,Nigeria,Adaku Okoroafor,13,FALSE,FALSE
 1995-06-10,Nigeria,England,England,Karen Walker,27,FALSE,FALSE
@@ -272,12 +272,12 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1995-06-13,Norway,Denmark,Norway,Linda Medalen,64,FALSE,FALSE
 1995-06-13,Norway,Denmark,Norway,Hege Riise,85,FALSE,FALSE
 1995-06-13,Norway,Denmark,Denmark,Gitte Krogh,86,FALSE,FALSE
-1995-06-13,Sweden,China PR,China PR,Sun Qingmei,29,FALSE,FALSE
-1995-06-13,Sweden,China PR,Sweden,Ulrika Kalte,90,FALSE,FALSE
-1995-06-15,Germany,China PR,Germany,Bettina Wiegmann,88,FALSE,FALSE
+1995-06-13,Sweden,China,China,Sun Qingmei,29,FALSE,FALSE
+1995-06-13,Sweden,China,Sweden,Ulrika Kalte,90,FALSE,FALSE
+1995-06-15,Germany,China,Germany,Bettina Wiegmann,88,FALSE,FALSE
 1995-06-15,United States,Norway,Norway,Ann Kristin Aarønes,10,FALSE,FALSE
-1995-06-17,China PR,United States,United States,Tisha Venturini,24,FALSE,FALSE
-1995-06-17,China PR,United States,United States,Mia Hamm,55,FALSE,FALSE
+1995-06-17,China,United States,United States,Tisha Venturini,24,FALSE,FALSE
+1995-06-17,China,United States,United States,Mia Hamm,55,FALSE,FALSE
 1995-06-18,Germany,Norway,Norway,Hege Riise,37,FALSE,FALSE
 1995-06-18,Germany,Norway,Norway,Marianne Pettersen,40,FALSE,FALSE
 1996-07-21,Germany,Japan,Germany,Bettina Wiegmann,5,FALSE,FALSE
@@ -289,19 +289,19 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-07-21,Norway,Brazil,Brazil,Pretinha,57,FALSE,FALSE
 1996-07-21,Norway,Brazil,Norway,Ann Kristin Aarønes,68,FALSE,FALSE
 1996-07-21,Norway,Brazil,Brazil,Pretinha,89,FALSE,FALSE
-1996-07-21,Sweden,China PR,China PR,Shi Guihong,31,FALSE,FALSE
-1996-07-21,Sweden,China PR,China PR,Zhao Lihong,32,FALSE,FALSE
+1996-07-21,Sweden,China,China,Shi Guihong,31,FALSE,FALSE
+1996-07-21,Sweden,China,China,Zhao Lihong,32,FALSE,FALSE
 1996-07-21,United States,Denmark,United States,Tisha Venturini,37,FALSE,FALSE
 1996-07-21,United States,Denmark,United States,Mia Hamm,41,FALSE,FALSE
 1996-07-21,United States,Denmark,United States,Tiffeny Milbrett,49,FALSE,FALSE
 1996-07-23,Brazil,Japan,Brazil,Kátia Cilene Teixeira,68,FALSE,FALSE
 1996-07-23,Brazil,Japan,Brazil,Pretinha,78,FALSE,FALSE
-1996-07-23,Denmark,China PR,China PR,Shi Guihong,10,FALSE,FALSE
-1996-07-23,Denmark,China PR,China PR,Sun Qingmei,29,FALSE,FALSE
-1996-07-23,Denmark,China PR,China PR,Fan Yunjie,36,FALSE,FALSE
-1996-07-23,Denmark,China PR,China PR,Liu Ailing,49,FALSE,FALSE
-1996-07-23,Denmark,China PR,Denmark,Lene Madsen,55,FALSE,FALSE
-1996-07-23,Denmark,China PR,China PR,Sun Qingmei,59,FALSE,FALSE
+1996-07-23,Denmark,China,China,Shi Guihong,10,FALSE,FALSE
+1996-07-23,Denmark,China,China,Sun Qingmei,29,FALSE,FALSE
+1996-07-23,Denmark,China,China,Fan Yunjie,36,FALSE,FALSE
+1996-07-23,Denmark,China,China,Liu Ailing,49,FALSE,FALSE
+1996-07-23,Denmark,China,Denmark,Lene Madsen,55,FALSE,FALSE
+1996-07-23,Denmark,China,China,Sun Qingmei,59,FALSE,FALSE
 1996-07-23,Norway,Germany,Norway,Ann Kristin Aarønes,5,FALSE,FALSE
 1996-07-23,Norway,Germany,Germany,Bettina Wiegmann,32,FALSE,FALSE
 1996-07-23,Norway,Germany,Norway,Linda Medalen,34,FALSE,FALSE
@@ -320,19 +320,19 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1996-07-25,Norway,Japan,Norway,Linda Medalen,60,FALSE,FALSE
 1996-07-25,Norway,Japan,Norway,Trine Tangeraas,74,FALSE,FALSE
 1996-07-25,Norway,Japan,Norway,Marianne Pettersen,86,FALSE,FALSE
-1996-07-28,China PR,Brazil,China PR,Sun Qingmei,5,FALSE,FALSE
-1996-07-28,China PR,Brazil,Brazil,Roseli,67,FALSE,FALSE
-1996-07-28,China PR,Brazil,Brazil,Pretinha,72,FALSE,FALSE
-1996-07-28,China PR,Brazil,China PR,Wei Haiying,83,FALSE,FALSE
-1996-07-28,China PR,Brazil,China PR,Wei Haiying,90,FALSE,FALSE
+1996-07-28,China,Brazil,China,Sun Qingmei,5,FALSE,FALSE
+1996-07-28,China,Brazil,Brazil,Roseli,67,FALSE,FALSE
+1996-07-28,China,Brazil,Brazil,Pretinha,72,FALSE,FALSE
+1996-07-28,China,Brazil,China,Wei Haiying,83,FALSE,FALSE
+1996-07-28,China,Brazil,China,Wei Haiying,90,FALSE,FALSE
 1996-07-28,United States,Norway,Norway,Linda Medalen,18,FALSE,FALSE
 1996-07-28,United States,Norway,United States,Michelle Akers,76,FALSE,FALSE
 1996-07-28,United States,Norway,United States,Shannon MacMillan,100,FALSE,FALSE
 1996-08-01,Brazil,Norway,Norway,Ann Kristin Aarønes,21,FALSE,FALSE
 1996-08-01,Brazil,Norway,Norway,Ann Kristin Aarønes,25,FALSE,FALSE
-1996-08-01,United States,China PR,United States,Shannon MacMillan,19,FALSE,FALSE
-1996-08-01,United States,China PR,China PR,Sun Wen,32,FALSE,FALSE
-1996-08-01,United States,China PR,United States,Tiffeny Milbrett,68,FALSE,FALSE
+1996-08-01,United States,China,United States,Shannon MacMillan,19,FALSE,FALSE
+1996-08-01,United States,China,China,Sun Wen,32,FALSE,FALSE
+1996-08-01,United States,China,United States,Tiffeny Milbrett,68,FALSE,FALSE
 1997-06-29,France,Spain,Spain,Isabel Parejo,14,FALSE,FALSE
 1997-06-29,France,Spain,France,Angélique Roujas,50,FALSE,FALSE
 1997-06-29,Sweden,Russia,Sweden,Hanna Ljungberg,10,FALSE,FALSE
@@ -376,9 +376,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1999-06-19,Brazil,Mexico,Brazil,Sissi,42,FALSE,FALSE
 1999-06-19,Brazil,Mexico,Brazil,Sissi,50,FALSE,FALSE
 1999-06-19,Brazil,Mexico,Brazil,Pretinha,90,FALSE,FALSE
-1999-06-19,China PR,Sweden,Sweden,Kristin Bengtsson,2,FALSE,FALSE
-1999-06-19,China PR,Sweden,China PR,Jin Yan,17,FALSE,FALSE
-1999-06-19,China PR,Sweden,China PR,Liu Ailing,69,FALSE,FALSE
+1999-06-19,China,Sweden,Sweden,Kristin Bengtsson,2,FALSE,FALSE
+1999-06-19,China,Sweden,China,Jin Yan,17,FALSE,FALSE
+1999-06-19,China,Sweden,China,Liu Ailing,69,FALSE,FALSE
 1999-06-19,Japan,Canada,Canada,Silvana Burtini,32,FALSE,FALSE
 1999-06-19,Japan,Canada,Japan,Nami Otake,64,FALSE,FALSE
 1999-06-19,United States,Denmark,United States,Mia Hamm,17,FALSE,FALSE
@@ -398,13 +398,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1999-06-23,Australia,Sweden,Sweden,Hanna Ljungberg,21,FALSE,FALSE
 1999-06-23,Australia,Sweden,Australia,Julie Murray,32,FALSE,FALSE
 1999-06-23,Australia,Sweden,Sweden,Hanna Ljungberg,69,FALSE,FALSE
-1999-06-23,China PR,Ghana,China PR,Sun Wen,9,FALSE,FALSE
-1999-06-23,China PR,Ghana,China PR,Jin Yan,16,FALSE,FALSE
-1999-06-23,China PR,Ghana,China PR,Sun Wen,21,FALSE,FALSE
-1999-06-23,China PR,Ghana,China PR,Sun Wen,54,FALSE,FALSE
-1999-06-23,China PR,Ghana,China PR,Zhang Ouying,82,FALSE,FALSE
-1999-06-23,China PR,Ghana,China PR,Zhang Ouying,90,FALSE,FALSE
-1999-06-23,China PR,Ghana,China PR,Zhao Lihong,90,FALSE,FALSE
+1999-06-23,China,Ghana,China,Sun Wen,9,FALSE,FALSE
+1999-06-23,China,Ghana,China,Jin Yan,16,FALSE,FALSE
+1999-06-23,China,Ghana,China,Sun Wen,21,FALSE,FALSE
+1999-06-23,China,Ghana,China,Sun Wen,54,FALSE,FALSE
+1999-06-23,China,Ghana,China,Zhang Ouying,82,FALSE,FALSE
+1999-06-23,China,Ghana,China,Zhang Ouying,90,FALSE,FALSE
+1999-06-23,China,Ghana,China,Zhao Lihong,90,FALSE,FALSE
 1999-06-23,Japan,Russia,Russia,Larisa Savina,29,FALSE,FALSE
 1999-06-23,Japan,Russia,Russia,Olga Letyushova,52,FALSE,FALSE
 1999-06-23,Japan,Russia,Russia,Natalia Karasseva,58,FALSE,FALSE
@@ -443,10 +443,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1999-06-26,Canada,Russia,Canada,Charmaine Hooper,76,FALSE,FALSE
 1999-06-26,Canada,Russia,Russia,Elena Fomina,86,FALSE,FALSE
 1999-06-26,Canada,Russia,Russia,Olga Karasseva,90,FALSE,FALSE
-1999-06-26,China PR,Australia,China PR,Sun Wen,39,FALSE,FALSE
-1999-06-26,China PR,Australia,China PR,Sun Wen,51,FALSE,FALSE
-1999-06-26,China PR,Australia,Australia,Cheryl Salisbury,66,FALSE,FALSE
-1999-06-26,China PR,Australia,China PR,Liu Ying,73,FALSE,FALSE
+1999-06-26,China,Australia,China,Sun Wen,39,FALSE,FALSE
+1999-06-26,China,Australia,China,Sun Wen,51,FALSE,FALSE
+1999-06-26,China,Australia,Australia,Cheryl Salisbury,66,FALSE,FALSE
+1999-06-26,China,Australia,China,Liu Ying,73,FALSE,FALSE
 1999-06-26,Ghana,Sweden,Sweden,Victoria Sandell Svensson,58,FALSE,FALSE
 1999-06-26,Ghana,Sweden,Sweden,Victoria Sandell Svensson,86,FALSE,FALSE
 1999-06-26,Norway,Japan,Norway,Hege Riise,8,FALSE,TRUE
@@ -466,8 +466,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1999-06-27,United States,North Korea,United States,Shannon MacMillan,56,FALSE,FALSE
 1999-06-27,United States,North Korea,United States,Tisha Venturini,68,FALSE,FALSE
 1999-06-27,United States,North Korea,United States,Tisha Venturini,76,FALSE,FALSE
-1999-06-30,China PR,Russia,China PR,Pu Wei,37,FALSE,FALSE
-1999-06-30,China PR,Russia,China PR,Jin Yan,56,FALSE,FALSE
+1999-06-30,China,Russia,China,Pu Wei,37,FALSE,FALSE
+1999-06-30,China,Russia,China,Jin Yan,56,FALSE,FALSE
 1999-06-30,Norway,Sweden,Norway,Ann Kristin Aarønes,51,FALSE,FALSE
 1999-06-30,Norway,Sweden,Norway,Marianne Pettersen,58,FALSE,FALSE
 1999-06-30,Norway,Sweden,Norway,Hege Riise,72,FALSE,TRUE
@@ -484,11 +484,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 1999-07-01,United States,Germany,Germany,Bettina Wiegmann,45,FALSE,FALSE
 1999-07-01,United States,Germany,United States,Brandi Chastain,49,FALSE,FALSE
 1999-07-01,United States,Germany,United States,Joy Fawcett,66,FALSE,FALSE
-1999-07-04,Norway,China PR,China PR,Sun Wen,3,FALSE,FALSE
-1999-07-04,Norway,China PR,China PR,Liu Ailing,14,FALSE,FALSE
-1999-07-04,Norway,China PR,China PR,Liu Ailing,51,FALSE,FALSE
-1999-07-04,Norway,China PR,China PR,Fan Yunjie,65,FALSE,FALSE
-1999-07-04,Norway,China PR,China PR,Sun Wen,72,FALSE,TRUE
+1999-07-04,Norway,China,China,Sun Wen,3,FALSE,FALSE
+1999-07-04,Norway,China,China,Liu Ailing,14,FALSE,FALSE
+1999-07-04,Norway,China,China,Liu Ailing,51,FALSE,FALSE
+1999-07-04,Norway,China,China,Fan Yunjie,65,FALSE,FALSE
+1999-07-04,Norway,China,China,Sun Wen,72,FALSE,TRUE
 1999-07-04,United States,Brazil,United States,Cindy Parlow Cone,5,FALSE,FALSE
 1999-07-04,United States,Brazil,United States,Michelle Akers,80,FALSE,TRUE
 2000-09-13,Australia,Germany,Germany,Inka Grings,39,FALSE,FALSE
@@ -496,10 +496,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-09-13,Australia,Germany,Germany,Renate Lingor,90,FALSE,FALSE
 2000-09-13,Sweden,Brazil,Brazil,Delma Gonçalves,21,FALSE,FALSE
 2000-09-13,Sweden,Brazil,Brazil,Kátia Cilene Teixeira da Silva,70,FALSE,FALSE
-2000-09-14,China PR,Nigeria,China PR,Zhao Lihong,12,FALSE,FALSE
-2000-09-14,China PR,Nigeria,China PR,Sun Wen,57,FALSE,FALSE
-2000-09-14,China PR,Nigeria,China PR,Sun Wen,83,FALSE,FALSE
-2000-09-14,China PR,Nigeria,Nigeria,Perpetua Nkwocha,85,FALSE,FALSE
+2000-09-14,China,Nigeria,China,Zhao Lihong,12,FALSE,FALSE
+2000-09-14,China,Nigeria,China,Sun Wen,57,FALSE,FALSE
+2000-09-14,China,Nigeria,China,Sun Wen,83,FALSE,FALSE
+2000-09-14,China,Nigeria,Nigeria,Perpetua Nkwocha,85,FALSE,FALSE
 2000-09-14,United States,Norway,United States,Tiffeny Milbrett,18,FALSE,FALSE
 2000-09-14,United States,Norway,United States,Mia Hamm,24,FALSE,FALSE
 2000-09-16,Australia,Sweden,Australia,Cheryl Salisbury,57,FALSE,FALSE
@@ -511,15 +511,15 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2000-09-17,Norway,Nigeria,Norway,Hege Riise,62,FALSE,TRUE
 2000-09-17,Norway,Nigeria,Nigeria,Mercy Akide,78,FALSE,FALSE
 2000-09-17,Norway,Nigeria,Norway,Marianne Pettersen,90,FALSE,FALSE
-2000-09-17,United States,China PR,United States,Julie Foudy,38,FALSE,FALSE
-2000-09-17,United States,China PR,China PR,Sun Wen,67,FALSE,FALSE
+2000-09-17,United States,China,United States,Julie Foudy,38,FALSE,FALSE
+2000-09-17,United States,China,China,Sun Wen,67,FALSE,FALSE
 2000-09-19,Australia,Brazil,Australia,Sunni Hughes,33,FALSE,FALSE
 2000-09-19,Australia,Brazil,Brazil,Raquel,56,FALSE,FALSE
 2000-09-19,Australia,Brazil,Brazil,Kátia Cilene Teixeira da Silva,64,FALSE,FALSE
 2000-09-19,Germany,Sweden,Germany,Ariane Hingst,88,FALSE,FALSE
-2000-09-20,Norway,China PR,Norway,Marianne Pettersen,55,FALSE,FALSE
-2000-09-20,Norway,China PR,China PR,Sun Wen,75,FALSE,TRUE
-2000-09-20,Norway,China PR,Norway,Margunn Haugenes,78,FALSE,FALSE
+2000-09-20,Norway,China,Norway,Marianne Pettersen,55,FALSE,FALSE
+2000-09-20,Norway,China,China,Sun Wen,75,FALSE,TRUE
+2000-09-20,Norway,China,Norway,Margunn Haugenes,78,FALSE,FALSE
 2000-09-20,United States,Nigeria,United States,Brandi Chastain,26,FALSE,FALSE
 2000-09-20,United States,Nigeria,United States,Kristine Lilly,35,FALSE,FALSE
 2000-09-20,United States,Nigeria,Nigeria,Mercy Akide,48,FALSE,FALSE
@@ -595,7 +595,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2003-09-21,Brazil,South Korea,Brazil,Marta,14,FALSE,TRUE
 2003-09-21,Brazil,South Korea,Brazil,Kátia Cilene Teixeira,55,FALSE,FALSE
 2003-09-21,Brazil,South Korea,Brazil,Kátia Cilene Teixeira,62,FALSE,FALSE
-2003-09-21,China PR,Ghana,China PR,Sun Wen,29,FALSE,FALSE
+2003-09-21,China,Ghana,China,Sun Wen,29,FALSE,FALSE
 2003-09-21,United States,Sweden,United States,Kristine Lilly,27,FALSE,FALSE
 2003-09-21,United States,Sweden,United States,Cindy Parlow Cone,36,FALSE,FALSE
 2003-09-21,United States,Sweden,Sweden,Victoria Sandell Svensson,58,FALSE,FALSE
@@ -612,8 +612,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2003-09-24,Norway,Brazil,Norway,Marianne Pettersen,45,FALSE,FALSE
 2003-09-24,Norway,Brazil,Brazil,Marta,59,FALSE,FALSE
 2003-09-24,Norway,Brazil,Brazil,Kátia Cilene Teixeira,68,FALSE,FALSE
-2003-09-25,China PR,Australia,Australia,Heather Garriock,28,FALSE,FALSE
-2003-09-25,China PR,Australia,China PR,Bai Jie,46,FALSE,FALSE
+2003-09-25,China,Australia,Australia,Heather Garriock,28,FALSE,FALSE
+2003-09-25,China,Australia,China,Bai Jie,46,FALSE,FALSE
 2003-09-25,Ghana,Russia,Russia,Marina Saenko,36,FALSE,FALSE
 2003-09-25,Ghana,Russia,Russia,Natalia Barbashina,54,FALSE,FALSE
 2003-09-25,Ghana,Russia,Russia,Olga Letyushova,80,FALSE,FALSE
@@ -644,7 +644,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2003-09-27,South Korea,Norway,South Korea,Kim Jin-hee,75,FALSE,FALSE
 2003-09-27,South Korea,Norway,Norway,Linda Ørmen,80,FALSE,FALSE
 2003-09-27,South Korea,Norway,Norway,Linda Ørmen,90,FALSE,FALSE
-2003-09-28,China PR,Russia,China PR,Bai Jie,16,FALSE,FALSE
+2003-09-28,China,Russia,China,Bai Jie,16,FALSE,FALSE
 2003-09-28,Ghana,Australia,Ghana,Alberta Sackey,34,FALSE,FALSE
 2003-09-28,Ghana,Australia,Ghana,Alberta Sackey,39,FALSE,FALSE
 2003-09-28,Ghana,Australia,Australia,Heather Garriock,61,FALSE,FALSE
@@ -658,7 +658,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2003-10-01,Brazil,Sweden,Brazil,Marta,44,FALSE,TRUE
 2003-10-01,Brazil,Sweden,Sweden,Malin Andersson,53,FALSE,FALSE
 2003-10-01,United States,Norway,United States,Abby Wambach,24,FALSE,FALSE
-2003-10-02,China PR,Canada,Canada,Charmaine Hooper,7,FALSE,FALSE
+2003-10-02,China,Canada,Canada,Charmaine Hooper,7,FALSE,FALSE
 2003-10-02,Germany,Russia,Germany,Martina Müller,25,FALSE,FALSE
 2003-10-02,Germany,Russia,Germany,Sandra Minnert,57,FALSE,FALSE
 2003-10-02,Germany,Russia,Germany,Pia Wunderlich,60,FALSE,FALSE
@@ -681,20 +681,20 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2003-10-12,Germany,Sweden,Germany,Maren Meinert,46,FALSE,FALSE
 2003-10-12,Germany,Sweden,Germany,Nia Künzer,98,FALSE,FALSE
 2004-08-11,Brazil,Australia,Brazil,Marta Vieira da Silva,36,FALSE,FALSE
-2004-08-11,Germany,China PR,Germany,Birgit Prinz,13,FALSE,FALSE
-2004-08-11,Germany,China PR,Germany,Birgit Prinz,21,FALSE,FALSE
-2004-08-11,Germany,China PR,Germany,Pia Wunderlich,65,FALSE,FALSE
-2004-08-11,Germany,China PR,Germany,Birgit Prinz,73,FALSE,FALSE
-2004-08-11,Germany,China PR,Germany,Renate Lingor,76,FALSE,TRUE
-2004-08-11,Germany,China PR,Germany,Conny Pohlers,82,FALSE,FALSE
-2004-08-11,Germany,China PR,Germany,Birgit Prinz,88,FALSE,FALSE
-2004-08-11,Germany,China PR,Germany,Martina Müller,90,FALSE,FALSE
+2004-08-11,Germany,China,Germany,Birgit Prinz,13,FALSE,FALSE
+2004-08-11,Germany,China,Germany,Birgit Prinz,21,FALSE,FALSE
+2004-08-11,Germany,China,Germany,Pia Wunderlich,65,FALSE,FALSE
+2004-08-11,Germany,China,Germany,Birgit Prinz,73,FALSE,FALSE
+2004-08-11,Germany,China,Germany,Renate Lingor,76,FALSE,TRUE
+2004-08-11,Germany,China,Germany,Conny Pohlers,82,FALSE,FALSE
+2004-08-11,Germany,China,Germany,Birgit Prinz,88,FALSE,FALSE
+2004-08-11,Germany,China,Germany,Martina Müller,90,FALSE,FALSE
 2004-08-11,Greece,United States,United States,Shannon Boxx,14,FALSE,FALSE
 2004-08-11,Greece,United States,United States,Abby Wambach,30,FALSE,FALSE
 2004-08-11,Greece,United States,United States,Mia Hamm,82,FALSE,FALSE
 2004-08-11,Sweden,Japan,Japan,Eriko Arakawa,24,FALSE,FALSE
-2004-08-14,China PR,Mexico,Mexico,Maribel Domínguez,11,FALSE,FALSE
-2004-08-14,China PR,Mexico,China PR,Ji Ting,34,FALSE,FALSE
+2004-08-14,China,Mexico,Mexico,Maribel Domínguez,11,FALSE,FALSE
+2004-08-14,China,Mexico,China,Ji Ting,34,FALSE,FALSE
 2004-08-14,Greece,Australia,Australia,Heather Garriock,27,FALSE,FALSE
 2004-08-14,Japan,Nigeria,Nigeria,Vera Okolo,55,FALSE,FALSE
 2004-08-14,United States,Brazil,United States,Mia Hamm,58,FALSE,TRUE
@@ -806,11 +806,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-09-11,United States,North Korea,North Korea,Kil Son-hui,58,FALSE,FALSE
 2007-09-11,United States,North Korea,North Korea,Kim Yong-ae,62,FALSE,FALSE
 2007-09-11,United States,North Korea,United States,Heather O'Reilly,69,FALSE,FALSE
-2007-09-12,China PR,Denmark,China PR,Li Jie,31,FALSE,FALSE
-2007-09-12,China PR,Denmark,China PR,Bi Yan,50,FALSE,FALSE
-2007-09-12,China PR,Denmark,Denmark,Anne Dot Eggers Nielsen,51,FALSE,FALSE
-2007-09-12,China PR,Denmark,Denmark,Cathrine Paaske Sørensen,87,FALSE,FALSE
-2007-09-12,China PR,Denmark,China PR,Song Xiaoli,88,FALSE,FALSE
+2007-09-12,China,Denmark,China,Li Jie,31,FALSE,FALSE
+2007-09-12,China,Denmark,China,Bi Yan,50,FALSE,FALSE
+2007-09-12,China,Denmark,Denmark,Anne Dot Eggers Nielsen,51,FALSE,FALSE
+2007-09-12,China,Denmark,Denmark,Cathrine Paaske Sørensen,87,FALSE,FALSE
+2007-09-12,China,Denmark,China,Song Xiaoli,88,FALSE,FALSE
 2007-09-12,Ghana,Australia,Australia,Sarah Walsh,15,FALSE,FALSE
 2007-09-12,Ghana,Australia,Australia,Lisa De Vanna,57,FALSE,FALSE
 2007-09-12,Ghana,Australia,Australia,Heather Garriock,69,FALSE,FALSE
@@ -835,10 +835,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-09-15,Canada,Ghana,Canada,Sophie Schmidt,55,FALSE,FALSE
 2007-09-15,Canada,Ghana,Canada,Christine Sinclair,62,FALSE,FALSE
 2007-09-15,Canada,Ghana,Canada,Martina Franko,77,FALSE,FALSE
-2007-09-15,China PR,Brazil,Brazil,Marta,42,FALSE,FALSE
-2007-09-15,China PR,Brazil,Brazil,Cristiane,47,FALSE,FALSE
-2007-09-15,China PR,Brazil,Brazil,Cristiane,48,FALSE,FALSE
-2007-09-15,China PR,Brazil,Brazil,Marta,70,FALSE,FALSE
+2007-09-15,China,Brazil,Brazil,Marta,42,FALSE,FALSE
+2007-09-15,China,Brazil,Brazil,Cristiane,47,FALSE,FALSE
+2007-09-15,China,Brazil,Brazil,Cristiane,48,FALSE,FALSE
+2007-09-15,China,Brazil,Brazil,Marta,70,FALSE,FALSE
 2007-09-15,Denmark,New Zealand,Denmark,Katrine Pedersen,61,FALSE,FALSE
 2007-09-15,Denmark,New Zealand,Denmark,Cathrine Paaske Sørensen,66,FALSE,FALSE
 2007-09-17,England,Argentina,England,Eva González,9,TRUE,FALSE
@@ -859,8 +859,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-09-20,Australia,Canada,Canada,Christine Sinclair,85,FALSE,FALSE
 2007-09-20,Australia,Canada,Australia,Cheryl Salisbury,90,FALSE,FALSE
 2007-09-20,Brazil,Denmark,Brazil,Pretinha,90,FALSE,FALSE
-2007-09-20,China PR,New Zealand,China PR,Li Jie,57,FALSE,FALSE
-2007-09-20,China PR,New Zealand,China PR,Xie Caixia,79,FALSE,FALSE
+2007-09-20,China,New Zealand,China,Li Jie,57,FALSE,FALSE
+2007-09-20,China,New Zealand,China,Xie Caixia,79,FALSE,FALSE
 2007-09-20,Norway,Ghana,Norway,Lene Storløkken,4,FALSE,FALSE
 2007-09-20,Norway,Ghana,Norway,Ragnhild Gulbrandsen,39,FALSE,FALSE
 2007-09-20,Norway,Ghana,Norway,Ane Stangeland Horpestad,45,FALSE,TRUE
@@ -881,7 +881,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2007-09-23,Brazil,Australia,Australia,Lisa De Vanna,36,FALSE,FALSE
 2007-09-23,Brazil,Australia,Australia,Lauren Colthorpe,68,FALSE,FALSE
 2007-09-23,Brazil,Australia,Brazil,Cristiane,75,FALSE,FALSE
-2007-09-23,China PR,Norway,Norway,Isabell Herlovsen,32,FALSE,FALSE
+2007-09-23,China,Norway,Norway,Isabell Herlovsen,32,FALSE,FALSE
 2007-09-26,Germany,Norway,Germany,Trine Rønning,42,TRUE,FALSE
 2007-09-26,Germany,Norway,Germany,Kerstin Stegemann,72,FALSE,FALSE
 2007-09-26,Germany,Norway,Germany,Martina Müller,75,FALSE,FALSE
@@ -899,9 +899,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-08-06,Argentina,Canada,Canada,Candace Chapman,27,FALSE,FALSE
 2008-08-06,Argentina,Canada,Canada,Kara Lang,72,FALSE,FALSE
 2008-08-06,Argentina,Canada,Argentina,Ludmila Manicler,85,FALSE,FALSE
-2008-08-06,China PR,Sweden,China PR,Xu Yuan,6,FALSE,FALSE
-2008-08-06,China PR,Sweden,Sweden,Lotta Schelin,38,FALSE,FALSE
-2008-08-06,China PR,Sweden,China PR,Han Duan,72,FALSE,FALSE
+2008-08-06,China,Sweden,China,Xu Yuan,6,FALSE,FALSE
+2008-08-06,China,Sweden,Sweden,Lotta Schelin,38,FALSE,FALSE
+2008-08-06,China,Sweden,China,Han Duan,72,FALSE,FALSE
 2008-08-06,Japan,New Zealand,New Zealand,Kirsty Yallop,37,FALSE,FALSE
 2008-08-06,Japan,New Zealand,New Zealand,Amber Hearn,56,FALSE,TRUE
 2008-08-06,Japan,New Zealand,Japan,Aya Miyama,72,FALSE,TRUE
@@ -912,14 +912,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-08-09,Brazil,North Korea,Brazil,Daniela,14,FALSE,FALSE
 2008-08-09,Brazil,North Korea,Brazil,Marta Vieira da Silva,23,FALSE,FALSE
 2008-08-09,Brazil,North Korea,North Korea,Ri Kum-suk,90,FALSE,FALSE
-2008-08-09,China PR,Canada,Canada,Christine Sinclair,34,FALSE,FALSE
-2008-08-09,China PR,Canada,China PR,Xu Yuan,36,FALSE,FALSE
+2008-08-09,China,Canada,Canada,Christine Sinclair,34,FALSE,FALSE
+2008-08-09,China,Canada,China,Xu Yuan,36,FALSE,FALSE
 2008-08-09,New Zealand,Norway,Norway,Melissa Wiik,8,FALSE,FALSE
 2008-08-09,Nigeria,Germany,Germany,Kerstin Stegemann,65,FALSE,FALSE
 2008-08-09,Sweden,Argentina,Sweden,Nilla Fischer,57,FALSE,FALSE
 2008-08-09,United States,Japan,United States,Carli Lloyd,27,FALSE,FALSE
-2008-08-12,China PR,Argentina,China PR,Florencia Quiñones,52,TRUE,FALSE
-2008-08-12,China PR,Argentina,China PR,Gu Yasha,90,FALSE,FALSE
+2008-08-12,China,Argentina,China,Florencia Quiñones,52,TRUE,FALSE
+2008-08-12,China,Argentina,China,Gu Yasha,90,FALSE,FALSE
 2008-08-12,Nigeria,Brazil,Nigeria,Perpetua Nkwocha,19,FALSE,TRUE
 2008-08-12,Nigeria,Brazil,Brazil,Cristiane Rozeira de Souza Silva,34,FALSE,FALSE
 2008-08-12,Nigeria,Brazil,Brazil,Cristiane Rozeira de Souza Silva,35,FALSE,FALSE
@@ -941,8 +941,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2008-08-15,Brazil,Norway,Brazil,Daniela,43,FALSE,FALSE
 2008-08-15,Brazil,Norway,Brazil,Marta Vieira da Silva,57,FALSE,FALSE
 2008-08-15,Brazil,Norway,Norway,Siri Nordby,83,FALSE,TRUE
-2008-08-15,China PR,Japan,Japan,Homare Sawa,15,FALSE,FALSE
-2008-08-15,China PR,Japan,Japan,Yuki Nagasato,80,FALSE,FALSE
+2008-08-15,China,Japan,Japan,Homare Sawa,15,FALSE,FALSE
+2008-08-15,China,Japan,Japan,Yuki Nagasato,80,FALSE,FALSE
 2008-08-15,Sweden,Germany,Germany,Kerstin Garefrekes,104,FALSE,FALSE
 2008-08-15,Sweden,Germany,Germany,Simone Laudehr,115,FALSE,FALSE
 2008-08-15,United States,Canada,United States,Angela Hucles,12,FALSE,FALSE
@@ -1250,7 +1250,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2013-07-25,Norway,Denmark,Norway,Marit Fiane Christensen,3,FALSE,FALSE
 2013-07-25,Norway,Denmark,Denmark,Mariann Gajhede Knudsen,87,FALSE,FALSE
 2013-07-28,Germany,Norway,Germany,Anja Mittag,49,FALSE,FALSE
-2015-06-06,Canada,China PR,Canada,Christine Sinclair,90,FALSE,TRUE
+2015-06-06,Canada,China,Canada,Christine Sinclair,90,FALSE,TRUE
 2015-06-06,New Zealand,Netherlands,Netherlands,Lieke Martens,33,FALSE,FALSE
 2015-06-07,Germany,Ivory Coast,Germany,Célia Šašić,3,FALSE,FALSE
 2015-06-07,Germany,Ivory Coast,Germany,Célia Šašić,14,FALSE,FALSE
@@ -1290,7 +1290,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-06-09,France,England,France,Eugénie Le Sommer,29,FALSE,FALSE
 2015-06-09,Spain,Costa Rica,Spain,Vicky Losada,13,FALSE,FALSE
 2015-06-09,Spain,Costa Rica,Costa Rica,Raquel Rodríguez,14,FALSE,FALSE
-2015-06-11,China PR,Netherlands,China PR,Wang Lisi,90,FALSE,FALSE
+2015-06-11,China,Netherlands,China,Wang Lisi,90,FALSE,FALSE
 2015-06-11,Germany,Norway,Germany,Anja Mittag,6,FALSE,FALSE
 2015-06-11,Germany,Norway,Norway,Maren Mjelde,61,FALSE,FALSE
 2015-06-11,Ivory Coast,Thailand,Ivory Coast,Ange N'Guessan,4,FALSE,FALSE
@@ -1326,10 +1326,10 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-06-13,South Korea,Costa Rica,Costa Rica,Karla Villalobos,89,FALSE,FALSE
 2015-06-15,Canada,Netherlands,Canada,Ashley Lawrence,10,FALSE,FALSE
 2015-06-15,Canada,Netherlands,Netherlands,Kirsten van de Ven,87,FALSE,FALSE
-2015-06-15,China PR,New Zealand,New Zealand,Rebekah Stott,28,FALSE,FALSE
-2015-06-15,China PR,New Zealand,China PR,Wang Lisi,41,FALSE,TRUE
-2015-06-15,China PR,New Zealand,China PR,Wang Shanshan,60,FALSE,FALSE
-2015-06-15,China PR,New Zealand,New Zealand,Hannah Wilkinson,64,FALSE,FALSE
+2015-06-15,China,New Zealand,New Zealand,Rebekah Stott,28,FALSE,FALSE
+2015-06-15,China,New Zealand,China,Wang Lisi,41,FALSE,TRUE
+2015-06-15,China,New Zealand,China,Wang Shanshan,60,FALSE,FALSE
+2015-06-15,China,New Zealand,New Zealand,Hannah Wilkinson,64,FALSE,FALSE
 2015-06-15,Ivory Coast,Norway,Norway,Ada Hegerberg,6,FALSE,FALSE
 2015-06-15,Ivory Coast,Norway,Norway,Ada Hegerberg,62,FALSE,FALSE
 2015-06-15,Ivory Coast,Norway,Norway,Solveig Gulbrandsen,67,FALSE,FALSE
@@ -1357,7 +1357,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-06-17,South Korea,Spain,Spain,Verónica Boquete,29,FALSE,FALSE
 2015-06-17,South Korea,Spain,South Korea,Cho So-hyun,53,FALSE,FALSE
 2015-06-17,South Korea,Spain,South Korea,Kim Soo-yun,78,FALSE,FALSE
-2015-06-20,China PR,Cameroon,China PR,Wang Shanshan,12,FALSE,FALSE
+2015-06-20,China,Cameroon,China,Wang Shanshan,12,FALSE,FALSE
 2015-06-20,Germany,Sweden,Germany,Anja Mittag,24,FALSE,FALSE
 2015-06-20,Germany,Sweden,Germany,Célia Šašić,36,FALSE,TRUE
 2015-06-20,Germany,Sweden,Germany,Célia Šašić,78,FALSE,FALSE
@@ -1376,7 +1376,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-06-23,Japan,Netherlands,Japan,Saori Ariyoshi,10,FALSE,FALSE
 2015-06-23,Japan,Netherlands,Japan,Mizuho Sakaguchi,78,FALSE,FALSE
 2015-06-23,Japan,Netherlands,Netherlands,Kirsten van de Ven,90,FALSE,FALSE
-2015-06-26,China PR,United States,United States,Carli Lloyd,51,FALSE,FALSE
+2015-06-26,China,United States,United States,Carli Lloyd,51,FALSE,FALSE
 2015-06-26,Germany,France,France,Louisa Cadamuro,64,FALSE,FALSE
 2015-06-26,Germany,France,Germany,Célia Šašić,84,FALSE,TRUE
 2015-06-27,Australia,Japan,Japan,Mana Iwabuchi,87,FALSE,FALSE
@@ -1396,9 +1396,9 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2015-07-05,United States,Japan,Japan,Yūki Nagasato,27,FALSE,FALSE
 2015-07-05,United States,Japan,Japan,Julie Ertz,52,TRUE,FALSE
 2015-07-05,United States,Japan,United States,Tobin Heath,54,FALSE,FALSE
-2016-08-03,Brazil,China PR,Brazil,Mônica,36,FALSE,FALSE
-2016-08-03,Brazil,China PR,Brazil,Andressa Alves,59,FALSE,FALSE
-2016-08-03,Brazil,China PR,Brazil,Cristiane Rozeira,90,FALSE,FALSE
+2016-08-03,Brazil,China,Brazil,Mônica,36,FALSE,FALSE
+2016-08-03,Brazil,China,Brazil,Andressa Alves,59,FALSE,FALSE
+2016-08-03,Brazil,China,Brazil,Cristiane Rozeira,90,FALSE,FALSE
 2016-08-03,Canada,Australia,Canada,Janine Beckie,1,FALSE,FALSE
 2016-08-03,Canada,Australia,Canada,Christine Sinclair,80,FALSE,FALSE
 2016-08-03,France,Colombia,France,Carolina Arias,2,TRUE,FALSE
@@ -1430,8 +1430,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-08-06,Germany,Australia,Germany,Sara Däbritz,45,FALSE,FALSE
 2016-08-06,Germany,Australia,Australia,Caitlin Foord,45,FALSE,FALSE
 2016-08-06,Germany,Australia,Germany,Saskia Bartusiak,88,FALSE,FALSE
-2016-08-06,South Africa,China PR,China PR,Gu Yasha,45,FALSE,FALSE
-2016-08-06,South Africa,China PR,China PR,Tan Ruyin,87,FALSE,FALSE
+2016-08-06,South Africa,China,China,Gu Yasha,45,FALSE,FALSE
+2016-08-06,South Africa,China,China,Tan Ruyin,87,FALSE,FALSE
 2016-08-06,United States,France,United States,Carli Lloyd,64,FALSE,FALSE
 2016-08-09,Australia,Zimbabwe,Australia,Lisa De Vanna,2,FALSE,FALSE
 2016-08-09,Australia,Zimbabwe,Australia,Clare Polkinghorne,15,FALSE,FALSE
@@ -1451,7 +1451,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2016-08-09,New Zealand,France,France,Louisa Cadamuro,63,FALSE,FALSE
 2016-08-09,New Zealand,France,France,Louisa Cadamuro,90,FALSE,TRUE
 2016-08-12,Canada,France,Canada,Sophie Schmidt,56,FALSE,FALSE
-2016-08-12,China PR,Germany,Germany,Melanie Behringer,76,FALSE,FALSE
+2016-08-12,China,Germany,Germany,Melanie Behringer,76,FALSE,FALSE
 2016-08-12,United States,Sweden,Sweden,Stina Blackstenius,61,FALSE,FALSE
 2016-08-12,United States,Sweden,United States,Alex Morgan,77,FALSE,FALSE
 2016-08-16,Canada,Germany,Germany,Melanie Behringer,21,FALSE,TRUE
@@ -1534,7 +1534,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-06-07,France,South Korea,France,Wendie Renard,35,FALSE,FALSE
 2019-06-07,France,South Korea,France,Wendie Renard,45,FALSE,FALSE
 2019-06-07,France,South Korea,France,Amandine Henry,85,FALSE,FALSE
-2019-06-08,Germany,China PR,Germany,Giulia Gwinn,66,FALSE,FALSE
+2019-06-08,Germany,China,Germany,Giulia Gwinn,66,FALSE,FALSE
 2019-06-08,Norway,Nigeria,Norway,Guro Reiten,17,FALSE,FALSE
 2019-06-08,Norway,Nigeria,Norway,Lisa-Marie Karlseng Utland,34,FALSE,FALSE
 2019-06-08,Norway,Nigeria,Norway,Osinachi Ohale,37,TRUE,FALSE
@@ -1579,7 +1579,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-06-13,Australia,Brazil,Australia,Caitlin Foord,45,FALSE,FALSE
 2019-06-13,Australia,Brazil,Australia,Chloe Logarzo,58,FALSE,FALSE
 2019-06-13,Australia,Brazil,Australia,Mônica,66,TRUE,FALSE
-2019-06-13,South Africa,China PR,China PR,Li Ying,40,FALSE,FALSE
+2019-06-13,South Africa,China,China,Li Ying,40,FALSE,FALSE
 2019-06-14,England,Argentina,England,Jodie Taylor,62,FALSE,FALSE
 2019-06-14,Jamaica,Italy,Italy,Cristiana Girelli,12,FALSE,TRUE
 2019-06-14,Jamaica,Italy,Italy,Cristiana Girelli,25,FALSE,FALSE
@@ -1651,8 +1651,8 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2019-06-24,Spain,United States,Spain,Jennifer Hermoso,9,FALSE,FALSE
 2019-06-24,Spain,United States,United States,Megan Rapinoe,75,FALSE,TRUE
 2019-06-24,Sweden,Canada,Sweden,Stina Blackstenius,55,FALSE,FALSE
-2019-06-25,Italy,China PR,Italy,Valentina Giacinti,15,FALSE,FALSE
-2019-06-25,Italy,China PR,Italy,Aurora Galli,49,FALSE,FALSE
+2019-06-25,Italy,China,Italy,Valentina Giacinti,15,FALSE,FALSE
+2019-06-25,Italy,China,Italy,Aurora Galli,49,FALSE,FALSE
 2019-06-25,Netherlands,Japan,Netherlands,Lieke Martens,17,FALSE,FALSE
 2019-06-25,Netherlands,Japan,Japan,Yui Hasegawa,43,FALSE,FALSE
 2019-06-25,Netherlands,Japan,Netherlands,Lieke Martens,90,FALSE,TRUE
@@ -1679,11 +1679,11 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-07-21,Australia,New Zealand,Australia,Tameka Yallop,20,FALSE,FALSE
 2021-07-21,Australia,New Zealand,Australia,Sam Kerr,33,FALSE,FALSE
 2021-07-21,Australia,New Zealand,New Zealand,Gabi Rennie,90,FALSE,FALSE
-2021-07-21,China PR,Brazil,Brazil,Marta,9,FALSE,FALSE
-2021-07-21,China PR,Brazil,Brazil,Debinha,22,FALSE,FALSE
-2021-07-21,China PR,Brazil,Brazil,Marta,74,FALSE,FALSE
-2021-07-21,China PR,Brazil,Brazil,Andressa Alves,82,FALSE,TRUE
-2021-07-21,China PR,Brazil,Brazil,Bia Zaneratto,89,FALSE,FALSE
+2021-07-21,China,Brazil,Brazil,Marta,9,FALSE,FALSE
+2021-07-21,China,Brazil,Brazil,Debinha,22,FALSE,FALSE
+2021-07-21,China,Brazil,Brazil,Marta,74,FALSE,FALSE
+2021-07-21,China,Brazil,Brazil,Andressa Alves,82,FALSE,TRUE
+2021-07-21,China,Brazil,Brazil,Bia Zaneratto,89,FALSE,FALSE
 2021-07-21,Great Britain,Chile,Great Britain,Ellen White,18,FALSE,FALSE
 2021-07-21,Great Britain,Chile,Great Britain,Ellen White,73,FALSE,FALSE
 2021-07-21,Japan,Canada,Canada,Christine Sinclair,6,FALSE,FALSE
@@ -1707,14 +1707,14 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-07-24,Chile,Canada,Canada,Janine Beckie,39,FALSE,FALSE
 2021-07-24,Chile,Canada,Canada,Janine Beckie,47,FALSE,FALSE
 2021-07-24,Chile,Canada,Chile,Karen Araya,57,FALSE,TRUE
-2021-07-24,China PR,Zambia,China PR,Wang Shuang,6,FALSE,FALSE
-2021-07-24,China PR,Zambia,Zambia,Racheal Kundananji,15,FALSE,FALSE
-2021-07-24,China PR,Zambia,China PR,Wang Shuang,22,FALSE,FALSE
-2021-07-24,China PR,Zambia,China PR,Wang Shuang,23,FALSE,FALSE
-2021-07-24,China PR,Zambia,Zambia,Barbra Banda,43,FALSE,TRUE
-2021-07-24,China PR,Zambia,Zambia,Barbra Banda,46,FALSE,FALSE
-2021-07-24,China PR,Zambia,Zambia,Barbra Banda,69,FALSE,FALSE
-2021-07-24,China PR,Zambia,China PR,Wang Shuang,84,FALSE,TRUE
+2021-07-24,China,Zambia,China,Wang Shuang,6,FALSE,FALSE
+2021-07-24,China,Zambia,Zambia,Racheal Kundananji,15,FALSE,FALSE
+2021-07-24,China,Zambia,China,Wang Shuang,22,FALSE,FALSE
+2021-07-24,China,Zambia,China,Wang Shuang,23,FALSE,FALSE
+2021-07-24,China,Zambia,Zambia,Barbra Banda,43,FALSE,TRUE
+2021-07-24,China,Zambia,Zambia,Barbra Banda,46,FALSE,FALSE
+2021-07-24,China,Zambia,Zambia,Barbra Banda,69,FALSE,FALSE
+2021-07-24,China,Zambia,China,Wang Shuang,84,FALSE,TRUE
 2021-07-24,Japan,Great Britain,Great Britain,Ellen White,74,FALSE,FALSE
 2021-07-24,Netherlands,Brazil,Netherlands,Vivianne Miedema,3,FALSE,FALSE
 2021-07-24,Netherlands,Brazil,Brazil,Debinha,16,FALSE,FALSE
@@ -1739,16 +1739,16 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2021-07-27,Canada,Great Britain,Canada,Adriana Leon,55,FALSE,FALSE
 2021-07-27,Canada,Great Britain,Great Britain,Nichelle Prince,85,TRUE,FALSE
 2021-07-27,Japan,Chile,Japan,Mina Tanaka,77,FALSE,FALSE
-2021-07-27,Netherlands,China PR,Netherlands,Shanice van de Sanden,12,FALSE,FALSE
-2021-07-27,Netherlands,China PR,China PR,Wang Shanshan,28,FALSE,FALSE
-2021-07-27,Netherlands,China PR,Netherlands,Lineth Beerensteyn,37,FALSE,FALSE
-2021-07-27,Netherlands,China PR,Netherlands,Lineth Beerensteyn,45,FALSE,FALSE
-2021-07-27,Netherlands,China PR,Netherlands,Lieke Martens,47,FALSE,FALSE
-2021-07-27,Netherlands,China PR,Netherlands,Vivianne Miedema,65,FALSE,FALSE
-2021-07-27,Netherlands,China PR,China PR,Wang Yanwen,69,FALSE,FALSE
-2021-07-27,Netherlands,China PR,Netherlands,Lieke Martens,70,FALSE,FALSE
-2021-07-27,Netherlands,China PR,Netherlands,Victoria Pelova,71,FALSE,FALSE
-2021-07-27,Netherlands,China PR,Netherlands,Vivianne Miedema,76,FALSE,FALSE
+2021-07-27,Netherlands,China,Netherlands,Shanice van de Sanden,12,FALSE,FALSE
+2021-07-27,Netherlands,China,China,Wang Shanshan,28,FALSE,FALSE
+2021-07-27,Netherlands,China,Netherlands,Lineth Beerensteyn,37,FALSE,FALSE
+2021-07-27,Netherlands,China,Netherlands,Lineth Beerensteyn,45,FALSE,FALSE
+2021-07-27,Netherlands,China,Netherlands,Lieke Martens,47,FALSE,FALSE
+2021-07-27,Netherlands,China,Netherlands,Vivianne Miedema,65,FALSE,FALSE
+2021-07-27,Netherlands,China,China,Wang Yanwen,69,FALSE,FALSE
+2021-07-27,Netherlands,China,Netherlands,Lieke Martens,70,FALSE,FALSE
+2021-07-27,Netherlands,China,Netherlands,Victoria Pelova,71,FALSE,FALSE
+2021-07-27,Netherlands,China,Netherlands,Vivianne Miedema,76,FALSE,FALSE
 2021-07-27,New Zealand,Sweden,Sweden,Anna Anvegård,17,FALSE,FALSE
 2021-07-27,New Zealand,Sweden,Sweden,Madelen Janogy,29,FALSE,FALSE
 2021-07-30,Great Britain,Australia,Australia,Alanna Kennedy,35,FALSE,FALSE
@@ -1879,7 +1879,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-07-21,Spain,Costa Rica,Spain,Valeria del Campo,21,TRUE,FALSE
 2023-07-21,Spain,Costa Rica,Spain,Aitana Bonmatí,23,FALSE,FALSE
 2023-07-21,Spain,Costa Rica,Spain,Esther González,27,FALSE,FALSE
-2023-07-22,Denmark,China PR,Denmark,Amalie Vangsgaard,90,FALSE,FALSE
+2023-07-22,Denmark,China,Denmark,Amalie Vangsgaard,90,FALSE,FALSE
 2023-07-22,England,Haiti,England,Georgia Stanway,29,FALSE,TRUE
 2023-07-22,United States,Vietnam,United States,Sophia Smith,14,FALSE,FALSE
 2023-07-22,United States,Vietnam,United States,Sophia Smith,45,FALSE,FALSE
@@ -1930,7 +1930,7 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-07-28,Argentina,South Africa,South Africa,Thembi Kgatlana,66,FALSE,FALSE
 2023-07-28,Argentina,South Africa,Argentina,Sophia Braun,74,FALSE,FALSE
 2023-07-28,Argentina,South Africa,Argentina,Romina Núñez,79,FALSE,FALSE
-2023-07-28,China PR,Haiti,China PR,Wang Shuang,74,FALSE,TRUE
+2023-07-28,China,Haiti,China,Wang Shuang,74,FALSE,TRUE
 2023-07-28,England,Denmark,England,Lauren James,6,FALSE,FALSE
 2023-07-29,France,Brazil,France,Eugénie Le Sommer,17,FALSE,FALSE
 2023-07-29,France,Brazil,Brazil,Debinha,58,FALSE,FALSE
@@ -1963,13 +1963,13 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2023-07-31,Japan,Spain,Japan,Riko Ueki,29,FALSE,FALSE
 2023-07-31,Japan,Spain,Japan,Hinata Miyazawa,40,FALSE,FALSE
 2023-07-31,Japan,Spain,Japan,Mina Tanaka,82,FALSE,FALSE
-2023-08-01,China PR,England,England,Alessia Russo,4,FALSE,FALSE
-2023-08-01,China PR,England,England,Lauren Hemp,26,FALSE,FALSE
-2023-08-01,China PR,England,England,Lauren James,41,FALSE,FALSE
-2023-08-01,China PR,England,China PR,Wang Shuang,57,FALSE,TRUE
-2023-08-01,China PR,England,England,Lauren James,65,FALSE,FALSE
-2023-08-01,China PR,England,England,Chloe Kelly,77,FALSE,FALSE
-2023-08-01,China PR,England,England,Rachel Daly,84,FALSE,FALSE
+2023-08-01,China,England,England,Alessia Russo,4,FALSE,FALSE
+2023-08-01,China,England,England,Lauren Hemp,26,FALSE,FALSE
+2023-08-01,China,England,England,Lauren James,41,FALSE,FALSE
+2023-08-01,China,England,China,Wang Shuang,57,FALSE,TRUE
+2023-08-01,China,England,England,Lauren James,65,FALSE,FALSE
+2023-08-01,China,England,England,Chloe Kelly,77,FALSE,FALSE
+2023-08-01,China,England,England,Rachel Daly,84,FALSE,FALSE
 2023-08-01,Haiti,Denmark,Denmark,Pernille Harder,21,FALSE,TRUE
 2023-08-01,Haiti,Denmark,Denmark,Sanne Troelsgaard Nielsen,90,FALSE,FALSE
 2023-08-01,Vietnam,Netherlands,Netherlands,Lieke Martens,8,FALSE,FALSE
